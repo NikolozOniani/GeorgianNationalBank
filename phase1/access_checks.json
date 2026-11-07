@@ -1,0 +1,213 @@
+[
+  {
+    "id": "hies2025",
+    "url": "https://www.geostat.ge/media/79814/2025.zip",
+    "error": "IncompleteRead(6851561 bytes read, 8915033 more expected)"
+  },
+  {
+    "id": "cpi_detail",
+    "url": "https://www.geostat.ge/media/83821/Consumer-Price-Detail-Indices-(Previous-month=100).xlsx",
+    "status": 200,
+    "bytes": 588078,
+    "sha256": "edff626e97cfdd61fbcfc812a03cd7c9720f40996107f2fa6bce330d42b8a239",
+    "retrieved": "2026-11-07",
+    "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "sheets": {
+      "2011": [
+        316,
+        15
+      ],
+      "2012": [
+        316,
+        15
+      ],
+      "2013": [
+        316,
+        15
+      ],
+      "2014": [
+        316,
+        15
+      ],
+      "2015": [
+        316,
+        15
+      ],
+      "2016": [
+        316,
+        15
+      ],
+      "2017": [
+        316,
+        15
+      ],
+      "2018": [
+        316,
+        16
+      ],
+      "2019": [
+        316,
+        15
+      ],
+      "2020": [
+        310,
+        15
+      ],
+      "2021": [
+        310,
+        15
+      ],
+      "2022": [
+        310,
+        15
+      ],
+      "2023": [
+        310,
+        15
+      ],
+      "2024": [
+        310,
+        15
+      ],
+      "2025": [
+        310,
+        15
+      ],
+      "2026": [
+        310,
+        13
+      ]
+    },
+    "sample_rows": [
+      [
+        "CONSUMER PRICE DETAIL INDICES IN GEORGIA\nPrevious month=100",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "N",
+        "COICOP Code",
+        "Items",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+      ],
+      [
+        1,
+        1,
+        "Rice",
+        104.9881,
+        96.4475,
+        98.0895,
+        105.5598,
+        100.295,
+        96.9011,
+        101.3857,
+        99.2722,
+        93.8214,
+        97.8396
+      ],
+      [
+        2,
+        1,
+        "Buckwheat",
+        102.384,
+        96.7154,
+        98.031,
+        98.2553,
+        100.7999,
+        101.7359,
+        100.7931,
+        100.5492,
+        103.6438,
+        105.8242
+      ],
+      [
+        3,
+        1,
+        "Manna-croup",
+        99.5449,
+        94.8217,
+        101.1758,
+        102.7913,
+        96.5045,
+        101.2509,
+        100.8678,
+        102.5851,
+        96.3732,
+        100.5129
+      ],
+      [
+        4,
+        1,
+        "Wheat bread",
+        100.4208,
+        99.5814,
+        101.6293,
+        100.1816,
+        100.5056,
+        100.1056,
+        100.6641,
+        100.0619,
+        99.8683,
+        99.8113
+      ],
+      [
+        5,
+        1,
+        "Macaroni products",
+        97.5297,
+        99.9825,
+        101.5197,
+        101.9668,
+        96.5383,
+        100.4549,
+        99.7709,
+        97.2505,
+        102.6363,
+        98.0203
+      ]
+    ]
+  },
+  {
+    "id": "nbg_statistics",
+    "url": "https://nbg.gov.ge/en/statistics/statistics-data",
+    "status": 200,
+    "bytes": 340039,
+    "sha256": "41dd4fe45e00a9696a689e04210375d6ae14953e7665b10c7a0f8cbffde821ef",
+    "retrieved": "2026-11-07",
+    "mime": "text/html; charset=utf-8"
+  }
+]
