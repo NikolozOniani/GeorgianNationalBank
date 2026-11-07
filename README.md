@@ -1,5 +1,5 @@
 # Georgia monetary policy and household welfare: Phase 1
 
-Read Phase1_Research_Assessment.md for the eight deliverables, decisions, bibliography and Phase 2 handoff. references.bib contains portable citation records; full author and review metadata appear in the report. access_checks.json is an access audit, not a validated dataset. audit_log.md records limitations and failed attempts.
+The Phase 1 assessment, eight requested components, literature review, go/no-go decisions and Phase 2 handoff are in [`phase1/Phase1_Research_Assessment.md`](phase1/Phase1_Research_Assessment.md). The bibliography is in `phase1/references.bib`; `phase1/access_checks.json` and `phase1/audit_log.md` document source access and limitations. The complete downloadable package is [`phase1/Georgia_Phase1_Package.zip`](phase1/Georgia_Phase1_Package.zip).
 
-Status: GO for Phase 2 data acquisition/validation; NO-GO for causal welfare claims with current verified evidence. No estimation executed. No GitHub destination selected or modified.
+Status: GO for Phase 2 data acquisition and validation; NO-GO for causal welfare claims with currently verified evidence. No estimation was performed.
