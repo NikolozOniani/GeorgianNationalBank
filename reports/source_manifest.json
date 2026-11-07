@@ -1,0 +1,158 @@
+[
+  {
+    "id": "hies2025",
+    "url": "https://www.geostat.ge/media/79814/2025.zip",
+    "retrieved_at": "2026-11-07T11:29:53.262223+00:00",
+    "license": "unverified; do not redistribute",
+    "mime": "application/zip",
+    "status": "failed",
+    "error": "Content-Length mismatch"
+  },
+  {
+    "id": "hies2016",
+    "url": "https://geostat.ge/media/23296/2016-DB_eng.zip",
+    "retrieved_at": "2026-11-07T11:29:53.263070+00:00",
+    "license": "unverified; do not redistribute",
+    "mime": "application/zip",
+    "status": "failed",
+    "error": "Content-Length mismatch"
+  },
+  {
+    "id": "hies2017",
+    "url": "https://geostat.ge/media/62840/2017.zip",
+    "retrieved_at": "2026-11-07T11:29:53.263827+00:00",
+    "license": "unverified; do not redistribute",
+    "mime": "application/zip",
+    "members": [
+      {
+        "name": "2017/",
+        "bytes": 0
+      },
+      {
+        "name": "2017/2017 DB/",
+        "bytes": 0
+      },
+      {
+        "name": "2017/2017 DB/123.sav",
+        "bytes": 3180
+      },
+      {
+        "name": "2017/2017 DB/conspurch_03.sav",
+        "bytes": 4731552
+      },
+      {
+        "name": "2017/2017 DB/deadmen.sav",
+        "bytes": 6808
+      },
+      {
+        "name": "2017/2017 DB/familysize.sav",
+        "bytes": 492010
+      },
+      {
+        "name": "2017/2017 DB/sysschedule.sav",
+        "bytes": 453520
+      },
+      {
+        "name": "2017/2017 DB/tblavgprices.sav",
+        "bytes": 12796
+      },
+      {
+        "name": "2017/2017 DB/tblconsumption.sav",
+        "bytes": 6243550
+      },
+      {
+        "name": "2017/2017 DB/tblexpenditures.sav",
+        "bytes": 1513343
+      },
+      {
+        "name": "2017/2017 DB/tblincomes.sav",
+        "bytes": 917850
+      },
+      {
+        "name": "2017/2017 DB/tblshinda01.sav",
+        "bytes": 800251
+      },
+      {
+        "name": "2017/2017 DB/tblshinda01_animals.sav",
+        "bytes": 118698
+      },
+      {
+        "name": "2017/2017 DB/tblshinda01_comfort.sav",
+        "bytes": 421069
+      },
+      {
+        "name": "2017/2017 DB/tblshinda01_cultures.sav",
+        "bytes": 427432
+      },
+      {
+        "name": "2017/2017 DB/tblshinda01_lands.sav",
+        "bytes": 291436
+      },
+      {
+        "name": "2017/2017 DB/tblshinda01_subjects.sav",
+        "bytes": 1143461
+      },
+      {
+        "name": "2017/2017 DB/tblshinda02.sav",
+        "bytes": 1372566
+      },
+      {
+        "name": "2017/2017 DB/tblshinda03_1.sav",
+        "bytes": 7384151
+      },
+      {
+        "name": "2017/2017 DB/tblshinda04.sav",
+        "bytes": 16657303
+      },
+      {
+        "name": "2017/2017 DB/tblshinda04_1.sav",
+        "bytes": 8303256
+      },
+      {
+        "name": "2017/2017 Questionnaires/",
+        "bytes": 0
+      },
+      {
+        "name": "2017/2017 Questionnaires/Shinda01_2017_Eng.pdf",
+        "bytes": 103968
+      },
+      {
+        "name": "2017/2017 Questionnaires/Shinda02_ 2017_Eng.pdf",
+        "bytes": 56438
+      },
+      {
+        "name": "2017/2017 Questionnaires/Shinda03_ 2017_Eng.pdf",
+        "bytes": 768980
+      },
+      {
+        "name": "2017/2017 Questionnaires/Shinda04_2017_Eng.pdf",
+        "bytes": 206966
+      },
+      {
+        "name": "2017/2017 Questionnaires/Shinda05-1_2017_Eng.pdf",
+        "bytes": 72113
+      },
+      {
+        "name": "2017/2017 Questionnaires/Shinda05_2017_Eng.pdf",
+        "bytes": 147037
+      },
+      {
+        "name": "2017/2017 Questionnaires/Shinda07_2017_Eng.pdf",
+        "bytes": 29755
+      }
+    ],
+    "bytes": 11891371,
+    "sha256": "dc7ea470c7fa11ad608003af290979fc0cd144daec82f5d9e37c000a321c58ad",
+    "status": "integrity_pass"
+  },
+  {
+    "id": "nbg_catalog",
+    "url": "https://nbg.gov.ge/en/statistics/statistics-data",
+    "retrieved_at": "2026-11-07T11:29:53.264459+00:00",
+    "license": "unverified; do not redistribute",
+    "mime": "text/html; charset=utf-8",
+    "bytes": 340039,
+    "sha256": "41dd4fe45e00a9696a689e04210375d6ae14953e7665b10c7a0f8cbffde821ef",
+    "status": "integrity_pass"
+  }
+]

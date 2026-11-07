@@ -1,0 +1,6 @@
+data/raw/
+*.partial
+__pycache__/
+reports/nbg_structure.json
+.deps/
+.venv/

@@ -1,0 +1,1198 @@
+[
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/123.sav",
+    "rows": 86,
+    "columns": {
+      "QuartNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Quarters": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "YarNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "YearQuart": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "QuartNo": "Quarter ID",
+      "Quarters": "Quarter in a year",
+      "YarNo": "Year",
+      "YearQuart": "Quarter and year"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/conspurch_03.sav",
+    "rows": 110840,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ProductCode": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Quantity": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Paid": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Prices": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "ProductCode": "Product code (COICOP)",
+      "Quantity": "Quantity of food products purchased for own consumption (KG/L average per month)",
+      "Paid": "How much was paid in GEL (average per month)",
+      "Prices": "Price of the product in GEL (average per month)"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/deadmen.sav",
+    "rows": 52,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MemberNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Relations": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Gender": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "BirthYear": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Education": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Nationality": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MaritalStatus": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "YearsInThisCity": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Migration": {
+        "missing": 18,
+        "missing_rate": 0.34615384615384615
+      },
+      "SpecialStatus1": {
+        "missing": 16,
+        "missing_rate": 0.3076923076923077
+      },
+      "SpecialStatus2": {
+        "missing": 48,
+        "missing_rate": 0.9230769230769231
+      },
+      "SpecialStatus3": {
+        "missing": 52,
+        "missing_rate": 1.0
+      },
+      "ChangesQ1": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "MemberNo": "Household member number from Shinda 02",
+      "Relations": "Relationship to the head of household",
+      "Gender": "Gender",
+      "BirthYear": "Birth Year",
+      "Education": "Achieved level of education",
+      "Nationality": "Ethnicity",
+      "MaritalStatus": "Marital status",
+      "YearsInThisCity": "How long have you lived at this address?",
+      "Migration": "If moved, from where?",
+      "SpecialStatus1": "Special status 1",
+      "SpecialStatus2": "Special status 2",
+      "SpecialStatus3": "Special status 3",
+      "ChangesQ1": "Changes in household composition compared to the 1st interview"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/familysize.sav",
+    "rows": 11590,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "FamilySize": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Childern": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Adult": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Working_age_man": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Working_age_Woman": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Pensioner_age_man": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Pensioner_age_Woman": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Eq_Adult": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Eq_Skale_0_6": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Ed_Skale_0_8": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "FamilySize": "Number of household members",
+      "Childern": "Number of children (7 years and younger)",
+      "Adult": "Number of adolescents (8-15)",
+      "Working_age_man": "Number of working age men (16-64)",
+      "Working_age_Woman": "Number of working age women (16-59)",
+      "Pensioner_age_man": "Number of pension age men (65 and above)",
+      "Pensioner_age_Woman": "Number of pension age women (60 and above)",
+      "Eq_Adult": "Number of equivalent adults",
+      "Eq_Skale_0_6": "Number of equivalent adults with scale effect 0.6",
+      "Ed_Skale_0_8": "Number of equivalent adults with scale effect 0.8"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/sysschedule.sav",
+    "rows": 11590,
+    "columns": {
+      "MonthYear": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "QuartNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "DiaryID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "RegNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "UrbanOrRural": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Weights": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "MonthYear": "Month and Year of Interview",
+      "QuartNo": "Quarter ID",
+      "UID": "Unique ID of the household in the quarter",
+      "DiaryID": "Unique ID of the household during the whole period",
+      "RegNo": "Region",
+      "UrbanOrRural": "Urban Or Rural",
+      "Weights": "Sampling weights of the household"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblavgprices.sav",
+    "rows": 662,
+    "columns": {
+      "QuartNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ProductCode": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "AvgPrices": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "QuartNo": "Quarter ID",
+      "ProductCode": "Product code (COICOP)",
+      "AvgPrices": "Average price"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblconsumption.sav",
+    "rows": 155840,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ProductCode": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "consPurch_kg": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "consNonCash_03_kg": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "cons_04_kg": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "cons": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "NonCash_StoksConsAdj": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "ProductCode": "Product code (COICOP)",
+      "consPurch_kg": "Average monthly quantity (in KG/L) of food products purchased for own consumption (from Shinda 03)",
+      "consNonCash_03_kg": "Average monthly quantity (in KG/L) of food products received free of charge and consumed in the household (from Shinda 03)",
+      "cons_04_kg": "Average monthly quantity (in KG/L) of food products consumed in the household (from Shinda 04)",
+      "cons": "Average monthly quantity (in KG/L) of food products consumed in the household (Total)",
+      "NonCash_StoksConsAdj": "Average monthly quantity (in KG/L) of food products received free of charge or taken from stocks and consumed in the household (Total)"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblexpenditures.sav",
+    "rows": 11590,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "sursati__sasmeli__Tambaqo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "tansacmeli": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "saojaxo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "samedicino": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "energia": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "transporti": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ganatleba": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "sxva": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "samomxmXarjebi": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "sasoflo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "transferti": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "DazogvaAnCasesxeba": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "qonebis_seZena": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "SxvaGasavlebi": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Arafuladi_moxm_": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "fuladixarjebi": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MTlianimoxmareba_": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MTlianixarjebi_": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MTlianimoxmareba_EqAdScale": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Mtlianimoxmareba_EqAdScale_08": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "sursati__sasmeli__Tambaqo": "Expenditures on food, beverages, tobacco (monthly average)",
+      "tansacmeli": "Expenditures on clothing and footwear (monthly average)",
+      "saojaxo": "Expenditures on household goods (monthly average)",
+      "samedicino": "Expenditures on healthcare (monthly average)",
+      "energia": "Expenditures on fuel and electricity (monthly average)",
+      "transporti": "Expenditures on transport (monthly average)",
+      "ganatleba": "Expenditures on education (monthly average)",
+      "sxva": "Other consumption expenditures (monthly average)",
+      "samomxmXarjebi": "Total cash consumption expenditures (monthly average)",
+      "sasoflo": "Expenditures on agriculture (monthly average)",
+      "transferti": "Expenditures on transfers (monthly average)",
+      "DazogvaAnCasesxeba": "Expenditures on saving and lending (monthly average)",
+      "qonebis_seZena": "Expenditures on property acquirement (monthly average)",
+      "SxvaGasavlebi": "Non-consumption cash expenditures (monthly average)",
+      "Arafuladi_moxm_": "Non-cash expenditures (monthly average)",
+      "fuladixarjebi": "Total cash expenditures (monthly average)",
+      "MTlianimoxmareba_": "Total consumption expenditures (monthly average)",
+      "MTlianixarjebi_": "Total expenditures (monthly average)",
+      "MTlianimoxmareba_EqAdScale": "Total consumption expenditures per equivalent adult with scale coefficient 0.6  (monthly average)",
+      "Mtlianimoxmareba_EqAdScale_08": "Total consumption expenditures per equivalent adult with scale coefficient 0.8 (monthly average)"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblincomes.sav",
+    "rows": 11590,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ShemDaq": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ShemTviTdasaqm": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Shem_Sof": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Qonebidan": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "PensStipDaxm": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Ucxoetidan": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Axloblebisagan": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ShemosavaliDaTransf": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "QonebisGayidvit": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "SesxAnDanazog": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "SxvaFuladiSaxsrebi": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ArafuladiMoxmareba": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Shemosavalisul": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Fuladisaxsrebi": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Saxsrebi_Sul": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "ShemDaq": "Income from hired employment (monthly average)",
+      "ShemTviTdasaqm": "Income from self-employment (monthly average)",
+      "Shem_Sof": "Income from selling agricultural production (monthly average)",
+      "Qonebidan": "Property income (leasing, interest on deposit etc.) (monthly average)",
+      "PensStipDaxm": "Pensions, scholarships, assistances (monthly average)",
+      "Ucxoetidan": "Remittances from abroad (monthly average)",
+      "Axloblebisagan": "Money received as gift (monthly average)",
+      "ShemosavaliDaTransf": "Cash income and transfers (monthly average)",
+      "QonebisGayidvit": "Property disposal (monthly average)",
+      "SesxAnDanazog": "Borrowing and dissaving (monthly average)",
+      "SxvaFuladiSaxsrebi": "Other cash inflows (monthly average)",
+      "ArafuladiMoxmareba": "Non-cash income (monthly average)",
+      "Shemosavalisul": "Total income (monthly average)",
+      "Fuladisaxsrebi": "Total cash inflows  (monthly average)",
+      "Saxsrebi_Sul": "Cash and non-cash inflows, total (monthly average)"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda01.sav",
+    "rows": 11590,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "HomeBuildedDate": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "OwnerOfHome": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Walls": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Floor": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Ceiling": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "WholeS": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "LivingS": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "HowManyRooms": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "HowManyBedRooms": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Kitchen": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Cellar": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Bath": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Garage": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "WaterSource": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "TypeOfToilet": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "SellingPrice": {
+        "missing": 7168,
+        "missing_rate": 0.6184641932700604
+      },
+      "Rent": {
+        "missing": 7960,
+        "missing_rate": 0.6867989646246765
+      },
+      "OtherHouse": {
+        "missing": 10802,
+        "missing_rate": 0.9320103537532356
+      },
+      "OtherHouseS": {
+        "missing": 10802,
+        "missing_rate": 0.9320103537532356
+      },
+      "OtherVillage": {
+        "missing": 11409,
+        "missing_rate": 0.9843830888697153
+      },
+      "OtherVillageS": {
+        "missing": 11407,
+        "missing_rate": 0.9842105263157894
+      },
+      "OtherLand": {
+        "missing": 10222,
+        "missing_rate": 0.8819672131147541
+      },
+      "OtherLandS": {
+        "missing": 10214,
+        "missing_rate": 0.8812769628990509
+      },
+      "UsedLandYesNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "NumberOfPices": {
+        "missing": 4719,
+        "missing_rate": 0.40716134598792064
+      },
+      "WholeLand": {
+        "missing": 4719,
+        "missing_rate": 0.40716134598792064
+      },
+      "S_Q1": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "S_Q2": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "S_Q2a": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "S_Q2b": {
+        "missing": 6498,
+        "missing_rate": 0.5606557377049181
+      },
+      "S_Q2c": {
+        "missing": 5092,
+        "missing_rate": 0.43934426229508194
+      },
+      "S_Q3": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "S_Q4": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "S_Q5": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "S_Q6": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "S_Q7": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "S_Q8": {
+        "missing": 3306,
+        "missing_rate": 0.28524590163934427
+      },
+      "S_Q9": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "HomeBuildedDate": "Date the dwelling was built",
+      "OwnerOfHome": "Owner of the dwelling",
+      "Walls": "Basic building material used for the external walls",
+      "Floor": "Basic building material used for the floor",
+      "Ceiling": "Basic building material used for the roof",
+      "WholeS": "Total area of the dwelling (in square metres)",
+      "LivingS": "Residential area of the dwelling (in square metres)",
+      "HowManyRooms": "Number of rooms (except the kitchen, corridor, bathroom, toilet, waiting room and other premises)",
+      "HowManyBedRooms": "Number of bedrooms",
+      "Kitchen": "To what extent is your dwelling provided with kitchen?",
+      "Cellar": "To what extent is your dwelling provided with wine cellar or basement?",
+      "Bath": "To what extent is your dwelling provided with bath?",
+      "Garage": "To what extent is your dwelling provided with garage?",
+      "WaterSource": "Main source of potable and sanitary-hygienic water supply",
+      "TypeOfToilet": "Type of toilet used by the household",
+      "SellingPrice": "How much would you pay to buy a dwelling similar to yours? (in GEL)",
+      "Rent": "How much would you pay to rent a dwelling similar to yours? (in GEL)",
+      "OtherHouse": "Number of the dwelling(s) owned by the household, except the basic dwelling",
+      "OtherHouseS": "Total area of the dwelling(s) owned by the household, except the basic dwelling (sq.m)",
+      "OtherVillage": "Number of the summer house(s) owned by the household",
+      "OtherVillageS": "Total area of the summer house(s) owned by the household (sq.m)",
+      "OtherLand": "Number of the land plot(s) owned by the household that are not used for agricultural purposes",
+      "OtherLandS": "Total area of the land plot(s) owned by the household that are not used for agricultural purposes (ha)",
+      "UsedLandYesNo": "Does your household use any part of land for cultivation?",
+      "NumberOfPices": "Quantity of land plots used for cultivation, including leased land",
+      "WholeLand": "Total area of the land used for cultivation, including leased land (in hectares)",
+      "S_Q1": "Based on household income, how would you evaluate the economic state of your household?",
+      "S_Q2": "According to the household property, which of the below listed categories does your family belong to?",
+      "S_Q2a": "Did your family apply for assistance to the Social Service Agency?",
+      "S_Q2b": "Did you get assistance or any kind of advantage?",
+      "S_Q2c": "Why didn't you apply to the Social Service Agency?",
+      "S_Q3": "In your opinion, how much GEL per month does your household need, in order to be provided with basic food and other necessary non-food items?",
+      "S_Q4": "How has the financial state of your family been changed during the last 12 months?",
+      "S_Q5": "What is your expectation about the change of financial state of your family during the next 12 months?",
+      "S_Q6": "In what condition is your dwelling?",
+      "S_Q7": "How many hours per day (approximately) did you have electricity during the past week?",
+      "S_Q8": "How many hours per day (approximately) were you provided with water supply during the last week?",
+      "S_Q9": "Are you supplied with natural gas?"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda01_animals.sav",
+    "rows": 10698,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Animal": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Quantity": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "Animal": "Domestic animals/poultry",
+      "Quantity": "Quantity of domestic animals/poultry owned by the household"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda01_comfort.sav",
+    "rows": 42016,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Comfort": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "Comfort": "What is your dwelling provided with?"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda01_cultures.sav",
+    "rows": 21470,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Culture": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Fartobi": {
+        "missing": 838,
+        "missing_rate": 0.03903120633442012
+      },
+      "FartobiSetesili": {
+        "missing": 20529,
+        "missing_rate": 0.956171401956218
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "Culture": "Agricultural crops",
+      "Fartobi": "Area under the main crops (in hectares)",
+      "FartobiSetesili": "Area under the mixed crops (in hectares)"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda01_lands.sav",
+    "rows": 13185,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "LandNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "SHeqtars": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "PrivateForm": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Distance": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "LandNo": "Number of the land plot",
+      "SHeqtars": "Land plot area (in hectares)",
+      "PrivateForm": "Form of ownership of land plot",
+      "Distance": "Distance from the dwelling to the land plot (in kilometres)"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda01_subjects.sav",
+    "rows": 87073,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Subject": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Quantity": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Quantity12": {
+        "missing": 85806,
+        "missing_rate": 0.9854489910764531
+      },
+      "HowManyPaidThisMonth": {
+        "missing": 85806,
+        "missing_rate": 0.9854489910764531
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "Subject": "Durable goods",
+      "Quantity": "Quantity of durable goods owned by the household",
+      "Quantity12": "Quantity of durable goods bought by the household during the past 12 months",
+      "HowManyPaidThisMonth": "How much was paid for the durable goods bought by the household during the past 12 months (GEL)"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda02.sav",
+    "rows": 40104,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MemberNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Relations": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Gender": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Education": {
+        "missing": 7689,
+        "missing_rate": 0.19172651107121483
+      },
+      "Nationality": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MaritalStatus": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "YearsInThisCity": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Migration": {
+        "missing": 18265,
+        "missing_rate": 0.4554408537801716
+      },
+      "SpecialStatus1": {
+        "missing": 30152,
+        "missing_rate": 0.7518452024735687
+      },
+      "SpecialStatus2": {
+        "missing": 39313,
+        "missing_rate": 0.9802762816676641
+      },
+      "SpecialStatus3": {
+        "missing": 40082,
+        "missing_rate": 0.9994514262916417
+      },
+      "NotPresentNow": {
+        "missing": 39734,
+        "missing_rate": 0.9907739876321564
+      },
+      "Changes": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Insurance": {
+        "missing": 651,
+        "missing_rate": 0.0162327947336924
+      },
+      "InsuranceType": {
+        "missing": 727,
+        "missing_rate": 0.0181278675443846
+      },
+      "EducationType": {
+        "missing": 651,
+        "missing_rate": 0.0162327947336924
+      },
+      "Q18_1": {
+        "missing": 652,
+        "missing_rate": 0.016257729902254138
+      },
+      "Q18_2": {
+        "missing": 654,
+        "missing_rate": 0.016307600239377617
+      },
+      "Q18_3": {
+        "missing": 652,
+        "missing_rate": 0.016257729902254138
+      },
+      "Q18_4": {
+        "missing": 652,
+        "missing_rate": 0.016257729902254138
+      },
+      "Q18_5": {
+        "missing": 652,
+        "missing_rate": 0.016257729902254138
+      },
+      "Q18_6": {
+        "missing": 652,
+        "missing_rate": 0.016257729902254138
+      },
+      "Internet": {
+        "missing": 3851,
+        "missing_rate": 0.09602533413125873
+      },
+      "Computer": {
+        "missing": 3851,
+        "missing_rate": 0.09602533413125873
+      },
+      "Age": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "MemberNo": "Household member number",
+      "Relations": "Relationship to the head of household",
+      "Gender": "Gender",
+      "Education": "Achieved level of education",
+      "Nationality": "Ethnicity",
+      "MaritalStatus": "Marital status",
+      "YearsInThisCity": "How long have you lived at this address?",
+      "Migration": "If moved, from where?",
+      "SpecialStatus1": "Special status 1",
+      "SpecialStatus2": "Special status 2",
+      "SpecialStatus3": "Special status 3",
+      "NotPresentNow": "Temporarily (from 3 months to a year) absent household member",
+      "Changes": "Changes in household composition compared to the 1st interview",
+      "Insurance": "Do you have health insurance?",
+      "InsuranceType": "Health insurance type",
+      "EducationType": "At what type of educational institution goes the household member?",
+      "Q18_1": "Household member had been going to a private tutor during the past three months",
+      "Q18_2": "Household member had been going to sport circle/section during the past three months",
+      "Q18_3": "Household member had been going to art circle/section during the past three months",
+      "Q18_4": "Household member had been going to other circle/section during the past three months",
+      "Q18_5": "Household member had been going to courses for learning new profession/skills during the past three months",
+      "Q18_6": "Household member had been going to advanced training during the past three months",
+      "Internet": "Did your household member use internet (includes internet by mobile) during the last 3 months?",
+      "Computer": "Did your household member use computer?(includes notebook or tablet) during  the last 3 months?",
+      "Age": "Age"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda03_1.sav",
+    "rows": 247535,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "PartNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "DayOfInterview": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ProductCode": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MesurementUnit": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Quantity": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "QuantityPerOneUnit": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "PriceL": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "PriceT": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Source": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Purpose": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "PartNo": "Diary part number",
+      "DayOfInterview": "Day in the diary",
+      "ProductCode": "Product/service code (COICOP)",
+      "MesurementUnit": "Measurement unit of the product/service (in the PartNo 1 and PartNo 3)",
+      "Quantity": "Quantity of the product in the Part 1 and Part 3; Quantity of persons dined in the Part 2",
+      "QuantityPerOneUnit": "If units, indicate how much grams or millilitres are in a unit?",
+      "PriceL": "How much did you pay for the product/service in Laris (GEL)?",
+      "PriceT": "How much did you pay for the product/service in Tetri?",
+      "Source": "Where did you get/buy the product? (in the PartNo 1 and PartNo 3)",
+      "Purpose": "Purpose of the product (in the PartNo 1)"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda04.sav",
+    "rows": 622491,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MonthYear": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "TableNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ItemNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Opt": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Value": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "raodenoba": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "raodenobaufaso": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ufaso101": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "MonthYear": "Month and year of operation",
+      "TableNo": "Table number from Shinda 04",
+      "ItemNo": "Item number from Shinda 04",
+      "Opt": "Option (for TableNo 31 and 32)",
+      "Value": "Cash expenditures or income from selling domestic animals, only for TableNo 226 (GEL); or amount of fuel utilized by household, only for TableNo 331.",
+      "raodenoba": "Quantity of purchased products (TableNo 101). Quantity of purchased (TableNo 223) or sold (TableNo 226) domestic animals",
+      "raodenobaufaso": "Estimated expenditures on the products received free of charge. For TableNo 101 - quantity of products received free of charge",
+      "ufaso101": "Estimated expenditures on the products received free of charge (only for TableNo 101) (GEL)"
+    }
+  },
+  {
+    "archive": "hies2017",
+    "table": "2017/2017 DB/tblshinda04_1.sav",
+    "rows": 166687,
+    "columns": {
+      "UID": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "MonthYear": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "TableNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "ItemNo": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Harvest": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Consumption": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "SaleOrGift": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Animals": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Processed": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Trash": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Store": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Seed": {
+        "missing": 0,
+        "missing_rate": 0.0
+      },
+      "Value": {
+        "missing": 0,
+        "missing_rate": 0.0
+      }
+    },
+    "labels": {
+      "UID": "Unique ID of the household in the quarter",
+      "MonthYear": "Month and year of the operation",
+      "TableNo": "Table number from Shinda 04",
+      "ItemNo": "Item number from Shinda 04",
+      "Harvest": "Quantity of the products harvested or produced in the household (average monthly quantity in the quarter)",
+      "Consumption": "Quantity of the products consumed by the household (average monthly quantity in the quarter)",
+      "SaleOrGift": "Quantity of the products sold or given (average monthly quantity in the quarter)",
+      "Animals": "Quantity of the products used for domestic animals (average monthly quantity in the quarter)",
+      "Processed": "Quantity of the products used for processing (average monthly quantity in the quarter)",
+      "Trash": "Quantity of the products spoiled (average monthly quantity in the quarter)",
+      "Store": "Stock by the end of the previous month (quantity)",
+      "Seed": "Quantity of the products used for seeding (average monthly quantity in the quarter)",
+      "Value": "Income from products sold by the household (GEL)"
+    }
+  }
+]
