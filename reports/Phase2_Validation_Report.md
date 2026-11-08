@@ -1,5 +1,11 @@
 # Phase 2 validation checkpoint — 7 November 2026
 
+## Interruption recovery and GEOSTAT release validation — 8 November 2026
+
+The recovery audit is recorded in `reports/recovery_audit_2026-11-08.md`. The pinned `GEOSTAT` release (GitHub release id `437541526`) contains 13 API-listed assets. Eleven pass declared SHA-256, byte-count, and file-structure checks. The 2020 and 2023 ZIPs match GitHub's declared bytes and hashes but fail ZIP central-directory parsing on repeated downloads, so they are excluded rather than repaired by inference. Validated household archives are 2016–2019, 2021–2022, 2024, and 2025. Their 154 SPSS tables contain 13,915,562 table rows in aggregate; these are table records, not unique households and must not be interpreted as sample sizes without table-specific keys.
+
+The release-level machine-readable evidence is in `reports/release_validation_summary.json`; schema and row counts are in `reports/release_household_profiles.json`. Existing automated tests remain 4/4 passing. No causal NBG intervention estimate is produced by this validation work.
+
 **Phase 2 is incomplete. Phase 3 causal estimation: NO-GO.** This report records executed checks and open gates, not completion of the requested empirical foundation. All Phase 1 files are preserved unchanged.
 
 ## Executed acquisition and validation

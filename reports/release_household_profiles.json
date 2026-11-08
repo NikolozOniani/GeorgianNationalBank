@@ -1,0 +1,3068 @@
+[
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/123.sav",
+    "rows": 86,
+    "columns": [
+      "QuartNo",
+      "Quarters",
+      "YarNo",
+      "YearQuart"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/conspurch_03.sav",
+    "rows": 97810,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "Quantity",
+      "Paid",
+      "Prices"
+    ],
+    "uid_nonmissing": 97810,
+    "uid_unique": 10666
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/deadmen.sav",
+    "rows": 129,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "BirthYear",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "ChangesQ1"
+    ],
+    "uid_nonmissing": 129,
+    "uid_unique": 129
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/familysize.sav",
+    "rows": 10858,
+    "columns": [
+      "UID",
+      "FamilySize",
+      "Childern",
+      "Adult",
+      "Working_age_man",
+      "Working_age_Woman",
+      "Pensioner_age_man",
+      "Pensioner_age_Woman",
+      "Eq_Adult",
+      "Eq_Skale_0_6",
+      "Ed_Skale_0_8"
+    ],
+    "uid_nonmissing": 10858,
+    "uid_unique": 10858
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/personal_weights.sav",
+    "rows": 30153,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "P_Weights"
+    ],
+    "uid_nonmissing": 30153,
+    "uid_unique": 10858
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/sysschedule.sav",
+    "rows": 10858,
+    "columns": [
+      "MonthYear",
+      "QuartNo",
+      "UID",
+      "DiaryID",
+      "RegNo",
+      "UrbanOrRural",
+      "Weights"
+    ],
+    "uid_nonmissing": 10858,
+    "uid_unique": 10858
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblavgprices.sav",
+    "rows": 649,
+    "columns": [
+      "QuartNo",
+      "ProductCode",
+      "AvgPrices"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblconsumption.sav",
+    "rows": 155686,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "consPurch_kg",
+      "consNonCash_03_kg",
+      "cons_04_kg",
+      "cons",
+      "NonCash_StoksConsAdj"
+    ],
+    "uid_nonmissing": 155686,
+    "uid_unique": 10852
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblexpenditures.sav",
+    "rows": 10858,
+    "columns": [
+      "UID",
+      "sursati__sasmeli__Tambaqo",
+      "tansacmeli",
+      "saojaxo",
+      "samedicino",
+      "energia",
+      "transporti",
+      "ganatleba",
+      "sxva",
+      "samomxmXarjebi",
+      "sasoflo",
+      "transferti",
+      "DazogvaAnCasesxeba",
+      "qonebis_seZena",
+      "SxvaGasavlebi",
+      "Arafuladi_moxm_",
+      "fuladixarjebi",
+      "MTlianimoxmareba_",
+      "MTlianixarjebi_",
+      "MTlianimoxmareba_EqAdScale",
+      "Mtlianimoxmareba_EqAdScale_08"
+    ],
+    "uid_nonmissing": 10858,
+    "uid_unique": 10858
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblincomes.sav",
+    "rows": 10858,
+    "columns": [
+      "UID",
+      "ShemDaq",
+      "ShemTviTdasaqm",
+      "Shem_Sof",
+      "Qonebidan",
+      "PensStipDaxm",
+      "Ucxoetidan",
+      "Axloblebisagan",
+      "ShemosavaliDaTransf",
+      "QonebisGayidvit",
+      "SesxAnDanazog",
+      "SxvaFuladiSaxsrebi",
+      "ArafuladiMoxmareba",
+      "Shemosavalisul",
+      "Fuladisaxsrebi",
+      "Saxsrebi_Sul"
+    ],
+    "uid_nonmissing": 10858,
+    "uid_unique": 10858
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda01.sav",
+    "rows": 10858,
+    "columns": [
+      "UID",
+      "HomeBuildedDate",
+      "OwnerOfHome",
+      "Walls",
+      "Floor",
+      "Ceiling",
+      "WholeS",
+      "LivingS",
+      "HowManyRooms",
+      "HowManyBedRooms",
+      "Kitchen",
+      "Cellar",
+      "Bath",
+      "Garage",
+      "WaterSource",
+      "TypeOfToilet",
+      "SellingPrice",
+      "Rent",
+      "OtherHouse",
+      "OtherHouseS",
+      "OtherVillage",
+      "OtherVillageS",
+      "OtherLand",
+      "OtherLandS",
+      "UsedLandYesNo",
+      "NumberOfPices",
+      "WholeLand",
+      "S_Q1",
+      "S_Q2",
+      "S_Q2a",
+      "S_Q2b",
+      "S_Q2c",
+      "S_Q3",
+      "S_Q4",
+      "S_Q5",
+      "S_Q6",
+      "S_Q7",
+      "S_Q8",
+      "S_Q9"
+    ],
+    "uid_nonmissing": 10858,
+    "uid_unique": 10858
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda01_animals.sav",
+    "rows": 13697,
+    "columns": [
+      "UID",
+      "Animal",
+      "Quantity"
+    ],
+    "uid_nonmissing": 13697,
+    "uid_unique": 5769
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda01_comfort.sav",
+    "rows": 36033,
+    "columns": [
+      "UID",
+      "Comfort"
+    ],
+    "uid_nonmissing": 36033,
+    "uid_unique": 10855
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda01_cultures.sav",
+    "rows": 23975,
+    "columns": [
+      "UID",
+      "Culture",
+      "Fartobi",
+      "FartobiSetesili"
+    ],
+    "uid_nonmissing": 23975,
+    "uid_unique": 7126
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda01_lands.sav",
+    "rows": 14116,
+    "columns": [
+      "UID",
+      "LandNo",
+      "SHeqtars",
+      "PrivateForm",
+      "Distance"
+    ],
+    "uid_nonmissing": 14116,
+    "uid_unique": 7126
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda01_subjects.sav",
+    "rows": 81510,
+    "columns": [
+      "UID",
+      "Subject",
+      "Quantity",
+      "Quantity12",
+      "HowManyPaidThisMonth"
+    ],
+    "uid_nonmissing": 81510,
+    "uid_unique": 10829
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda02.sav",
+    "rows": 38161,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "NotPresentNow",
+      "Changes",
+      "Insurance",
+      "InsuranceType",
+      "EducationType",
+      "Q18_1",
+      "Q18_2",
+      "Q18_3",
+      "Q18_4",
+      "Q18_5",
+      "Q18_6",
+      "Internet",
+      "Computer",
+      "Age"
+    ],
+    "uid_nonmissing": 38161,
+    "uid_unique": 10858
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda03_1.sav",
+    "rows": 243304,
+    "columns": [
+      "UID",
+      "PartNo",
+      "DayOfInterview",
+      "ProductCode",
+      "MesurementUnit",
+      "Quantity",
+      "QuantityPerOneUnit",
+      "PriceL",
+      "PriceT",
+      "Source",
+      "Purpose"
+    ],
+    "uid_nonmissing": 243304,
+    "uid_unique": 10843
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda04.sav",
+    "rows": 588602,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Opt",
+      "Value",
+      "raodenoba",
+      "raodenobaufaso",
+      "ufaso101"
+    ],
+    "uid_nonmissing": 588602,
+    "uid_unique": 10858
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tblshinda04_1.sav",
+    "rows": 207596,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Harvest",
+      "Consumption",
+      "SaleOrGift",
+      "Animals",
+      "Processed",
+      "Trash",
+      "Store",
+      "Seed",
+      "Value"
+    ],
+    "uid_nonmissing": 207596,
+    "uid_unique": 7558
+  },
+  {
+    "archive": "2016-DB_eng.zip",
+    "table": "2016 DB/tbl_ec_stat_05.sav",
+    "rows": 30153,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Gender",
+      "Age",
+      "Aqt",
+      "Aqt2",
+      "momuSave_sul",
+      "daqmomuSave",
+      "TviTdasaqm",
+      "gaurkv_momosh",
+      "umush_mkacri",
+      "umush_sherb",
+      "araaqt",
+      "araaqt_sherb",
+      "araaqt_Sromisuun",
+      "araaqt_pens",
+      "araaqt_stud",
+      "araaqt_diasax",
+      "araaqt_elian_uimedo",
+      "araaqt_sxv",
+      "Unemployment_Spin_1_3",
+      "Unemployment_Spin__3",
+      "Unemployment_Spin_Never",
+      "Unemployment_Spin__1",
+      "Status",
+      "Sector",
+      "Brunch",
+      "Brunch_Converted",
+      "Ocupation",
+      "TimeDuration",
+      "PartTime",
+      "PartTime_Soft",
+      "Add_Worked",
+      "Add_Status",
+      "Add_Brunch",
+      "Add_Brunch_Converted",
+      "JobSeeker",
+      "ReasonOfSeeking",
+      "TypeOfJobSought",
+      "Profession"
+    ],
+    "uid_nonmissing": 30153,
+    "uid_unique": 10858
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/123.sav",
+    "rows": 86,
+    "columns": [
+      "QuartNo",
+      "Quarters",
+      "YarNo",
+      "YearQuart"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/conspurch_03.sav",
+    "rows": 110840,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "Quantity",
+      "Paid",
+      "Prices"
+    ],
+    "uid_nonmissing": 110840,
+    "uid_unique": 11415
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/deadmen.sav",
+    "rows": 52,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "BirthYear",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "ChangesQ1"
+    ],
+    "uid_nonmissing": 52,
+    "uid_unique": 52
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/familysize.sav",
+    "rows": 11590,
+    "columns": [
+      "UID",
+      "FamilySize",
+      "Childern",
+      "Adult",
+      "Working_age_man",
+      "Working_age_Woman",
+      "Pensioner_age_man",
+      "Pensioner_age_Woman",
+      "Eq_Adult",
+      "Eq_Skale_0_6",
+      "Ed_Skale_0_8"
+    ],
+    "uid_nonmissing": 11590,
+    "uid_unique": 11590
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/sysschedule.sav",
+    "rows": 11590,
+    "columns": [
+      "MonthYear",
+      "QuartNo",
+      "UID",
+      "DiaryID",
+      "RegNo",
+      "UrbanOrRural",
+      "Weights"
+    ],
+    "uid_nonmissing": 11590,
+    "uid_unique": 11590
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblavgprices.sav",
+    "rows": 662,
+    "columns": [
+      "QuartNo",
+      "ProductCode",
+      "AvgPrices"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblconsumption.sav",
+    "rows": 155840,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "consPurch_kg",
+      "consNonCash_03_kg",
+      "cons_04_kg",
+      "cons",
+      "NonCash_StoksConsAdj"
+    ],
+    "uid_nonmissing": 155840,
+    "uid_unique": 11565
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblexpenditures.sav",
+    "rows": 11590,
+    "columns": [
+      "UID",
+      "sursati__sasmeli__Tambaqo",
+      "tansacmeli",
+      "saojaxo",
+      "samedicino",
+      "energia",
+      "transporti",
+      "ganatleba",
+      "sxva",
+      "samomxmXarjebi",
+      "sasoflo",
+      "transferti",
+      "DazogvaAnCasesxeba",
+      "qonebis_seZena",
+      "SxvaGasavlebi",
+      "Arafuladi_moxm_",
+      "fuladixarjebi",
+      "MTlianimoxmareba_",
+      "MTlianixarjebi_",
+      "MTlianimoxmareba_EqAdScale",
+      "Mtlianimoxmareba_EqAdScale_08"
+    ],
+    "uid_nonmissing": 11590,
+    "uid_unique": 11590
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblincomes.sav",
+    "rows": 11590,
+    "columns": [
+      "UID",
+      "ShemDaq",
+      "ShemTviTdasaqm",
+      "Shem_Sof",
+      "Qonebidan",
+      "PensStipDaxm",
+      "Ucxoetidan",
+      "Axloblebisagan",
+      "ShemosavaliDaTransf",
+      "QonebisGayidvit",
+      "SesxAnDanazog",
+      "SxvaFuladiSaxsrebi",
+      "ArafuladiMoxmareba",
+      "Shemosavalisul",
+      "Fuladisaxsrebi",
+      "Saxsrebi_Sul"
+    ],
+    "uid_nonmissing": 11590,
+    "uid_unique": 11590
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda01.sav",
+    "rows": 11590,
+    "columns": [
+      "UID",
+      "HomeBuildedDate",
+      "OwnerOfHome",
+      "Walls",
+      "Floor",
+      "Ceiling",
+      "WholeS",
+      "LivingS",
+      "HowManyRooms",
+      "HowManyBedRooms",
+      "Kitchen",
+      "Cellar",
+      "Bath",
+      "Garage",
+      "WaterSource",
+      "TypeOfToilet",
+      "SellingPrice",
+      "Rent",
+      "OtherHouse",
+      "OtherHouseS",
+      "OtherVillage",
+      "OtherVillageS",
+      "OtherLand",
+      "OtherLandS",
+      "UsedLandYesNo",
+      "NumberOfPices",
+      "WholeLand",
+      "S_Q1",
+      "S_Q2",
+      "S_Q2a",
+      "S_Q2b",
+      "S_Q2c",
+      "S_Q3",
+      "S_Q4",
+      "S_Q5",
+      "S_Q6",
+      "S_Q7",
+      "S_Q8",
+      "S_Q9"
+    ],
+    "uid_nonmissing": 11590,
+    "uid_unique": 11590
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda01_animals.sav",
+    "rows": 10698,
+    "columns": [
+      "UID",
+      "Animal",
+      "Quantity"
+    ],
+    "uid_nonmissing": 10698,
+    "uid_unique": 4977
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda01_comfort.sav",
+    "rows": 42016,
+    "columns": [
+      "UID",
+      "Comfort"
+    ],
+    "uid_nonmissing": 42016,
+    "uid_unique": 11590
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda01_cultures.sav",
+    "rows": 21470,
+    "columns": [
+      "UID",
+      "Culture",
+      "Fartobi",
+      "FartobiSetesili"
+    ],
+    "uid_nonmissing": 21470,
+    "uid_unique": 6871
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda01_lands.sav",
+    "rows": 13185,
+    "columns": [
+      "UID",
+      "LandNo",
+      "SHeqtars",
+      "PrivateForm",
+      "Distance"
+    ],
+    "uid_nonmissing": 13185,
+    "uid_unique": 6871
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda01_subjects.sav",
+    "rows": 87073,
+    "columns": [
+      "UID",
+      "Subject",
+      "Quantity",
+      "Quantity12",
+      "HowManyPaidThisMonth"
+    ],
+    "uid_nonmissing": 87073,
+    "uid_unique": 11581
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda02.sav",
+    "rows": 40104,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "NotPresentNow",
+      "Changes",
+      "Insurance",
+      "InsuranceType",
+      "EducationType",
+      "Q18_1",
+      "Q18_2",
+      "Q18_3",
+      "Q18_4",
+      "Q18_5",
+      "Q18_6",
+      "Internet",
+      "Computer",
+      "Age"
+    ],
+    "uid_nonmissing": 40104,
+    "uid_unique": 11590
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda03_1.sav",
+    "rows": 247535,
+    "columns": [
+      "UID",
+      "PartNo",
+      "DayOfInterview",
+      "ProductCode",
+      "MesurementUnit",
+      "Quantity",
+      "QuantityPerOneUnit",
+      "PriceL",
+      "PriceT",
+      "Source",
+      "Purpose"
+    ],
+    "uid_nonmissing": 247535,
+    "uid_unique": 11554
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda04.sav",
+    "rows": 622491,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Opt",
+      "Value",
+      "raodenoba",
+      "raodenobaufaso",
+      "ufaso101"
+    ],
+    "uid_nonmissing": 622491,
+    "uid_unique": 11590
+  },
+  {
+    "archive": "2017.zip",
+    "table": "2017/2017 DB/tblshinda04_1.sav",
+    "rows": 166687,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Harvest",
+      "Consumption",
+      "SaleOrGift",
+      "Animals",
+      "Processed",
+      "Trash",
+      "Store",
+      "Seed",
+      "Value"
+    ],
+    "uid_nonmissing": 166687,
+    "uid_unique": 7324
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/123.sav",
+    "rows": 90,
+    "columns": [
+      "QuartNo",
+      "Quarters",
+      "YarNo",
+      "YearQuart"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/conspurch_03.sav",
+    "rows": 113144,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "Quantity",
+      "Paid",
+      "Prices"
+    ],
+    "uid_nonmissing": 113144,
+    "uid_unique": 10924
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/deadmen.sav",
+    "rows": 218,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "BirthYear",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "ChangesQ1"
+    ],
+    "uid_nonmissing": 218,
+    "uid_unique": 216
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/familysize.sav",
+    "rows": 11056,
+    "columns": [
+      "UID",
+      "FamilySize",
+      "Childern",
+      "Adult",
+      "Working_age_man",
+      "Working_age_Woman",
+      "Pensioner_age_man",
+      "Pensioner_age_Woman",
+      "Eq_Adult",
+      "Eq_Skale_0_6",
+      "Ed_Skale_0_8"
+    ],
+    "uid_nonmissing": 11056,
+    "uid_unique": 11056
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/sysschedule.sav",
+    "rows": 11056,
+    "columns": [
+      "MonthYear",
+      "QuartNo",
+      "UID",
+      "DiaryID",
+      "RegNo",
+      "UrbanOrRural",
+      "Weights"
+    ],
+    "uid_nonmissing": 11056,
+    "uid_unique": 11056
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblavgprices.sav",
+    "rows": 638,
+    "columns": [
+      "QuartNo",
+      "ProductCode",
+      "AvgPrices"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblconsumption.sav",
+    "rows": 156150,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "consPurch_kg",
+      "consNonCash_03_kg",
+      "cons_04_kg",
+      "cons",
+      "NonCash_StoksConsAdj"
+    ],
+    "uid_nonmissing": 156150,
+    "uid_unique": 11038
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblexpenditures.sav",
+    "rows": 11056,
+    "columns": [
+      "UID",
+      "sursati__sasmeli__Tambaqo",
+      "tansacmeli",
+      "saojaxo",
+      "samedicino",
+      "energia",
+      "transporti",
+      "ganatleba",
+      "sxva",
+      "samomxmXarjebi",
+      "sasoflo",
+      "transferti",
+      "DazogvaAnCasesxeba",
+      "qonebis_seZena",
+      "SxvaGasavlebi",
+      "Arafuladi_moxm_",
+      "fuladixarjebi",
+      "MTlianimoxmareba_",
+      "MTlianixarjebi_",
+      "MTlianimoxmareba_EqAdScale",
+      "Mtlianimoxmareba_EqAdScale_08"
+    ],
+    "uid_nonmissing": 11056,
+    "uid_unique": 11056
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblincomes.sav",
+    "rows": 11056,
+    "columns": [
+      "UID",
+      "ShemDaq",
+      "ShemTviTdasaqm",
+      "Shem_Sof",
+      "Qonebidan",
+      "PensStipDaxm",
+      "Ucxoetidan",
+      "Axloblebisagan",
+      "ShemosavaliDaTransf",
+      "QonebisGayidvit",
+      "SesxAnDanazog",
+      "SxvaFuladiSaxsrebi",
+      "ArafuladiMoxmareba",
+      "Shemosavalisul",
+      "Fuladisaxsrebi",
+      "Saxsrebi_Sul"
+    ],
+    "uid_nonmissing": 11056,
+    "uid_unique": 11056
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda01.sav",
+    "rows": 11056,
+    "columns": [
+      "UID",
+      "HomeBuildedDate",
+      "OwnerOfHome",
+      "Walls",
+      "Floor",
+      "Ceiling",
+      "WholeS",
+      "LivingS",
+      "HowManyRooms",
+      "HowManyBedRooms",
+      "Kitchen",
+      "Cellar",
+      "Bath",
+      "Garage",
+      "WaterSource",
+      "TypeOfToilet",
+      "SellingPrice",
+      "Rent",
+      "OtherHouse",
+      "OtherHouseS",
+      "OtherVillage",
+      "OtherVillageS",
+      "OtherLand",
+      "OtherLandS",
+      "UsedLandYesNo",
+      "NumberOfPices",
+      "WholeLand",
+      "S_Q1",
+      "S_Q2",
+      "S_Q2a",
+      "S_Q2b",
+      "S_Q2c",
+      "S_Q3",
+      "S_Q4",
+      "S_Q5",
+      "S_Q6",
+      "S_Q7",
+      "S_Q8",
+      "S_Q9"
+    ],
+    "uid_nonmissing": 11056,
+    "uid_unique": 11056
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda01_animals.sav",
+    "rows": 10103,
+    "columns": [
+      "UID",
+      "Animal",
+      "Quantity"
+    ],
+    "uid_nonmissing": 10103,
+    "uid_unique": 4699
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda01_comfort.sav",
+    "rows": 40160,
+    "columns": [
+      "UID",
+      "Comfort"
+    ],
+    "uid_nonmissing": 40160,
+    "uid_unique": 11056
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda01_cultures.sav",
+    "rows": 19801,
+    "columns": [
+      "UID",
+      "Culture",
+      "Fartobi",
+      "FartobiSetesili"
+    ],
+    "uid_nonmissing": 19801,
+    "uid_unique": 6453
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda01_lands.sav",
+    "rows": 12579,
+    "columns": [
+      "UID",
+      "LandNo",
+      "SHeqtars",
+      "PrivateForm",
+      "Distance"
+    ],
+    "uid_nonmissing": 12579,
+    "uid_unique": 6453
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda01_subjects.sav",
+    "rows": 82123,
+    "columns": [
+      "UID",
+      "Subject",
+      "Quantity",
+      "Quantity12",
+      "HowManyPaidThisMonth"
+    ],
+    "uid_nonmissing": 82123,
+    "uid_unique": 11051
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda02.sav",
+    "rows": 38840,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "NotPresentNow",
+      "Changes",
+      "Insurance",
+      "InsuranceType",
+      "EducationType",
+      "Q18_1",
+      "Q18_2",
+      "Q18_3",
+      "Q18_4",
+      "Q18_5",
+      "Q18_6",
+      "Internet",
+      "Computer",
+      "Age"
+    ],
+    "uid_nonmissing": 38840,
+    "uid_unique": 11056
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda03_1.sav",
+    "rows": 248040,
+    "columns": [
+      "UID",
+      "PartNo",
+      "DayOfInterview",
+      "ProductCode",
+      "MesurementUnit",
+      "Quantity",
+      "QuantityPerOneUnit",
+      "PriceL",
+      "PriceT",
+      "Source",
+      "Purpose"
+    ],
+    "uid_nonmissing": 248040,
+    "uid_unique": 11040
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda04.sav",
+    "rows": 595992,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Opt",
+      "Value",
+      "raodenoba",
+      "raodenobaufaso",
+      "ufaso101"
+    ],
+    "uid_nonmissing": 595992,
+    "uid_unique": 11056
+  },
+  {
+    "archive": "2018.zip",
+    "table": "2018/2018 DB/tblshinda04_1.sav",
+    "rows": 157086,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Harvest",
+      "Consumption",
+      "SaleOrGift",
+      "Animals",
+      "Processed",
+      "Trash",
+      "Store",
+      "Seed",
+      "Value"
+    ],
+    "uid_nonmissing": 157086,
+    "uid_unique": 6881
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/123.sav",
+    "rows": 94,
+    "columns": [
+      "QuartNo",
+      "Quarters",
+      "YarNo",
+      "YearQuart"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/conspurch_03.sav",
+    "rows": 136982,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "Quantity",
+      "Paid",
+      "Prices"
+    ],
+    "uid_nonmissing": 136982,
+    "uid_unique": 13692
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/deadmen.sav",
+    "rows": 248,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "BirthYear",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "ChangesQ1"
+    ],
+    "uid_nonmissing": 248,
+    "uid_unique": 246
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/familysize.sav",
+    "rows": 13872,
+    "columns": [
+      "UID",
+      "FamilySize",
+      "Childern",
+      "Adult",
+      "Working_age_man",
+      "Working_age_Woman",
+      "Pensioner_age_man",
+      "Pensioner_age_Woman",
+      "Eq_Adult",
+      "Eq_Skale_0_6",
+      "Ed_Skale_0_8"
+    ],
+    "uid_nonmissing": 13872,
+    "uid_unique": 13872
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/sysschedule.sav",
+    "rows": 13872,
+    "columns": [
+      "MonthYear",
+      "QuartNo",
+      "UID",
+      "DiaryID",
+      "RegNo",
+      "UrbanOrRural",
+      "Weights"
+    ],
+    "uid_nonmissing": 13872,
+    "uid_unique": 13872
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblavgprices.sav",
+    "rows": 655,
+    "columns": [
+      "QuartNo",
+      "ProductCode",
+      "AvgPrices"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblconsumption.sav",
+    "rows": 193203,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "consPurch_kg",
+      "consNonCash_03_kg",
+      "cons_04_kg",
+      "cons",
+      "NonCash_StoksConsAdj"
+    ],
+    "uid_nonmissing": 193203,
+    "uid_unique": 13862
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblexpenditures.sav",
+    "rows": 13872,
+    "columns": [
+      "UID",
+      "sursati__sasmeli__Tambaqo",
+      "tansacmeli",
+      "saojaxo",
+      "samedicino",
+      "energia",
+      "transporti",
+      "ganatleba",
+      "sxva",
+      "samomxmXarjebi",
+      "sasoflo",
+      "transferti",
+      "DazogvaAnCasesxeba",
+      "qonebis_seZena",
+      "SxvaGasavlebi",
+      "Arafuladi_moxm_",
+      "fuladixarjebi",
+      "MTlianimoxmareba_",
+      "MTlianixarjebi_",
+      "MTlianimoxmareba_EqAdScale",
+      "Mtlianimoxmareba_EqAdScale_08"
+    ],
+    "uid_nonmissing": 13872,
+    "uid_unique": 13872
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblincomes.sav",
+    "rows": 13872,
+    "columns": [
+      "UID",
+      "ShemDaq",
+      "ShemTviTdasaqm",
+      "Shem_Sof",
+      "Qonebidan",
+      "PensStipDaxm",
+      "Ucxoetidan",
+      "Axloblebisagan",
+      "ShemosavaliDaTransf",
+      "QonebisGayidvit",
+      "SesxAnDanazog",
+      "SxvaFuladiSaxsrebi",
+      "ArafuladiMoxmareba",
+      "Shemosavalisul",
+      "Fuladisaxsrebi",
+      "Saxsrebi_Sul"
+    ],
+    "uid_nonmissing": 13872,
+    "uid_unique": 13872
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda01.sav",
+    "rows": 13872,
+    "columns": [
+      "UID",
+      "HomeBuildedDate",
+      "OwnerOfHome",
+      "Walls",
+      "Floor",
+      "Ceiling",
+      "WholeS",
+      "LivingS",
+      "HowManyRooms",
+      "HowManyBedRooms",
+      "Kitchen",
+      "Cellar",
+      "Bath",
+      "Garage",
+      "WaterSource",
+      "TypeOfToilet",
+      "SellingPrice",
+      "Rent",
+      "OtherHouse",
+      "OtherHouseS",
+      "OtherVillage",
+      "OtherVillageS",
+      "OtherLand",
+      "OtherLandS",
+      "UsedLandYesNo",
+      "NumberOfPices",
+      "WholeLand",
+      "S_Q1",
+      "S_Q2",
+      "S_Q2a",
+      "S_Q2b",
+      "S_Q2c",
+      "S_Q3",
+      "S_Q4",
+      "S_Q5",
+      "S_Q6",
+      "S_Q7",
+      "S_Q8",
+      "S_Q9"
+    ],
+    "uid_nonmissing": 13872,
+    "uid_unique": 13872
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda01_animals.sav",
+    "rows": 13313,
+    "columns": [
+      "UID",
+      "Animal",
+      "Quantity"
+    ],
+    "uid_nonmissing": 13313,
+    "uid_unique": 6245
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda01_comfort.sav",
+    "rows": 50051,
+    "columns": [
+      "UID",
+      "Comfort"
+    ],
+    "uid_nonmissing": 50051,
+    "uid_unique": 13872
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda01_cultures.sav",
+    "rows": 27512,
+    "columns": [
+      "UID",
+      "Culture",
+      "Fartobi",
+      "FartobiSetesili"
+    ],
+    "uid_nonmissing": 27512,
+    "uid_unique": 8745
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda01_lands.sav",
+    "rows": 17264,
+    "columns": [
+      "UID",
+      "LandNo",
+      "SHeqtars",
+      "PrivateForm",
+      "Distance"
+    ],
+    "uid_nonmissing": 17264,
+    "uid_unique": 8745
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda01_subjects.sav",
+    "rows": 102188,
+    "columns": [
+      "UID",
+      "Subject",
+      "Quantity",
+      "Quantity12",
+      "HowManyPaidThisMonth"
+    ],
+    "uid_nonmissing": 102188,
+    "uid_unique": 13862
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda02.sav",
+    "rows": 47685,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "NotPresentNow",
+      "Changes",
+      "Insurance",
+      "InsuranceType",
+      "EducationType",
+      "Q18_1",
+      "Q18_2",
+      "Q18_3",
+      "Q18_4",
+      "Q18_5",
+      "Q18_6",
+      "Internet",
+      "Computer",
+      "Age"
+    ],
+    "uid_nonmissing": 47685,
+    "uid_unique": 13872
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda03_1.sav",
+    "rows": 294026,
+    "columns": [
+      "UID",
+      "PartNo",
+      "DayOfInterview",
+      "ProductCode",
+      "MesurementUnit",
+      "Quantity",
+      "QuantityPerOneUnit",
+      "PriceL",
+      "PriceT",
+      "Source",
+      "Purpose"
+    ],
+    "uid_nonmissing": 294026,
+    "uid_unique": 13838
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda04.sav",
+    "rows": 750340,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Opt",
+      "Value",
+      "raodenoba",
+      "raodenobaufaso",
+      "ufaso101"
+    ],
+    "uid_nonmissing": 750340,
+    "uid_unique": 13872
+  },
+  {
+    "archive": "2019.zip",
+    "table": "2019/2019 DB/tblshinda04_1.sav",
+    "rows": 206517,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Harvest",
+      "Consumption",
+      "SaleOrGift",
+      "Animals",
+      "Processed",
+      "Trash",
+      "Store",
+      "Seed",
+      "Value"
+    ],
+    "uid_nonmissing": 206517,
+    "uid_unique": 8960
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/123.sav",
+    "rows": 102,
+    "columns": [
+      "QuartNo",
+      "Quarters",
+      "YarNo",
+      "YearQuart"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/conspurch_03.sav",
+    "rows": 128617,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "Quantity",
+      "Paid",
+      "Prices"
+    ],
+    "uid_nonmissing": 128617,
+    "uid_unique": 13252
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/deadmen.sav",
+    "rows": 297,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "BirthYear",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "ChangesQ1"
+    ],
+    "uid_nonmissing": 297,
+    "uid_unique": 289
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/familysize.sav",
+    "rows": 13621,
+    "columns": [
+      "UID",
+      "FamilySize",
+      "Childern",
+      "Adult",
+      "Working_age_man",
+      "Working_age_Woman",
+      "Pensioner_age_man",
+      "Pensioner_age_Woman",
+      "Eq_Adult",
+      "Eq_Skale_0_6",
+      "Ed_Skale_0_8"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/sysschedule.sav",
+    "rows": 13621,
+    "columns": [
+      "MonthYear",
+      "QuartNo",
+      "UID",
+      "DiaryID",
+      "RegNo",
+      "UrbanOrRural",
+      "Weights"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblavgprices.sav",
+    "rows": 693,
+    "columns": [
+      "QuartNo",
+      "ProductCode",
+      "AvgPrices"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblconsumption.sav",
+    "rows": 187108,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "consPurch_kg",
+      "consNonCash_03_kg",
+      "cons_04_kg",
+      "cons",
+      "NonCash_StoksConsAdj"
+    ],
+    "uid_nonmissing": 187108,
+    "uid_unique": 13580
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblexpenditures.sav",
+    "rows": 13621,
+    "columns": [
+      "UID",
+      "sursati__sasmeli__Tambaqo",
+      "tansacmeli",
+      "saojaxo",
+      "samedicino",
+      "energia",
+      "transporti",
+      "ganatleba",
+      "sxva",
+      "samomxmXarjebi",
+      "sasoflo",
+      "transferti",
+      "DazogvaAnCasesxeba",
+      "qonebis_seZena",
+      "SxvaGasavlebi",
+      "Arafuladi_moxm_",
+      "fuladixarjebi",
+      "MTlianimoxmareba_",
+      "MTlianixarjebi_",
+      "MTlianimoxmareba_EqAdScale",
+      "Mtlianimoxmareba_EqAdScale_08"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblincomes.sav",
+    "rows": 13621,
+    "columns": [
+      "UID",
+      "ShemDaq",
+      "ShemTviTdasaqm",
+      "Shem_Sof",
+      "Qonebidan",
+      "PensStipDaxm",
+      "Ucxoetidan",
+      "Axloblebisagan",
+      "ShemosavaliDaTransf",
+      "QonebisGayidvit",
+      "SesxAnDanazog",
+      "SxvaFuladiSaxsrebi",
+      "ArafuladiMoxmareba",
+      "Shemosavalisul",
+      "Fuladisaxsrebi",
+      "Saxsrebi_Sul"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda01.sav",
+    "rows": 13621,
+    "columns": [
+      "UID",
+      "HomeBuildedDate",
+      "OwnerOfHome",
+      "Walls",
+      "Floor",
+      "Ceiling",
+      "WholeS",
+      "LivingS",
+      "HowManyRooms",
+      "HowManyBedRooms",
+      "Kitchen",
+      "Cellar",
+      "Bath",
+      "Garage",
+      "WaterSource",
+      "TypeOfToilet",
+      "SellingPrice",
+      "Rent",
+      "OtherHouse",
+      "OtherHouseS",
+      "OtherVillage",
+      "OtherVillageS",
+      "OtherLand",
+      "OtherLandS",
+      "UsedLandYesNo",
+      "NumberOfPices",
+      "WholeLand",
+      "S_Q1",
+      "S_Q2",
+      "S_Q2a",
+      "S_Q2b",
+      "S_Q2c",
+      "S_Q3",
+      "S_Q4",
+      "S_Q5",
+      "S_Q6",
+      "S_Q7",
+      "S_Q8",
+      "S_Q9"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda01_animals.sav",
+    "rows": 12479,
+    "columns": [
+      "UID",
+      "Animal",
+      "Quantity"
+    ],
+    "uid_nonmissing": 12479,
+    "uid_unique": 5920
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda01_comfort.sav",
+    "rows": 51819,
+    "columns": [
+      "UID",
+      "Comfort"
+    ],
+    "uid_nonmissing": 51819,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda01_cultures.sav",
+    "rows": 27037,
+    "columns": [
+      "UID",
+      "Culture",
+      "Fartobi",
+      "FartobiSetesili"
+    ],
+    "uid_nonmissing": 27037,
+    "uid_unique": 8611
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda01_lands.sav",
+    "rows": 16378,
+    "columns": [
+      "UID",
+      "LandNo",
+      "SHeqtars",
+      "PrivateForm",
+      "Distance"
+    ],
+    "uid_nonmissing": 16378,
+    "uid_unique": 8611
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda01_subjects.sav",
+    "rows": 101408,
+    "columns": [
+      "UID",
+      "Subject",
+      "Quantity",
+      "Quantity12",
+      "HowManyPaidThisMonth"
+    ],
+    "uid_nonmissing": 101408,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda02.sav",
+    "rows": 45244,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "NotPresentNow",
+      "Changes",
+      "Insurance",
+      "InsuranceType",
+      "EducationType",
+      "Q18_1",
+      "Q18_2",
+      "Q18_3",
+      "Q18_4",
+      "Q18_5",
+      "Q18_6",
+      "Internet",
+      "Computer",
+      "Age"
+    ],
+    "uid_nonmissing": 45244,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda03_1.sav",
+    "rows": 274181,
+    "columns": [
+      "UID",
+      "PartNo",
+      "DayOfInterview",
+      "ProductCode",
+      "MesurementUnit",
+      "Quantity",
+      "QuantityPerOneUnit",
+      "PriceL",
+      "PriceT",
+      "Source",
+      "Purpose"
+    ],
+    "uid_nonmissing": 274181,
+    "uid_unique": 13541
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda04.sav",
+    "rows": 668707,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Opt",
+      "Value",
+      "raodenoba",
+      "raodenobaufaso",
+      "ufaso101"
+    ],
+    "uid_nonmissing": 668707,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2021.zip",
+    "table": "2021/2021 DB/tblshinda04_1.sav",
+    "rows": 208535,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Harvest",
+      "Consumption",
+      "SaleOrGift",
+      "Animals",
+      "Processed",
+      "Trash",
+      "Store",
+      "Seed",
+      "Value"
+    ],
+    "uid_nonmissing": 208535,
+    "uid_unique": 8595
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/123.sav",
+    "rows": 106,
+    "columns": [
+      "QuartNo",
+      "Quarters",
+      "YarNo",
+      "YearQuart"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/conspurch_03.sav",
+    "rows": 130370,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "Quantity",
+      "Paid",
+      "Prices"
+    ],
+    "uid_nonmissing": 130370,
+    "uid_unique": 13257
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/deadmen.sav",
+    "rows": 332,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "BirthYear",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "ChangesQ1"
+    ],
+    "uid_nonmissing": 332,
+    "uid_unique": 323
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/familysize.sav",
+    "rows": 13621,
+    "columns": [
+      "UID",
+      "FamilySize",
+      "Childern",
+      "Adult",
+      "Working_age_man",
+      "Working_age_Woman",
+      "Pensioner_age_man",
+      "Pensioner_age_Woman",
+      "Eq_Adult",
+      "Eq_Skale_0_6",
+      "Ed_Skale_0_8"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/sysschedule.sav",
+    "rows": 13621,
+    "columns": [
+      "MonthYear",
+      "QuartNo",
+      "UID",
+      "DiaryID",
+      "RegNo",
+      "UrbanOrRural",
+      "Weights"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblavgprices.sav",
+    "rows": 705,
+    "columns": [
+      "QuartNo",
+      "ProductCode",
+      "AvgPrices"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblconsumption.sav",
+    "rows": 185736,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "consPurch_kg",
+      "consNonCash_03_kg",
+      "cons_04_kg",
+      "cons",
+      "NonCash_StoksConsAdj"
+    ],
+    "uid_nonmissing": 185736,
+    "uid_unique": 13582
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblexpenditures.sav",
+    "rows": 13621,
+    "columns": [
+      "UID",
+      "sursati__sasmeli__Tambaqo",
+      "tansacmeli",
+      "saojaxo",
+      "samedicino",
+      "energia",
+      "transporti",
+      "ganatleba",
+      "sxva",
+      "samomxmXarjebi",
+      "sasoflo",
+      "transferti",
+      "DazogvaAnCasesxeba",
+      "qonebis_seZena",
+      "SxvaGasavlebi",
+      "Arafuladi_moxm_",
+      "fuladixarjebi",
+      "MTlianimoxmareba_",
+      "MTlianixarjebi_",
+      "MTlianimoxmareba_EqAdScale",
+      "Mtlianimoxmareba_EqAdScale_08"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblincomes.sav",
+    "rows": 13621,
+    "columns": [
+      "UID",
+      "ShemDaq",
+      "ShemTviTdasaqm",
+      "Shem_Sof",
+      "Qonebidan",
+      "PensStipDaxm",
+      "Ucxoetidan",
+      "Axloblebisagan",
+      "ShemosavaliDaTransf",
+      "QonebisGayidvit",
+      "SesxAnDanazog",
+      "SxvaFuladiSaxsrebi",
+      "ArafuladiMoxmareba",
+      "Shemosavalisul",
+      "Fuladisaxsrebi",
+      "Saxsrebi_Sul"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda01.sav",
+    "rows": 13621,
+    "columns": [
+      "UID",
+      "HomeBuildedDate",
+      "OwnerOfHome",
+      "Walls",
+      "Floor",
+      "Ceiling",
+      "WholeS",
+      "LivingS",
+      "HowManyRooms",
+      "HowManyBedRooms",
+      "Kitchen",
+      "Cellar",
+      "Bath",
+      "Garage",
+      "WaterSource",
+      "TypeOfToilet",
+      "SellingPrice",
+      "Rent",
+      "OtherHouse",
+      "OtherHouseS",
+      "OtherVillage",
+      "OtherVillageS",
+      "OtherLand",
+      "OtherLandS",
+      "UsedLandYesNo",
+      "NumberOfPices",
+      "WholeLand",
+      "S_Q1",
+      "S_Q2",
+      "S_Q2a",
+      "S_Q2b",
+      "S_Q2c",
+      "S_Q3",
+      "S_Q4",
+      "S_Q5",
+      "S_Q6",
+      "S_Q7",
+      "S_Q8",
+      "S_Q9"
+    ],
+    "uid_nonmissing": 13621,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda01_animals.sav",
+    "rows": 12816,
+    "columns": [
+      "UID",
+      "Animal",
+      "Quantity"
+    ],
+    "uid_nonmissing": 12816,
+    "uid_unique": 6031
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda01_comfort.sav",
+    "rows": 53757,
+    "columns": [
+      "UID",
+      "Comfort"
+    ],
+    "uid_nonmissing": 53757,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda01_cultures.sav",
+    "rows": 27624,
+    "columns": [
+      "UID",
+      "Culture",
+      "Fartobi",
+      "FartobiSetesili"
+    ],
+    "uid_nonmissing": 27624,
+    "uid_unique": 8682
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda01_lands.sav",
+    "rows": 16649,
+    "columns": [
+      "UID",
+      "LandNo",
+      "SHeqtars",
+      "PrivateForm",
+      "Distance"
+    ],
+    "uid_nonmissing": 16649,
+    "uid_unique": 8682
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda01_subjects.sav",
+    "rows": 103606,
+    "columns": [
+      "UID",
+      "Subject",
+      "Quantity",
+      "Quantity12",
+      "HowManyPaidThisMonth"
+    ],
+    "uid_nonmissing": 103606,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda02.sav",
+    "rows": 45330,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "NotPresentNow",
+      "Changes",
+      "Insurance",
+      "InsuranceType",
+      "EducationType",
+      "Q18_1",
+      "Q18_2",
+      "Q18_3",
+      "Q18_4",
+      "Q18_5",
+      "Q18_6",
+      "Internet",
+      "Computer",
+      "Age"
+    ],
+    "uid_nonmissing": 45330,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda03_1.sav",
+    "rows": 277908,
+    "columns": [
+      "UID",
+      "PartNo",
+      "DayOfInterview",
+      "ProductCode",
+      "MesurementUnit",
+      "Quantity",
+      "QuantityPerOneUnit",
+      "PriceL",
+      "PriceT",
+      "Source",
+      "Purpose"
+    ],
+    "uid_nonmissing": 277908,
+    "uid_unique": 13547
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda04.sav",
+    "rows": 711673,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Opt",
+      "Value",
+      "raodenoba",
+      "raodenobaufaso",
+      "ufaso101"
+    ],
+    "uid_nonmissing": 711673,
+    "uid_unique": 13621
+  },
+  {
+    "archive": "2022.zip",
+    "table": "2022/2022 DB/tblshinda04_1.sav",
+    "rows": 202918,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Harvest",
+      "Consumption",
+      "SaleOrGift",
+      "Animals",
+      "Processed",
+      "Trash",
+      "Store",
+      "Seed",
+      "Value"
+    ],
+    "uid_nonmissing": 202918,
+    "uid_unique": 8616
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/123.sav",
+    "rows": 114,
+    "columns": [
+      "QuartNo",
+      "Quarters",
+      "YarNo",
+      "YearQuart"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/conspurch_03.sav",
+    "rows": 129905,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "Quantity",
+      "Paid",
+      "Prices"
+    ],
+    "uid_nonmissing": 129905,
+    "uid_unique": 12768
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/deadmen.sav",
+    "rows": 225,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "BirthYear",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "ChangesQ1"
+    ],
+    "uid_nonmissing": 225,
+    "uid_unique": 220
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/familysize.sav",
+    "rows": 13105,
+    "columns": [
+      "UID",
+      "FamilySize",
+      "Childern",
+      "Adult",
+      "Working_age_man",
+      "Working_age_Woman",
+      "Pensioner_age_man",
+      "Pensioner_age_Woman",
+      "Eq_Adult",
+      "Eq_Skale_0_6",
+      "Ed_Skale_0_8"
+    ],
+    "uid_nonmissing": 13105,
+    "uid_unique": 13105
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/sysschedule.sav",
+    "rows": 13105,
+    "columns": [
+      "MonthYear",
+      "QuartNo",
+      "UID",
+      "DiaryID",
+      "RegNo",
+      "UrbanOrRural",
+      "Weights"
+    ],
+    "uid_nonmissing": 13105,
+    "uid_unique": 13105
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblavgprices.sav",
+    "rows": 705,
+    "columns": [
+      "QuartNo",
+      "ProductCode",
+      "AvgPrices"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblconsumption.sav",
+    "rows": 177456,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "consPurch_kg",
+      "consNonCash_03_kg",
+      "cons_04_kg",
+      "cons",
+      "NonCash_StoksConsAdj"
+    ],
+    "uid_nonmissing": 177456,
+    "uid_unique": 13084
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblexpenditures.sav",
+    "rows": 13105,
+    "columns": [
+      "UID",
+      "sursati__sasmeli__Tambaqo",
+      "tansacmeli",
+      "saojaxo",
+      "samedicino",
+      "energia",
+      "transporti",
+      "ganatleba",
+      "sxva",
+      "samomxmXarjebi",
+      "sasoflo",
+      "transferti",
+      "DazogvaAnCasesxeba",
+      "qonebis_seZena",
+      "SxvaGasavlebi",
+      "Arafuladi_moxm_",
+      "fuladixarjebi",
+      "MTlianimoxmareba_",
+      "MTlianixarjebi_",
+      "MTlianimoxmareba_EqAdScale",
+      "Mtlianimoxmareba_EqAdScale_08"
+    ],
+    "uid_nonmissing": 13105,
+    "uid_unique": 13105
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblincomes.sav",
+    "rows": 13105,
+    "columns": [
+      "UID",
+      "ShemDaq",
+      "ShemTviTdasaqm",
+      "Shem_Sof",
+      "Qonebidan",
+      "PensStipDaxm",
+      "Ucxoetidan",
+      "Axloblebisagan",
+      "ShemosavaliDaTransf",
+      "QonebisGayidvit",
+      "SesxAnDanazog",
+      "SxvaFuladiSaxsrebi",
+      "ArafuladiMoxmareba",
+      "Shemosavalisul",
+      "Fuladisaxsrebi",
+      "Saxsrebi_Sul"
+    ],
+    "uid_nonmissing": 13105,
+    "uid_unique": 13105
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda01.sav",
+    "rows": 13105,
+    "columns": [
+      "UID",
+      "HomeBuildedDate",
+      "OwnerOfHome",
+      "Walls",
+      "Floor",
+      "Ceiling",
+      "WholeS",
+      "LivingS",
+      "HowManyRooms",
+      "HowManyBedRooms",
+      "Kitchen",
+      "Cellar",
+      "Bath",
+      "Garage",
+      "WaterSource",
+      "TypeOfToilet",
+      "SellingPrice",
+      "Rent",
+      "OtherHouse",
+      "OtherHouseS",
+      "OtherVillage",
+      "OtherVillageS",
+      "OtherLand",
+      "OtherLandS",
+      "UsedLandYesNo",
+      "NumberOfPices",
+      "WholeLand",
+      "S_Q1",
+      "S_Q2",
+      "S_Q2a",
+      "S_Q2b",
+      "S_Q2c",
+      "S_Q3",
+      "S_Q4",
+      "S_Q5",
+      "S_Q6",
+      "S_Q7",
+      "S_Q8",
+      "S_Q9"
+    ],
+    "uid_nonmissing": 13105,
+    "uid_unique": 13105
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda01_animals.sav",
+    "rows": 11501,
+    "columns": [
+      "UID",
+      "Animal",
+      "Quantity"
+    ],
+    "uid_nonmissing": 11501,
+    "uid_unique": 5415
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda01_comfort.sav",
+    "rows": 54214,
+    "columns": [
+      "UID",
+      "Comfort"
+    ],
+    "uid_nonmissing": 54214,
+    "uid_unique": 13105
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda01_cultures.sav",
+    "rows": 26947,
+    "columns": [
+      "UID",
+      "Culture",
+      "Fartobi",
+      "FartobiSetesili"
+    ],
+    "uid_nonmissing": 26947,
+    "uid_unique": 8255
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda01_lands.sav",
+    "rows": 15796,
+    "columns": [
+      "UID",
+      "LandNo",
+      "SHeqtars",
+      "PrivateForm",
+      "Distance"
+    ],
+    "uid_nonmissing": 15796,
+    "uid_unique": 8255
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda01_subjects.sav",
+    "rows": 99409,
+    "columns": [
+      "UID",
+      "Subject",
+      "Quantity",
+      "Quantity12",
+      "HowManyPaidThisMonth"
+    ],
+    "uid_nonmissing": 99409,
+    "uid_unique": 13104
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda02.sav",
+    "rows": 40987,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "NotPresentNow",
+      "Changes",
+      "Insurance",
+      "InsuranceType",
+      "EducationType",
+      "Q18_1",
+      "Q18_2",
+      "Q18_3",
+      "Q18_4",
+      "Q18_5",
+      "Q18_6",
+      "Internet",
+      "Computer",
+      "Age"
+    ],
+    "uid_nonmissing": 40987,
+    "uid_unique": 13105
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda03_1.sav",
+    "rows": 270140,
+    "columns": [
+      "UID",
+      "PartNo",
+      "DayOfInterview",
+      "ProductCode",
+      "MesurementUnit",
+      "Quantity",
+      "QuantityPerOneUnit",
+      "PriceL",
+      "PriceT",
+      "Source",
+      "Purpose"
+    ],
+    "uid_nonmissing": 270140,
+    "uid_unique": 13055
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda04.sav",
+    "rows": 743089,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Opt",
+      "Value",
+      "raodenoba",
+      "raodenobaufaso",
+      "ufaso101"
+    ],
+    "uid_nonmissing": 743089,
+    "uid_unique": 13105
+  },
+  {
+    "archive": "2024.zip",
+    "table": "2024/2024 DB/tblshinda04_1.sav",
+    "rows": 170212,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Harvest",
+      "Consumption",
+      "SaleOrGift",
+      "Animals",
+      "Processed",
+      "Trash",
+      "Store",
+      "Seed",
+      "Value"
+    ],
+    "uid_nonmissing": 170212,
+    "uid_unique": 8089
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/123.sav",
+    "rows": 118,
+    "columns": [
+      "QuartNo",
+      "Quarters",
+      "YarNo",
+      "YearQuart"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/conspurch_03.sav",
+    "rows": 136640,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "Quantity",
+      "Paid",
+      "Prices"
+    ],
+    "uid_nonmissing": 136640,
+    "uid_unique": 13034
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/deadmen.sav",
+    "rows": 258,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "BirthYear",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "ChangesQ1"
+    ],
+    "uid_nonmissing": 258,
+    "uid_unique": 255
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/familysize.sav",
+    "rows": 13341,
+    "columns": [
+      "UID",
+      "FamilySize",
+      "Childern",
+      "Adult",
+      "Working_age_man",
+      "Working_age_Woman",
+      "Pensioner_age_man",
+      "Pensioner_age_Woman",
+      "Eq_Adult",
+      "Eq_Skale_0_6",
+      "Ed_Skale_0_8"
+    ],
+    "uid_nonmissing": 13341,
+    "uid_unique": 13341
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/sysschedule.sav",
+    "rows": 13341,
+    "columns": [
+      "MonthYear",
+      "QuartNo",
+      "UID",
+      "DiaryID",
+      "RegNo",
+      "UrbanOrRural",
+      "Weights"
+    ],
+    "uid_nonmissing": 13341,
+    "uid_unique": 13341
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblavgprices.sav",
+    "rows": 816,
+    "columns": [
+      "QuartNo",
+      "ProductCode",
+      "AvgPrices"
+    ],
+    "uid_nonmissing": 0,
+    "uid_unique": null
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblconsumption.sav",
+    "rows": 182924,
+    "columns": [
+      "UID",
+      "ProductCode",
+      "consPurch_kg",
+      "consNonCash_03_kg",
+      "cons_04_kg",
+      "cons",
+      "NonCash_StoksConsAdj"
+    ],
+    "uid_nonmissing": 182924,
+    "uid_unique": 13328
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblexpenditures.sav",
+    "rows": 13341,
+    "columns": [
+      "UID",
+      "sursati__sasmeli__Tambaqo",
+      "tansacmeli",
+      "saojaxo",
+      "samedicino",
+      "energia",
+      "transporti",
+      "ganatleba",
+      "sxva",
+      "samomxmXarjebi",
+      "sasoflo",
+      "transferti",
+      "DazogvaAnCasesxeba",
+      "qonebis_seZena",
+      "SxvaGasavlebi",
+      "Arafuladi_moxm_",
+      "fuladixarjebi",
+      "MTlianimoxmareba_",
+      "MTlianixarjebi_",
+      "MTlianimoxmareba_EqAdScale",
+      "Mtlianimoxmareba_EqAdScale_08"
+    ],
+    "uid_nonmissing": 13341,
+    "uid_unique": 13341
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblincomes.sav",
+    "rows": 13341,
+    "columns": [
+      "UID",
+      "ShemDaq",
+      "ShemTviTdasaqm",
+      "Shem_Sof",
+      "Qonebidan",
+      "PensStipDaxm",
+      "Ucxoetidan",
+      "Axloblebisagan",
+      "ShemosavaliDaTransf",
+      "QonebisGayidvit",
+      "SesxAnDanazog",
+      "SxvaFuladiSaxsrebi",
+      "ArafuladiMoxmareba",
+      "Shemosavalisul",
+      "Fuladisaxsrebi",
+      "Saxsrebi_Sul"
+    ],
+    "uid_nonmissing": 13341,
+    "uid_unique": 13341
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda01.sav",
+    "rows": 13341,
+    "columns": [
+      "UID",
+      "HomeBuildedDate",
+      "OwnerOfHome",
+      "Walls",
+      "Floor",
+      "Ceiling",
+      "WholeS",
+      "LivingS",
+      "HowManyRooms",
+      "HowManyBedRooms",
+      "Kitchen",
+      "Cellar",
+      "Bath",
+      "Garage",
+      "WaterSource",
+      "TypeOfToilet",
+      "SellingPrice",
+      "Rent",
+      "OtherHouse",
+      "OtherHouseS",
+      "OtherVillage",
+      "OtherVillageS",
+      "OtherLand",
+      "OtherLandS",
+      "UsedLandYesNo",
+      "NumberOfPices",
+      "WholeLand",
+      "S_Q1",
+      "S_Q2",
+      "S_Q2a",
+      "S_Q2b",
+      "S_Q2c",
+      "S_Q3",
+      "S_Q4",
+      "S_Q5",
+      "S_Q6",
+      "S_Q7",
+      "S_Q8",
+      "S_Q9"
+    ],
+    "uid_nonmissing": 13341,
+    "uid_unique": 13341
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda01_animals.sav",
+    "rows": 10885,
+    "columns": [
+      "UID",
+      "Animal",
+      "Quantity"
+    ],
+    "uid_nonmissing": 10885,
+    "uid_unique": 5292
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda01_comfort.sav",
+    "rows": 56906,
+    "columns": [
+      "UID",
+      "Comfort"
+    ],
+    "uid_nonmissing": 56906,
+    "uid_unique": 13341
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda01_cultures.sav",
+    "rows": 26397,
+    "columns": [
+      "UID",
+      "Culture",
+      "Fartobi",
+      "FartobiSetesili"
+    ],
+    "uid_nonmissing": 26397,
+    "uid_unique": 8374
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda01_lands.sav",
+    "rows": 15573,
+    "columns": [
+      "UID",
+      "LandNo",
+      "SHeqtars",
+      "PrivateForm",
+      "Distance"
+    ],
+    "uid_nonmissing": 15573,
+    "uid_unique": 8374
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda01_subjects.sav",
+    "rows": 103391,
+    "columns": [
+      "UID",
+      "Subject",
+      "Quantity",
+      "Quantity12",
+      "HowManyPaidThisMonth"
+    ],
+    "uid_nonmissing": 103391,
+    "uid_unique": 13341
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda02.sav",
+    "rows": 41927,
+    "columns": [
+      "UID",
+      "MemberNo",
+      "Relations",
+      "Gender",
+      "Education",
+      "Nationality",
+      "MaritalStatus",
+      "YearsInThisCity",
+      "Migration",
+      "SpecialStatus1",
+      "SpecialStatus2",
+      "SpecialStatus3",
+      "NotPresentNow",
+      "Changes",
+      "Insurance",
+      "InsuranceType",
+      "EducationType",
+      "Q18_1",
+      "Q18_2",
+      "Q18_3",
+      "Q18_4",
+      "Q18_5",
+      "Q18_6",
+      "Internet",
+      "Computer",
+      "Age"
+    ],
+    "uid_nonmissing": 41927,
+    "uid_unique": 13341
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda03_1.sav",
+    "rows": 279869,
+    "columns": [
+      "UID",
+      "PartNo",
+      "DayOfInterview",
+      "ProductCode",
+      "MesurementUnit",
+      "Quantity",
+      "QuantityPerOneUnit",
+      "PriceL",
+      "PriceT",
+      "Source",
+      "Purpose"
+    ],
+    "uid_nonmissing": 279869,
+    "uid_unique": 13282
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda04.sav",
+    "rows": 763994,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Opt",
+      "Value",
+      "raodenoba",
+      "raodenobaufaso",
+      "ufaso101"
+    ],
+    "uid_nonmissing": 763994,
+    "uid_unique": 13341
+  },
+  {
+    "archive": "2025.zip",
+    "table": "2025/2025 DB/tblshinda04_1.sav",
+    "rows": 162268,
+    "columns": [
+      "UID",
+      "MonthYear",
+      "TableNo",
+      "ItemNo",
+      "Harvest",
+      "Consumption",
+      "SaleOrGift",
+      "Animals",
+      "Processed",
+      "Trash",
+      "Store",
+      "Seed",
+      "Value"
+    ],
+    "uid_nonmissing": 162268,
+    "uid_unique": 8015
+  }
+]

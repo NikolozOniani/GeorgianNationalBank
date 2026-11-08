@@ -1,0 +1,79 @@
+[
+  {
+    "name": "2016-DB_eng.zip",
+    "bytes": 12669003,
+    "sha256": "5016d929dad1c5f8270151825bda22f68886ad7003b3af0b63e8d7aaefbff6df",
+    "integrity": "passed",
+    "members": 30
+  },
+  {
+    "name": "2017.zip",
+    "bytes": 11891371,
+    "sha256": "dc7ea470c7fa11ad608003af290979fc0cd144daec82f5d9e37c000a321c58ad",
+    "integrity": "passed",
+    "members": 29
+  },
+  {
+    "name": "2018.zip",
+    "bytes": 12315527,
+    "sha256": "56c49713ec9f614d7c522b51b22847a7206116b3a541d0209efeeb638c899a38",
+    "integrity": "passed",
+    "members": 29
+  },
+  {
+    "name": "2019.zip",
+    "bytes": 15001562,
+    "sha256": "db3017c1959183f1aa68850d52fa0bce7a234c590766ec600b2eb961eb88ce06",
+    "integrity": "passed",
+    "members": 29
+  },
+  {
+    "name": "2021.zip",
+    "bytes": 14437445,
+    "sha256": "323b2f168e588093a4892df16f0176c65b6aacdb15b143c892d1c76b06265491",
+    "integrity": "passed",
+    "members": 29
+  },
+  {
+    "name": "2022.zip",
+    "bytes": 14695053,
+    "sha256": "b3ac2b6ace8b6452292070fdedcda2ce4190375182364460a7885bd90dc76ef7",
+    "integrity": "passed",
+    "members": 29
+  },
+  {
+    "name": "2024.zip",
+    "bytes": 15133698,
+    "sha256": "29f02b054c23eb4a0607f76b78f44212368e4fa2e83859d7a4f4adeb697f08a7",
+    "integrity": "passed",
+    "members": 29
+  },
+  {
+    "name": "2025.zip",
+    "bytes": 15766594,
+    "sha256": "b4a7d3d8306bcdd06e785a8bec676ec0a371fd02ffcc904bd02edf34ab7d368c",
+    "integrity": "passed",
+    "members": 29
+  },
+  {
+    "name": "Consumer-basket-weights.xlsx",
+    "bytes": 25626,
+    "sha256": "7cf6f6d95099f5d4369f6ed59b2e0623cd80c782b273918d55ca79e9680ad1db",
+    "integrity": "passed",
+    "members": 12
+  },
+  {
+    "name": "Consumer-Price-Detail-Indices-.Previous-month.100.xlsx",
+    "bytes": 588078,
+    "sha256": "edff626e97cfdd61fbcfc812a03cd7c9720f40996107f2fa6bce330d42b8a239",
+    "integrity": "passed",
+    "members": 37
+  },
+  {
+    "name": "Description-of-IHS-database-variables---Eng.pdf",
+    "bytes": 1109157,
+    "sha256": "e59ca545c4cb840365369bc33c67aec56f5fd6bfa455b3be498004a8ea4ad47f",
+    "integrity": "passed",
+    "members": null
+  }
+]

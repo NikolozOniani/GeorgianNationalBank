@@ -1,0 +1,98 @@
+{
+  "release_id": 437541526,
+  "tag": "GEOSTAT",
+  "url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/tag/GEOSTAT",
+  "assets": [
+    {
+      "id": 720570379,
+      "name": "2016-DB_eng.zip",
+      "size": 12669003,
+      "digest": "sha256:5016d929dad1c5f8270151825bda22f68886ad7003b3af0b63e8d7aaefbff6df",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2016-DB_eng.zip"
+    },
+    {
+      "id": 720571340,
+      "name": "2017.zip",
+      "size": 11891371,
+      "digest": "sha256:dc7ea470c7fa11ad608003af290979fc0cd144daec82f5d9e37c000a321c58ad",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2017.zip"
+    },
+    {
+      "id": 720571481,
+      "name": "2018.zip",
+      "size": 12315527,
+      "digest": "sha256:56c49713ec9f614d7c522b51b22847a7206116b3a541d0209efeeb638c899a38",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2018.zip"
+    },
+    {
+      "id": 720571584,
+      "name": "2019.zip",
+      "size": 15001562,
+      "digest": "sha256:db3017c1959183f1aa68850d52fa0bce7a234c590766ec600b2eb961eb88ce06",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2019.zip"
+    },
+    {
+      "id": 720571657,
+      "name": "2020.zip",
+      "size": 12405319,
+      "digest": "sha256:91cc28edcfed19f8220c607effe47620dc1e633410461bba76b9d848e743e53c",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2020.zip"
+    },
+    {
+      "id": 720571720,
+      "name": "2021.zip",
+      "size": 14437445,
+      "digest": "sha256:323b2f168e588093a4892df16f0176c65b6aacdb15b143c892d1c76b06265491",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2021.zip"
+    },
+    {
+      "id": 720571769,
+      "name": "2022.zip",
+      "size": 14695053,
+      "digest": "sha256:b3ac2b6ace8b6452292070fdedcda2ce4190375182364460a7885bd90dc76ef7",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2022.zip"
+    },
+    {
+      "id": 720571826,
+      "name": "2023.zip",
+      "size": 4994305,
+      "digest": "sha256:ac9330ed365b03013efa704ea551c04ddb3457eb7e7a7459ab733f3aa2187241",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2023.zip"
+    },
+    {
+      "id": 720571869,
+      "name": "2024.zip",
+      "size": 15133698,
+      "digest": "sha256:29f02b054c23eb4a0607f76b78f44212368e4fa2e83859d7a4f4adeb697f08a7",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2024.zip"
+    },
+    {
+      "id": 720571950,
+      "name": "2025.zip",
+      "size": 15766594,
+      "digest": "sha256:b4a7d3d8306bcdd06e785a8bec676ec0a371fd02ffcc904bd02edf34ab7d368c",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/2025.zip"
+    },
+    {
+      "id": 720572857,
+      "name": "Consumer-basket-weights.xlsx",
+      "size": 25626,
+      "digest": "sha256:7cf6f6d95099f5d4369f6ed59b2e0623cd80c782b273918d55ca79e9680ad1db",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/Consumer-basket-weights.xlsx"
+    },
+    {
+      "id": 720572874,
+      "name": "Consumer-Price-Detail-Indices-.Previous-month.100.xlsx",
+      "size": 588078,
+      "digest": "sha256:edff626e97cfdd61fbcfc812a03cd7c9720f40996107f2fa6bce330d42b8a239",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/Consumer-Price-Detail-Indices-.Previous-month.100.xlsx"
+    },
+    {
+      "id": 720572899,
+      "name": "Description-of-IHS-database-variables---Eng.pdf",
+      "size": 1109157,
+      "digest": "sha256:e59ca545c4cb840365369bc33c67aec56f5fd6bfa455b3be498004a8ea4ad47f",
+      "browser_download_url": "https://github.com/NikolozOniani/GeorgianNationalBank/releases/download/GEOSTAT/Description-of-IHS-database-variables---Eng.pdf"
+    }
+  ]
+}

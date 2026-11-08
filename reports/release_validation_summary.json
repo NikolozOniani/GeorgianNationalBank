@@ -1,0 +1,171 @@
+{
+  "release_id": 437541526,
+  "tag": "GEOSTAT",
+  "assets": [
+    {
+      "name": "2016-DB_eng.zip",
+      "expected_bytes": 12669003,
+      "expected_digest": "sha256:5016d929dad1c5f8270151825bda22f68886ad7003b3af0b63e8d7aaefbff6df",
+      "status": "passed",
+      "detail": {
+        "bytes": 12669003,
+        "sha256": "5016d929dad1c5f8270151825bda22f68886ad7003b3af0b63e8d7aaefbff6df",
+        "zip_members": 30
+      }
+    },
+    {
+      "name": "2017.zip",
+      "expected_bytes": 11891371,
+      "expected_digest": "sha256:dc7ea470c7fa11ad608003af290979fc0cd144daec82f5d9e37c000a321c58ad",
+      "status": "passed",
+      "detail": {
+        "bytes": 11891371,
+        "sha256": "dc7ea470c7fa11ad608003af290979fc0cd144daec82f5d9e37c000a321c58ad",
+        "zip_members": 29
+      }
+    },
+    {
+      "name": "2018.zip",
+      "expected_bytes": 12315527,
+      "expected_digest": "sha256:56c49713ec9f614d7c522b51b22847a7206116b3a541d0209efeeb638c899a38",
+      "status": "passed",
+      "detail": {
+        "bytes": 12315527,
+        "sha256": "56c49713ec9f614d7c522b51b22847a7206116b3a541d0209efeeb638c899a38",
+        "zip_members": 29
+      }
+    },
+    {
+      "name": "2019.zip",
+      "expected_bytes": 15001562,
+      "expected_digest": "sha256:db3017c1959183f1aa68850d52fa0bce7a234c590766ec600b2eb961eb88ce06",
+      "status": "passed",
+      "detail": {
+        "bytes": 15001562,
+        "sha256": "db3017c1959183f1aa68850d52fa0bce7a234c590766ec600b2eb961eb88ce06",
+        "zip_members": 29
+      }
+    },
+    {
+      "name": "2020.zip",
+      "expected_bytes": 12405319,
+      "expected_digest": "sha256:91cc28edcfed19f8220c607effe47620dc1e633410461bba76b9d848e743e53c",
+      "status": "structural_failure",
+      "detail": {
+        "bytes": 12405319,
+        "sha256": "91cc28edcfed19f8220c607effe47620dc1e633410461bba76b9d848e743e53c"
+      }
+    },
+    {
+      "name": "2021.zip",
+      "expected_bytes": 14437445,
+      "expected_digest": "sha256:323b2f168e588093a4892df16f0176c65b6aacdb15b143c892d1c76b06265491",
+      "status": "passed",
+      "detail": {
+        "bytes": 14437445,
+        "sha256": "323b2f168e588093a4892df16f0176c65b6aacdb15b143c892d1c76b06265491",
+        "zip_members": 29
+      }
+    },
+    {
+      "name": "2022.zip",
+      "expected_bytes": 14695053,
+      "expected_digest": "sha256:b3ac2b6ace8b6452292070fdedcda2ce4190375182364460a7885bd90dc76ef7",
+      "status": "passed",
+      "detail": {
+        "bytes": 14695053,
+        "sha256": "b3ac2b6ace8b6452292070fdedcda2ce4190375182364460a7885bd90dc76ef7",
+        "zip_members": 29
+      }
+    },
+    {
+      "name": "2023.zip",
+      "expected_bytes": 4994305,
+      "expected_digest": "sha256:ac9330ed365b03013efa704ea551c04ddb3457eb7e7a7459ab733f3aa2187241",
+      "status": "structural_failure",
+      "detail": {
+        "bytes": 4994305,
+        "sha256": "ac9330ed365b03013efa704ea551c04ddb3457eb7e7a7459ab733f3aa2187241"
+      }
+    },
+    {
+      "name": "2024.zip",
+      "expected_bytes": 15133698,
+      "expected_digest": "sha256:29f02b054c23eb4a0607f76b78f44212368e4fa2e83859d7a4f4adeb697f08a7",
+      "status": "passed",
+      "detail": {
+        "bytes": 15133698,
+        "sha256": "29f02b054c23eb4a0607f76b78f44212368e4fa2e83859d7a4f4adeb697f08a7",
+        "zip_members": 29
+      }
+    },
+    {
+      "name": "2025.zip",
+      "expected_bytes": 15766594,
+      "expected_digest": "sha256:b4a7d3d8306bcdd06e785a8bec676ec0a371fd02ffcc904bd02edf34ab7d368c",
+      "status": "passed",
+      "detail": {
+        "bytes": 15766594,
+        "sha256": "b4a7d3d8306bcdd06e785a8bec676ec0a371fd02ffcc904bd02edf34ab7d368c",
+        "zip_members": 29
+      }
+    },
+    {
+      "name": "Consumer-basket-weights.xlsx",
+      "expected_bytes": 25626,
+      "expected_digest": "sha256:7cf6f6d95099f5d4369f6ed59b2e0623cd80c782b273918d55ca79e9680ad1db",
+      "status": "passed",
+      "detail": {
+        "bytes": 25626,
+        "sha256": "7cf6f6d95099f5d4369f6ed59b2e0623cd80c782b273918d55ca79e9680ad1db",
+        "zip_members": 12
+      }
+    },
+    {
+      "name": "Consumer-Price-Detail-Indices-.Previous-month.100.xlsx",
+      "expected_bytes": 588078,
+      "expected_digest": "sha256:edff626e97cfdd61fbcfc812a03cd7c9720f40996107f2fa6bce330d42b8a239",
+      "status": "passed",
+      "detail": {
+        "bytes": 588078,
+        "sha256": "edff626e97cfdd61fbcfc812a03cd7c9720f40996107f2fa6bce330d42b8a239",
+        "zip_members": 37
+      }
+    },
+    {
+      "name": "Description-of-IHS-database-variables---Eng.pdf",
+      "expected_bytes": 1109157,
+      "expected_digest": "sha256:e59ca545c4cb840365369bc33c67aec56f5fd6bfa455b3be498004a8ea4ad47f",
+      "status": "passed",
+      "detail": {
+        "bytes": 1109157,
+        "sha256": "e59ca545c4cb840365369bc33c67aec56f5fd6bfa455b3be498004a8ea4ad47f"
+      }
+    }
+  ],
+  "validated_household_archives": [
+    "2016-DB_eng.zip",
+    "2017.zip",
+    "2018.zip",
+    "2019.zip",
+    "2021.zip",
+    "2022.zip",
+    "2024.zip",
+    "2025.zip"
+  ],
+  "profile_table_count": 154,
+  "profile_rows_by_archive": {
+    "2016-DB_eng.zip": 1615950,
+    "2017.zip": 1576689,
+    "2018.zip": 1530244,
+    "2019.zip": 1909438,
+    "2021.zip": 1790710,
+    "2022.zip": 1837635,
+    "2024.zip": 1806225,
+    "2025.zip": 1848671
+  },
+  "excluded_archives": {
+    "2020.zip": "release bytes hash-match but ZIP central directory is invalid",
+    "2023.zip": "release bytes hash-match but ZIP central directory is invalid"
+  }
+}
