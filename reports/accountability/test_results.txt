@@ -1,0 +1,21 @@
+test_chain_not_sum_and_missing_rejected (test_accountability.AccountabilityTests.test_chain_not_sum_and_missing_rejected) ... ok
+test_independent_decimal_chain (test_accountability.AccountabilityTests.test_independent_decimal_chain) ... ok
+test_inputs_locked_and_outputs_reproducible (test_accountability.AccountabilityTests.test_inputs_locked_and_outputs_reproducible) ... ok
+test_interest_pass_through_and_fx_opposite_exposures (test_accountability.AccountabilityTests.test_interest_pass_through_and_fx_opposite_exposures) ... ok
+test_reserve_sign_and_residual_not_loss (test_accountability.AccountabilityTests.test_reserve_sign_and_residual_not_loss) ... ok
+test_speech_claims_have_briefing_and_partial_coverage_survives (test_accountability.AccountabilityTests.test_speech_claims_have_briefing_and_partial_coverage_survives) ... ok
+test_annual_reporting_is_distinct_from_reserve_change (test_nbg_policy_outputs.PolicyOutputTests.test_annual_reporting_is_distinct_from_reserve_change) ... ok
+test_complete_months_and_component_identity (test_nbg_policy_outputs.PolicyOutputTests.test_complete_months_and_component_identity) ... ok
+test_events_and_higher_frequency_preserved (test_nbg_policy_outputs.PolicyOutputTests.test_events_and_higher_frequency_preserved) ... ok
+test_crc_failure_rejected (test_validation.ValidationTests.test_crc_failure_rejected) ... ok
+test_malformed_zip_rejected (test_validation.ValidationTests.test_malformed_zip_rejected) ... ok
+test_missing_is_not_zero (test_validation.ValidationTests.test_missing_is_not_zero) ... ok
+test_monthly_chain_and_gap (test_validation.ValidationTests.test_monthly_chain_and_gap) ... ok
+test_valuation_not_intervention (test_validation.ValidationTests.test_valuation_not_intervention) ... ok
+test_weighted_unmatched (test_validation.ValidationTests.test_weighted_unmatched) ... ok
+test_zero_denominator (test_validation.ValidationTests.test_zero_denominator) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests (elapsed time omitted)
+
+OK

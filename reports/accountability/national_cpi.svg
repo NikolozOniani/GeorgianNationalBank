@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="460" viewBox="0 0 800 460">
+<rect width="800" height="460" fill="white"/>
+<g font-family="sans-serif" fill="#17243b">
+<text x="55" y="35" font-size="21">Georgia: national consumer price index, 2020–2024</text>
+<text x="55" y="62" font-size="14">December 2019 = 100 • compounded verified monthly CPI</text>
+<path d="M75 340 H680" stroke="#ddd"/>
+<text x="35" y="345">100</text>
+<path d="M75 270 H680" stroke="#ddd"/>
+<text x="35" y="275">110</text>
+<path d="M75 200 H680" stroke="#ddd"/>
+<text x="35" y="205">120</text>
+<path d="M75 130 H680" stroke="#ddd"/>
+<text x="35" y="135">130</text>
+<polyline points="80.0,335.05 90.0,332.71 100.0,328.10 110.0,321.38 120.0,319.92 130.0,329.70 140.0,333.07 150.0,333.24 160.0,328.32 170.0,322.60 180.0,316.24 190.0,323.17 200.0,315.09 210.0,307.40 220.0,276.72 230.0,269.60 240.0,264.56 250.0,259.42 260.0,248.89 270.0,242.99 280.0,241.05 290.0,230.45 300.0,225.48 310.0,223.24 320.0,214.02 330.0,206.79 340.0,186.33 350.0,170.64 360.0,161.48 370.0,159.58 380.0,157.52 390.0,156.29 400.0,148.93 410.0,144.59 420.0,140.42 430.0,142.82 440.0,136.02 450.0,138.89 460.0,140.90 470.0,147.35 480.0,148.53 490.0,154.47 500.0,154.85 510.0,148.40 520.0,142.92 530.0,137.52 540.0,139.70 550.0,138.89 560.0,135.98 570.0,136.32 580.0,136.22 590.0,133.82 600.0,130.41 610.0,135.20 620.0,139.02 630.0,139.80 640.0,137.22 650.0,134.73 660.0,128.31 670.0,122.09" fill="none" stroke="#125c80" stroke-width="3"/>
+<text x="80" y="369">2020</text>
+<text x="200" y="369">2021</text>
+<text x="320" y="369">2022</text>
+<text x="440" y="369">2023</text>
+<text x="560" y="369">2024</text>
+<text x="686" y="125">131.13</text>
+<text x="55" y="407" font-size="14">Source: Geostat; pinned repository CPI series. Not an NBG causal effect.</text>
+<text x="55" y="431" font-size="14">National index; not every household’s basket, income, or welfare.</text></g></svg>

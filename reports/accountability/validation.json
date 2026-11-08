@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "parent_commit": "43c00d543485d47069b5ddb9755e9363b733c512",
+  "prior_files_preserved_n": 42,
+  "intentional_exception": "README.md navigation added",
+  "tests_passed": 16,
+  "spoken_word_count": 1609,
+  "estimated_minutes_at_130_wpm": 12.38,
+  "estimated_minutes_at_110_wpm": 14.63,
+  "timed_rehearsal": false,
+  "evidence_rows": 53,
+  "causal_estimation_run": false,
+  "microdata_reprocessed": false,
+  "numerical_output_reproduces": true,
+  "limitations": [
+    "Tests verify arithmetic and preservation, not causal identification or legal compliance.",
+    "Speech claims manually checked against register and existing research.",
+    "No exhaustive publication-compliance audit or native-speaker oral rehearsal performed."
+  ]
+}

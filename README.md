@@ -1,5 +1,11 @@
 # Georgia monetary policy and household welfare: Phase 1
 
+## Public accountability investigation — 8 November 2026
+
+The complete [accountability edition](reports/accountability/README.md) contains the [evidence dossier](reports/accountability/Dossier.md), [Georgian public speech](reports/accountability/Speech_ka.md), [claim-by-claim opposition briefing](reports/accountability/Fact_check.md), [scoreboard](reports/accountability/Scoreboard.md), [quantitative illustrations](reports/accountability/Illustrations.md), and [reform agenda](reports/accountability/Reforms.md). It investigates costs, benefits and disclosure without claiming an identified net NBG-caused household loss. All previous research below is preserved.
+
+Reproduce the new calculations **offline, without downloading the household data again**: `python src/accountability_scenarios.py`. Run `python src/validate_accountability.py` for calculations, preservation checks, all tests and the speech-length check. Supplemental current official sources can be refreshed separately with `python src/accountability_sources.py`; review any changed source vintage before revising claims.
+
 ## NBG policy data, 2020–2024
 
 The [monthly policy panel](reports/nbg_policy_monthly_2020_2024.csv), [source manifest](reports/nbg_source_manifest.json), [series dictionary](reports/nbg_series_dictionary.csv), and [IMF benchmark and identification memorandum](reports/NBG_Policy_Dataset_and_IMF_Benchmark.md) record observed policy-rate, reserve, exchange-rate, interbank-rate, CPI and quarterly external data. Intervention transaction fields remain blank where no complete series was verified. Reproduce with `python src/nbg_policy.py` after installing `requirements.lock`; tests are `python -m unittest discover -s tests -v`. Raw provider files remain ignored.

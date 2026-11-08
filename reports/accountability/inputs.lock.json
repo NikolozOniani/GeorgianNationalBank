@@ -1,0 +1,10 @@
+{
+  "parent_commit": "43c00d543485d47069b5ddb9755e9363b733c512",
+  "sha256": {
+    "reports/nbg_policy_monthly_2020_2024.csv": "a94f23cd90a2b33707dfe33ba84cd2055c858c367f0ef4b2594f0dcf8f92dfdf",
+    "reports/nbg_fx_annual_benchmarks.csv": "e8a6c380be241657f3a0a7e329e710c55f20e9b55ab41db883c842f52bfb0750",
+    "reports/pilot2017_exposure.csv": "c7e02421a5eea4146a932c048805e0c2aea7a470b1234d34b446fd3c15657a6f",
+    "reports/pilot2017_validation.json": "ed9d92bca17faf269c97ecfa315a9fd0020119ab7e33cb5d14a72fe282e39403",
+    "reports/nbg_source_manifest.json": "ea680b942a3e5fd5e1538d92cf9e9a68f4136bd65544ccc3b9b0486a4b1f8c12"
+  }
+}
