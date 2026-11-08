@@ -41,6 +41,12 @@
     "bytes": 342921,
     "local_raw": "data/raw/auction_20241008.html"
   },
+  "annual2023.pdf": {
+    "source_url": "https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%94%E1%83%91%E1%83%98/%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%98/2023/annual-report-eng-2023.pdf?v=8f6jw",
+    "sha256": "914ade6d21d6a63c763f3deec84bd291dbaa407ecb0bc0c3d65bfb6180baab73",
+    "bytes": 31496277,
+    "local_raw": "data/raw/annual2023.pdf"
+  },
   "imf2025.pdf": {
     "source_url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1geoea2025002-source-pdf.pdf",
     "sha256": "696a28892665a1c94a462fcf62b1ad733c9739c8998bd62622ef6a4a3c9d487b",

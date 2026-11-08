@@ -21,6 +21,8 @@ class PolicyOutputTests(unittest.TestCase):
     def test_annual_reporting_is_distinct_from_reserve_change(self):
         data={x['month']:x for x in rows('nbg_policy_monthly_2020_2024.csv')}
         annual=rows('nbg_fx_annual_benchmarks.csv')[0]
+        annual2023=next(x for x in rows('nbg_fx_annual_benchmarks.csv') if x['year']=='2023')
+        self.assertAlmostEqual(float(annual2023['auction_net_sales_usd_m'])+float(annual2023['bmatch_net_sales_usd_m']),float(annual2023['total_net_sales_usd_m']))
         self.assertAlmostEqual(float(annual['auction_net_sales_usd_m'])+float(annual['bmatch_net_sales_usd_m']),float(annual['total_net_sales_usd_m']))
         stock=float(data['2024-12']['official_reserves_usd_m'])
         prior=stock-sum(float(data[f'2024-{m:02d}']['reserve_stock_change_usd_m']) for m in range(1,13))

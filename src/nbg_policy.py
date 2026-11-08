@@ -12,6 +12,7 @@ SOURCES={
  'group_cpi.xlsx':'https://www.geostat.ge/media/83812/Consumer-Price-Indices-(Previous-month=100).xlsx',
  'annual2024.pdf':'https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%94%E1%83%91%E1%83%98/%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%98/2024/annual-eng-2024.pdf?v=bf7fu',
  'auction_20241008.html':'https://nbg.gov.ge/en/media/news/foreign-exchange-auction-results-of-the-national-bank-of-georgia',
+ 'annual2023.pdf':'https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%94%E1%83%91%E1%83%98/%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%98/2023/annual-report-eng-2023.pdf?v=8f6jw',
  'imf2025.pdf':'https://www.imf.org/-/media/files/publications/cr/2025/english/1geoea2025002-source-pdf.pdf',
 }
 PINNED={'policy_rate.xlsx':'cd2230ee767dc64c2c526caf21e0fc7f8322bf966b5a0cb98cab2760d049ab9d',
@@ -21,6 +22,7 @@ PINNED={'policy_rate.xlsx':'cd2230ee767dc64c2c526caf21e0fc7f8322bf966b5a0cb98cab
         'group_cpi.xlsx':'5b2df9ab880ff87e07e3329b35826c301f3c318f35aa1313041ad1b55946b6b7',
         'annual2024.pdf':'87d2d50b99791a3737031f462123dd8908957fe4082d7b639ea2ba883cb68580',
         'auction_20241008.html':'e53438949eee525d5ca3d3dae050837e0fc55bfbc07620b845da70ed43fd4b1a',
+        'annual2023.pdf':'914ade6d21d6a63c763f3deec84bd291dbaa407ecb0bc0c3d65bfb6180baab73',
         'imf2025.pdf':'696a28892665a1c94a462fcf62b1ad733c9739c8998bd62622ef6a4a3c9d487b'}
 def digest(b):return hashlib.sha256(b).hexdigest()
 def fetch(name,url,expected=None):
@@ -93,12 +95,16 @@ def build():
         text=page.extract_text()
         if '52.65' in text and '382.1' in text and '434.75' in text:annual_pages.append(text)
     assert annual_pages,'2024 annual intervention passage missing'
+    report2023=' '.join(p.extract_text() for p in PdfReader(RAW/'annual2023.pdf').pages[:70])
+    assert all(n in report2023 for n in ('1,445.5','166.8','1,278.7')),'2023 annual intervention passage missing'
     auction_events=[{'auction_date':'2024-10-08','status':'executed disclosed auction result','currency':'USD',
                      'nbg_direction':'sale','amount_usd_m':48.5,'weighted_average_gel_per_usd':2.7194,
                      'source_url':SOURCES['auction_20241008.html'],'source_sha256':PINNED['auction_20241008.html']}]
     write_csv(OUT/'nbg_auction_events_verified.csv',auction_events,list(auction_events[0]))
     annual=[{'year':2024,'auction_net_sales_usd_m':382.1,'bmatch_net_sales_usd_m':52.65,'total_net_sales_usd_m':434.75,
              'auction_events_reported_n':7,'source_url':SOURCES['annual2024.pdf'],'source_sha256':PINNED['annual2024.pdf']}]
+    annual.append({'year':2023,'auction_net_sales_usd_m':166.8,'bmatch_net_sales_usd_m':-1445.5,'total_net_sales_usd_m':-1278.7,
+                   'auction_events_reported_n':'','source_url':SOURCES['annual2023.pdf'],'source_sha256':PINNED['annual2023.pdf']})
     write_csv(OUT/'nbg_fx_annual_benchmarks.csv',annual,list(annual[0]))
     events=rate_events();res=sdmx('reserves.xml');bop=sdmx('bop.xml');cpi=cpi_monthly();tibr=tibr_daily()
     write_csv(OUT/'nbg_tibr_daily_2020_2024.csv',tibr,list(tibr[0]))
