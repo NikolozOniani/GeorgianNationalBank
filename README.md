@@ -1,5 +1,9 @@
 # Georgia monetary policy and household welfare: Phase 1
 
+## NBG policy data, 2020–2024
+
+The [monthly policy panel](reports/nbg_policy_monthly_2020_2024.csv), [source manifest](reports/nbg_source_manifest.json), [series dictionary](reports/nbg_series_dictionary.csv), and [IMF benchmark and identification memorandum](reports/NBG_Policy_Dataset_and_IMF_Benchmark.md) record observed policy-rate, reserve, exchange-rate, interbank-rate, CPI and quarterly external data. Intervention transaction fields remain blank where no complete series was verified. Reproduce with `python src/nbg_policy.py` after installing `requirements.lock`; tests are `python -m unittest discover -s tests -v`. Raw provider files remain ignored.
+
 The Phase 1 assessment, eight requested components, literature review, go/no-go decisions and Phase 2 handoff are in [`phase1/Phase1_Research_Assessment.md`](phase1/Phase1_Research_Assessment.md). The bibliography is in `phase1/references.bib`; `phase1/access_checks.json` and `phase1/audit_log.md` document source access and limitations. The complete downloadable package is [`phase1/Georgia_Phase1_Package.zip`](phase1/Georgia_Phase1_Package.zip).
 
 Status: Phase 2 recovery audit completed. Eleven of thirteen GEOSTAT release assets pass hash and structural checks; the 2020 and 2023 release ZIPs are hash-matched but structurally malformed and are excluded. Descriptive household-price analysis may proceed on validated years. Causal NBG intervention identification remains a separate unresolved track.

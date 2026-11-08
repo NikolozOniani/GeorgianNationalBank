@@ -1,0 +1,572 @@
+{
+  "policy_rate.xlsx": {
+    "source_url": "https://nbg.gov.ge/fm/%E1%83%A1%E1%83%A2%E1%83%90%E1%83%A2%E1%83%98%E1%83%99%E1%83%90/financial_markets/eng/mpireng.xlsx",
+    "sha256": "cd2230ee767dc64c2c526caf21e0fc7f8322bf966b5a0cb98cab2760d049ab9d",
+    "bytes": 21043,
+    "local_raw": "data/raw/policy_rate.xlsx"
+  },
+  "reserves.xml": {
+    "source_url": "https://nbg.gov.ge/fm/nsdp/nbg/ilv1-geo.xml",
+    "sha256": "71590914ddb1ae60a58834058ff74fc7adca0ea1deb48da874adae21f8e19237",
+    "bytes": 101675,
+    "local_raw": "data/raw/reserves.xml"
+  },
+  "bop.xml": {
+    "source_url": "https://nbg.gov.ge/fm/nsdp/nbg/bop5-geo.xml",
+    "sha256": "98c2e693c2e697935f0f05fb749d946af0226e8fd5f70f975c8c7fa16fcb47b4",
+    "bytes": 57763,
+    "local_raw": "data/raw/bop.xml"
+  },
+  "tibr.xlsx": {
+    "source_url": "https://nbg.gov.ge/fm/%E1%83%A1%E1%83%A2%E1%83%90%E1%83%A2%E1%83%98%E1%83%A1%E1%83%A2%E1%83%98%E1%83%99%E1%83%90/analytical_data/eng/tibreng.xlsx",
+    "sha256": "d0c47075568c36c276cde78821cc3c0322c977fb6618debf4ae74f373b869715",
+    "bytes": 263907,
+    "local_raw": "data/raw/tibr.xlsx"
+  },
+  "group_cpi.xlsx": {
+    "source_url": "https://www.geostat.ge/media/83812/Consumer-Price-Indices-(Previous-month=100).xlsx",
+    "sha256": "5b2df9ab880ff87e07e3329b35826c301f3c318f35aa1313041ad1b55946b6b7",
+    "bytes": 777501,
+    "local_raw": "data/raw/group_cpi.xlsx"
+  },
+  "annual2024.pdf": {
+    "source_url": "https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%94%E1%83%91%E1%83%98/%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%98/2024/annual-eng-2024.pdf?v=bf7fu",
+    "sha256": "87d2d50b99791a3737031f462123dd8908957fe4082d7b639ea2ba883cb68580",
+    "bytes": 13214673,
+    "local_raw": "data/raw/annual2024.pdf"
+  },
+  "auction_20241008.html": {
+    "source_url": "https://nbg.gov.ge/en/media/news/foreign-exchange-auction-results-of-the-national-bank-of-georgia",
+    "sha256": "e53438949eee525d5ca3d3dae050837e0fc55bfbc07620b845da70ed43fd4b1a",
+    "bytes": 342921,
+    "local_raw": "data/raw/auction_20241008.html"
+  },
+  "imf2025.pdf": {
+    "source_url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1geoea2025002-source-pdf.pdf",
+    "sha256": "696a28892665a1c94a462fcf62b1ad733c9739c8998bd62622ef6a4a3c9d487b",
+    "bytes": 1931384,
+    "local_raw": "data/raw/imf2025.pdf"
+  },
+  "usd_month_end_api": {
+    "base_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/",
+    "observations": {
+      "2020-01": {
+        "requested_date": "2020-01-31",
+        "api_date": "2020-01-31",
+        "valid_from": "2020-01-31",
+        "rate": 2.8934,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-01-31",
+        "sha256": "bddb1126a80bc3c7632643ccb9d5b4ec4da542b4c7152c0580e00b2a276aad0c"
+      },
+      "2020-02": {
+        "requested_date": "2020-02-29",
+        "api_date": "2020-02-29",
+        "valid_from": "2020-02-29",
+        "rate": 2.7905,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-02-29",
+        "sha256": "510007c2bdd985d937b472650c522a5d94815ba52bb0cb98bb55d390a312a521"
+      },
+      "2020-03": {
+        "requested_date": "2020-03-31",
+        "api_date": "2020-03-31",
+        "valid_from": "2020-03-31",
+        "rate": 3.2845,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-03-31",
+        "sha256": "c0f09840260e05868ef0d2b65b81d177b5e2df12d5836effdce161019264442b"
+      },
+      "2020-04": {
+        "requested_date": "2020-04-30",
+        "api_date": "2020-04-30",
+        "valid_from": "2020-04-30",
+        "rate": 3.2032,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-04-30",
+        "sha256": "bfc21387db50fed842afca27778e96bc16089ac871e5339a79170be1a12524de"
+      },
+      "2020-05": {
+        "requested_date": "2020-05-31",
+        "api_date": "2020-05-31",
+        "valid_from": "2020-05-31",
+        "rate": 3.1761,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-05-31",
+        "sha256": "c98a26affe6baada654dc24914aa0abc22273ed8fa1f2dcf1cd294ba3a19a947"
+      },
+      "2020-06": {
+        "requested_date": "2020-06-30",
+        "api_date": "2020-06-30",
+        "valid_from": "2020-06-30",
+        "rate": 3.0552,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-06-30",
+        "sha256": "c1ac50341a73b2a110c3c1b894b1234e6a0ac43bed070b19b87462e537cc13d0"
+      },
+      "2020-07": {
+        "requested_date": "2020-07-31",
+        "api_date": "2020-07-31",
+        "valid_from": "2020-07-31",
+        "rate": 3.0719,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-07-31",
+        "sha256": "00294243ec11f5ce5de2c729cc5c81fefb651bdb7a3821e3b4f3cc98fd7d4c2c"
+      },
+      "2020-08": {
+        "requested_date": "2020-08-31",
+        "api_date": "2020-08-31",
+        "valid_from": "2020-08-31",
+        "rate": 3.0696,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-08-31",
+        "sha256": "893e0ed632601ca01c12c7027b9a97abaf118d70a704d53aa07e0e9b6eae2822"
+      },
+      "2020-09": {
+        "requested_date": "2020-09-30",
+        "api_date": "2020-09-30",
+        "valid_from": "2020-09-30",
+        "rate": 3.2878,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-09-30",
+        "sha256": "f3c276c3ec42a236620dd3d8380b2c02903af2425eaaee32b22cd32b2a4f61b3"
+      },
+      "2020-10": {
+        "requested_date": "2020-10-31",
+        "api_date": "2020-10-31",
+        "valid_from": "2020-10-31",
+        "rate": 3.2327,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-10-31",
+        "sha256": "316b7136f3297020e5bb679f7035b2131e29e553712279159115b81314b89861"
+      },
+      "2020-11": {
+        "requested_date": "2020-11-30",
+        "api_date": "2020-11-30",
+        "valid_from": "2020-11-30",
+        "rate": 3.3164,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-11-30",
+        "sha256": "e51e1202c1dfe2999d46721913f60f107c2c1c65ff804349ae6a10014e6e33bc"
+      },
+      "2020-12": {
+        "requested_date": "2020-12-31",
+        "api_date": "2020-12-31",
+        "valid_from": "2020-12-31",
+        "rate": 3.2766,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2020-12-31",
+        "sha256": "e36635a3957cb14d989a9c44325226b187319832e5a050a4d1a819e8a9e90b29"
+      },
+      "2021-01": {
+        "requested_date": "2021-01-31",
+        "api_date": "2021-01-31",
+        "valid_from": "2021-01-31",
+        "rate": 3.3026,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-01-31",
+        "sha256": "0b8131adeb16ac8689cb8e539341fe7f17d647d14776e8ae5e2f9dca31d52d78"
+      },
+      "2021-02": {
+        "requested_date": "2021-02-28",
+        "api_date": "2021-02-28",
+        "valid_from": "2021-02-28",
+        "rate": 3.3255,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-02-28",
+        "sha256": "41d8f50eafcf8384758f6be4dc93446df8bbf6f119ced0cca8d4a4a56568bed4"
+      },
+      "2021-03": {
+        "requested_date": "2021-03-31",
+        "api_date": "2021-03-31",
+        "valid_from": "2021-03-31",
+        "rate": 3.4118,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-03-31",
+        "sha256": "be43c11de8e73b5a4a244b2e0e72cf80db2f95baf8fcda449d2f88865fcc11e2"
+      },
+      "2021-04": {
+        "requested_date": "2021-04-30",
+        "api_date": "2021-04-30",
+        "valid_from": "2021-04-30",
+        "rate": 3.4503,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-04-30",
+        "sha256": "c666074976ec84667454c29eaf5fcb74abb2a809cfc1e700aeaa250b888ab10b"
+      },
+      "2021-05": {
+        "requested_date": "2021-05-31",
+        "api_date": "2021-05-31",
+        "valid_from": "2021-05-31",
+        "rate": 3.2779,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-05-31",
+        "sha256": "31115881f2ea0c5e6f6a52ed71ecf75b92c5b578c2cc75aa7cf6618a5244bc19"
+      },
+      "2021-06": {
+        "requested_date": "2021-06-30",
+        "api_date": "2021-06-30",
+        "valid_from": "2021-06-30",
+        "rate": 3.1603,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-06-30",
+        "sha256": "a49f7779a18067423fb562fb28e479534b842601b9748a86731b4f49d4e7ac90"
+      },
+      "2021-07": {
+        "requested_date": "2021-07-31",
+        "api_date": "2021-07-31",
+        "valid_from": "2021-07-31",
+        "rate": 3.1244,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-07-31",
+        "sha256": "a2fb34c8a9b56499cc0ec8a2ed559ea01941152687ec4865debd6019a1f28246"
+      },
+      "2021-08": {
+        "requested_date": "2021-08-31",
+        "api_date": "2021-08-31",
+        "valid_from": "2021-08-31",
+        "rate": 3.117,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-08-31",
+        "sha256": "dd54fa6ff0e858588e81d3570516b84c62959a847bb82a349289213cd3b79e7d"
+      },
+      "2021-09": {
+        "requested_date": "2021-09-30",
+        "api_date": "2021-09-30",
+        "valid_from": "2021-09-30",
+        "rate": 3.1228,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-09-30",
+        "sha256": "dbec72b316bd685541bb88726c7caf84b7e613afd67b0c9e631219ab5a68b9c6"
+      },
+      "2021-10": {
+        "requested_date": "2021-10-31",
+        "api_date": "2021-10-30",
+        "valid_from": "2021-10-30",
+        "rate": 3.1601,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-10-31",
+        "sha256": "5d27ee6a03f55895b0752e9720e05f00dc466ce8dc084452c2567774ca48a63a"
+      },
+      "2021-11": {
+        "requested_date": "2021-11-30",
+        "api_date": "2021-11-30",
+        "valid_from": "2021-11-30",
+        "rate": 3.0867,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-11-30",
+        "sha256": "96360a04b3aa748fc6ffae19d7029157186f4774433a4f1d05eb9c87473852c9"
+      },
+      "2021-12": {
+        "requested_date": "2021-12-31",
+        "api_date": "2021-12-31",
+        "valid_from": "2021-12-31",
+        "rate": 3.0976,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2021-12-31",
+        "sha256": "debfb4b746d834bf7631f46b4e896a607df5ddc2552583259f77275f9464a56f"
+      },
+      "2022-01": {
+        "requested_date": "2022-01-31",
+        "api_date": "2022-01-29",
+        "valid_from": "2022-01-29",
+        "rate": 3.0521,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-01-31",
+        "sha256": "9c4d90bf3467d30589bf6c5dc04f84627360056d78b1f276632a196dac904fe3"
+      },
+      "2022-02": {
+        "requested_date": "2022-02-28",
+        "api_date": "2022-02-26",
+        "valid_from": "2022-02-26",
+        "rate": 3.154,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-02-28",
+        "sha256": "02f98de27fc9fb08d1ba708fd32d43db354b5bd4fdd3533c6a7da36c5b1ef81d"
+      },
+      "2022-03": {
+        "requested_date": "2022-03-31",
+        "api_date": "2022-03-31",
+        "valid_from": "2022-03-31",
+        "rate": 3.1013,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-03-31",
+        "sha256": "d98dd9423343f5596f236869b24854c8327e76f4b79c0817a1d6e8d8ddeeabbc"
+      },
+      "2022-04": {
+        "requested_date": "2022-04-30",
+        "api_date": "2022-04-30",
+        "valid_from": "2022-04-30",
+        "rate": 3.0591,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-04-30",
+        "sha256": "3dbec0209995ce3f47a023469f4c48f9db71eef74b5c80aad565cc73d7ec0daa"
+      },
+      "2022-05": {
+        "requested_date": "2022-05-31",
+        "api_date": "2022-05-31",
+        "valid_from": "2022-05-31",
+        "rate": 2.9546,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-05-31",
+        "sha256": "676c5499d753f53b66ff8e43102bc484ac62afa9c0a7f58db2724be6847f6e20"
+      },
+      "2022-06": {
+        "requested_date": "2022-06-30",
+        "api_date": "2022-06-30",
+        "valid_from": "2022-06-30",
+        "rate": 2.9289,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-06-30",
+        "sha256": "e8a9721e57de0bcf54687bf015d0adb38f9963d92705d5d99e5fe4b2929a8f95"
+      },
+      "2022-07": {
+        "requested_date": "2022-07-31",
+        "api_date": "2022-07-30",
+        "valid_from": "2022-07-30",
+        "rate": 2.7652,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-07-31",
+        "sha256": "a84a979d58a2e99fbe0b46848b8cd979c2c4231fc8410a4ee8d711cb400933c3"
+      },
+      "2022-08": {
+        "requested_date": "2022-08-31",
+        "api_date": "2022-08-31",
+        "valid_from": "2022-08-31",
+        "rate": 2.9045,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-08-31",
+        "sha256": "577cb567705f84efb0f838d358a17febf8ad2849138641577039dda050ee4cf6"
+      },
+      "2022-09": {
+        "requested_date": "2022-09-30",
+        "api_date": "2022-09-30",
+        "valid_from": "2022-09-30",
+        "rate": 2.8352,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-09-30",
+        "sha256": "5300582d9edd4d2a9ebe51722f189ea4866c35b4e6f2665af80b31426f9384dc"
+      },
+      "2022-10": {
+        "requested_date": "2022-10-31",
+        "api_date": "2022-10-29",
+        "valid_from": "2022-10-29",
+        "rate": 2.7758,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-10-31",
+        "sha256": "ec81a20332aaad2a7203d2e4d52e890ff84a182ee1d2e93b81dab2de672b55db"
+      },
+      "2022-11": {
+        "requested_date": "2022-11-30",
+        "api_date": "2022-11-30",
+        "valid_from": "2022-11-30",
+        "rate": 2.7153,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-11-30",
+        "sha256": "a0ad97851bdb7e06e6f3a71d26c4ab51fd6132ad7953c6ce6f932df21fdc9301"
+      },
+      "2022-12": {
+        "requested_date": "2022-12-31",
+        "api_date": "2022-12-31",
+        "valid_from": "2022-12-31",
+        "rate": 2.702,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2022-12-31",
+        "sha256": "128818d81daddee77c1b9659c925bd4f1f8afacec41b5926f50a5c8cace6f11f"
+      },
+      "2023-01": {
+        "requested_date": "2023-01-31",
+        "api_date": "2023-01-31",
+        "valid_from": "2023-01-31",
+        "rate": 2.641,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-01-31",
+        "sha256": "bb8f02f3a305f00018c5ef6da356a06e8c72c618ed585867e964d6d6ea28f32f"
+      },
+      "2023-02": {
+        "requested_date": "2023-02-28",
+        "api_date": "2023-02-28",
+        "valid_from": "2023-02-28",
+        "rate": 2.6272,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-02-28",
+        "sha256": "e1f841ddb9d26a8998c03e6ff05af61a18ceba7d6bb2290f21fba7388ef269cd"
+      },
+      "2023-03": {
+        "requested_date": "2023-03-31",
+        "api_date": "2023-03-31",
+        "valid_from": "2023-03-31",
+        "rate": 2.5604,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-03-31",
+        "sha256": "2d3d420c479fcf49e373438c6484a92af3a4ab337df175250978938cff4734b9"
+      },
+      "2023-04": {
+        "requested_date": "2023-04-30",
+        "api_date": "2023-04-29",
+        "valid_from": "2023-04-29",
+        "rate": 2.4967,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-04-30",
+        "sha256": "b721781f3381b0ef698efc3ebbf615ddc133ed8df671e74c45c37cb44fdec1c3"
+      },
+      "2023-05": {
+        "requested_date": "2023-05-31",
+        "api_date": "2023-05-31",
+        "valid_from": "2023-05-31",
+        "rate": 2.5919,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-05-31",
+        "sha256": "d88b5815dd61c2d49200c6a4e77daeba75c6a7cb552038bac270a5aab1d4e161"
+      },
+      "2023-06": {
+        "requested_date": "2023-06-30",
+        "api_date": "2023-06-30",
+        "valid_from": "2023-06-30",
+        "rate": 2.6177,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-06-30",
+        "sha256": "e1fcc2f5b875b917a6d28a5df47a3d296efda6b420aa9bbfdfe36c2ccd910d17"
+      },
+      "2023-07": {
+        "requested_date": "2023-07-31",
+        "api_date": "2023-07-29",
+        "valid_from": "2023-07-29",
+        "rate": 2.6433,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-07-31",
+        "sha256": "627b7f4c57e1e6fa2b02a0574c321e4e25cddf7c8fb0f32b207403660e2df66d"
+      },
+      "2023-08": {
+        "requested_date": "2023-08-31",
+        "api_date": "2023-08-31",
+        "valid_from": "2023-08-31",
+        "rate": 2.6292,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-08-31",
+        "sha256": "856abeec2189ead67d3a1cc6062fd33f844c4d8a8e2f7b7867296c196cc1b8f4"
+      },
+      "2023-09": {
+        "requested_date": "2023-09-30",
+        "api_date": "2023-09-30",
+        "valid_from": "2023-09-30",
+        "rate": 2.6783,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-09-30",
+        "sha256": "6b7f7deb0a05fffdfc1278bda6d9fe524565b0728964267d08495ea1d319de16"
+      },
+      "2023-10": {
+        "requested_date": "2023-10-31",
+        "api_date": "2023-10-31",
+        "valid_from": "2023-10-31",
+        "rate": 2.7048,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-10-31",
+        "sha256": "949308c68588ea23f7733c0fb2d4ff7f6cd1345a2cbdc2220be07a1de90a359b"
+      },
+      "2023-11": {
+        "requested_date": "2023-11-30",
+        "api_date": "2023-11-30",
+        "valid_from": "2023-11-30",
+        "rate": 2.7129,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-11-30",
+        "sha256": "0f058195b167641ccd5830f40aa54c6b6f03ce251a15b64e1f3f14e81790fc4a"
+      },
+      "2023-12": {
+        "requested_date": "2023-12-31",
+        "api_date": "2023-12-30",
+        "valid_from": "2023-12-30",
+        "rate": 2.6894,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2023-12-31",
+        "sha256": "3be7d583dd90a41a5119cda2ac01962857e267a5b7cea694f5d0b7264b279d53"
+      },
+      "2024-01": {
+        "requested_date": "2024-01-31",
+        "api_date": "2024-01-31",
+        "valid_from": "2024-01-31",
+        "rate": 2.6827,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-01-31",
+        "sha256": "cda24bdcca7c824447f13e509c6e8fc45d1ff7352502da2c61599faad161e56f"
+      },
+      "2024-02": {
+        "requested_date": "2024-02-29",
+        "api_date": "2024-02-29",
+        "valid_from": "2024-02-29",
+        "rate": 2.6606,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-02-29",
+        "sha256": "4f99587450482d8f8ec03d2b00a00d5e55bd9c1bf03c57124e669e57cb70e30d"
+      },
+      "2024-03": {
+        "requested_date": "2024-03-31",
+        "api_date": "2024-03-30",
+        "valid_from": "2024-03-30",
+        "rate": 2.6953,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-03-31",
+        "sha256": "cbe2ddb16e30f3a3169a63eac5e2771216a1a508ccf9ef6dc6fa4fb982548699"
+      },
+      "2024-04": {
+        "requested_date": "2024-04-30",
+        "api_date": "2024-04-30",
+        "valid_from": "2024-04-30",
+        "rate": 2.6835,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-04-30",
+        "sha256": "5876424a58c009fbf41b351f60fe99e98cf5a0ebfce5d5853c2cf29292ad4a07"
+      },
+      "2024-05": {
+        "requested_date": "2024-05-31",
+        "api_date": "2024-05-31",
+        "valid_from": "2024-05-31",
+        "rate": 2.7968,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-05-31",
+        "sha256": "c6423050d780f8ad630b1967c197fe09bcc26b24d6a6b4e308c62c0fcb8bc657"
+      },
+      "2024-06": {
+        "requested_date": "2024-06-30",
+        "api_date": "2024-06-29",
+        "valid_from": "2024-06-29",
+        "rate": 2.8101,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-06-30",
+        "sha256": "66c7329ec75944b67344896128b86282c88db887145a29db90ef187f39631065"
+      },
+      "2024-07": {
+        "requested_date": "2024-07-31",
+        "api_date": "2024-07-31",
+        "valid_from": "2024-07-31",
+        "rate": 2.7214,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-07-31",
+        "sha256": "1ad1afe551478e53f7601d2db4d43c62f4362a03808e82eb5712a4694cfe3b4c"
+      },
+      "2024-08": {
+        "requested_date": "2024-08-31",
+        "api_date": "2024-08-31",
+        "valid_from": "2024-08-31",
+        "rate": 2.6911,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-08-31",
+        "sha256": "d1e82175713340be3688c8e53cc70879256d3c488687443361cd177ec47146d3"
+      },
+      "2024-09": {
+        "requested_date": "2024-09-30",
+        "api_date": "2024-09-28",
+        "valid_from": "2024-09-28",
+        "rate": 2.7297,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-09-30",
+        "sha256": "9a4dbbb5db65ba23cf6e6bb280b82420023d3078852e014ed80da4adf1042f8a"
+      },
+      "2024-10": {
+        "requested_date": "2024-10-31",
+        "api_date": "2024-10-31",
+        "valid_from": "2024-10-31",
+        "rate": 2.7468,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-10-31",
+        "sha256": "0c7f4b201cda9f51fe01e1a24cc4011641927c565fa52e1e77a2091e71e5ad57"
+      },
+      "2024-11": {
+        "requested_date": "2024-11-30",
+        "api_date": "2024-11-30",
+        "valid_from": "2024-11-30",
+        "rate": 2.7794,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-11-30",
+        "sha256": "6cbd221689fdc779aa600d04f343aa659c5f78b7d6356cbd042c7e35355beb0d"
+      },
+      "2024-12": {
+        "requested_date": "2024-12-31",
+        "api_date": "2024-12-31",
+        "valid_from": "2024-12-31",
+        "rate": 2.8068,
+        "source_url": "https://nbg.gov.ge/gw/api/ct/monetarypolicy/currencies/en/json/?currencies=USD&date=2024-12-31",
+        "sha256": "e838930da02a7f26bfb593ada7ca3190075a39c33eb3b0c32ca698ac67088210"
+      }
+    },
+    "errors": {},
+    "definition": "one dated official USD/GEL quote requested per calendar month end; effective date retained"
+  },
+  "panel": {
+    "period": "2020-01 to 2024-12",
+    "rows": 60,
+    "nonmissing_counts": {
+      "policy_rate_end_pct": 60,
+      "policy_decisions_n": 60,
+      "official_reserves_usd_m": 60,
+      "reserve_stock_change_usd_m": 60,
+      "reserve_fx_usd_m": 60,
+      "reserve_imf_usd_m": 60,
+      "reserve_sdr_usd_m": 60,
+      "reserve_gold_usd_m": 60,
+      "reserve_other_usd_m": 60,
+      "official_usd_gel_month_end": 60,
+      "official_usd_rate_valid_from": 60,
+      "cpi_monthly_pct": 60,
+      "tibr_overnight_monthly_mean_pct": 60,
+      "auction_purchases_usd_m": 0,
+      "auction_sales_usd_m": 0,
+      "bmatch_purchases_usd_m": 0,
+      "bmatch_sales_usd_m": 0,
+      "government_fx_usd_m": 0,
+      "reserve_fx_valuation_usd_m": 0,
+      "reserve_gold_valuation_usd_m": 0,
+      "reserve_other_movements_usd_m": 0,
+      "intervention_reconciliation_status": 60
+    },
+    "tibr_definition": "arithmetic monthly mean of published business-day TIBR overnight percentage rates (source decimals multiplied by 100); 1250 daily records separately",
+    "cpi_definition": "national all-items previous-month=100, reported as percent change",
+    "rate_definition": "effective policy rate on calendar month end; decisions retained separately",
+    "reserves_definition": "official reserve asset stock, USD millions; change is stock difference, never intervention",
+    "usd_definition": "official GEL per USD valid on requested month end, effective rate may originate earlier on non-business day",
+    "bop_definition": "quarterly USD million current account and reserve asset flow; no monthly interpolation",
+    "publication_lags": "NBG official FX fix announced by 17:00 for next day; reserve monthly publication near 5\u20137 of next month; BMatch approximately 25 days after month; contemporaneous historical release timestamps not in source files"
+  }
+}
