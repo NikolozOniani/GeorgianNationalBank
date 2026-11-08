@@ -1,0 +1,8 @@
+{
+  "exact_output_replication": true,
+  "sha256": {
+    "ara_reconstruction.csv": "4a6d28204063d60747948bbf23a6a3a970003ae1a4df9bedd4e8f83a3ae02a89",
+    "historical_interest.csv": "13307c945d35547353163be21c369c38428ab8de540318a5fcfb46d7e86ad85a",
+    "reserve_level_scenarios.csv": "84e23b93889aa13120af727daacac3ecca1fef7f6c546891e3486943957f709b"
+  }
+}

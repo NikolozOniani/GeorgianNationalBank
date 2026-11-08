@@ -1,0 +1,106 @@
+year,series,value,unit,status,source_id,pdf_page,source_label,source_sha256
+2022,exports,13240.0,USD million,historical estimate,imf2024,53,Exports (goods and Services),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,exports,15161.0,USD million,historical estimate,imf2024,53,Exports (goods and Services),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,exports,14587.0,USD million,2024-vintage projection,imf2024,53,Exports (goods and Services),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,exports,14959.0,USD million,2024-vintage projection,imf2024,53,Exports (goods and Services),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,exports,15858.0,USD million,2024-vintage projection,imf2024,53,Exports (goods and Services),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,exports,17191.0,USD million,2024-vintage projection,imf2024,53,Exports (goods and Services),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,exports,18367.0,USD million,2024-vintage projection,imf2024,53,Exports (goods and Services),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,money_m2,7324.0,USD million,historical estimate,imf2024,53,Broad money (M2),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,money_m2,9349.0,USD million,historical estimate,imf2024,53,Broad money (M2),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,money_m2,10459.0,USD million,2024-vintage projection,imf2024,53,Broad money (M2),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,money_m2,11638.0,USD million,2024-vintage projection,imf2024,53,Broad money (M2),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,money_m2,12854.0,USD million,2024-vintage projection,imf2024,53,Broad money (M2),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,money_m2,14183.0,USD million,2024-vintage projection,imf2024,53,Broad money (M2),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,money_m2,15528.0,USD million,2024-vintage projection,imf2024,53,Broad money (M2),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,std_residual,4811.0,USD million,historical estimate,imf2024,53,Short-term debt residual maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,std_residual,5282.0,USD million,historical estimate,imf2024,53,Short-term debt residual maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,std_residual,4610.0,USD million,2024-vintage projection,imf2024,53,Short-term debt residual maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,std_residual,5006.0,USD million,2024-vintage projection,imf2024,53,Short-term debt residual maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,std_residual,4673.0,USD million,2024-vintage projection,imf2024,53,Short-term debt residual maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,std_residual,4955.0,USD million,2024-vintage projection,imf2024,53,Short-term debt residual maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,std_residual,4990.0,USD million,2024-vintage projection,imf2024,53,Short-term debt residual maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,std_original,3678.0,USD million,historical estimate,imf2024,53,ST debt by original maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,std_original,4017.0,USD million,historical estimate,imf2024,53,ST debt by original maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,std_original,3438.0,USD million,2024-vintage projection,imf2024,53,ST debt by original maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,std_original,3654.0,USD million,2024-vintage projection,imf2024,53,ST debt by original maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,std_original,4134.0,USD million,2024-vintage projection,imf2024,53,ST debt by original maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,std_original,4201.0,USD million,2024-vintage projection,imf2024,53,ST debt by original maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,std_original,4299.0,USD million,2024-vintage projection,imf2024,53,ST debt by original maturity,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,mlt_amortization,1133.0,USD million,historical estimate,imf2024,53,Ammortization on MLT debt,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,mlt_amortization,1265.0,USD million,historical estimate,imf2024,53,Ammortization on MLT debt,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,mlt_amortization,1345.0,USD million,2024-vintage projection,imf2024,53,Ammortization on MLT debt,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,mlt_amortization,1623.0,USD million,2024-vintage projection,imf2024,53,Ammortization on MLT debt,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,mlt_amortization,1155.0,USD million,2024-vintage projection,imf2024,53,Ammortization on MLT debt,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,mlt_amortization,1180.0,USD million,2024-vintage projection,imf2024,53,Ammortization on MLT debt,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,mlt_amortization,1228.0,USD million,2024-vintage projection,imf2024,53,Ammortization on MLT debt,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,other_liabilities,15504.0,USD million,historical estimate,imf2024,53,Other liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,other_liabilities,16242.0,USD million,historical estimate,imf2024,53,Other liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,other_liabilities,17563.0,USD million,2024-vintage projection,imf2024,53,Other liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,other_liabilities,17665.0,USD million,2024-vintage projection,imf2024,53,Other liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,other_liabilities,18392.0,USD million,2024-vintage projection,imf2024,53,Other liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,other_liabilities,18816.0,USD million,2024-vintage projection,imf2024,53,Other liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,other_liabilities,19643.0,USD million,2024-vintage projection,imf2024,53,Other liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,ara_reported,4797.0,USD million,historical estimate,imf2024,53,ARA Metric,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,ara_reported,5246.0,USD million,historical estimate,imf2024,53,ARA Metric,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,ara_reported,5270.0,USD million,2024-vintage projection,imf2024,53,ARA Metric,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,ara_reported,5481.0,USD million,2024-vintage projection,imf2024,53,ARA Metric,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,ara_reported,5596.0,USD million,2024-vintage projection,imf2024,53,ARA Metric,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,ara_reported,5878.0,USD million,2024-vintage projection,imf2024,53,ARA Metric,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,ara_reported,6138.0,USD million,2024-vintage projection,imf2024,53,ARA Metric,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,ara_adjusted_reported,3960.0,USD million,historical estimate,imf2024,53,ARA Metric-Adjusted,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,ara_adjusted_reported,4347.0,USD million,historical estimate,imf2024,53,ARA Metric-Adjusted,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,ara_adjusted_reported,4670.0,USD million,2024-vintage projection,imf2024,53,ARA Metric-Adjusted,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,ara_adjusted_reported,4986.0,USD million,2024-vintage projection,imf2024,53,ARA Metric-Adjusted,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,ara_adjusted_reported,5204.0,USD million,2024-vintage projection,imf2024,53,ARA Metric-Adjusted,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,ara_adjusted_reported,5399.0,USD million,2024-vintage projection,imf2024,53,ARA Metric-Adjusted,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,ara_adjusted_reported,5642.0,USD million,2024-vintage projection,imf2024,53,ARA Metric-Adjusted,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,bank_assets,1889.0,USD million,historical estimate,imf2024,53,Bank ST assets (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,bank_assets,2122.0,USD million,historical estimate,imf2024,53,Bank ST assets (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,bank_assets,2172.0,USD million,2024-vintage projection,imf2024,53,Bank ST assets (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,bank_assets,1922.0,USD million,2024-vintage projection,imf2024,53,Bank ST assets (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,bank_assets,1922.0,USD million,2024-vintage projection,imf2024,53,Bank ST assets (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,bank_assets,2022.0,USD million,2024-vintage projection,imf2024,53,Bank ST assets (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,bank_assets,2192.0,USD million,2024-vintage projection,imf2024,53,Bank ST assets (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,bank_liabilities,2778.0,USD million,historical estimate,imf2024,53,Bank ST liabilities (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,bank_liabilities,3141.0,USD million,historical estimate,imf2024,53,Bank ST liabilities (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,bank_liabilities,3438.0,USD million,2024-vintage projection,imf2024,53,Bank ST liabilities (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,bank_liabilities,3654.0,USD million,2024-vintage projection,imf2024,53,Bank ST liabilities (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,bank_liabilities,4134.0,USD million,2024-vintage projection,imf2024,53,Bank ST liabilities (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,bank_liabilities,4201.0,USD million,2024-vintage projection,imf2024,53,Bank ST liabilities (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,bank_liabilities,4299.0,USD million,2024-vintage projection,imf2024,53,Bank ST liabilities (deposits),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,bank_uncovered,889.0,USD million,historical estimate,imf2024,53,Adjusted banks ST deposit liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,bank_uncovered,1019.0,USD million,historical estimate,imf2024,53,Adjusted banks ST deposit liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,bank_uncovered,1266.0,USD million,2024-vintage projection,imf2024,53,Adjusted banks ST deposit liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,bank_uncovered,1731.0,USD million,2024-vintage projection,imf2024,53,Adjusted banks ST deposit liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,bank_uncovered,2212.0,USD million,2024-vintage projection,imf2024,53,Adjusted banks ST deposit liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,bank_uncovered,2179.0,USD million,2024-vintage projection,imf2024,53,Adjusted banks ST deposit liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,bank_uncovered,2107.0,USD million,2024-vintage projection,imf2024,53,Adjusted banks ST deposit liabilities,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,reserves,4901.0,USD million,historical estimate,imf2024,53,GIR,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,reserves,5009.7,USD million,historical estimate,imf2024,53,GIR,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,reserves,4996.0,USD million,2024-vintage projection,imf2024,53,GIR,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,reserves,5363.0,USD million,2024-vintage projection,imf2024,53,GIR,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,reserves,5577.0,USD million,2024-vintage projection,imf2024,53,GIR,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,reserves,5950.0,USD million,2024-vintage projection,imf2024,53,GIR,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,reserves,6325.0,USD million,2024-vintage projection,imf2024,53,GIR,f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,coverage_reported,102.2,percent,historical estimate,imf2024,53,GIR (Percent of ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,coverage_reported,95.5,percent,historical estimate,imf2024,53,GIR (Percent of ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,coverage_reported,94.8,percent,2024-vintage projection,imf2024,53,GIR (Percent of ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,coverage_reported,97.8,percent,2024-vintage projection,imf2024,53,GIR (Percent of ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,coverage_reported,99.7,percent,2024-vintage projection,imf2024,53,GIR (Percent of ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,coverage_reported,101.2,percent,2024-vintage projection,imf2024,53,GIR (Percent of ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,coverage_reported,103.0,percent,2024-vintage projection,imf2024,53,GIR (Percent of ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,adjusted_coverage_reported,123.7,percent,historical estimate,imf2024,53,GIR (Percent of adjusted ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,adjusted_coverage_reported,115.2,percent,historical estimate,imf2024,53,GIR (Percent of adjusted ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,adjusted_coverage_reported,107.0,percent,2024-vintage projection,imf2024,53,GIR (Percent of adjusted ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,adjusted_coverage_reported,107.6,percent,2024-vintage projection,imf2024,53,GIR (Percent of adjusted ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,adjusted_coverage_reported,107.2,percent,2024-vintage projection,imf2024,53,GIR (Percent of adjusted ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,adjusted_coverage_reported,110.2,percent,2024-vintage projection,imf2024,53,GIR (Percent of adjusted ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,adjusted_coverage_reported,112.1,percent,2024-vintage projection,imf2024,53,GIR (Percent of adjusted ARA metric),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2022,import_months_reported,3.3,months,historical estimate,imf2024,53,GIR (Month of imports),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2023,import_months_reported,3.4,months,historical estimate,imf2024,53,GIR (Month of imports),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2024,import_months_reported,3.3,months,2024-vintage projection,imf2024,53,GIR (Month of imports),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2025,import_months_reported,3.4,months,2024-vintage projection,imf2024,53,GIR (Month of imports),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2026,import_months_reported,3.3,months,2024-vintage projection,imf2024,53,GIR (Month of imports),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2027,import_months_reported,3.3,months,2024-vintage projection,imf2024,53,GIR (Month of imports),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0
+2028,import_months_reported,3.2,months,2024-vintage projection,imf2024,53,GIR (Month of imports),f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0

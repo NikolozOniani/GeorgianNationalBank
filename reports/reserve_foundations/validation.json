@@ -1,0 +1,21 @@
+{
+  "ara_rows": 7,
+  "ara_max_residual_usd_m": 0.3999999999996362,
+  "interest_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "overlap_checks": 19,
+  "adjusted_metric_status": "not reconciled by simple net-deposit substitution; residuals retained",
+  "source_hashes": {
+    "imf2024": "f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0",
+    "imf2025": "b0c725c0506de158d4bf05a0ae0bf44243f55598aee2aea209d9dab9de4a4151",
+    "imf2026": "8f1295fa30556df86acda5a8e5221579fd7c23e01f67b4ca7f389d921d412123",
+    "annual2023": "914ade6d21d6a63c763f3deec84bd291dbaa407ecb0bc0c3d65bfb6180baab73",
+    "annual2024": "87d2d50b99791a3737031f462123dd8908957fe4082d7b639ea2ba883cb68580",
+    "annual2021": "17550b0eeb49396690f3ca4f3cc3012572fb127e73ff7f05b31297c317854c72"
+  }
+}

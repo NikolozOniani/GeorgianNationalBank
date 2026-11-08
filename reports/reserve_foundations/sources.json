@@ -1,0 +1,56 @@
+[
+  {
+    "id": "imf2024",
+    "url": "https://www.imf.org/-/media/files/publications/cr/2024/english/1geoea2024001.pdf",
+    "sha256": "f7711d33d616b6e805c0c16c2107a17c2d736d1f9b2365cc0a62e44215cda0a0",
+    "bytes": 2781395,
+    "filename": "imf2024.pdf"
+  },
+  {
+    "id": "imf2025",
+    "url": "https://www.imf.org/-/media/files/publications/cr/2025/english/1geoea2025001-source-pdf.pdf",
+    "sha256": "b0c725c0506de158d4bf05a0ae0bf44243f55598aee2aea209d9dab9de4a4151",
+    "bytes": 2700206,
+    "filename": "imf2025.pdf"
+  },
+  {
+    "id": "imf2026",
+    "url": "https://www.imf.org/-/media/files/publications/cr/2026/english/1geoea2026001.pdf",
+    "sha256": "8f1295fa30556df86acda5a8e5221579fd7c23e01f67b4ca7f389d921d412123",
+    "bytes": 1731179,
+    "filename": "imf2026.pdf"
+  },
+  {
+    "id": "annual2023",
+    "filename": "annual2023.pdf",
+    "url": "https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%94%E1%83%91%E1%83%98/%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%98/2023/annual-report-eng-2023.pdf?v=8f6jw",
+    "sha256": "914ade6d21d6a63c763f3deec84bd291dbaa407ecb0bc0c3d65bfb6180baab73",
+    "income_page": 278,
+    "income_years": [
+      2023,
+      2022
+    ]
+  },
+  {
+    "id": "annual2024",
+    "filename": "annual2024.pdf",
+    "url": "https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%94%E1%83%91%E1%83%98/%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%98/2024/annual-eng-2024.pdf?v=bf7fu",
+    "sha256": "87d2d50b99791a3737031f462123dd8908957fe4082d7b639ea2ba883cb68580",
+    "income_page": 274,
+    "income_years": [
+      2024,
+      2023
+    ]
+  },
+  {
+    "id": "annual2021",
+    "filename": "annual2021.pdf",
+    "url": "https://nbg.gov.ge/fm/\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0\u10ea\u10d8\u10d4\u10d1\u10d8/\u10d0\u10dc\u10d2\u10d0\u10e0\u10d8\u10e8\u10d4\u10d1\u10d8/\u10ec\u10da\u10d8\u10e3\u10e0\u10d8_\u10d0\u10dc\u10d2\u10d0\u10e0\u10d8\u10e8\u10d8/2021/annual-report-eng.pdf?v=7vgss",
+    "sha256": "17550b0eeb49396690f3ca4f3cc3012572fb127e73ff7f05b31297c317854c72",
+    "income_page": 250,
+    "income_years": [
+      2021,
+      2020
+    ]
+  }
+]

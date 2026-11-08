@@ -1,0 +1,7 @@
+source_id,pdf_page,reference_year,metric,value,unit,status
+imf2024,53,2023,standard ARA coverage,95.5,percent,historical estimate
+imf2024,53,2024,standard ARA coverage,94.8,percent,projection
+imf2025,58,2024,standard ARA coverage,77.3,percent,historical narrative estimate
+imf2025,58,2024,bank-adjusted ARA coverage,83.5,percent,historical narrative estimate
+imf2026,53,2025,standard ARA coverage,100,percent,rounded narrative estimate
+imf2026,53,2025,reserve valuation gains,463,USD million,reported narrative estimate

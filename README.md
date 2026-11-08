@@ -1,5 +1,9 @@
 # Georgia monetary policy and household welfare: Phase 1
 
+## Reserve empirical foundations — 9 November 2026
+
+The [quantitative findings](reports/reserve_foundations/Findings.md) add an independent weighted reconstruction from published Georgian ARA components, explicit bank-adjustment discrepancies, and audited 2020–2024 interest and FX balance-sheet accounts. [Replication instructions and data](reports/reserve_foundations/README.md) distinguish historical observations, forecasts, source vintages and conditional financing scenarios. Later realized ARA component vectors remain an explicit acquisition gap; no optimal reserve level is claimed.
+
 ## Reserve-adequacy research design — current direction
 
 For Nikoloz Oniani's proposed study, **The Economics of Reserve Accumulation in Georgia: An Independent Assessment of Costs, Benefits, and Optimal Reserve Adequacy**, start with the [evidence assessment and empirical design](reports/reserve_readiness/Assessment_and_Design.md). It audits the existing calculations, identifies missing inputs and sets separate accounting, ARA and model-replication gates. The existing drafts below are preserved; they do not establish an optimal reserve level. Reproduce the new read-only audit with `python src/reserve_readiness_audit.py`.
