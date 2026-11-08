@@ -1,0 +1,106 @@
+[
+  {
+    "id": "L3.14",
+    "filename": "consumer-loans-l3-14eng.xlsx",
+    "url": "https://nbg.gov.ge/fm/სტატისტიკა/loans/eng/consumer-loans-l3-14eng.xlsx",
+    "title": "Consumer Loans (stocks)",
+    "catalog_update_date": "26/10/2026",
+    "catalog_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/17/data",
+    "sha256": "9aa33ef7e3f2489d3e01915ef659f2b41dfb9c5165ce59386239b99fd7bd4754",
+    "bytes": 69396
+  },
+  {
+    "id": "L3.8.1",
+    "filename": "loans-secured-by-real-estate-l3-8-1eng.xlsx",
+    "url": "https://nbg.gov.ge/fm/სტატისტიკა/loans/eng/loans-secured-by-real-estate-l3-8-1eng.xlsx",
+    "title": "Loans Secured by Real Estate",
+    "catalog_update_date": "26/10/2026",
+    "catalog_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/17/data",
+    "sha256": "34befbcfa1dab423baaa6d74263cdc1e39420d35ff579c258612917484eb1a4f",
+    "bytes": 176698
+  },
+  {
+    "id": "L3.12",
+    "filename": "loans-by-sectors-l3-12eng.xlsx",
+    "url": "https://nbg.gov.ge/fm/სტატისტიკა/loans/eng/loans-by-sectors-l3-12eng.xlsx",
+    "title": "Loans by Sectors (stocks)",
+    "catalog_update_date": "26/10/2026",
+    "catalog_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/17/data",
+    "sha256": "b22693c4cb74acc5b2c130022b2e303fd7afa7521feeae04bfb2bda4c7e7d4e8",
+    "bytes": 91288
+  },
+  {
+    "id": "L3.6",
+    "filename": "outstanding-loans-by-debtors-l3-6eng.xlsx",
+    "url": "https://nbg.gov.ge/fm/სტატისტიკა/loans/eng/outstanding-loans-by-debtors-l3-6eng.xlsx",
+    "title": "Loans by Debtors (stocks)",
+    "catalog_update_date": "26/10/2026",
+    "catalog_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/17/data",
+    "sha256": "a6c31c1d2282147d374dfd54942e91150ebc3652eb1969513a0206438a2d4ce1",
+    "bytes": 95753
+  },
+  {
+    "id": "LPR",
+    "filename": "loans-by-lopeng.xlsx",
+    "url": "https://nbg.gov.ge/fm/სტატისტიკა/loans/eng/loans-by-lopeng.xlsx",
+    "title": "Loans by Purpose (stocks)",
+    "catalog_update_date": "26/10/2026",
+    "catalog_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/17/data",
+    "sha256": "c3d4bf89641edd343d7ede1d21236a2dac8ba446380277faff7a824c89c63b4b",
+    "bytes": 63149
+  },
+  {
+    "id": "LMR",
+    "filename": "lmreng.xlsx",
+    "url": "https://nbg.gov.ge/fm/სტატისტიკა/loans/eng/lmreng.xlsx",
+    "title": "Interest Rates on Loans to Households by Loans Types, Issued During Reporting Period",
+    "catalog_update_date": "26/10/2026",
+    "catalog_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/17/data",
+    "sha256": "8f0681ca6b308be7a636b9095bcb6f6036b208883c2cf95c9a588b1572ea2f35",
+    "bytes": 79311
+  },
+  {
+    "id": "D3.23",
+    "filename": "deposits-of-individuals-d3-23eng.xlsx",
+    "url": "https://nbg.gov.ge/fm/სტატისტიკა/deposits/eng/deposits-of-individuals-d3-23eng.xlsx",
+    "title": "Deposits of individuals (stocks)",
+    "catalog_update_date": "26/10/2026",
+    "catalog_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/16/data",
+    "sha256": "2add5d3dee730a793fab68ab6228d148cf50bc07b58fd015d57b45849efa8e77",
+    "bytes": 153047
+  },
+  {
+    "id": "D3.22",
+    "filename": "market-interest-rates-on-deposits-d3-22eng.xlsx",
+    "url": "https://nbg.gov.ge/fm/სტატისტიკა/deposits/eng/market-interest-rates-on-deposits-d3-22eng.xlsx",
+    "title": "Market Interest Rates on Term Deposits",
+    "catalog_update_date": "26/10/2026",
+    "catalog_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/16/data",
+    "sha256": "217e459659112b985c9782a6aa635fd0895c6b7c49a936e8633140dabe5f6952",
+    "bytes": 36275
+  },
+  {
+    "id": "FSR2023",
+    "filename": "fsr2023.pdf",
+    "url": "https://nbg.gov.ge/fm/პუბლიკაციები/ანგარიშები/ფინანსური_სტაბილურობის_ანგარიში/2023/fsr-2023-eng.pdf?v=opnsr",
+    "title": "NBG Financial Stability Report 2023",
+    "sha256": "b4847f3c00175e607e1df7fa71f52596ef3a8fb0b39317390d74614ce545b931",
+    "bytes": 6807184
+  },
+  {
+    "id": "FSR2024",
+    "filename": "fsr2024.pdf",
+    "url": "https://nbg.gov.ge/fm/პუბლიკაციები/ანგარიშები/ფინანსური_სტაბილურობის_ანგარიში/2024/fsr-2024-eng.pdf?v=krqzq",
+    "title": "NBG Financial Stability Report 2024",
+    "sha256": "31264a05186c8345dcd473bec04ef826c621d2cd56e4b878c5ac57dd5901dc8c",
+    "bytes": 3821161
+  },
+  {
+    "id": "RATE_METHOD",
+    "filename": "interest-rates-methodology.pdf",
+    "url": "https://nbg.gov.ge/fm/სტატისტიკა/loans/eng/interest-rates-methodology-eng.pdf?v=6ekhu",
+    "title": "NBG interest rate statistics methodology",
+    "sha256": "c66c28c57ebacd63c5f79f5895a3bfcdf8c13ff6f4cbfbb20307d05207b7dec7",
+    "bytes": 178955
+  }
+]

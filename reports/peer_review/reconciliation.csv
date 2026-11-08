@@ -1,0 +1,361 @@
+month,currency,identity,difference_gel_m,tolerance_gel_m
+2020-01,gel,LPR purpose sum minus total,0.0,0.01
+2020-01,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2020-01,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-01,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2020-01,fx,L3.6 resident plus nonresident minus LPR total,-0.0010000000002037268,0.01
+2020-01,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-02,gel,LPR purpose sum minus total,0.0,0.01
+2020-02,gel,L3.6 resident plus nonresident minus LPR total,1.8189894035458565e-12,0.01
+2020-02,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-02,fx,LPR purpose sum minus total,9.094947017729282e-13,0.01
+2020-02,fx,L3.6 resident plus nonresident minus LPR total,9.094947017729282e-13,0.01
+2020-02,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-03,gel,LPR purpose sum minus total,0.0019999999985884642,0.01
+2020-03,gel,L3.6 resident plus nonresident minus LPR total,-1.8189894035458565e-12,0.01
+2020-03,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-03,fx,LPR purpose sum minus total,0.0,0.01
+2020-03,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2020-03,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-04,gel,LPR purpose sum minus total,0.0009999999983847374,0.01
+2020-04,gel,L3.6 resident plus nonresident minus LPR total,-1.8189894035458565e-12,0.01
+2020-04,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-04,fx,LPR purpose sum minus total,9.094947017729282e-13,0.01
+2020-04,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2020-04,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-05,gel,LPR purpose sum minus total,0.0010000000020227162,0.01
+2020-05,gel,L3.6 resident plus nonresident minus LPR total,0.0010000000020227162,0.01
+2020-05,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-05,fx,LPR purpose sum minus total,0.0,0.01
+2020-05,fx,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2020-05,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-06,gel,LPR purpose sum minus total,-0.0009999999983847374,0.01
+2020-06,gel,L3.6 resident plus nonresident minus LPR total,-0.0009999999983847374,0.01
+2020-06,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-06,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2020-06,fx,L3.6 resident plus nonresident minus LPR total,9.094947017729282e-13,0.01
+2020-06,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-07,gel,LPR purpose sum minus total,0.0,0.01
+2020-07,gel,L3.6 resident plus nonresident minus LPR total,-0.0009999999983847374,0.01
+2020-07,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-07,fx,LPR purpose sum minus total,0.0,0.01
+2020-07,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2020-07,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-08,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2020-08,gel,L3.6 resident plus nonresident minus LPR total,-0.0010000000002037268,0.01
+2020-08,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-08,fx,LPR purpose sum minus total,9.094947017729282e-13,0.01
+2020-08,fx,L3.6 resident plus nonresident minus LPR total,-0.0009999999992942321,0.01
+2020-08,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-09,gel,LPR purpose sum minus total,0.0,0.01
+2020-09,gel,L3.6 resident plus nonresident minus LPR total,-1.8189894035458565e-12,0.01
+2020-09,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-09,fx,LPR purpose sum minus total,0.0,0.01
+2020-09,fx,L3.6 resident plus nonresident minus LPR total,-9.094947017729282e-13,0.01
+2020-09,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-10,gel,LPR purpose sum minus total,0.0,0.01
+2020-10,gel,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2020-10,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-10,fx,LPR purpose sum minus total,0.0009999999992942321,0.01
+2020-10,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2020-10,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-11,gel,LPR purpose sum minus total,0.0,0.01
+2020-11,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2020-11,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-11,fx,LPR purpose sum minus total,0.0,0.01
+2020-11,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2020-11,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-12,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2020-12,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2020-12,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2020-12,fx,LPR purpose sum minus total,0.0,0.01
+2020-12,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2020-12,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-01,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2021-01,gel,L3.6 resident plus nonresident minus LPR total,1.8189894035458565e-12,0.01
+2021-01,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-01,fx,LPR purpose sum minus total,0.0,0.01
+2021-01,fx,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2021-01,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-02,gel,LPR purpose sum minus total,-0.0009999999983847374,0.01
+2021-02,gel,L3.6 resident plus nonresident minus LPR total,-0.0009999999983847374,0.01
+2021-02,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-02,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2021-02,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-02,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-03,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2021-03,gel,L3.6 resident plus nonresident minus LPR total,1.8189894035458565e-12,0.01
+2021-03,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-03,fx,LPR purpose sum minus total,-9.094947017729282e-13,0.01
+2021-03,fx,L3.6 resident plus nonresident minus LPR total,0.0009999999992942321,0.01
+2021-03,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-04,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2021-04,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-04,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-04,fx,LPR purpose sum minus total,0.0,0.01
+2021-04,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-04,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-05,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2021-05,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-05,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-05,fx,LPR purpose sum minus total,-0.0009999999992942321,0.01
+2021-05,fx,L3.6 resident plus nonresident minus LPR total,9.094947017729282e-13,0.01
+2021-05,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-06,gel,LPR purpose sum minus total,0.0,0.01
+2021-06,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-06,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-06,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2021-06,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-06,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-07,gel,LPR purpose sum minus total,0.0020000000004074536,0.01
+2021-07,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-07,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-07,fx,LPR purpose sum minus total,0.0,0.01
+2021-07,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-07,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-08,gel,LPR purpose sum minus total,0.0010000000020227162,0.01
+2021-08,gel,L3.6 resident plus nonresident minus LPR total,-0.0010000000002037268,0.01
+2021-08,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-08,fx,LPR purpose sum minus total,-0.0009999999992942321,0.01
+2021-08,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-08,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-09,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2021-09,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-09,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-09,fx,LPR purpose sum minus total,0.0,0.01
+2021-09,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-09,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-10,gel,LPR purpose sum minus total,-0.0010000000020227162,0.01
+2021-10,gel,L3.6 resident plus nonresident minus LPR total,-1.8189894035458565e-12,0.01
+2021-10,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-10,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2021-10,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-10,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-11,gel,LPR purpose sum minus total,0.0,0.01
+2021-11,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-11,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-11,fx,LPR purpose sum minus total,0.0,0.01
+2021-11,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-11,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-12,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2021-12,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-12,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2021-12,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2021-12,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2021-12,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-01,gel,LPR purpose sum minus total,0.0,0.01
+2022-01,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-01,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-01,fx,LPR purpose sum minus total,0.0,0.01
+2022-01,fx,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2022-01,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-02,gel,LPR purpose sum minus total,0.0,0.01
+2022-02,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-02,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-02,fx,LPR purpose sum minus total,-9.094947017729282e-13,0.01
+2022-02,fx,L3.6 resident plus nonresident minus LPR total,-9.094947017729282e-13,0.01
+2022-02,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-03,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2022-03,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-03,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-03,fx,LPR purpose sum minus total,0.0010000000002037268,0.01
+2022-03,fx,L3.6 resident plus nonresident minus LPR total,0.0010000000011132215,0.01
+2022-03,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-04,gel,LPR purpose sum minus total,0.0,0.01
+2022-04,gel,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2022-04,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-04,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2022-04,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-04,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-05,gel,LPR purpose sum minus total,0.0,0.01
+2022-05,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-05,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-05,fx,LPR purpose sum minus total,0.0009999999992942321,0.01
+2022-05,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-05,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-06,gel,LPR purpose sum minus total,-1.8189894035458565e-12,0.01
+2022-06,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-06,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-06,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2022-06,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-06,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-07,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2022-07,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-07,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-07,fx,LPR purpose sum minus total,0.0,0.01
+2022-07,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-07,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-08,gel,LPR purpose sum minus total,1.8189894035458565e-12,0.01
+2022-08,gel,L3.6 resident plus nonresident minus LPR total,1.8189894035458565e-12,0.01
+2022-08,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-08,fx,LPR purpose sum minus total,0.0020000000004074536,0.01
+2022-08,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-08,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-09,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2022-09,gel,L3.6 resident plus nonresident minus LPR total,-1.8189894035458565e-12,0.01
+2022-09,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-09,fx,LPR purpose sum minus total,0.0,0.01
+2022-09,fx,L3.6 resident plus nonresident minus LPR total,0.0009999999992942321,0.01
+2022-09,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-10,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2022-10,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-10,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-10,fx,LPR purpose sum minus total,0.0,0.01
+2022-10,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-10,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-11,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2022-11,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-11,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-11,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2022-11,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2022-11,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-12,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2022-12,gel,L3.6 resident plus nonresident minus LPR total,3.637978807091713e-12,0.01
+2022-12,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2022-12,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2022-12,fx,L3.6 resident plus nonresident minus LPR total,0.0009999999992942321,0.01
+2022-12,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-01,gel,LPR purpose sum minus total,0.0020000000004074536,0.01
+2023-01,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-01,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-01,fx,LPR purpose sum minus total,-9.094947017729282e-13,0.01
+2023-01,fx,L3.6 resident plus nonresident minus LPR total,-0.0010000000002037268,0.01
+2023-01,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-02,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2023-02,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-02,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-02,fx,LPR purpose sum minus total,0.0009999999992942321,0.01
+2023-02,fx,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2023-02,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-03,gel,LPR purpose sum minus total,0.0,0.01
+2023-03,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-03,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-03,fx,LPR purpose sum minus total,0.0010000000002037268,0.01
+2023-03,fx,L3.6 resident plus nonresident minus LPR total,9.094947017729282e-13,0.01
+2023-03,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-04,gel,LPR purpose sum minus total,0.0,0.01
+2023-04,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-04,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-04,fx,LPR purpose sum minus total,0.0,0.01
+2023-04,fx,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2023-04,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-05,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2023-05,gel,L3.6 resident plus nonresident minus LPR total,-3.637978807091713e-12,0.01
+2023-05,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-05,fx,LPR purpose sum minus total,0.0,0.01
+2023-05,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-05,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-06,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2023-06,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-06,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-06,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2023-06,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-06,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-07,gel,LPR purpose sum minus total,0.0,0.01
+2023-07,gel,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2023-07,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-07,fx,LPR purpose sum minus total,-0.0009999999992942321,0.01
+2023-07,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-07,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-08,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2023-08,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-08,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-08,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2023-08,fx,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2023-08,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-09,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2023-09,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-09,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-09,fx,LPR purpose sum minus total,0.0,0.01
+2023-09,fx,L3.6 resident plus nonresident minus LPR total,9.094947017729282e-13,0.01
+2023-09,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-10,gel,LPR purpose sum minus total,0.0,0.01
+2023-10,gel,L3.6 resident plus nonresident minus LPR total,-0.0010000000002037268,0.01
+2023-10,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-10,fx,LPR purpose sum minus total,0.0010000000002037268,0.01
+2023-10,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-10,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-11,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2023-11,gel,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2023-11,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-11,fx,LPR purpose sum minus total,0.0,0.01
+2023-11,fx,L3.6 resident plus nonresident minus LPR total,0.0010000000011132215,0.01
+2023-11,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-12,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2023-12,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-12,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2023-12,fx,LPR purpose sum minus total,0.0,0.01
+2023-12,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2023-12,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-01,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2024-01,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-01,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-01,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2024-01,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-01,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-02,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2024-02,gel,L3.6 resident plus nonresident minus LPR total,3.637978807091713e-12,0.01
+2024-02,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-02,fx,LPR purpose sum minus total,0.0,0.01
+2024-02,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-02,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-03,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2024-03,gel,L3.6 resident plus nonresident minus LPR total,3.637978807091713e-12,0.01
+2024-03,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-03,fx,LPR purpose sum minus total,0.0010000000002037268,0.01
+2024-03,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-03,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-04,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2024-04,gel,L3.6 resident plus nonresident minus LPR total,-0.000999999996565748,0.01
+2024-04,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-04,fx,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2024-04,fx,L3.6 resident plus nonresident minus LPR total,-9.094947017729282e-13,0.01
+2024-04,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-05,gel,LPR purpose sum minus total,-3.637978807091713e-12,0.01
+2024-05,gel,L3.6 resident plus nonresident minus LPR total,-3.637978807091713e-12,0.01
+2024-05,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-05,fx,LPR purpose sum minus total,0.0,0.01
+2024-05,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-05,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-06,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2024-06,gel,L3.6 resident plus nonresident minus LPR total,-0.0010000000002037268,0.01
+2024-06,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-06,fx,LPR purpose sum minus total,0.0,0.01
+2024-06,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-06,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-07,gel,LPR purpose sum minus total,0.0,0.01
+2024-07,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-07,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-07,fx,LPR purpose sum minus total,0.0010000000002037268,0.01
+2024-07,fx,L3.6 resident plus nonresident minus LPR total,-0.0010000000002037268,0.01
+2024-07,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-08,gel,LPR purpose sum minus total,0.0010000000002037268,0.01
+2024-08,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-08,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-08,fx,LPR purpose sum minus total,-0.0009999999992942321,0.01
+2024-08,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-08,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-09,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2024-09,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-09,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-09,fx,LPR purpose sum minus total,0.0,0.01
+2024-09,fx,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-09,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-10,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2024-10,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-10,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-10,fx,LPR purpose sum minus total,0.0009999999992942321,0.01
+2024-10,fx,L3.6 resident plus nonresident minus LPR total,-0.0010000000002037268,0.01
+2024-10,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-11,gel,LPR purpose sum minus total,-0.0010000000002037268,0.01
+2024-11,gel,L3.6 resident plus nonresident minus LPR total,0.0,0.01
+2024-11,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-11,fx,LPR purpose sum minus total,0.0,0.01
+2024-11,fx,L3.6 resident plus nonresident minus LPR total,-0.0009999999992942321,0.01
+2024-11,fx,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-12,gel,LPR purpose sum minus total,-0.000999999996565748,0.01
+2024-12,gel,L3.6 resident plus nonresident minus LPR total,3.637978807091713e-12,0.01
+2024-12,gel,L3.6 resident minus L3.12 resident,0.0,0.01
+2024-12,fx,LPR purpose sum minus total,0.0,0.01
+2024-12,fx,L3.6 resident plus nonresident minus LPR total,0.0010000000002037268,0.01
+2024-12,fx,L3.6 resident minus L3.12 resident,0.0,0.01

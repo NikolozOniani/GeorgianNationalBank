@@ -1,0 +1,76 @@
+{
+  "new_housing_rate_dec2020": 10.7,
+  "new_housing_rate_dec2022": 12.44,
+  "new_housing_rate_dec2024": 12.63,
+  "standardized_100k_20y": [
+    {
+      "month": "2020-12",
+      "principal_gel": 100000,
+      "term_months": 240,
+      "source_rate_pct": 10.7,
+      "monthly_payment_gel": 1011.8502397327543,
+      "change_vs_dec2020_gel": 0.0,
+      "source_series": "hh_all_gel_new_housing_rate",
+      "assumption": "Synthetic new annuity, fixed size/maturity, nominal rate/12, no fees; not actual borrower payments"
+    },
+    {
+      "month": "2022-12",
+      "principal_gel": 100000,
+      "term_months": 240,
+      "source_rate_pct": 12.44,
+      "monthly_payment_gel": 1131.9135799526648,
+      "change_vs_dec2020_gel": 120.06334021991051,
+      "source_series": "hh_all_gel_new_housing_rate",
+      "assumption": "Synthetic new annuity, fixed size/maturity, nominal rate/12, no fees; not actual borrower payments"
+    },
+    {
+      "month": "2024-12",
+      "principal_gel": 100000,
+      "term_months": 240,
+      "source_rate_pct": 12.63,
+      "monthly_payment_gel": 1145.3177527680002,
+      "change_vs_dec2020_gel": 133.46751303524593,
+      "source_series": "hh_all_gel_new_housing_rate",
+      "assumption": "Synthetic new annuity, fixed size/maturity, nominal rate/12, no fees; not actual borrower payments"
+    }
+  ],
+  "indexed_monthly_main": {
+    "principal_gel": 100000,
+    "term_months": 240,
+    "reset_months": 1,
+    "reset_phase": 0,
+    "pass_through": 1,
+    "reference_policy_pct": 8,
+    "margin_pp": 3,
+    "extra_payments_48m_gel": 5933.063065093948,
+    "extra_interest_48m_gel": 7112.3523023261205,
+    "extra_terminal_debt_gel": 1179.2892372324131,
+    "peak_extra_monthly_payment_gel": 207.74805693854455,
+    "interpretation": "Conditional synthetic contract; not observed or NBG net welfare effect"
+  },
+  "alternative_reference_extra_payments": 2625.971487803329,
+  "main_initial_payment": 1032.1883923760565,
+  "main_peak_payment": 1239.9364493145997,
+  "main_peak_month": "2022-04",
+  "main_end_payment": 1045.266714726685,
+  "conditional_income_exposure": [
+    {
+      "assumed_monthly_income_gel": 3000,
+      "peak_extra_payment_gel": 207.74805693854455,
+      "extra_payment_income_pp": 6.9249352312848185,
+      "interpretation": "Stylized equal-debt income scenarios; not survey groups, quintiles, or approval eligibility"
+    },
+    {
+      "assumed_monthly_income_gel": 6000,
+      "peak_extra_payment_gel": 207.74805693854455,
+      "extra_payment_income_pp": 3.4624676156424092,
+      "interpretation": "Stylized equal-debt income scenarios; not survey groups, quintiles, or approval eligibility"
+    },
+    {
+      "assumed_monthly_income_gel": 9000,
+      "peak_extra_payment_gel": 207.74805693854455,
+      "extra_payment_income_pp": 2.308311743761606,
+      "interpretation": "Stylized equal-debt income scenarios; not survey groups, quintiles, or approval eligibility"
+    }
+  ]
+}

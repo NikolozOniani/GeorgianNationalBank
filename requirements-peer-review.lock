@@ -1,0 +1,6 @@
+# Optional extraction, figures and PDF; core calculations/tests use stdlib only.
+# Tested on CPython 3.12.14. DejaVu Sans fonts are a separate system dependency.
+openpyxl==3.1.5
+matplotlib==3.10.8
+reportlab==4.4.9
+pypdf==6.21.4

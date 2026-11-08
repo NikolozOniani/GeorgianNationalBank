@@ -1,0 +1,18 @@
+[
+  {
+    "id": "NBG2024",
+    "filename": "annual2024.pdf",
+    "url": "https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%94%E1%83%91%E1%83%98/%E1%83%AC%E1%83%9A%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%98/2024/annual-eng-2024.pdf?v=bf7fu",
+    "sha256": "87d2d50b99791a3737031f462123dd8908957fe4082d7b639ea2ba883cb68580",
+    "bytes": 13214673,
+    "locators": "PDF pages 274,276,277,302,303,304; printed pages one less"
+  },
+  {
+    "id": "CA2026",
+    "filename": "cangul_abel_2026.pdf",
+    "url": "https://www.imf.org/-/media/files/publications/selected-issues-papers/2026/english/sipea2026051.pdf",
+    "sha256": "5ef04855709e00663a1b63d7ee5f002d392e202da58e000e81c4af341bebf777",
+    "bytes": 885027,
+    "locators": "Annex I PDF pages 13\u201315; printed pages 10\u201312; completed 19 May 2026, released June 2026"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "series": 46,
+  "observations": 2760,
+  "missing": 0,
+  "identities_tested": 360,
+  "identities_outside_tolerance": 0,
+  "failures": []
+}

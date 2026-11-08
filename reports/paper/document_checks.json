@@ -1,0 +1,20 @@
+{
+  "documents": [
+    {
+      "path": "output/pdf/Oniani_Monetary_Sovereignty_Georgia.pdf",
+      "pages": 11,
+      "author": "Nikoloz Oniani",
+      "sha256": "9a815da75a97a31813d730ba352040acc0c21ecb9cdecc24bafc0489d2ba7fc2",
+      "text_characters": 32759
+    },
+    {
+      "path": "output/pdf/Georgia_Household_Credit_Peer_Review.pdf",
+      "pages": 15,
+      "author": "Nikoloz Oniani",
+      "sha256": "99090e4b8e44ce64b2660d84b2e83ed6e2efc7d7250afc7ac69c9d783ab638b2",
+      "text_characters": 34842
+    }
+  ],
+  "visual_review": "All pages rendered; contact sheets and full-size title, calculation and references pages inspected. No clipping or missing Georgian glyphs observed.",
+  "note": "PDF metadata dates are fixed by deterministic rendering; publication date is printed in the document."
+}

@@ -1,5 +1,13 @@
 # Georgia monetary policy and household welfare: Phase 1
 
+## Academic paper — Nikoloz Oniani
+
+The [integrated working paper](reports/paper/Paper.md), [formatted PDF](output/pdf/Oniani_Monetary_Sovereignty_Georgia.pdf), and [replication guide](reports/paper/README.md) combine household financing exposure, central-bank operation costs and revenues, monetary creation, reserve accounting, and an independent algebraic and quantitative audit of Cangul and Abel (2026). The results challenge both gross-cost claims against NBG and unjustified precision in reserve targets. They do not identify a net causal welfare effect. All earlier research remains available below.
+
+## Credit-channel peer-review draft — 8 November 2026
+
+The [review packet](reports/peer_review/README.md) provides a [formatted study](output/pdf/Georgia_Household_Credit_Peer_Review.pdf), [manuscript](reports/peer_review/Manuscript.md), [Georgian summary](reports/peer_review/Summary_ka.md), and [reviewer brief](reports/peer_review/Reviewer_Brief.md). It adds 46 verified household credit/deposit series for 2020–2024, observed rate comparisons, and explicitly conditional loan-payment calculations. It does not claim an identified national welfare loss. Reproduce the numerical results offline with `python src/credit_analysis.py`; validate with `python src/validate_credit.py`.
+
 ## Public accountability investigation — 8 November 2026
 
 The complete [accountability edition](reports/accountability/README.md) contains the [evidence dossier](reports/accountability/Dossier.md), [Georgian public speech](reports/accountability/Speech_ka.md), [claim-by-claim opposition briefing](reports/accountability/Fact_check.md), [scoreboard](reports/accountability/Scoreboard.md), [quantitative illustrations](reports/accountability/Illustrations.md), and [reform agenda](reports/accountability/Reforms.md). It investigates costs, benefits and disclosure without claiming an identified net NBG-caused household loss. All previous research below is preserved.

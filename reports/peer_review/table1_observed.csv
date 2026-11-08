@@ -1,0 +1,10 @@
+series,dec2020,dec2022,dec2024,change_2020_2022,change_2022_2024,unit,interpretation
+hh_resident_gel_stock,11367.088,16808.187,24095.56,5441.099000000002,7287.373,GEL million,Changing aggregate portfolios; not within-borrower repricing or causal transmission
+hh_resident_fx_stock,7383.129,6855.375,7642.067,-527.7539999999999,786.692,GEL million,Changing aggregate portfolios; not within-borrower repricing or causal transmission
+hh_resident_gel_rate,16.39,16.57,15.36,0.17999999999999972,-1.2100000000000009,percent per year; changes percentage points,Changing aggregate portfolios; not within-borrower repricing or causal transmission
+hh_resident_fx_rate,6.31,6.45,7.61,0.14000000000000057,1.1600000000000001,percent per year; changes percentage points,Changing aggregate portfolios; not within-borrower repricing or causal transmission
+hh_all_gel_new_housing_rate,10.7,12.44,12.63,1.7400000000000002,0.19000000000000128,percent per year; changes percentage points,Changing aggregate portfolios; not within-borrower repricing or causal transmission
+hh_all_gel_new_consumer_rate,20.28,19.13,18.16,-1.1500000000000021,-0.9699999999999989,percent per year; changes percentage points,Changing aggregate portfolios; not within-borrower repricing or causal transmission
+hh_all_gel_realestate_secured_outstanding_rate,11.81,13.33,12.35,1.5199999999999996,-0.9800000000000004,percent per year; changes percentage points,Changing aggregate portfolios; not within-borrower repricing or causal transmission
+hh_all_gel_deposit_term_rate,10.41,12.02,10.91,1.6099999999999994,-1.1099999999999994,percent per year; changes percentage points,Changing aggregate portfolios; not within-borrower repricing or causal transmission
+hh_all_gel_new_term_deposit_rate,9.36,12.06,11.02,2.700000000000001,-1.040000000000001,percent per year; changes percentage points,Changing aggregate portfolios; not within-borrower repricing or causal transmission

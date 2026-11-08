@@ -1,0 +1,25 @@
+{
+  "checked_utc": "2026-11-08T21:11:02.433845+00:00",
+  "status": "passed",
+  "calculations_reproduce_exactly": true,
+  "calculation_stderr": "",
+  "test_returncode": 0,
+  "outputs_sha256": {
+    "annual_results.csv": "8c876d790042dfbc9bad5fb482a97862b793b80491cb02c5625832492a7e7ac0",
+    "accounting_checks.csv": "d0ab8f676b5e603ad8c6324d686767d21ce6f3624afd1f9a4251bb1c5b17d6db",
+    "reserve_bridges.csv": "155dfd220c973a095746c58f339ab4151f5487d2212ac06d266f387bba37629c",
+    "reserve_channel_sensitivity.csv": "96cdfa94d9bebd65e98f6fbb956a92ab1082217cabc05eca90c26a551a818ded",
+    "reserve_target_arithmetic.csv": "0302766b4b41e527e14017a3009d134714fd023ec61ab7c355636053a002052c"
+  },
+  "raw_sources": [
+    {
+      "id": "NBG2024",
+      "hash_verified": true
+    },
+    {
+      "id": "CA2026",
+      "hash_verified": true
+    }
+  ],
+  "scope": "Numerical replication and source integrity; not independent external peer review or causal identification"
+}

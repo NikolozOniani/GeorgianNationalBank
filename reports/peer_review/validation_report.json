@@ -1,0 +1,59 @@
+{
+  "checked_utc": "2026-11-08T21:09:35.451773+00:00",
+  "python": "3.12.14",
+  "packages": {
+    "openpyxl": "3.1.5",
+    "matplotlib": "3.10.8",
+    "reportlab": "4.4.9",
+    "pypdf": "6.21.4"
+  },
+  "analysis_returncode": 0,
+  "analysis_stderr": "",
+  "numerical_outputs_unchanged": true,
+  "output_sha256": {
+    "table1_observed.csv": "54a8c62085eb7b6fabfb407dc1b87acd455638da2b8068f7f770027d89d27445",
+    "table2_standardized_new_loan.csv": "740c44588de371946acfd97d38da2d7ab8f2f7a44129a76dfd5c373456e40a44",
+    "indexed_contract_monthly.csv": "427310ef68a22040974a6141d8790a211361653158c8ab56844297044cf833db",
+    "table3_reset_sensitivity.csv": "e933a9d9ece86e3679915e2d2d0b8591d7b2ce0fcab86af22ca1639d69465cea",
+    "alternative_reference_9pct.csv": "37fcabd5768e19bae01db67d36121e6e87bb53fc2aa6ad4fd5ee05faefb7d874",
+    "table4_conditional_income_exposure.csv": "ad1186a001a291eb7e3e92c101c64a97a5a4cef775a5da50350aa5db3d0a4468",
+    "results.json": "efcde93b9eecf4e653e0db3b4e99d3f89355273308625b4c641ab444f2d5cdb7"
+  },
+  "previous_output_sha256": {
+    "table1_observed.csv": "54a8c62085eb7b6fabfb407dc1b87acd455638da2b8068f7f770027d89d27445",
+    "table2_standardized_new_loan.csv": "740c44588de371946acfd97d38da2d7ab8f2f7a44129a76dfd5c373456e40a44",
+    "indexed_contract_monthly.csv": "427310ef68a22040974a6141d8790a211361653158c8ab56844297044cf833db",
+    "table3_reset_sensitivity.csv": "e933a9d9ece86e3679915e2d2d0b8591d7b2ce0fcab86af22ca1639d69465cea",
+    "alternative_reference_9pct.csv": "37fcabd5768e19bae01db67d36121e6e87bb53fc2aa6ad4fd5ee05faefb7d874",
+    "table4_conditional_income_exposure.csv": "ad1186a001a291eb7e3e92c101c64a97a5a4cef775a5da50350aa5db3d0a4468",
+    "results.json": "efcde93b9eecf4e653e0db3b4e99d3f89355273308625b4c641ab444f2d5cdb7"
+  },
+  "tests_returncode": 0,
+  "prior_research_preservation": {
+    "baseline": "89bbc62a1e2d3dc1fd786568460c39bc431c6cf7",
+    "allowed_navigation_change": "README.md",
+    "verified_files": 64,
+    "changes": [],
+    "status": "passed"
+  },
+  "raw_sources": {
+    "checked": 11,
+    "failures": [],
+    "status": "passed"
+  },
+  "extraction": {
+    "series": 46,
+    "observations": 2760,
+    "missing": 0,
+    "identities_tested": 360,
+    "identities_outside_tolerance": 0,
+    "failures": []
+  },
+  "limits": [
+    "Checks establish extraction consistency and conditional arithmetic, not causal identification.",
+    "Provider historical release vintages are not reconstructed.",
+    "No linked borrower contracts/incomes or population welfare estimate."
+  ],
+  "failures": [],
+  "status": "passed"
+}

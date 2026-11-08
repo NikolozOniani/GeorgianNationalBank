@@ -1,0 +1,4 @@
+*.pdf binary
+*.png binary
+# Keep source-generated CSV bytes and their pinned hashes unchanged.
+*.csv -text -whitespace
