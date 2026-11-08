@@ -1,5 +1,9 @@
 # Georgia monetary policy and household welfare: Phase 1
 
+## Reserve-adequacy research design — current direction
+
+For Nikoloz Oniani's proposed study, **The Economics of Reserve Accumulation in Georgia: An Independent Assessment of Costs, Benefits, and Optimal Reserve Adequacy**, start with the [evidence assessment and empirical design](reports/reserve_readiness/Assessment_and_Design.md). It audits the existing calculations, identifies missing inputs and sets separate accounting, ARA and model-replication gates. The existing drafts below are preserved; they do not establish an optimal reserve level. Reproduce the new read-only audit with `python src/reserve_readiness_audit.py`.
+
 ## Academic paper — Nikoloz Oniani
 
 The [integrated working paper](reports/paper/Paper.md), [formatted PDF](output/pdf/Oniani_Monetary_Sovereignty_Georgia.pdf), and [replication guide](reports/paper/README.md) combine household financing exposure, central-bank operation costs and revenues, monetary creation, reserve accounting, and an independent algebraic and quantitative audit of Cangul and Abel (2026). The results challenge both gross-cost claims against NBG and unjustified precision in reserve targets. They do not identify a net causal welfare effect. All earlier research remains available below.

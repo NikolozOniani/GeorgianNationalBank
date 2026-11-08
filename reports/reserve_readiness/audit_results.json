@@ -1,0 +1,39 @@
+{
+  "baseline_commit": "54988b512af3a8373c5e80d1daaa12ba1fbae5f1",
+  "months": 60,
+  "unique_months": 60,
+  "first": "2020-01",
+  "last": "2024-12",
+  "monthly_coverage_file": "monthly_coverage.csv",
+  "annual_account_rows": 64,
+  "quarterly_external_rows": 20,
+  "annual_intervention_rows": 2,
+  "verified_auction_rows": 1,
+  "locked_input_hashes": {
+    "reports/paper/annual_accounts.csv": true,
+    "reports/peer_review/credit_monthly_2020_2024.csv": true,
+    "reports/nbg_policy_monthly_2020_2024.csv": true,
+    "reports/nbg_fx_annual_benchmarks.csv": true,
+    "reports/nbg_policy_decisions_2008_onward.csv": true
+  },
+  "independent_decimal_accounting": [
+    {
+      "year": 2023,
+      "net_interest_residual": "0.000",
+      "balance_sheet_residual": "0.000"
+    },
+    {
+      "year": 2024,
+      "net_interest_residual": "0.000",
+      "balance_sheet_residual": "0.000"
+    }
+  ],
+  "independent_channel_arithmetic": {
+    "dollarization_change_pp": "-0.8701137698962976616776590187374954097687",
+    "expected_loss_reduction_pct_gdp": "0.004350568849481488308388295093687477048844",
+    "assumed_normal_state_carry_pct_gdp": "0.0900",
+    "isolated_ratio": "0.04833965388312764787098105659652752276493",
+    "scope": "Single common horizon assumed; no calibrated duration, utility-equivalent welfare or full insurance benefit"
+  },
+  "status": "passed: arithmetic and input integrity; not economic adequacy"
+}
