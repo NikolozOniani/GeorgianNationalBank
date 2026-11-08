@@ -1,0 +1,62 @@
+{
+  "sample_rows": 11590,
+  "unique_diary_ids": 6866,
+  "months": [
+    "2017-01",
+    "2017-02",
+    "2017-03",
+    "2017-04",
+    "2017-05",
+    "2017-06",
+    "2017-07",
+    "2017-08",
+    "2017-09",
+    "2017-10",
+    "2017-11",
+    "2017-12"
+  ],
+  "weight_sum_four_quarters": 4256250.309768677,
+  "weighted_mean_total_expenditure_gel": 1092.2115197472451,
+  "geostat_published_2017_total_expenditure_gel": 1093.0,
+  "weighted_mean_consumption_gel": 807.0524336016706,
+  "weighted_mean_total_cash_and_noncash_inflows_gel": 1110.722592613435,
+  "geostat_published_2017_total_income_gel": 1110.7,
+  "income_fields": {
+    "UID": "Unique ID of the household in the quarter",
+    "ShemDaq": "Income from hired employment (monthly average)",
+    "ShemTviTdasaqm": "Income from self-employment (monthly average)",
+    "Shem_Sof": "Income from selling agricultural production (monthly average)",
+    "Qonebidan": "Property income (leasing, interest on deposit etc.) (monthly average)",
+    "PensStipDaxm": "Pensions, scholarships, assistances (monthly average)",
+    "Ucxoetidan": "Remittances from abroad (monthly average)",
+    "Axloblebisagan": "Money received as gift (monthly average)",
+    "ShemosavaliDaTransf": "Cash income and transfers (monthly average)",
+    "QonebisGayidvit": "Property disposal (monthly average)",
+    "SesxAnDanazog": "Borrowing and dissaving (monthly average)",
+    "SxvaFuladiSaxsrebi": "Other cash inflows (monthly average)",
+    "ArafuladiMoxmareba": "Non-cash income (monthly average)",
+    "Shemosavalisul": "Total income (monthly average)",
+    "Fuladisaxsrebi": "Total cash inflows  (monthly average)",
+    "Saxsrebi_Sul": "Cash and non-cash inflows, total (monthly average)"
+  },
+  "cpi": {
+    "date_start": [
+      2004,
+      1
+    ],
+    "date_end": [
+      2026,
+      10
+    ],
+    "missing_required": [],
+    "period": "December 2017 to December 2018/2019",
+    "total_cpi": {
+      "2018": 0.015151115067105314,
+      "2019": 0.08617582586138273
+    }
+  },
+  "group_cpi_url": "https://www.geostat.ge/media/83812/Consumer-Price-Indices-(Previous-month=100).xlsx",
+  "group_cpi_sha256": "5b2df9ab880ff87e07e3329b35826c301f3c318f35aa1313041ad1b55946b6b7",
+  "survey_sha256": "dc7ea470c7fa11ad608003af290979fc0cd144daec82f5d9e37c000a321c58ad",
+  "design": "Household-quarter UID; DiaryID repeats across quarters. Weights positive; PSU and strata absent from released schedule. Intervals are 300 seeded DiaryID cluster bootstrap draws, an exploratory approximation, not design-based confidence intervals."
+}

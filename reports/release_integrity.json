@@ -28,6 +28,14 @@
     "members": 29
   },
   {
+    "name": "2020.zip",
+    "bytes": 12405319,
+    "sha256": "91cc28edcfed19f8220c607effe47620dc1e633410461bba76b9d848e743e53c",
+    "integrity": "source_invalid",
+    "members": null,
+    "error": "GitHub-declared bytes and digest match, but file structure or CRC fails"
+  },
+  {
     "name": "2021.zip",
     "bytes": 14437445,
     "sha256": "323b2f168e588093a4892df16f0176c65b6aacdb15b143c892d1c76b06265491",
@@ -40,6 +48,14 @@
     "sha256": "b3ac2b6ace8b6452292070fdedcda2ce4190375182364460a7885bd90dc76ef7",
     "integrity": "passed",
     "members": 29
+  },
+  {
+    "name": "2023.zip",
+    "bytes": 4994305,
+    "sha256": "ac9330ed365b03013efa704ea551c04ddb3457eb7e7a7459ab733f3aa2187241",
+    "integrity": "source_invalid",
+    "members": null,
+    "error": "GitHub-declared bytes and digest match, but file structure or CRC fails"
   },
   {
     "name": "2024.zip",

@@ -5,7 +5,7 @@ The Phase 1 assessment, eight requested components, literature review, go/no-go 
 Status: Phase 2 recovery audit completed. Eleven of thirteen GEOSTAT release assets pass hash and structural checks; the 2020 and 2023 release ZIPs are hash-matched but structurally malformed and are excluded. Descriptive household-price analysis may proceed on validated years. Causal NBG intervention identification remains a separate unresolved track.
 ## Phase 2 validation checkpoint
 
-See [the validation report](reports/Phase2_Validation_Report.md) and [the interruption-recovery audit](reports/recovery_audit_2026-11-08.md). Release validation outputs are in `reports/release_validation_summary.json` and `reports/release_household_profiles.json`. Raw provider data are not distributed.
+See [the 2017 pilot report](reports/Pilot2017_Methods_and_Results.md), [the validation checkpoint](reports/Phase2_Validation_Report.md), and [the interruption-recovery audit](reports/recovery_audit_2026-11-08.md). Raw provider data are not distributed. The pilot calculates only a matched-category fixed-basket contribution; 59.1% of weighted consumption is unmatched.
 
 Reproduce with CPython 3.12:
 
@@ -13,7 +13,8 @@ Reproduce with CPython 3.12:
 python -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.lock
-python src/acquire.py
-python src/profile_households.py
+python src/release_download.py
+python src/release_validation.py
+python src/pilot2017.py
 python -m unittest discover -s tests -v
 ```

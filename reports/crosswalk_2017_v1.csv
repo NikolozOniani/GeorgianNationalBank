@@ -1,0 +1,10 @@
+survey_variable,survey_label,cpi_group_code,cpi_label,status_note
+tansacmeli,Expenditures on clothing and footwear (monthly average),3,Clothing and footwear,direct
+saojaxo,Expenditures on household goods (monthly average),5,"Furnishings, household equipment and routine maintenance of the house",approximate: household goods may not include all maintenance
+samedicino,Expenditures on healthcare (monthly average),6,Health,direct
+energia,Expenditures on fuel and electricity (monthly average),45,"Electricity, gas and other fuels",direct for fuel/electricity; survey wording may exclude gas
+transporti,Expenditures on transport (monthly average),7,Transport,direct
+ganatleba,Expenditures on education (monthly average),10,Education,direct
+sursati__sasmeli__Tambaqo,"Expenditures on food, beverages, tobacco (monthly average)",,,"unmatched: Mixed food, beverages, tobacco spans CPI 1 and 2"
+sxva,Other consumption expenditures (monthly average),,,unmatched: Other consumption spans several CPI groups
+Arafuladi_moxm_,Non-cash expenditures (monthly average),,,unmatched: Noncash consumption lacks category allocation

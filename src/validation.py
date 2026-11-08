@@ -17,3 +17,20 @@ def unmatched_share(rows, mapping):
         amount=value*weight;total+=amount
         if row['code'] not in mapping:missing+=amount
     return None if total==0 else missing/total
+def zip_integrity(path):
+    """Return pass only if the central directory opens and every member CRC passes."""
+    import zipfile
+    try:
+        with zipfile.ZipFile(path) as z:
+            bad = z.testzip()
+            return 'passed' if bad is None else 'crc_failure'
+    except (OSError, zipfile.BadZipFile):
+        return 'structural_failure'
+
+def chain_monthly_indices(values):
+    """Price change from strictly positive previous-month=100 relatives."""
+    import math
+    values=list(values)
+    if not values or any(not isinstance(v,(int,float)) or not math.isfinite(v) or v<=0 for v in values):
+        raise ValueError('missing or invalid monthly index')
+    return math.prod(v/100 for v in values)-1

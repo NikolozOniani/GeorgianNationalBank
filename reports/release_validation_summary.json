@@ -53,7 +53,8 @@
       "status": "structural_failure",
       "detail": {
         "bytes": 12405319,
-        "sha256": "91cc28edcfed19f8220c607effe47620dc1e633410461bba76b9d848e743e53c"
+        "sha256": "91cc28edcfed19f8220c607effe47620dc1e633410461bba76b9d848e743e53c",
+        "zip_members": null
       }
     },
     {
@@ -85,7 +86,8 @@
       "status": "structural_failure",
       "detail": {
         "bytes": 4994305,
-        "sha256": "ac9330ed365b03013efa704ea551c04ddb3457eb7e7a7459ab733f3aa2187241"
+        "sha256": "ac9330ed365b03013efa704ea551c04ddb3457eb7e7a7459ab733f3aa2187241",
+        "zip_members": null
       }
     },
     {
