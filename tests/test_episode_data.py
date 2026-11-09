@@ -62,10 +62,28 @@ class AcquisitionSafety(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             p=Path(folder)
             with patch.object(acquire,'RAW',p),patch.object(acquire,'ROOT',p),patch.object(acquire.urllib.request,'urlopen') as request:
-                r=acquire.fetch(dict(id='large',format='xlsx',url='https://example.invalid/large',bytes=2_000_000,sha256='0'*64))
+                r=acquire.fetch(dict(id='large',format='xlsx',url='https://example.invalid/large',bytes=acquire.MAX_DOWNLOAD_BYTES+1,sha256='0'*64))
             request.assert_not_called()
             self.assertEqual(r['status'],'failed')
-            self.assertIn('Manual acquisition required',r['error'])
+            self.assertIn('safety limit',r['error'])
+
+    def test_two_megabyte_download_and_short_response(self):
+        payload=b'{"text":"'+b'x'*2_000_000+b'"}'
+        class Response(io.BytesIO):
+            url='https://example.invalid/source'
+            status=200
+            headers={'Content-Length':str(len(payload))}
+        with tempfile.TemporaryDirectory() as folder:
+            p=Path(folder)
+            item=dict(id='source',format='json',url=Response.url,bytes=len(payload),sha256=hashlib.sha256(payload).hexdigest())
+            with patch.object(acquire,'RAW',p),patch.object(acquire,'ROOT',p),patch.object(acquire.urllib.request,'urlopen',return_value=Response(payload)):
+                self.assertEqual(acquire.fetch(item)['status'],'acquired')
+            item['id']='short'
+            with patch.object(acquire,'RAW',p),patch.object(acquire,'ROOT',p),patch.object(acquire.urllib.request,'urlopen',return_value=Response(payload[:-1])):
+                result=acquire.fetch(item)
+                self.assertEqual(result['status'],'failed')
+                self.assertIn('Content-Length mismatch',result['error'])
+                self.assertFalse((p/'short.json').exists())
 
 
 class EmpiricalDefinitions(unittest.TestCase):

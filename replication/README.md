@@ -13,9 +13,9 @@ python replication/check_repository.py --replicate
 
 The first command verifies all archived file hashes, the authoritative study identity, requirements/source references, local documentation links, current structure tests, and the unchanged archived numerical tests. It uses only the Python standard library and makes no network requests. The second additionally reruns the four preserved numerical generators in a temporary copy and checks all pre-existing CSV outputs and selected numerical JSON outputs. It requires exact byte agreement except for two explicitly listed historical CSV files whose generators emit CRLF while the archived files use LF; those must agree after that sole newline normalization. It does not overwrite the archive, fetch observations, generate a manuscript or estimate new effects.
 
-For a machine-readable verification record, append `--report docs/reorganization_validation.json`. The record reports exactly which tests were retired and what was reproduced; a historical test log is not represented as a fresh validation run.
+For a machine-readable verification record, append `--report replication/local-results/repository_validation.json`. Preserve dated historical verification records. The record reports exactly which tests were retired and what was reproduced; a historical test log is not represented as a fresh validation run.
 
-The pre-reorganization baseline passed 33 tests. One mixed speech/editorial test was retired because the speech and briefing were withdrawn; its numerical partial-coverage assertions have a current replacement. The 32 remaining archived tests retain their original source bytes. Four current tests cover study consistency, requirements completeness, archive integrity and that transferred numerical check.
+The pre-reorganization baseline passed 33 tests. One mixed speech/editorial test was retired because the speech and briefing were withdrawn; its numerical partial-coverage assertions have a current replacement. The 32 remaining archived tests retain their original source bytes. The current suite now has 20 tests, including structure, acquisition safety, definitions and R0 source/output failure checks. See the [R0 checkpoint](../reports/r0_2026_11_10/README.md) and [episode reproduction instructions](ACQUISITION.md) for the separate original-source extraction test.
 
 ## Existing numerical work
 
@@ -29,6 +29,6 @@ Old whole-project editorial validators and manuscript renderers were retired to 
 
 ## Future acquisition conventions
 
-New episode work should use a dedicated `data/raw/` (ignored), `data/derived/` and `src/` when acquisition is authorized, with each dataset mapped to an ID in [the requirements register](../research/data_requirements.json). These are reserved locations, not populated episode datasets. Keep source URL, retrieved UTC timestamp, SHA-256, observation period, publication date, units, currency, frequency, status, definition vintage and transformations. Do not overwrite archived inputs to make a new result fit an old test.
+Episode sources, outputs and code already occupy `data/raw/` (ignored), `data/derived/` and `src/`, with each dataset mapped to an ID in [the requirements register](../research/data_requirements.json). Keep source URL, retrieved UTC timestamp, SHA-256, observation period, publication date, units, currency, frequency, status, definition vintage and transformations. Do not overwrite archived inputs to make a new result fit an old test.
 
 Use purchases-positive signs for active net FX acquisition and preserve both gross directions. Retain trade, settlement and disclosure times separately. Match accounting basis and period before reconciliation. Public monthly aggregates are not daily executions; future or forecast values are not realized observations. Every outcome must link to the single counterfactual in the protocol.

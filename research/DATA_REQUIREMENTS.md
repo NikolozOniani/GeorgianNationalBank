@@ -1,5 +1,7 @@
 # Research-data requirements and acquisition plan
 
+Historical specification dated 8 November 2026. For completed acquisition use [ACQUISITION_STATUS.md](ACQUISITION_STATUS.md), the pinned manifest and [R0 registration](R0_REGISTRATION.md). Statements below that an input was not yet acquired describe that earlier checkpoint; do not reacquire completed sources merely because this specification predates them.
+
 **Study:** The Economics of Reserve Accumulation in Georgia: An Independent Assessment of Costs, Benefits, and Optimal Reserve Adequacy
 
 **Author:** Nikoloz Oniani

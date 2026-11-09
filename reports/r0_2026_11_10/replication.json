@@ -1,0 +1,98 @@
+{
+  "registration_date": "2026-11-10",
+  "baseline_commit": "3a16715b6e8c79e4abb2dbb1a596b6e290e3b8e6",
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "dependencies": {
+    "openpyxl": "3.1.5",
+    "pypdf": "6.21.4",
+    "matplotlib": "3.10.8"
+  },
+  "commands": [
+    {
+      "command": [
+        "replication/check_repository.py"
+      ],
+      "returncode": 0,
+      "expected_returncode": 0
+    },
+    {
+      "command": [
+        "replication/audit_r0.py",
+        "--output-dir",
+        "replication/local-results/no-raw"
+      ],
+      "returncode": 0,
+      "expected_returncode": 0
+    },
+    {
+      "command": [
+        "src/validate_episode.py"
+      ],
+      "returncode": 0,
+      "expected_returncode": 0
+    },
+    {
+      "command": [
+        "src/validate_episode.py",
+        "--require-raw"
+      ],
+      "returncode": 1,
+      "expected_returncode": 1
+    },
+    {
+      "command": [
+        "src/extract_episode.py",
+        "--check"
+      ],
+      "returncode": 0,
+      "expected_returncode": 0
+    },
+    {
+      "command": [
+        "src/validate_episode.py",
+        "--require-raw"
+      ],
+      "returncode": 0,
+      "expected_returncode": 0
+    }
+  ],
+  "clean_checkout_raw_absent": 57,
+  "supplied_raw_verified": 57,
+  "all_36_derived_tables_byte_identical": true,
+  "accounting_comparisons": [
+    {
+      "file": "annual_reserve_bridge.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "ara_component_inputs.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "episode_monthly_missingness.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "intervention_reconciliation.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "monthly_policy_panel.csv",
+      "byte_identical": true
+    },
+    {
+      "file": "reserve_template_reconciliation.csv",
+      "byte_identical": true
+    }
+  ],
+  "validation_checks": 28,
+  "passed_source_checks": 25,
+  "qualified_source_checks": [
+    "dated_auction_vs_monthly",
+    "money_market_security_total",
+    "transfer_workbook_overlap"
+  ],
+  "source_downloads": 0,
+  "new_empirical_estimation": false,
+  "limitation": "Isolated checkout uses the same installed Python environment and lawful local source cache; not an independent researcher or remote vintage download test"
+}

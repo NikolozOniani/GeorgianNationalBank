@@ -5,7 +5,7 @@
     "bytes": 16474319,
     "original_url": "https://nbg.gov.ge/fm/პუბლიკაციები/ანგარიშები/წლიური_ანგარიში/2025/annual-eng-2025.pdf?v=ghprb",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/ara_debt_ratio.json",
@@ -13,7 +13,7 @@
     "bytes": 31012,
     "original_url": "https://www.imf.org/external/datamapper/api/v1/Reserves_STD/GEO",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/ara_import_cover.json",
@@ -21,7 +21,7 @@
     "bytes": 34948,
     "original_url": "https://www.imf.org/external/datamapper/api/v1/Reserves_M/GEO",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/ara_indicators.json",
@@ -29,7 +29,7 @@
     "bytes": 48417,
     "original_url": "https://www.imf.org/external/datamapper/api/v1/indicators",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/ara_landing.html",
@@ -37,7 +37,7 @@
     "bytes": 18520,
     "original_url": "https://www.imf.org/external/datamapper/datasets/ARA",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/ara_money_ratio.json",
@@ -45,7 +45,7 @@
     "bytes": 36789,
     "original_url": "https://www.imf.org/external/datamapper/api/v1/Reserves_M2/GEO",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/ara_ratio.json",
@@ -53,7 +53,7 @@
     "bytes": 28910,
     "original_url": "https://www.imf.org/external/datamapper/api/v1/Reserves_ARA/GEO",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/bmatch_statement.html",
@@ -61,7 +61,7 @@
     "bytes": 366187,
     "original_url": "https://nbg.gov.ge/en/media/news/statement-of-the-national-bank-of-geor-26",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/bop_bpm6.xlsx",
@@ -69,7 +69,7 @@
     "bytes": 1031808,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/bopbpm6eng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/broad_dollar.html",
@@ -77,7 +77,7 @@
     "bytes": 895246,
     "original_url": "https://www.federalreserve.gov/releases/h10/summary/jrxwtfb_nb.htm",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/category_15.json",
@@ -85,7 +85,7 @@
     "bytes": 3030,
     "original_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/15/data",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/category_19.json",
@@ -93,7 +93,7 @@
     "bytes": 4917,
     "original_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/19/data",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/category_20.json",
@@ -101,7 +101,7 @@
     "bytes": 788,
     "original_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/20/data",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/category_21.json",
@@ -109,7 +109,7 @@
     "bytes": 2031,
     "original_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/21/data",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/category_24.json",
@@ -117,7 +117,7 @@
     "bytes": 4355,
     "original_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/24/data",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/category_25.json",
@@ -125,7 +125,7 @@
     "bytes": 1162,
     "original_url": "https://nbg.gov.ge/gw/api/ct/statistics/categories/25/data",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/cd_auctions.xlsx",
@@ -133,7 +133,7 @@
     "bytes": 109313,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/financial_markets/eng/cd-auctionseng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/central_bank.xlsx",
@@ -141,7 +141,7 @@
     "bytes": 85621,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/monetary_statistics/eng/cental-bank-survey-eng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/debt_schedule.xlsx",
@@ -149,7 +149,7 @@
     "bytes": 28863,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/edgrfeng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/depository_survey.xlsx",
@@ -157,7 +157,7 @@
     "bytes": 61455,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/monetary_statistics/eng/georgian-depository-corporations-surveyeng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/external_debt.xlsx",
@@ -165,7 +165,7 @@
     "bytes": 403800,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/edbpm6eng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/fx_auctions.xlsx",
@@ -173,7 +173,7 @@
     "bytes": 25805,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/foreign_exchange_market/eng/fx-auctionseng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/fx_daily_current.xlsx",
@@ -181,7 +181,7 @@
     "bytes": 154353,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/exchange_rates/eng/official-daily-exchange-rateseng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/fx_daily_history.xlsx",
@@ -189,7 +189,7 @@
     "bytes": 7796781,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/exchange_rates/eng/exratesyearseng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/fx_market.xlsx",
@@ -197,7 +197,7 @@
     "bytes": 193790,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/foreign_exchange_market/eng/fx-market-usd-euroeng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/fx_method.html",
@@ -205,7 +205,7 @@
     "bytes": 359818,
     "original_url": "https://nbg.gov.ge/en/page/foreign-exchange-market",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/fx_rules.html",
@@ -213,7 +213,7 @@
     "bytes": 354095,
     "original_url": "https://nbg.gov.ge/en/page/foreign-exchange-auctions",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/iip.xlsx",
@@ -221,7 +221,7 @@
     "bytes": 1473899,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/iip-bpm6-eng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/liquidity_method.html",
@@ -229,7 +229,7 @@
     "bytes": 355042,
     "original_url": "https://nbg.gov.ge/en/page/liquidity-management",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/market_rates.xlsx",
@@ -237,7 +237,7 @@
     "bytes": 39287,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/financial_markets/eng/interest-rates-on-papers-market-eng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/mof_debt.html",
@@ -245,7 +245,7 @@
     "bytes": 173406,
     "original_url": "https://www.mof.ge/en/page/public-debt-statistics",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/mof_external.html",
@@ -253,7 +253,7 @@
     "bytes": 162648,
     "original_url": "https://www.mof.ge/en/ExternalPublicDebtStatistics",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/mof_external_2024.html_fragment",
@@ -261,7 +261,7 @@
     "bytes": 77808,
     "original_url": "https://www.mof.ge/en/ExternalPublicDebtStatistics/GetData?year=2024",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/mof_external_2025.html_fragment",
@@ -269,7 +269,7 @@
     "bytes": 111540,
     "original_url": "https://www.mof.ge/en/ExternalPublicDebtStatistics/GetData?year=2025",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/mof_external_2026.html_fragment",
@@ -277,7 +277,7 @@
     "bytes": 273088,
     "original_url": "https://www.mof.ge/en/ExternalPublicDebtStatistics/GetData?year=2026",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/mof_reports.html",
@@ -285,7 +285,7 @@
     "bytes": 152348,
     "original_url": "https://www.mof.ge/en/fl/mtavrobis_valis_koveltviuri_angarishi",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/money_aggregates.xlsx",
@@ -293,7 +293,7 @@
     "bytes": 120131,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/monetary_statistics/eng/money-aggregates-and-monetary-ratioseng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/money_market.xlsx",
@@ -301,7 +301,7 @@
     "bytes": 34670,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/analytical_data/eng/mmieng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/neer_daily.xlsx",
@@ -309,7 +309,7 @@
     "bytes": 275689,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/exchange_rates/eng/neereng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/neer_monthly.xlsx",
@@ -317,7 +317,7 @@
     "bytes": 74635,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/exchange_rates/eng/nominal-effective-exchange-rateeng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/operations_manual.html",
@@ -325,7 +325,7 @@
     "bytes": 342051,
     "original_url": "https://nbg.gov.ge/en/page/monetary-policy-operations-manual",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/purchases_2025.html",
@@ -333,7 +333,7 @@
     "bytes": 344996,
     "original_url": "https://nbg.gov.ge/en/media/news/georgia-s-international-foreign-exchange-reserves-reach-a-historic-high-of-approximately-u",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/reer_monthly.xlsx",
@@ -341,7 +341,7 @@
     "bytes": 150129,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/exchange_rates/eng/real-exchange-rateseng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/refinancing.xlsx",
@@ -349,7 +349,7 @@
     "bytes": 52262,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/financial_markets/eng/refinancingeng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/remittances.xlsx",
@@ -357,7 +357,7 @@
     "bytes": 29576,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/money-transfers-by-months-eng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/remittances_country.xlsx",
@@ -365,7 +365,7 @@
     "bytes": 930148,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/money-transfers-by-countries-eng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/repo.xlsx",
@@ -373,7 +373,7 @@
     "bytes": 99140,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/financial_markets/eng/repoeng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/reserve_assets.xlsx",
@@ -381,7 +381,7 @@
     "bytes": 117955,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/templatesection-ieng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/reserve_liquidity.xlsx",
@@ -389,7 +389,7 @@
     "bytes": 2943143,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/reporting-form-r1.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/reserves_aug2026.html",
@@ -397,7 +397,7 @@
     "bytes": 344976,
     "original_url": "https://nbg.gov.ge/en/media/news/as-of-august-2026-georgia-s-gross-international-reserves-reach-an-all-time-high-of-usd-8",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/sofr.json",
@@ -405,7 +405,7 @@
     "bytes": 406596,
     "original_url": "https://markets.newyorkfed.org/api/rates/secured/sofr/search.json?startDate=2020-01-01&endDate=2026-11-09",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/tibr.xlsx",
@@ -413,7 +413,7 @@
     "bytes": 263999,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/analytical_data/eng/tibreng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/trade_country.xlsx",
@@ -421,7 +421,7 @@
     "bytes": 1156505,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/foreign-trade-by-country-eng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/travel.xlsx",
@@ -429,7 +429,7 @@
     "bytes": 290366,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/external_sector/eng/travel-eng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/treasury_bills.xlsx",
@@ -437,7 +437,7 @@
     "bytes": 102692,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/financial_markets/eng/treasury-bills-auctionseng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/treasury_notes.xlsx",
@@ -445,7 +445,7 @@
     "bytes": 82336,
     "original_url": "https://nbg.gov.ge/fm/სტატისტიკა/financial_markets/eng/treasury-notes-auctionseng.xlsx",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/raw/episode_2026_11_09/vix.csv",
@@ -453,7 +453,7 @@
     "bytes": 474604,
     "original_url": "https://cdn-api.cboe.com/api/global/us_indices/daily_prices/VIX_History.csv",
     "kind": "original_source",
-    "disposition": "Local acquisition predates manual-transfer instruction; not uploaded in this commit"
+    "disposition": "Original source outside Git; retrieve pinned bytes from original_url or supply lawful local copy; redistribution rights not established"
   },
   {
     "path": "data/derived/episode_2026_11_09/reserve_liquidity_cells.csv",
@@ -461,7 +461,7 @@
     "bytes": 1290536,
     "original_url": null,
     "kind": "generated_large_output",
-    "disposition": "Awaiting author manual commit; compact validation counterpart committed"
+    "disposition": "Committed required derived output; absence or hash mismatch fails validation"
   },
   {
     "path": "data/derived/episode_2026_11_09/money_transfers_country.csv",
@@ -469,6 +469,6 @@
     "bytes": 2689812,
     "original_url": null,
     "kind": "generated_large_output",
-    "disposition": "Awaiting author manual commit; compact validation counterpart committed"
+    "disposition": "Committed required derived output; absence or hash mismatch fails validation"
   }
 ]

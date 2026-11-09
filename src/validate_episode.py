@@ -38,11 +38,12 @@ def validate():
         checks.append(dict(check=name,passed=bool(ok),detail=detail,
                            qualification=qualification if not ok else None))
     catalogue=json.loads((DATA/'catalogue.json').read_text())
-    manual={'reserve_liquidity_cells.csv','money_transfers_country.csv'}
     checked=[r for r in catalogue if (ROOT/r['file']).exists()]
     missing_outputs=[r['file'] for r in catalogue if not (ROOT/r['file']).exists()]
     check('extracted_output_hashes',all(hashlib.sha256((ROOT/r['file']).read_bytes()).hexdigest()==r['sha256'] for r in checked)
-          and all(Path(p).name in manual for p in missing_outputs),dict(checked=len(checked),manual_files_absent=missing_outputs))
+          and not missing_outputs,dict(checked=len(checked),missing_required_outputs=missing_outputs))
+    if missing_outputs:
+        raise ValueError('Missing required derived outputs: ' + ', '.join(missing_outputs))
     sources=json.loads((ROOT/'data/source_manifest.json').read_text())
     # Missing download caches are not silently declared hash-verified.
     available=[r for r in sources if r['status']=='acquired' and (ROOT/r['local_path']).exists()]
@@ -140,6 +141,8 @@ def validate():
     check('archived_month_end_FX_overlap',max(olddiff)<1e-9,dict(observations=len(olddiff),max_difference=max(olddiff)))
     report=dict(vintage='2026-11-09',baseline_commit='f741828d53ef843be79b0744d51e0cc24a47fc5b',
                 source_count=len(sources),source_hashes_checked=len(available),raw_caches_absent=missing_raw,
+                raw_source_validation_complete=not missing_raw and len(available)==len(sources)
+                    and all(hashlib.sha256((ROOT/r['local_path']).read_bytes()).hexdigest()==r['sha256'] for r in available),
                 output_count=len(catalogue),checks=checks,all_checks_passed=all(r['passed'] for r in checks),
                 required_checks_passed=all(r['passed'] or r['qualification'] for r in checks),
                 known_source_discrepancies=json.loads((DATA/'source_discrepancies.json').read_text()),
@@ -226,9 +229,17 @@ def monthly_panel():
 
 
 def main():
+    global REPORT
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--output-dir',type=Path,default=ROOT/'replication/local-results/episode',
+                        help='Write validation here; historical reports are preserved by default')
+    parser.add_argument('--require-raw',action='store_true',help='Fail when any original source is absent or invalid')
+    args=parser.parse_args()
+    REPORT=args.output_dir
     report=validate();accounting();monthly_panel()
     print(json.dumps(dict(checks=len(report['checks']),passed=report['all_checks_passed'],failed=[r for r in report['checks'] if not r['passed']]),indent=2))
     if not report['required_checks_passed']:raise SystemExit(1)
+    if args.require_raw and not report['raw_source_validation_complete']:raise SystemExit(1)
 
 
 if __name__=='__main__':main()

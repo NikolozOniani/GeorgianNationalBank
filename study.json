@@ -4,11 +4,15 @@
   "research_question": "Did the National Bank of Georgia's large-scale foreign-currency purchases prevent the Georgian lari from appreciating, and were the resulting economic costs justified by the benefits of reserve accumulation?",
   "scope": "One intervention episode, one economic counterfactual, and its consequences.",
   "protocol": "research/PROTOCOL.md",
+  "roadmap": "research/ROADMAP.md",
+  "registration": "research/R0_REGISTRATION.md",
+  "registration_date": "2026-11-10",
+  "registered_evaluation_window": ["2025-01-01", "2026-09-30"],
   "manuscript_structure": "manuscript/STRUCTURE.md",
   "data_requirements": "research/data_requirements.json",
   "baseline_commit": "46fdde7dd8cb673378154c099b72e8c40060b684",
   "source_review_cutoff": "2026-11-08",
   "acquisition_window": ["2025-01-01", "2026-12-31"],
-  "episode_status": "Exact execution boundaries and last jointly observed period must be registered from transaction evidence before estimation; future and unpublished observations excluded.",
-  "stage": "Roadmap acquisition and validation: November 2026 observations and accounting outputs; source and identification gaps explicitly retained; no causal estimation or manuscript draft"
+  "episode_status": "Administrative evaluation window registered in R0; exact first execution/program boundaries remain an R1 gate. September 2026 is the last acquired intervention month, not a proven program end. Different accounting series have earlier cutoffs.",
+  "stage": "R0 completed: retrospective design registration, provenance/concordance and claim records, reproducibility repairs and isolated-checkout verification; R1-R7 economic evidence gates remain open"
 }

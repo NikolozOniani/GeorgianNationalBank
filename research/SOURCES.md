@@ -1,5 +1,7 @@
 # Primary-source register for the acquisition plan
 
+This is the 8 November source-location review. Subsequent acquisition and local verification are recorded in the [R0 source-access register](../reports/r0_2026_11_10/source_access.json) and [acquisition status](ACQUISITION_STATUS.md). Earlier access descriptions below do not override those later records, including the acquired 2025 annual report.
+
 The study identity and question are fixed in [the protocol](PROTOCOL.md). Review cutoff: **8 November 2026**. This register verifies source locations and disclosure descriptions, not newly downloaded numerical datasets. New source files must receive their own download timestamp and SHA-256 when acquired. Historical hashes remain in the [archived manifests](../evidence/README.md).
 
 Access labels: **PUBLIC** means the stated content or public listing was verified; it does not assert complete usable coverage. **PARTIAL** means the public source exists but the required finer detail was not found here. **INVESTIGATE** means availability of the required export or data remains unresolved. **REQUEST** means a formal request or data-provider arrangement may be needed; it is not a finding of legal secrecy or nonpublication.

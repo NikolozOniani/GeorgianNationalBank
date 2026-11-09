@@ -10,6 +10,8 @@
 
 **Review date:** 9 November 2026. **Reviewed main-branch commit:** `b8f6d0f97ce716336e318d592d80f4f39731c155`.
 
+**Execution update, 10 November 2026:** R0 is complete as a design/access and local-reproduction checkpoint. See the [registration](R0_REGISTRATION.md) and [verification record](../reports/r0_2026_11_10/README.md). Exact program/execution boundaries and G1–G5 remain open; the R0 checkpoint does not certify causal identification or permanent remote access to old raw vintages. The assessment below retains its original review context.
+
 This is the authoritative sequence for completing the research. The [protocol](PROTOCOL.md) continues to govern definitions and admissible claims; this roadmap governs stages, dependencies and acceptance. The [18 data requirements](data_requirements.json), [acquisition status](ACQUISITION_STATUS.md), [source register](SOURCES.md) and [request specification](NBG_REQUEST_SPECIFICATION.md) are subordinate implementation records. Older assessments remain historical evidence, not competing work plans. The [manuscript structure](../manuscript/STRUCTURE.md) remains the eventual presentation outline.
 
 This revision reviews existing material and commits planning documents only. No additional research data were acquired, no new empirical estimates were produced, and no manuscript was drafted. Future stages below are requirements, not claims of completion or authorization to contact data holders.
@@ -52,7 +54,7 @@ Stages are complete only when their acceptance evidence is committed and indepen
 
 | Stage | Purpose and principal deliverable | Dependencies | Current position / protocol gate |
 |---|---|---|---|
-| R0 | Freeze definitions, review findings, provenance and analysis design | This roadmap and existing protocol | Planning complete; replication/access cleanup outstanding |
+| R0 | Freeze definitions, review findings, provenance and analysis design | This roadmap and existing protocol | Complete: registered design and open-decision gates; 57-source local audit and isolated-checkout reproduction; independent external reproduction remains R7 |
 | R1 | Reconcile episode transactions, stocks, government flows and operating regime | R0; D01–D10 | Net accounting partly complete; full G1 open |
 | R2 | Reconstruct ARA/usable liquidity and reproduce the IMF benchmark | R0; D13–D15, D18; R1 reserve definitions | Historical arithmetic complete; current reconstruction and model replication open; G4 input |
 | R3 | Identify or constrain the no-purchases exchange-rate and balance-sheet paths | R1; D01–D07, D09–D10; registered design | No validated identifying variation or implemented episode model; G2 open |
@@ -74,7 +76,7 @@ Keep the protocol's single counterfactual: remove discretionary market purchases
 
 Specify an economic causal diagram/information timeline separating predetermined shocks from policy responses and mediators. Do not mechanically control for realized imports, remittances, rates or capital flows if the counterfactual changes them. Fix sample exclusions, candidate methods, admissible calibration ranges, minimum detectable effects and claim rules before outcome estimation.
 
-**Existing reproducibility issues to repair later:** the acquisition code still enforces a 1 MB manual-download limit; `manual_artifacts.json` has stale handoff dispositions; two now-committed outputs remain treated as optional by validation; raw sources are not shipped with a fresh clone. Older source/data-requirement prose also describes acquisitions subsequently completed. The acquisition status/manifest take precedence for observed availability. Preserve original source pins and arrange lawful versioned access, explicit licensing instructions or a private reproduction route where redistribution is restricted. Do not call output-only tests full source replication.
+**Issues identified at review, now addressed in R0:** the 1 MB download limit was replaced with a bounded ordinary-file acquisition limit, handoff dispositions corrected, both larger outputs made mandatory, and historical source prose labeled by vintage. Raw sources remain outside Git with per-source recovery instructions and rights/access limitations; a supplied-cache extraction check passes. Future remote vintage availability has not been established. Preserve original source pins and lawful access. Do not call output-only tests full source replication.
 
 **Deliverables:** a dated analysis-registration record, coverage/definition concordance, economic channel map, updated access/replication checklist and evidence-to-claim register. The register must carry source, units, date/frequency, formula, classification, uncertainty, dependencies and permitted wording.
 

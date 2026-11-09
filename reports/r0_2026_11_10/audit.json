@@ -1,0 +1,13 @@
+{
+  "sources": 57,
+  "raw_verified": 57,
+  "raw_absent": [],
+  "raw_mismatch": [],
+  "outputs": 36,
+  "outputs_verified": 36,
+  "baseline_commit": "3a16715b6e8c79e4abb2dbb1a596b6e290e3b8e6",
+  "registration_date": "2026-11-10",
+  "new_source_downloads": 0,
+  "new_empirical_estimation": false,
+  "interpretation": "Local hash verification and metadata concordance only; not proof of remote vintage permanence or economic identification"
+}

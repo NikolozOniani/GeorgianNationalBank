@@ -14,6 +14,7 @@ import zipfile
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / 'data/raw/episode_2026_11_09'
 MANIFEST = ROOT / 'data/source_manifest.json'
+MAX_DOWNLOAD_BYTES = 128 * 1024 * 1024
 
 
 def sha256(data):
@@ -60,16 +61,19 @@ def fetch(item, previous=None):
             row['retrieved_utc'] = (previous or {}).get('retrieved_utc', 'unknown_local_cache_time')
         else:
             known_size = item.get('bytes') or (previous or {}).get('bytes', 0)
-            if known_size > 1_000_000:
-                raise ValueError('Manual acquisition required: source exceeds 1 MB; place the pinned file at local_path')
+            if known_size > MAX_DOWNLOAD_BYTES:
+                raise ValueError('Source exceeds the 128 MiB download safety limit')
             url = urllib.parse.quote(item['url'], safe=':/?=%&,+')
             request = urllib.request.Request(url, headers={'User-Agent': 'GeorgianReserveResearch/1.0', 'Accept-Language': 'en'})
             with urllib.request.urlopen(request, timeout=35) as response:
-                if int(response.headers.get('Content-Length', 0)) > 1_000_000:
-                    raise ValueError('Manual acquisition required: Content-Length exceeds 1 MB')
-                data = response.read(1_000_001)
-                if len(data) > 1_000_000:
-                    raise ValueError('Manual acquisition required: response exceeds 1 MB')
+                declared_size = int(response.headers.get('Content-Length', 0))
+                if declared_size > MAX_DOWNLOAD_BYTES:
+                    raise ValueError('Response exceeds the 128 MiB download safety limit')
+                data = response.read(MAX_DOWNLOAD_BYTES + 1)
+                if len(data) > MAX_DOWNLOAD_BYTES:
+                    raise ValueError('Response exceeds the 128 MiB download safety limit')
+                if declared_size and len(data) != declared_size:
+                    raise ValueError('Incomplete response: Content-Length mismatch')
                 row.update(final_url=response.url, http_status=response.status,
                            content_type=response.headers.get('Content-Type'),
                            last_modified=response.headers.get('Last-Modified'))
@@ -123,7 +127,9 @@ def main():
         plan = json.loads((ROOT / 'data/source_plan.json').read_text())
         if args.ids:
             plan = [r for r in plan if r['id'] in args.ids]
-    acquire(plan)
+    result = acquire(plan)
+    if any(result[item['id']]['status'] != 'acquired' for item in plan):
+        raise SystemExit(1)
 
 
 if __name__ == '__main__':

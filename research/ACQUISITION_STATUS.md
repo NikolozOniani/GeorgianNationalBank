@@ -1,6 +1,6 @@
 # Roadmap execution status — 9 November 2026
 
-The [protocol](PROTOCOL.md) and [committed requirements](data_requirements.json) retain authority. This is the updated execution status of the 8 November specification, not a replacement research design. “Partial” means a specified subdeliverable is complete but the full requirement is not.
+The [protocol](PROTOCOL.md), [completion roadmap](ROADMAP.md) and [R0 registration](R0_REGISTRATION.md) govern the study. This is the 9 November acquisition status of the 8 November specification, not a replacement research design. “Partial” means a specified subdeliverable is complete but the full requirement is not.
 
 | ID / priority | Completed evidence | Unresolved requirement and next action |
 |---|---|---|
@@ -25,4 +25,4 @@ The [protocol](PROTOCOL.md) and [committed requirements](data_requirements.json)
 
 The priority order remains D01–D07, then unresolved P1 evidence. These are complete public-data subdeliverables, not 18 fully completed requirements. The distinction between not retrieved, request-dependent, publication-delayed and definition-unresolved is substantive.
 
-Source-level provenance: [manifest](../data/source_manifest.json). Numerical results and qualifications: [acquisition report](../reports/acquisition_2026_11_09/README.md). Large-file handoff: [replication instructions](../replication/ACQUISITION.md).
+Source-level provenance: [manifest](../data/source_manifest.json). Numerical results and qualifications: [acquisition report](../reports/acquisition_2026_11_09/README.md). Source recovery and R0 reproducibility checks: [replication instructions](../replication/ACQUISITION.md). No manual-upload requirement remains for the committed CSV outputs.
