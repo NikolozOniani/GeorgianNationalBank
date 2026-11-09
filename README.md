@@ -13,6 +13,7 @@ This is one academic economics project. The [research protocol](research/PROTOCO
 | Document | Purpose |
 |---|---|
 | [Research protocol](research/PROTOCOL.md) | Fixed question, treatment, counterfactual, estimands, admissible inference and decision gates |
+| [Authoritative completion roadmap](research/ROADMAP.md) | Independent evidence assessment; ordered stages, dependencies, original quantitative findings and completion criteria |
 | [Data requirements and acquisition order](research/DATA_REQUIREMENTS.md) | What exists, what is missing, public access versus requests, and what each gap prevents |
 | [Machine-readable requirements](research/data_requirements.json) | Variables, units, frequencies, periods, sources, validation and priority for each dataset |
 | [Primary-source register](research/SOURCES.md) | Exact source locations and the level of access actually checked |
@@ -27,7 +28,7 @@ The [9 November acquisition results](reports/acquisition_2026_11_09/README.md) n
 
 The verified supporting data include a 60-month 2020–2024 policy/reserve panel, two annual intervention benchmarks, five years of audited interest accounts, and an arithmetic reconstruction of the IMF's published 2022–2023 ARA components. They establish useful accounting foundations. They do not supply a verified 2025–2026 intervention event series or identify the exchange rate without purchases.
 
-The immediate priorities are executed purchase/sale records and market prices; the intervention decision rule and concurrent FX flows; then matched reserve-financing accounts and usable-reserve needs. The [data assessment](research/DATA_REQUIREMENTS.md) states precisely which conclusions require which evidence. No optimum or net economic loss is assumed.
+The [completion roadmap](research/ROADMAP.md) is the authoritative sequence from the existing evidence to the final paper. It distinguishes episode measurement, counterfactual identification, household consequences, marginal reserve costs and insurance benefits. The data specifications remain supporting acquisition records. No optimum or net economic loss is assumed. The latest revision reviews and plans only; it adds no data, empirical estimates or manuscript text.
 
 ## Repository boundaries
 
