@@ -1,0 +1,105 @@
+year,indicator,value,units,source_id,source_key,provider_metadata_modified,observation_status
+2000,Reserves_ARA,0.3092364728,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2000,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2001,Reserves_ARA,0.4095626595,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2001,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2002,Reserves_ARA,0.3970998759,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2002,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2003,Reserves_ARA,0.3496945074,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2003,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2004,Reserves_ARA,0.6361176314,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2004,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2005,Reserves_ARA,0.7096114723,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2005,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2006,Reserves_ARA,1.228070249,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2006,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2007,Reserves_ARA,1.278953195,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2007,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2008,Reserves_ARA,0.757316332,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2008,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2009,Reserves_ARA,0.9985277113,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2009,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2010,Reserves_ARA,1.262212426,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2010,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2011,Reserves_ARA,1.293847408,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2011,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2012,Reserves_ARA,0.8085341475,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2012,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2013,Reserves_ARA,1.080960588,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2013,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2014,Reserves_ARA,1.021585141,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2014,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2015,Reserves_ARA,0.9225805293,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2015,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2016,Reserves_ARA,0.9260221723,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2016,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2017,Reserves_ARA,0.9166493848,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2017,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2018,Reserves_ARA,0.9252700025,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2018,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2019,Reserves_ARA,0.9440107472,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2019,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2020,Reserves_ARA,1.00227791,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2020,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2021,Reserves_ARA,1.011424452,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2021,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2022,Reserves_ARA,0.9552652475,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2022,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2023,Reserves_ARA,0.8950390942,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2023,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2024,Reserves_ARA,0.7426657184,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2024,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2025,Reserves_ARA,0.9485332607,"ratio, not percent",ara_ratio,values.Reserves_ARA.GEO.2025,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2000,Reserves_M2,0.3519980213,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2000,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2001,Reserves_M2,0.4451902498,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2001,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2002,Reserves_M2,0.4743875639,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2002,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2003,Reserves_M2,0.3714905803,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2003,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2004,Reserves_M2,0.4599629379,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2004,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2005,Reserves_M2,0.437370081,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2005,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2006,Reserves_M2,0.5698579686,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2006,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2007,Reserves_M2,0.5286743732,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2007,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2008,Reserves_M2,0.5580258562,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2008,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2009,Reserves_M2,0.7469452733,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2009,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2010,Reserves_M2,0.6475146955,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2010,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2011,Reserves_M2,0.6630941038,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2011,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2012,Reserves_M2,0.6023137133,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2012,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2013,Reserves_M2,0.4982873597,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2013,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2014,Reserves_M2,0.4496299781,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2014,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2015,Reserves_M2,0.460136693,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2015,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2016,Reserves_M2,0.4592754389,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2016,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2017,Reserves_M2,0.4327407364,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2017,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2018,Reserves_M2,0.4245313394,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2018,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2019,Reserves_M2,0.4169894071,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2019,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2020,Reserves_M2,0.4218470174,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2020,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2021,Reserves_M2,0.3910727791,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2021,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2022,Reserves_M2,0.3524047216,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2022,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2023,Reserves_M2,0.3106072132,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2023,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2024,Reserves_M2,0.2524299147,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2024,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2025,Reserves_M2,0.2883049933,"ratio, not percent",ara_money_ratio,values.Reserves_M2.GEO.2025,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2000,Reserves_STD,0.7845433777,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2000,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2001,Reserves_STD,0.803280515,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2001,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2002,Reserves_STD,0.3064062303,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2002,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2003,Reserves_STD,0.2785152175,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2003,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2004,Reserves_STD,0.5912644542,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2004,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2005,Reserves_STD,0.628784003,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2005,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2006,Reserves_STD,1.852420688,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2006,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2007,Reserves_STD,1.542776053,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2007,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2008,Reserves_STD,1.098644756,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2008,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2009,Reserves_STD,1.850373596,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2009,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2010,Reserves_STD,1.58791267,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2010,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2011,Reserves_STD,1.328104076,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2011,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2012,Reserves_STD,1.127800554,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2012,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2013,Reserves_STD,1.10415499,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2013,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2014,Reserves_STD,1.131427003,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2014,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2015,Reserves_STD,1.063778803,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2015,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2016,Reserves_STD,0.9258319209,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2016,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2017,Reserves_STD,0.9196010119,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2017,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2018,Reserves_STD,0.9444627808,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2018,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2019,Reserves_STD,1.066371522,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2019,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2020,Reserves_STD,1.151299155,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2020,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2021,Reserves_STD,1.324391404,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2021,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2022,Reserves_STD,1.016445729,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2022,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2023,Reserves_STD,0.9374047685,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2023,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2024,Reserves_STD,0.7292256097,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2024,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2025,Reserves_STD,1.088135731,"ratio, not percent",ara_debt_ratio,values.Reserves_STD.GEO.2025,2026-05-18 13:09:45,IMF published benchmark; country input vintage/status not supplied by API
+2000,Reserves_M,1.031260842,months,ara_import_cover,values.Reserves_M.GEO.2000,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2001,Reserves_M,1.353333024,months,ara_import_cover,values.Reserves_M.GEO.2001,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2002,Reserves_M,1.328552229,months,ara_import_cover,values.Reserves_M.GEO.2002,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2003,Reserves_M,0.9522876473,months,ara_import_cover,values.Reserves_M.GEO.2003,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2004,Reserves_M,1.420202693,months,ara_import_cover,values.Reserves_M.GEO.2004,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2005,Reserves_M,1.312004519,months,ara_import_cover,values.Reserves_M.GEO.2005,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2006,Reserves_M,1.899993368,months,ara_import_cover,values.Reserves_M.GEO.2006,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2007,Reserves_M,2.18640557,months,ara_import_cover,values.Reserves_M.GEO.2007,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2008,Reserves_M,3.38444969,months,ara_import_cover,values.Reserves_M.GEO.2008,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2009,Reserves_M,4.142219705,months,ara_import_cover,values.Reserves_M.GEO.2009,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2010,Reserves_M,3.401092902,months,ara_import_cover,values.Reserves_M.GEO.2010,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2011,Reserves_M,3.700506658,months,ara_import_cover,values.Reserves_M.GEO.2011,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2012,Reserves_M,3.722430282,months,ara_import_cover,values.Reserves_M.GEO.2012,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2013,Reserves_M,3.381900305,months,ara_import_cover,values.Reserves_M.GEO.2013,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2014,Reserves_M,3.741959318,months,ara_import_cover,values.Reserves_M.GEO.2014,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2015,Reserves_M,3.565714118,months,ara_import_cover,values.Reserves_M.GEO.2015,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2016,Reserves_M,3.539620099,months,ara_import_cover,values.Reserves_M.GEO.2016,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2017,Reserves_M,3.386811938,months,ara_import_cover,values.Reserves_M.GEO.2017,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2018,Reserves_M,3.535767518,months,ara_import_cover,values.Reserves_M.GEO.2018,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2019,Reserves_M,4.691580523,months,ara_import_cover,values.Reserves_M.GEO.2019,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2020,Reserves_M,4.208445104,months,ara_import_cover,values.Reserves_M.GEO.2020,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2021,Reserves_M,3.272904638,months,ara_import_cover,values.Reserves_M.GEO.2021,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2022,Reserves_M,3.301497857,months,ara_import_cover,values.Reserves_M.GEO.2022,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2023,Reserves_M,3.162561732,months,ara_import_cover,values.Reserves_M.GEO.2023,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2024,Reserves_M,2.669953834,months,ara_import_cover,values.Reserves_M.GEO.2024,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API
+2025,Reserves_M,3.185748693,months,ara_import_cover,values.Reserves_M.GEO.2025,2026-05-18 13:09:46,IMF published benchmark; country input vintage/status not supplied by API

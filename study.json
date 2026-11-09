@@ -10,5 +10,5 @@
   "source_review_cutoff": "2026-11-08",
   "acquisition_window": ["2025-01-01", "2026-12-31"],
   "episode_status": "Exact execution boundaries and last jointly observed period must be registered from transaction evidence before estimation; future and unpublished observations excluded.",
-  "stage": "Repository organization and data-acquisition specification; no new estimation or manuscript draft"
+  "stage": "Roadmap acquisition and validation: November 2026 observations and accounting outputs; source and identification gaps explicitly retained; no causal estimation or manuscript draft"
 }

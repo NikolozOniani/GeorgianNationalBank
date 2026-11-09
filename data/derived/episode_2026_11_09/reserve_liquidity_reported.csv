@@ -1,0 +1,852 @@
+date,source_id,sheet,source_cell,label,value,source_value_status,units
+2024-12-31,reserve_liquidity,template 12.24,D21,A. Official reserve assets,4448.552586352676,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D22,(1) Foreign currency reserves (in convertible foreign currencies),3397.136050937011,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D23,(a) Securities,2118.0554749786243,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D25,(b) total currency and deposits with:,1279.0805759583868,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D26,"(i) other national central banks, BIS and IMF",823.4477647249537,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D29,(iii) banks headquartered outside the reporting country,455.6328112334332,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D31,(2) IMF reserve position,0.028414384440000003,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D32,(3) SDRs,453.83194784160014,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",598.7310497999999,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2024-12-31,reserve_liquidity,template 12.24,D35,(5) other reserve assets (specify),-1.174876610374804,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D36,—financial derivatives,-1.174876610374804,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D39,B. Other foreign currency assets (specify),3.024377982043608,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D44,—gold not included in official reserve assets,3.024377982043608,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D54,"1. Foreign currency loans, securities, and deposits",-806.720521553,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,E54,"1. Foreign currency loans, securities, and deposits",-62.130992997,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,F54,"1. Foreign currency loans, securities, and deposits",-126.988437216,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,G54,"1. Foreign currency loans, securities, and deposits",-617.60109134,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D55,—outflows (-) | Principal,-533.638892198,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,E55,—outflows (-) | Principal,-37.616130821,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,F55,—outflows (-) | Principal,-77.389903781,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,G55,—outflows (-) | Principal,-418.632857596,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D56,Interest,-273.081629355,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,E56,Interest,-24.514862176,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,F56,Interest,-49.598533435,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,G56,Interest,-198.968233744,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,C77,1. Contingent liabilities in foreign currency,-2268.92008204717,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D77,1. Contingent liabilities in foreign currency,-2268.92008204717,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,C79,(b) Other contingent liabilities,-2268.92008204717,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D79,(b) Other contingent liabilities,-2268.92008204717,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,E79,(b) Other contingent liabilities,0,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,F79,(b) Other contingent liabilities,0,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D159,(a) currency composition of reserves (by groups of currencies),4448.552586352676,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D160,—currencies in SDR basket,4295.328494995972,reported,USD million
+2024-12-31,reserve_liquidity,template 12.24,D161,—currencies not in SDR basket,153.22409135670517,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D21,A. Official reserve assets,4435.79007575022,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D22,(1) Foreign currency reserves (in convertible foreign currencies),3336.5707776641984,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D23,(a) Securities,2510.2683377803282,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D25,(b) total currency and deposits with:,826.3024398838704,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D26,"(i) other national central banks, BIS and IMF",323.74487143353844,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D29,(iii) banks headquartered outside the reporting country,502.55756845033204,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D31,(2) IMF reserve position,0.02840784804,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D32,(3) SDRs,454.9586136087301,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",645.3036099,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-01-31,reserve_liquidity,template 01.25,D35,(5) other reserve assets (specify),-1.0713332707485832,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D36,—financial derivatives,-1.0713332707485832,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D39,B. Other foreign currency assets (specify),2.860319641180766,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D44,—gold not included in official reserve assets,2.860319641180766,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D54,"1. Foreign currency loans, securities, and deposits",-797.7056817289999,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,E54,"1. Foreign currency loans, securities, and deposits",-69.260375203,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,F54,"1. Foreign currency loans, securities, and deposits",-113.103270174,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,G54,"1. Foreign currency loans, securities, and deposits",-615.342036352,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D55,—outflows (-) | Principal,-532.968970359,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,E55,—outflows (-) | Principal,-39.27405516,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,F55,—outflows (-) | Principal,-63.507863632,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,G55,—outflows (-) | Principal,-430.187051567,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D56,Interest,-264.73671137,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,E56,Interest,-29.986320043,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,F56,Interest,-49.595406542,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,G56,Interest,-185.154984785,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,C77,1. Contingent liabilities in foreign currency,-2271.84360780571,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D77,1. Contingent liabilities in foreign currency,-2271.84360780571,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,C79,(b) Other contingent liabilities,-2271.84360780571,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D79,(b) Other contingent liabilities,-2271.84360780571,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D159,(a) currency composition of reserves (by groups of currencies),4435.79007575022,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D160,—currencies in SDR basket,4281.749576084006,reported,USD million
+2025-01-31,reserve_liquidity,template 01.25,D161,—currencies not in SDR basket,154.0404996662146,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D21,A. Official reserve assets,4234.009585247611,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D22,(1) Foreign currency reserves (in convertible foreign currencies),3129.649517023995,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D23,(a) Securities,2496.608523984807,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D25,(b) total currency and deposits with:,633.0409930391878,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D26,"(i) other national central banks, BIS and IMF",280.1818987789294,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D29,(iii) banks headquartered outside the reporting country,352.8590942602584,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D31,(2) IMF reserve position,0.028520491999999998,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D32,(3) SDRs,454.33236564078777,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",650.4668649,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-02-28,reserve_liquidity,template 02.25,D35,(5) other reserve assets (specify),-0.46768280917222776,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D36,—financial derivatives,-0.46768280917222776,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D39,B. Other foreign currency assets (specify),2.5725648835723414,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D44,—gold not included in official reserve assets,2.5725648835723414,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D54,"1. Foreign currency loans, securities, and deposits",-793.4066375079999,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,E54,"1. Foreign currency loans, securities, and deposits",-57.476035511999996,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,F54,"1. Foreign currency loans, securities, and deposits",-154.588965948,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,G54,"1. Foreign currency loans, securities, and deposits",-581.341636048,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D55,—outflows (-) | Principal,-533.711309144,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,E55,—outflows (-) | Principal,-38.115558746,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,F55,—outflows (-) | Principal,-100.898535305,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,G55,—outflows (-) | Principal,-394.697215093,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D56,Interest,-259.695328364,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,E56,Interest,-19.360476766,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,F56,Interest,-53.690430643,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,G56,Interest,-186.644420955,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,C77,1. Contingent liabilities in foreign currency,-2303.77453389891,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D77,1. Contingent liabilities in foreign currency,-2303.77453389891,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,C79,(b) Other contingent liabilities,-2303.77453389891,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D79,(b) Other contingent liabilities,-2303.77453389891,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D159,(a) currency composition of reserves (by groups of currencies),4234.009585247611,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D160,—currencies in SDR basket,4078.9112718051856,reported,USD million
+2025-02-28,reserve_liquidity,template 02.25,D161,—currencies not in SDR basket,155.09831344242508,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D21,A. Official reserve assets,4310.786764334268,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D22,(1) Foreign currency reserves (in convertible foreign currencies),3133.89450481697,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D23,(a) Securities,2380.317974574495,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D25,(b) total currency and deposits with:,753.5765302424747,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D26,"(i) other national central banks, BIS and IMF",301.86336353846707,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D29,(iii) banks headquartered outside the reporting country,451.7131667040076,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D31,(2) IMF reserve position,0.0289497156,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D32,(3) SDRs,462.3887905128818,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",714.8469177999999,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-03-31,reserve_liquidity,template 03.25 ,D35,(5) other reserve assets (specify),-0.3723985111841867,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D36,—financial derivatives,-0.3723985111841867,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D39,B. Other foreign currency assets (specify),2.4556820836194126,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D44,—gold not included in official reserve assets,2.4556820836194126,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D54,"1. Foreign currency loans, securities, and deposits",-798.55196962,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,E54,"1. Foreign currency loans, securities, and deposits",-57.209675802999996,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,F54,"1. Foreign currency loans, securities, and deposits",-161.447843753,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,G54,"1. Foreign currency loans, securities, and deposits",-579.894450064,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D55,—outflows (-) | Principal,-539.712057846,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,E55,—outflows (-) | Principal,-26.632851943,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,F55,—outflows (-) | Principal,-129.302907347,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,G55,—outflows (-) | Principal,-383.776298556,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D56,Interest,-258.83991177400003,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,E56,Interest,-30.57682386,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,F56,Interest,-32.144936406,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,G56,Interest,-196.118151508,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,C77,1. Contingent liabilities in foreign currency,-2326.91072198171,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D77,1. Contingent liabilities in foreign currency,-2326.91072198171,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,C79,(b) Other contingent liabilities,-2326.91072198171,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D79,(b) Other contingent liabilities,-2326.91072198171,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D159,(a) currency composition of reserves (by groups of currencies),4310.786764334268,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D160,—currencies in SDR basket,4309.935940787851,reported,USD million
+2025-03-31,reserve_liquidity,template 03.25 ,D161,—currencies not in SDR basket,0.8508235464170852,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D21,A. Official reserve assets,4518.39582161335,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D22,(1) Foreign currency reserves (in convertible foreign currencies),3287.118350672337,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D23,(a) Securities,2499.853057413869,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D25,(b) total currency and deposits with:,787.2652932584679,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D26,"(i) other national central banks, BIS and IMF",288.7076285688327,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D29,(iii) banks headquartered outside the reporting country,498.55766468963515,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D31,(2) IMF reserve position,0.02954692468,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D32,(3) SDRs,473.10341602722104,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",757.7478299,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-04-30,reserve_liquidity,template 04.25  ,D35,(5) other reserve assets (specify),0.3966780891117895,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D36,—financial derivatives,0.3966780891117895,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D39,B. Other foreign currency assets (specify),2.0223591764791395,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D44,—gold not included in official reserve assets,2.0223591764791395,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D54,"1. Foreign currency loans, securities, and deposits",-1331.4253146800002,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,E54,"1. Foreign currency loans, securities, and deposits",-104.112656667,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,F54,"1. Foreign currency loans, securities, and deposits",-123.209295064,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,G54,"1. Foreign currency loans, securities, and deposits",-1104.103362949,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D55,—outflows (-) | Principal,-1069.004610441,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,E55,—outflows (-) | Principal,-79.372819596,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,F55,—outflows (-) | Principal,-93.523317936,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,G55,—outflows (-) | Principal,-896.108472909,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D56,Interest,-262.420704239,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,E56,Interest,-24.739837071,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,F56,Interest,-29.685977128,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,G56,Interest,-207.99489004,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,C77,1. Contingent liabilities in foreign currency,-2346.65724685637,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D77,1. Contingent liabilities in foreign currency,-2346.65724685637,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,C79,(b) Other contingent liabilities,-2346.65724685637,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D79,(b) Other contingent liabilities,-2346.65724685637,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D159,(a) currency composition of reserves (by groups of currencies),4518.39582161335,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D160,—currencies in SDR basket,4518.096833133919,reported,USD million
+2025-04-30,reserve_liquidity,template 04.25  ,D161,—currencies not in SDR basket,0.2989884794301498,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D21,A. Official reserve assets,4585.1130881575355,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D22,(1) Foreign currency reserves (in convertible foreign currencies),3362.825267030069,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D23,(a) Securities,2497.4291913367974,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D25,(b) total currency and deposits with:,865.3960756932713,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D26,"(i) other national central banks, BIS and IMF",310.6599422075026,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D29,(iii) banks headquartered outside the reporting country,554.7361334857687,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D31,(2) IMF reserve position,0.029559997480000003,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D32,(3) SDRs,471.08505972102296,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",752.1256189,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-05-31,reserve_liquidity,template 05.25   ,D35,(5) other reserve assets (specify),-0.9524174910368041,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D36,—financial derivatives,-0.9524174910368041,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D39,B. Other foreign currency assets (specify),1.7826986244237943,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D44,—gold not included in official reserve assets,1.7826986244237943,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D54,"1. Foreign currency loans, securities, and deposits",-1320.250547633,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,E54,"1. Foreign currency loans, securities, and deposits",-62.707362668,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,F54,"1. Foreign currency loans, securities, and deposits",-131.2480682,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,G54,"1. Foreign currency loans, securities, and deposits",-1126.2951167649999,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D55,—outflows (-) | Principal,-1063.73190553,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,E55,—outflows (-) | Principal,-54.314175327,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,F55,—outflows (-) | Principal,-82.211611203,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,G55,—outflows (-) | Principal,-927.206119,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D56,Interest,-256.518642103,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,E56,Interest,-8.393187341,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,F56,Interest,-49.036456997,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,G56,Interest,-199.088997765,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,C77,1. Contingent liabilities in foreign currency,-2292.30661647399,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D77,1. Contingent liabilities in foreign currency,-2292.30661647399,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,C79,(b) Other contingent liabilities,-2292.30661647399,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D79,(b) Other contingent liabilities,-2292.30661647399,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D159,(a) currency composition of reserves (by groups of currencies),4585.1130881575355,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D160,—currencies in SDR basket,4584.58832749682,reported,USD million
+2025-05-31,reserve_liquidity,template 05.25   ,D161,—currencies not in SDR basket,0.5247606607155922,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D21,A. Official reserve assets,4688.444923593515,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D22,(1) Foreign currency reserves (in convertible foreign currencies),3456.4091152445285,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D23,(a) Securities,2538.777636235129,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D25,(b) total currency and deposits with:,917.6314790093994,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D26,"(i) other national central banks, BIS and IMF",293.78242549933907,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D29,(iii) banks headquartered outside the reporting country,623.8490535100603,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D31,(2) IMF reserve position,0.029936712000000004,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D32,(3) SDRs,478.164602325796,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",754.3974510999999,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-06-30,reserve_liquidity,template 06.25,D35,(5) other reserve assets (specify),-0.5561817888089294,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D36,—financial derivatives,-0.5561817888089294,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D39,B. Other foreign currency assets (specify),1.5750722059039508,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D44,—gold not included in official reserve assets,1.5750722059039508,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D54,"1. Foreign currency loans, securities, and deposits",-1331.073732511,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,E54,"1. Foreign currency loans, securities, and deposits",-60.525596009,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,F54,"1. Foreign currency loans, securities, and deposits",-128.599685366,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,G54,"1. Foreign currency loans, securities, and deposits",-1141.9484511360001,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D55,—outflows (-) | Principal,-1074.166476535,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,E55,—outflows (-) | Principal,-39.320747943,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,F55,—outflows (-) | Principal,-79.287708942,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,G55,—outflows (-) | Principal,-955.55801965,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D56,Interest,-256.907255976,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,E56,Interest,-21.204848066,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,F56,Interest,-49.311976424,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,G56,Interest,-186.390431486,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,C77,1. Contingent liabilities in foreign currency,-2205.37456818916,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D77,1. Contingent liabilities in foreign currency,-2205.37456818916,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,C79,(b) Other contingent liabilities,-2205.37456818916,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D79,(b) Other contingent liabilities,-2205.37456818916,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D159,(a) currency composition of reserves (by groups of currencies),4688.444923593515,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D160,—currencies in SDR basket,4687.635556902372,reported,USD million
+2025-06-30,reserve_liquidity,template 06.25,D161,—currencies not in SDR basket,0.8093666911440741,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D21,A. Official reserve assets,5021.978764484405,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D22,(1) Foreign currency reserves (in convertible foreign currencies),3793.7518325414712,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D23,(a) Securities,2665.208264805852,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D25,(b) total currency and deposits with:,1128.543567735619,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D26,"(i) other national central banks, BIS and IMF",320.65100798758635,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D29,(iii) banks headquartered outside the reporting country,807.8925597480327,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D31,(2) IMF reserve position,0.02952077908,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D32,(3) SDRs,472.6555679555156,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",757.0135002999999,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-07-31,reserve_liquidity,template 07.25,D35,(5) other reserve assets (specify),-1.4716570916614327,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D36,—financial derivatives,-1.4716570916614327,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D39,B. Other foreign currency assets (specify),7.361875852514132,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D44,—gold not included in official reserve assets,7.361875852514132,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D54,"1. Foreign currency loans, securities, and deposits",-1315.598393913,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,E54,"1. Foreign currency loans, securities, and deposits",-71.658810496,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,F54,"1. Foreign currency loans, securities, and deposits",-121.71656082499999,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,G54,"1. Foreign currency loans, securities, and deposits",-1122.223022592,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D55,—outflows (-) | Principal,-1063.683731028,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,E55,—outflows (-) | Principal,-43.341418839,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,F55,—outflows (-) | Principal,-72.508616068,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,G55,—outflows (-) | Principal,-947.833696121,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D56,Interest,-251.914662885,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,E56,Interest,-28.317391657,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,F56,Interest,-49.207944757,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,G56,Interest,-174.389326471,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,C77,1. Contingent liabilities in foreign currency,-2119.45310327336,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D77,1. Contingent liabilities in foreign currency,-2119.45310327336,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,C79,(b) Other contingent liabilities,-2119.45310327336,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D79,(b) Other contingent liabilities,-2119.45310327336,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D159,(a) currency composition of reserves (by groups of currencies),5021.978764484405,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D160,—currencies in SDR basket,5021.709817057649,reported,USD million
+2025-07-31,reserve_liquidity,template 07.25,D161,—currencies not in SDR basket,0.2689474267558281,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D21,A. Official reserve assets,5203.606809262485,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D22,(1) Foreign currency reserves (in convertible foreign currencies),3942.126351896385,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D23,(a) Securities,2909.0124242596303,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D25,(b) total currency and deposits with:,1033.113927636755,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D26,"(i) other national central banks, BIS and IMF",297.9927237289394,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D29,(iii) banks headquartered outside the reporting country,735.1212039078157,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D31,(2) IMF reserve position,0.02981992832,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D32,(3) SDRs,475.20262025600005,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",786.9144837,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-08-31,reserve_liquidity,template 08.25 ,D35,(5) other reserve assets (specify),-0.6664665182216285,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D36,—financial derivatives,-0.6664665182216285,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D39,B. Other foreign currency assets (specify),7.292260457952944,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D44,—gold not included in official reserve assets,7.292260457952944,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D54,"1. Foreign currency loans, securities, and deposits",-1324.44756811,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,E54,"1. Foreign currency loans, securities, and deposits",-55.65159657,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,F54,"1. Foreign currency loans, securities, and deposits",-167.902688131,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,G54,"1. Foreign currency loans, securities, and deposits",-1100.893283409,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D55,—outflows (-) | Principal,-1071.376483403,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,E55,—outflows (-) | Principal,-35.119574823,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,F55,—outflows (-) | Principal,-116.087231646,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,G55,—outflows (-) | Principal,-920.169676934,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D56,Interest,-253.071084707,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,E56,Interest,-20.532021747,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,F56,Interest,-51.815456485,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,G56,Interest,-180.723606475,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,C77,1. Contingent liabilities in foreign currency,-2147.4260972983,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D77,1. Contingent liabilities in foreign currency,-2147.4260972983,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,C79,(b) Other contingent liabilities,-2147.4260972983,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D79,(b) Other contingent liabilities,-2147.4260972983,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D159,(a) currency composition of reserves (by groups of currencies),5203.606809262485,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D160,—currencies in SDR basket,5203.182431536663,reported,USD million
+2025-08-31,reserve_liquidity,template 08.25 ,D161,—currencies not in SDR basket,0.4243777258220144,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D21,A. Official reserve assets,5427.125320121411,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D22,(1) Foreign currency reserves (in convertible foreign currencies),4072.865347585647,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D23,(a) Securities,2835.424341169522,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D25,(b) total currency and deposits with:,1237.4410064161252,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D26,"(i) other national central banks, BIS and IMF",309.5149127178086,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D29,(iii) banks headquartered outside the reporting country,927.9260936983165,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D31,(2) IMF reserve position,0.029870694360000002,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D32,(3) SDRs,477.11937076051174,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",877.8221934,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-09-30,reserve_liquidity,template 09.25  ,D35,(5) other reserve assets (specify),-0.7114623191080921,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D36,—financial derivatives,-0.7114623191080921,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D39,B. Other foreign currency assets (specify),7.086455489515652,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D44,—gold not included in official reserve assets,7.086455489515652,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D54,"1. Foreign currency loans, securities, and deposits",-1334.38194271,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,E54,"1. Foreign currency loans, securities, and deposits",-67.418646242,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,F54,"1. Foreign currency loans, securities, and deposits",-163.073847217,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,G54,"1. Foreign currency loans, securities, and deposits",-1103.889449251,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D55,—outflows (-) | Principal,-1079.984567769,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,E55,—outflows (-) | Principal,-38.160742021,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,F55,—outflows (-) | Principal,-132.349926411,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,G55,—outflows (-) | Principal,-909.473899337,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D56,Interest,-254.397374941,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,E56,Interest,-29.257904221,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,F56,Interest,-30.723920806,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,G56,Interest,-194.415549914,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,C77,1. Contingent liabilities in foreign currency,-2198.45668648479,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D77,1. Contingent liabilities in foreign currency,-2198.45668648479,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,C79,(b) Other contingent liabilities,-2198.45668648479,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D79,(b) Other contingent liabilities,-2198.45668648479,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D159,(a) currency composition of reserves (by groups of currencies),5427.125320121411,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D160,—currencies in SDR basket,5426.405642659066,reported,USD million
+2025-09-30,reserve_liquidity,template 09.25  ,D161,—currencies not in SDR basket,0.7196774623449497,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D21,A. Official reserve assets,5603.506155801207,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D22,(1) Foreign currency reserves (in convertible foreign currencies),4210.214475920261,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D23,(a) Securities,2974.828758016138,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D25,(b) total currency and deposits with:,1235.3857179041229,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D26,"(i) other national central banks, BIS and IMF",306.88865661594014,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D29,(iii) banks headquartered outside the reporting country,928.4970612881829,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D31,(2) IMF reserve position,0.02959660132,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D32,(3) SDRs,473.858202960417,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",920.5509969999999,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-10-31,reserve_liquidity,template 10.25   ,D35,(5) other reserve assets (specify),-1.1471166807914808,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D36,—financial derivatives,-1.1471166807914808,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D39,B. Other foreign currency assets (specify),6.896409204465898,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D44,—gold not included in official reserve assets,6.896409204465898,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D54,"1. Foreign currency loans, securities, and deposits",-1334.38194271,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,E54,"1. Foreign currency loans, securities, and deposits",-67.418646242,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,F54,"1. Foreign currency loans, securities, and deposits",-163.073847217,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,G54,"1. Foreign currency loans, securities, and deposits",-1103.889449251,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D55,—outflows (-) | Principal,-1079.984567769,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,E55,—outflows (-) | Principal,-38.160742021,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,F55,—outflows (-) | Principal,-132.349926411,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,G55,—outflows (-) | Principal,-909.473899337,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D56,Interest,-254.397374941,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,E56,Interest,-29.257904221,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,F56,Interest,-30.723920806,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,G56,Interest,-194.415549914,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,C77,1. Contingent liabilities in foreign currency,-2247.78653483548,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D77,1. Contingent liabilities in foreign currency,-2247.78653483548,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,C79,(b) Other contingent liabilities,-2247.78653483548,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D79,(b) Other contingent liabilities,-2247.78653483548,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D159,(a) currency composition of reserves (by groups of currencies),5603.506155801207,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D160,—currencies in SDR basket,5603.45433025126,reported,USD million
+2025-10-31,reserve_liquidity,template 10.25   ,D161,—currencies not in SDR basket,0.05182554994657135,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D21,A. Official reserve assets,5816.123448340767,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D22,(1) Foreign currency reserves (in convertible foreign currencies),4383.031066084576,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D23,(a) Securities,3051.7860641607167,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D25,(b) total currency and deposits with:,1331.2450019238595,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D26,"(i) other national central banks, BIS and IMF",326.69174807059085,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D29,(iii) banks headquartered outside the reporting country,1004.5532538532688,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D31,(2) IMF reserve position,0.02960052316,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D32,(3) SDRs,472.22512621173405,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",961.7537719,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-11-30,reserve_liquidity,template 11.25,D35,(5) other reserve assets (specify),-0.9161163787043545,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D36,—financial derivatives,-0.9161163787043545,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D39,B. Other foreign currency assets (specify),9.9282520219024,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D44,—gold not included in official reserve assets,9.9282520219024,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D54,"1. Foreign currency loans, securities, and deposits",-1319.85894934,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,E54,"1. Foreign currency loans, securities, and deposits",-61.230057751,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,F54,"1. Foreign currency loans, securities, and deposits",-125.141341144,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,G54,"1. Foreign currency loans, securities, and deposits",-1133.4875504450001,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D55,—outflows (-) | Principal,-1073.610059896,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,E55,—outflows (-) | Principal,-53.499099789,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,F55,—outflows (-) | Principal,-78.279905441,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,G55,—outflows (-) | Principal,-941.831054666,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D56,Interest,-246.248889444,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,E56,Interest,-7.730957962,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,F56,Interest,-46.861435703,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,G56,Interest,-191.656495779,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,C77,1. Contingent liabilities in foreign currency,-2209.43951936809,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D77,1. Contingent liabilities in foreign currency,-2209.43951936809,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,C79,(b) Other contingent liabilities,-2209.43951936809,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D79,(b) Other contingent liabilities,-2209.43951936809,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D159,(a) currency composition of reserves (by groups of currencies),5816.123448340767,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D160,—currencies in SDR basket,5815.771193536668,reported,USD million
+2025-11-30,reserve_liquidity,template 11.25,D161,—currencies not in SDR basket,0.3522548040993007,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D21,A. Official reserve assets,6159.276627264255,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D22,(1) Foreign currency reserves (in convertible foreign currencies),4680.015504155688,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D23,(a) Securities,3263.073031657451,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D25,(b) total currency and deposits with:,1416.9424724982377,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D26,"(i) other national central banks, BIS and IMF",373.1394931876368,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D29,(iii) banks headquartered outside the reporting country,1043.802979310601,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D31,(2) IMF reserve position,0.029838665999999996,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D32,(3) SDRs,477.0231402925018,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",1002.3140084,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2025-12-31,reserve_liquidity,template 12.25,D35,(5) other reserve assets (specify),-0.10586424993506735,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D36,—financial derivatives,-0.10586424993506735,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D39,B. Other foreign currency assets (specify),9.70623088939186,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D44,—gold not included in official reserve assets,9.70623088939186,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D54,"1. Foreign currency loans, securities, and deposits",-1337.887378419,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,E54,"1. Foreign currency loans, securities, and deposits",-56.075108906,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,F54,"1. Foreign currency loans, securities, and deposits",-125.400630133,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,G54,"1. Foreign currency loans, securities, and deposits",-1156.41163938,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D55,—outflows (-) | Principal,-1088.266269592,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,E55,—outflows (-) | Principal,-36.548335712,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,F55,—outflows (-) | Principal,-77.960053673,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,G55,—outflows (-) | Principal,-973.757880207,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D56,Interest,-249.621108827,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,E56,Interest,-19.526773194,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,F56,Interest,-47.44057646,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,G56,Interest,-182.653759173,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,C77,1. Contingent liabilities in foreign currency,-2175.22135364922,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D77,1. Contingent liabilities in foreign currency,-2175.22135364922,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,C79,(b) Other contingent liabilities,-2175.22135364922,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D79,(b) Other contingent liabilities,-2175.22135364922,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,E79,(b) Other contingent liabilities,0,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,F79,(b) Other contingent liabilities,0,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D159,(a) currency composition of reserves (by groups of currencies),6159.276627264255,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D160,—currencies in SDR basket,6159.247919090161,reported,USD million
+2025-12-31,reserve_liquidity,template 12.25,D161,—currencies not in SDR basket,0.02870817409372565,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D21,A. Official reserve assets,6299.589041998306,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D22,(1) Foreign currency reserves (in convertible foreign currencies),4674.32734640999,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D23,(a) Securities,3237.6578641519254,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D25,(b) total currency and deposits with:,1436.6694822580646,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D26,"(i) other national central banks, BIS and IMF",799.7336395235618,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D29,(iii) banks headquartered outside the reporting country,636.9358427345028,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D31,(2) IMF reserve position,0.030108183559999998,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D32,(3) SDRs,482.4289098232038,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",1143.2249743,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2026-01-31,reserve_liquidity,template 01.26,D35,(5) other reserve assets (specify),-0.42229671844804517,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D36,—financial derivatives,-0.42229671844804517,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D39,B. Other foreign currency assets (specify),9.60632945592389,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D44,—gold not included in official reserve assets,9.60632945592389,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D54,"1. Foreign currency loans, securities, and deposits",-966.1397253890001,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,E54,"1. Foreign currency loans, securities, and deposits",-71.265246448,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,F54,"1. Foreign currency loans, securities, and deposits",-228.573242975,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,G54,"1. Foreign currency loans, securities, and deposits",-666.301235966,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D55,—outflows (-) | Principal,-699.2689177550001,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,E55,—outflows (-) | Principal,-43.162586454,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,F55,—outflows (-) | Principal,-182.758270068,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,G55,—outflows (-) | Principal,-473.348061233,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D56,Interest,-266.870807634,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,E56,Interest,-28.102659994,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,F56,Interest,-45.814972907,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,G56,Interest,-192.953174733,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,C77,1. Contingent liabilities in foreign currency,-2066.28229722387,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D77,1. Contingent liabilities in foreign currency,-2066.28229722387,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,C79,(b) Other contingent liabilities,-2066.28229722387,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D79,(b) Other contingent liabilities,-2066.28229722387,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D159,(a) currency composition of reserves (by groups of currencies),6299.589041998306,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D160,—currencies in SDR basket,6299.536604195422,reported,USD million
+2026-01-31,reserve_liquidity,template 01.26,D161,—currencies not in SDR basket,0.052437802883900694,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D21,A. Official reserve assets,6659.955483774249,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D22,(1) Foreign currency reserves (in convertible foreign currencies),4987.652658985762,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D23,(a) Securities,3753.0259675996867,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D25,(b) total currency and deposits with:,1234.6267727867262,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D26,"(i) other national central banks, BIS and IMF",331.31081055719574,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D29,(iii) banks headquartered outside the reporting country,903.3159622295304,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D31,(2) IMF reserve position,0.02995348876,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D32,(3) SDRs,473.7625361906189,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",1198.4029593999999,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2026-02-28,reserve_liquidity,template 02.26,D35,(5) other reserve assets (specify),0.10737570910721626,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D36,—financial derivatives,0.10737570910721626,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D39,B. Other foreign currency assets (specify),9.341445618296648,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D44,—gold not included in official reserve assets,9.341445618296648,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D54,"1. Foreign currency loans, securities, and deposits",-968.373489287,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,E54,"1. Foreign currency loans, securities, and deposits",-55.001877487,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,F54,"1. Foreign currency loans, securities, and deposits",-280.98290436,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,G54,"1. Foreign currency loans, securities, and deposits",-632.38870744,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D55,—outflows (-) | Principal,-705.731147167,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,E55,—outflows (-) | Principal,-35.515713767,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,F55,—outflows (-) | Principal,-231.699241314,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,G55,—outflows (-) | Principal,-438.516192086,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D56,Interest,-262.64234211999997,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,E56,Interest,-19.48616372,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,F56,Interest,-49.283663046,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,G56,Interest,-193.872515354,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,C77,1. Contingent liabilities in foreign currency,-2063.86966619829,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D77,1. Contingent liabilities in foreign currency,-2063.86966619829,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,C79,(b) Other contingent liabilities,-2063.86966619829,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D79,(b) Other contingent liabilities,-2063.86966619829,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D159,(a) currency composition of reserves (by groups of currencies),6659.955483774249,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D160,—currencies in SDR basket,6659.888949871637,reported,USD million
+2026-02-28,reserve_liquidity,template 02.26,D161,—currencies not in SDR basket,0.06653390261220525,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D21,A. Official reserve assets,6316.585336205663,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D22,(1) Foreign currency reserves (in convertible foreign currencies),4791.517425042597,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D23,(a) Securities,3594.3730174531456,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D25,(b) total currency and deposits with:,1197.144407589451,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D26,"(i) other national central banks, BIS and IMF",326.4801350396325,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D29,(iii) banks headquartered outside the reporting country,870.6642725498185,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D31,(2) IMF reserve position,0.029553025320000002,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D32,(3) SDRs,468.50528774670244,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",1057.5149413,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2026-03-31,reserve_liquidity,template 03.26,D35,(5) other reserve assets (specify),-0.981870908956219,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D36,—financial derivatives,-0.981870908956219,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D39,B. Other foreign currency assets (specify),9.165629972247919,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D44,—gold not included in official reserve assets,9.165629972247919,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D54,"1. Foreign currency loans, securities, and deposits",-959.779838035,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,E54,"1. Foreign currency loans, securities, and deposits",-172.278696886,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,F54,"1. Foreign currency loans, securities, and deposits",-165.49957659,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,G54,"1. Foreign currency loans, securities, and deposits",-622.001564559,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D55,—outflows (-) | Principal,-700.534966617,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,E55,—outflows (-) | Principal,-145.958100784,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,F55,—outflows (-) | Principal,-135.454873127,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,G55,—outflows (-) | Principal,-419.121992706,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D56,Interest,-259.244871418,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,E56,Interest,-26.320596102,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,F56,Interest,-30.044703463,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,G56,Interest,-202.879571853,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,C77,1. Contingent liabilities in foreign currency,-2005.02932093859,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D77,1. Contingent liabilities in foreign currency,-2005.02932093859,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,C79,(b) Other contingent liabilities,-2005.02932093859,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D79,(b) Other contingent liabilities,-2005.02932093859,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D159,(a) currency composition of reserves (by groups of currencies),6316.585336205663,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D160,—currencies in SDR basket,6316.55320769244,reported,USD million
+2026-03-31,reserve_liquidity,template 03.26,D161,—currencies not in SDR basket,0.03212851322320172,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D21,A. Official reserve assets,6470.758065066462,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D22,(1) Foreign currency reserves (in convertible foreign currencies),4938.769644691679,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D23,(a) Securities,3705.124671188707,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D25,(b) total currency and deposits with:,1233.6449735029717,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D26,"(i) other national central banks, BIS and IMF",342.57426162332837,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D29,(iii) banks headquartered outside the reporting country,891.0707118796432,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D31,(2) IMF reserve position,0.029893571759999998,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D32,(3) SDRs,474.9699118522059,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",1058.2033753,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2026-04-30,reserve_liquidity,template 04.26 ,D35,(5) other reserve assets (specify),-1.2147603491827637,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D36,—financial derivatives,-1.2147603491827637,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D39,B. Other foreign currency assets (specify),9.109192241411328,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D44,—gold not included in official reserve assets,9.109192241411328,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D54,"1. Foreign currency loans, securities, and deposits",-866.9616503289999,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,E54,"1. Foreign currency loans, securities, and deposits",-107.923355825,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,F54,"1. Foreign currency loans, securities, and deposits",-124.184518044,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,G54,"1. Foreign currency loans, securities, and deposits",-634.85377646,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D55,—outflows (-) | Principal,-607.720686478,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,E55,—outflows (-) | Principal,-84.581576063,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,F55,—outflows (-) | Principal,-87.204303888,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,G55,—outflows (-) | Principal,-435.934806527,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D56,Interest,-259.240963851,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,E56,Interest,-23.341779762,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,F56,Interest,-36.980214156,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,G56,Interest,-198.918969933,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,C77,1. Contingent liabilities in foreign currency,-2055.24515556464,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D77,1. Contingent liabilities in foreign currency,-2055.24515556464,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,C79,(b) Other contingent liabilities,-2055.24515556464,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D79,(b) Other contingent liabilities,-2055.24515556464,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D159,(a) currency composition of reserves (by groups of currencies),6470.758065066462,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D160,—currencies in SDR basket,6470.718359416388,reported,USD million
+2026-04-30,reserve_liquidity,template 04.26 ,D161,—currencies not in SDR basket,0.039705650074294205,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D21,A. Official reserve assets,7007.050650597525,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D22,(1) Foreign currency reserves (in convertible foreign currencies),5489.232433578092,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D23,(a) Securities,3911.7154495148548,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D25,(b) total currency and deposits with:,1577.5169840632375,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D26,"(i) other national central banks, BIS and IMF",532.7339692690966,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D29,(iii) banks headquartered outside the reporting country,1044.7830147941409,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D31,(2) IMF reserve position,0.029822324999999997,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D32,(3) SDRs,474.65769688334797,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",1043.1955140999999,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D34,—volume in millions of fine troy ounces,0.229478,reported,million fine troy ounces
+2026-05-31,reserve_liquidity,template 05.26 ,D35,(5) other reserve assets (specify),-0.06481628891469675,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D36,—financial derivatives,-0.06481628891469675,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D39,B. Other foreign currency assets (specify),9.154073506162666,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D44,—gold not included in official reserve assets,9.154073506162666,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D54,"1. Foreign currency loans, securities, and deposits",-865.4512725699999,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,E54,"1. Foreign currency loans, securities, and deposits",-59.483204164,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,F54,"1. Foreign currency loans, securities, and deposits",-138.698050021,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,G54,"1. Foreign currency loans, securities, and deposits",-667.270018385,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D55,—outflows (-) | Principal,-602.004700386,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,E55,—outflows (-) | Principal,-52.467976449,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,F55,—outflows (-) | Principal,-81.189735021,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,G55,—outflows (-) | Principal,-468.346988916,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D56,Interest,-263.446572184,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,E56,Interest,-7.015227715,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,F56,Interest,-57.508315,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,G56,Interest,-198.923029469,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,C77,1. Contingent liabilities in foreign currency,-2109.72854888173,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D77,1. Contingent liabilities in foreign currency,-2109.72854888173,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,C79,(b) Other contingent liabilities,-2109.72854888173,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D79,(b) Other contingent liabilities,-2109.72854888173,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D159,(a) currency composition of reserves (by groups of currencies),7007.050650597525,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D160,—currencies in SDR basket,7007.013789259347,reported,USD million
+2026-05-31,reserve_liquidity,template 05.26 ,D161,—currencies not in SDR basket,0.03686133817854868,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D21,A. Official reserve assets,7122.899699469693,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D22,(1) Foreign currency reserves (in convertible foreign currencies),5637.932345771741,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D23,(a) Securities,3933.934588632669,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D25,(b) total currency and deposits with:,1703.9977571390716,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D26,"(i) other national central banks, BIS and IMF",326.55976051865065,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D29,(iii) banks headquartered outside the reporting country,1377.437996620421,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D31,(2) IMF reserve position,0.029546706800000003,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D32,(3) SDRs,471.2549275318231,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",1013.9984971095001,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D34,—volume in millions of fine troy ounces,0.25185939,reported,million fine troy ounces
+2026-06-30,reserve_liquidity,template 06.26,D35,(5) other reserve assets (specify),-0.31561765017200316,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D36,—financial derivatives,-0.31561765017200316,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D39,B. Other foreign currency assets (specify),9.137729505160095,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D44,—gold not included in official reserve assets,9.137729505160095,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D54,"1. Foreign currency loans, securities, and deposits",-854.7492670180001,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,E54,"1. Foreign currency loans, securities, and deposits",-64.13293453,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,F54,"1. Foreign currency loans, securities, and deposits",-133.125931569,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,G54,"1. Foreign currency loans, securities, and deposits",-657.490400919,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D55,—outflows (-) | Principal,-593.6227415440001,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,E55,—outflows (-) | Principal,-34.318193271,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,F55,—outflows (-) | Principal,-87.247502602,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,G55,—outflows (-) | Principal,-472.057045671,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D56,Interest,-261.126525474,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,E56,Interest,-29.814741259,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,F56,Interest,-45.878428967,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,G56,Interest,-185.433355248,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,C77,1. Contingent liabilities in foreign currency,-1815.2833310891,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D77,1. Contingent liabilities in foreign currency,-1815.2833310891,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,C79,(b) Other contingent liabilities,-1815.2833310891,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D79,(b) Other contingent liabilities,-1815.2833310891,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D159,(a) currency composition of reserves (by groups of currencies),7122.899699469693,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D160,—currencies in SDR basket,7122.875323308199,reported,USD million
+2026-06-30,reserve_liquidity,template 06.26,D161,—currencies not in SDR basket,0.024376161493970434,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D21,A. Official reserve assets,7527.461610736987,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D22,(1) Foreign currency reserves (in convertible foreign currencies),6038.493411284551,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D23,(a) Securities,4145.900383472932,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D25,(b) total currency and deposits with:,1892.5930278116198,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D26,"(i) other national central banks, BIS and IMF",1181.7520317673038,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D29,(iii) banks headquartered outside the reporting country,710.840996044316,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D31,(2) IMF reserve position,0.02971185984,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D32,(3) SDRs,474.99263882344394,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped) 5",1014.136999641,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D34,—volume in millions of fine troy ounces,0.251859385,reported,million fine troy ounces
+2026-07-31,reserve_liquidity,template 07.26,D35,(5) other reserve assets (specify),-0.19115087184953933,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D36,—financial derivatives,-0.19115087184953933,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D39,B. Other foreign currency assets (specify),9.057990858905049,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D44,—gold not included in official reserve assets,9.057990858905049,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D54,"1. Foreign currency loans, securities, and deposits 6",-862.251057202,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,E54,"1. Foreign currency loans, securities, and deposits 6",-73.458397053,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,F54,"1. Foreign currency loans, securities, and deposits 6",-124.37422215200002,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,G54,"1. Foreign currency loans, securities, and deposits 6",-664.418437997,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D55,—outflows (-) | Principal,-601.158354295,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,E55,—outflows (-) | Principal,-46.197027995,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,F55,—outflows (-) | Principal,-80.006715295,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,G55,—outflows (-) | Principal,-474.954611005,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D56,Interest,-261.092702907,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,E56,Interest,-27.261369058,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,F56,Interest,-44.367506857,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,G56,Interest,-189.463826992,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,C77,1. Contingent liabilities in foreign currency,-1776.98742569862,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D77,1. Contingent liabilities in foreign currency,-1776.98742569862,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,C79,(b) Other contingent liabilities,-1776.98742569862,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D79,(b) Other contingent liabilities,-1776.98742569862,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D159,(a) currency composition of reserves (by groups of currencies),7527.461610736987,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D160,—currencies in SDR basket,7527.425493162937,reported,USD million
+2026-07-31,reserve_liquidity,template 07.26,D161,—currencies not in SDR basket,0.036117574050102796,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D21,A. Official reserve assets,8140.458474767802,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D22,(1) Foreign currency reserves (in convertible foreign currencies),6516.66886062775,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D23,(a) Securities,5025.894693898564,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D25,(b) total currency and deposits with:,1490.7741667291866,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D26,"(i) other national central banks, BIS and IMF",799.5419185377991,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D29,(iii) banks headquartered outside the reporting country,691.2322481913875,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D31,(2) IMF reserve position,0.029825157440000003,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D32,(3) SDRs,474.54557497529646,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped)",1149.17140890875,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D34,—volume in millions of fine troy ounces,0.251859385,reported,million fine troy ounces
+2026-08-31,reserve_liquidity,template 08.26 ,D35,(5) other reserve assets (specify),0.04280509856459331,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D36,—financial derivatives,0.04280509856459331,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D39,B. Other foreign currency assets (specify),12.104945680382775,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D44,—gold not included in official reserve assets,12.104945680382775,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D54,"1. Foreign currency loans, securities, and deposits",-884.6526184229999,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,E54,"1. Foreign currency loans, securities, and deposits",-61.202735559999994,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,F54,"1. Foreign currency loans, securities, and deposits",-176.511691449,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,G54,"1. Foreign currency loans, securities, and deposits",-646.938191414,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D55,—outflows (-) | Principal,-614.1616602619999,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,E55,—outflows (-) | Principal,-41.964302831,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,F55,—outflows (-) | Principal,-125.813466053,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,G55,—outflows (-) | Principal,-446.383891378,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D56,Interest,-270.490958161,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,E56,Interest,-19.238432729,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,F56,Interest,-50.698225396,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,G56,Interest,-200.554300036,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,C77,1. Contingent liabilities in foreign currency,-1783.67199597703,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D77,1. Contingent liabilities in foreign currency,-1783.67199597703,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,C79,(b) Other contingent liabilities,-1783.67199597703,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D79,(b) Other contingent liabilities,-1783.67199597703,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D159,(a) currency composition of reserves (by groups of currencies),8140.458474767802,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D160,—currencies in SDR basket,8140.428902450099,reported,USD million
+2026-08-31,reserve_liquidity,template 08.26 ,D161,—currencies not in SDR basket,0.029572317703349282,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D21,A. Official reserve assets,8166.920303010889,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D22,(1) Foreign currency reserves (in convertible foreign currencies),6642.534163141527,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D23,(a) Securities,5301.33757613527,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D25,(b) total currency and deposits with:,1341.1965870062568,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D26,"(i) other national central banks, BIS and IMF",401.5046738551303,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D29,(iii) banks headquartered outside the reporting country,939.6919131511265,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D31,(2) IMF reserve position,0.029626233000000002,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D32,(3) SDRs,472.5391669321536,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped) 5",1051.8403495755,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D34,—volume in millions of fine troy ounces,0.251859385,reported,million fine troy ounces
+2026-09-30,reserve_liquidity,template 09.26  ,D35,(5) other reserve assets (specify),-0.023002871290929327,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D36,—financial derivatives,-0.023002871290929327,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D39,B. Other foreign currency assets (specify),5.07569353191816,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D44,—gold not included in official reserve assets,5.07569353191816,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D54,"1. Foreign currency loans, securities, and deposits 6",-873.382299309,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,E54,"1. Foreign currency loans, securities, and deposits 6",-63.50114447,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,F54,"1. Foreign currency loans, securities, and deposits 6",-169.546650425,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,G54,"1. Foreign currency loans, securities, and deposits 6",-640.334504414,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D55,—outflows (-) | Principal,-604.413475997,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,E55,—outflows (-) | Principal,-38.155733077,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,F55,—outflows (-) | Principal,-137.649568463,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,G55,—outflows (-) | Principal,-428.608174457,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D56,Interest,-268.968823312,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,E56,Interest,-25.345411393,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,F56,Interest,-31.897081962,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,G56,Interest,-211.726329957,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,C77,1. Contingent liabilities in foreign currency,-1816.81719444551,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D77,1. Contingent liabilities in foreign currency,-1816.81719444551,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,C79,(b) Other contingent liabilities,-1816.81719444551,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D79,(b) Other contingent liabilities,-1816.81719444551,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D159,(a) currency composition of reserves (by groups of currencies),8166.920303010889,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D160,—currencies in SDR basket,8166.893582197868,reported,USD million
+2026-09-30,reserve_liquidity,template 09.26  ,D161,—currencies not in SDR basket,0.02672081302061341,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D21,A. Official reserve assets,8249.556853891127,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D22,(1) Foreign currency reserves (in convertible foreign currencies),6411.594197706987,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D23,(a) Securities,5346.065347426132,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D25,(b) total currency and deposits with:,1065.5288502808555,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D26,"(i) other national central banks, BIS and IMF",386.43266456602026,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D29,(iii) banks headquartered outside the reporting country,679.0961857148353,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D31,(2) IMF reserve position,0.029547578319999997,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D32,(3) SDRs,472.52324376718394,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D33,"(4) gold (including gold deposits and, if appropriate, gold swapped) 5",1365.3904302087499,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D34,—volume in millions of fine troy ounces,0.348914695,reported,million fine troy ounces
+2026-10-31,reserve_liquidity,template 10.26,D35,(5) other reserve assets (specify),0.019434629886118805,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D36,—financial derivatives,0.019434629886118805,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D39,B. Other foreign currency assets (specify),23.48200171975992,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D44,—gold not included in official reserve assets,23.48200171975992,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D54,"1. Foreign currency loans, securities, and deposits 6",-875.960623381,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,E54,"1. Foreign currency loans, securities, and deposits 6",-109.258145088,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,F54,"1. Foreign currency loans, securities, and deposits 6",-124.220948588,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,G54,"1. Foreign currency loans, securities, and deposits 6",-642.481529705,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D55,—outflows (-) | Principal,-604.02378505,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,E55,—outflows (-) | Principal,-85.168488166,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,F55,—outflows (-) | Principal,-86.759590268,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,G55,—outflows (-) | Principal,-432.095706616,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D56,Interest,-271.936838331,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,E56,Interest,-24.089656922,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,F56,Interest,-37.46135832,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,G56,Interest,-210.385823089,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,C77,1. Contingent liabilities in foreign currency,-1809.97924612958,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D77,1. Contingent liabilities in foreign currency,-1809.97924612958,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,E77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,F77,1. Contingent liabilities in foreign currency,0,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,C79,(b) Other contingent liabilities,-1809.97924612958,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D79,(b) Other contingent liabilities,-1809.97924612958,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,E79,(b) Other contingent liabilities,0,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,F79,(b) Other contingent liabilities,0,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D159,(a) currency composition of reserves (by groups of currencies),8249.556853891127,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D160,—currencies in SDR basket,8249.24478702055,reported,USD million
+2026-10-31,reserve_liquidity,template 10.26,D161,—currencies not in SDR basket,0.3120668705755617,reported,USD million

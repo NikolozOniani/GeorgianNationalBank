@@ -1,0 +1,837 @@
+[
+  {
+    "file": "data/derived/episode_2026_11_09/intervention_monthly.csv",
+    "rows": 81,
+    "frequency": "monthly",
+    "units": "USD million; NBG purchase positive",
+    "definition": "Non-auction is NET, not gross BMatch purchases; auction columns are gross. Options/swaps separate. Source cells buy C,D; sell C,D,E.",
+    "source_ids": [
+      "fx_market"
+    ],
+    "first": "2020-01",
+    "last": "2026-09",
+    "missing_cells": {
+      "month": 0,
+      "auction_purchases_usdm": 0,
+      "auction_sales_usdm": 0,
+      "nonauction_net_purchases_usdm": 0,
+      "net_market_purchases_usdm": 0,
+      "nonauction_gross_purchases_usdm": 81,
+      "nonauction_gross_sales_usdm": 81,
+      "options_exercised_usdm": 0,
+      "nbg_swap_usdm": 0,
+      "source_id": 0,
+      "buy_row": 0,
+      "sell_row": 0,
+      "source_buy_period_date": 0,
+      "source_sell_period_date": 0
+    },
+    "sha256": "48bd24124cd6c2ba30c473f7a312e28cf24f2120b5758920adaee4fc8a94fbd8"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/fx_market_monthly.csv",
+    "rows": 162,
+    "frequency": "monthly",
+    "units": "USD million",
+    "definition": "Reported bank FX transactions and accounting discrepancies; no intraday prices/order flow.",
+    "source_ids": [
+      "fx_market"
+    ],
+    "first": "2020-01",
+    "last": "2026-09",
+    "missing_cells": {
+      "month": 0,
+      "bank_side": 0,
+      "total_usdm": 0,
+      "local_banks_usdm": 0,
+      "foreign_banks_usdm": 0,
+      "legal_entities_usdm": 0,
+      "individuals_usdm": 0,
+      "total_minus_reported_components_usdm": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_row": 0
+    },
+    "sha256": "6a51636fe8d7828da88a11a08b3d86bb132c5995eed204f3362e9f599de48939"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/fx_auction_events.csv",
+    "rows": 56,
+    "frequency": "auction event",
+    "units": "USD, not millions",
+    "definition": "Dated auction transactions; no invented execution prices or zero-event dates.",
+    "source_ids": [
+      "fx_auctions"
+    ],
+    "first": "2020-03-13",
+    "last": "2024-10-25",
+    "missing_cells": {
+      "date": 0,
+      "auction_number": 0,
+      "sales_usd": 0,
+      "purchases_usd": 0,
+      "execution_price": 56,
+      "source_id": 0,
+      "sheet": 0,
+      "source_row": 0
+    },
+    "sha256": "3578f7db60c5e23e385e83f37dd3ef304aa039e6c1e9fafb7659f66a9e18e6d0"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/official_fx_daily.csv",
+    "rows": 2505,
+    "frequency": "source calendar-valid daily observations",
+    "units": "GEL per one unit of foreign currency",
+    "definition": "Official valid-date rates, not intraday quotes or independent weekend trades. No forward fill performed.",
+    "source_ids": [
+      "fx_daily_history",
+      "fx_daily_current"
+    ],
+    "first": "2020-01-01",
+    "last": "2026-11-09",
+    "missing_cells": {
+      "date": 0,
+      "usd_gel": 0,
+      "eur_gel": 0,
+      "try_gel": 0,
+      "rub_gel": 0,
+      "amd_gel": 0,
+      "azn_gel": 0,
+      "cny_gel": 0,
+      "pln_gel": 0,
+      "uah_gel": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_row": 0
+    },
+    "sha256": "00f0f7af6e86cf4d26f75b5dad98d94181d02f3e9f53bb9150724e21f9234455"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/fx_quote_conventions.csv",
+    "rows": 63,
+    "frequency": "per source sheet",
+    "units": "original denomination",
+    "definition": "Verified currency-header and denomination cells; divide quoted value by quoted_units.",
+    "source_ids": [
+      "fx_daily_history",
+      "fx_daily_current"
+    ],
+    "first": null,
+    "last": null,
+    "missing_cells": {
+      "source_id": 0,
+      "sheet": 0,
+      "currency": 0,
+      "column": 0,
+      "quoted_units": 0,
+      "converted_units": 0
+    },
+    "sha256": "75fd8d3df647fe09e856125efee7a3181e30fe1e1b08f462b51ba2464eb0866e"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/neer_daily.csv",
+    "rows": 2504,
+    "frequency": "daily",
+    "units": "index December 2005=100",
+    "definition": "Published effective exchange rate level. Distinct daily/monthly bases; not spliced.",
+    "source_ids": [
+      "neer_daily"
+    ],
+    "first": "2020-01-01",
+    "last": "2026-11-09",
+    "missing_cells": {
+      "date": 0,
+      "index": 0,
+      "base": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "a4ce1e6b4e7f0aed58cb615ab1b9c39d98c1e71c9b3b9b43d17769f77d46e19c"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/neer_monthly.csv",
+    "rows": 82,
+    "frequency": "monthly",
+    "units": "index December 1995=100",
+    "definition": "Published effective exchange rate level. Distinct daily/monthly bases; not spliced.",
+    "source_ids": [
+      "neer_monthly"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-10-31",
+    "missing_cells": {
+      "date": 0,
+      "index": 0,
+      "base": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "8cf52a1f0b2878c97c660991c82ea8950b88e047ef39f18aee9fa6171c779c6b"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/reer_monthly.csv",
+    "rows": 81,
+    "frequency": "monthly",
+    "units": "index December 1995=100",
+    "definition": "Published effective exchange rate level. Distinct daily/monthly bases; not spliced.",
+    "source_ids": [
+      "reer_monthly"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-09-30",
+    "missing_cells": {
+      "date": 0,
+      "index": 0,
+      "base": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "959489e8c10fde7b5c30a747342fba35bd75121e8ab108536d2bcfcfaf5a6f38"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/tibr_daily.csv",
+    "rows": 1709,
+    "frequency": "business daily",
+    "units": "annualized percent; GEL volume",
+    "definition": "Source decimal rates multiplied by 100; term indices are published TIBR indices.",
+    "source_ids": [
+      "tibr"
+    ],
+    "first": "2020-01-03",
+    "last": "2026-11-06",
+    "missing_cells": {
+      "date": 0,
+      "tibr_pct": 0,
+      "volume_gel": 0,
+      "tibr_1m_pct": 0,
+      "tibr_3m_pct": 0,
+      "tibr_6m_pct": 0,
+      "source_id": 0,
+      "source_row": 0
+    },
+    "sha256": "cd6b8423557ad566d5db0641774daca6678de22660c9a1a694c5d9358a9e706c"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/refinancing_events.csv",
+    "rows": 357,
+    "frequency": "operation event",
+    "units": "GEL; annual percent where available",
+    "definition": "Native dated transactions; future contractual maturities are not future executed observations. Repo is interbank, not NBG intervention.",
+    "source_ids": [
+      "refinancing"
+    ],
+    "first": "2020-01-03",
+    "last": "2026-11-05",
+    "missing_cells": {
+      "date": 0,
+      "maturity_date": 0,
+      "maturity_days": 0,
+      "loan_gel": 0,
+      "source_id": 0,
+      "source_row": 0
+    },
+    "sha256": "66ca6aad19aa52d9bb25bbc3e8f6ec1e0ab4fb6ffe0f31f5f9645ffc9d7f0ff0"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/cd_auctions_events.csv",
+    "rows": 102,
+    "frequency": "operation event",
+    "units": "GEL; annual percent where available",
+    "definition": "Native dated transactions; future contractual maturities are not future executed observations. Repo is interbank, not NBG intervention.",
+    "source_ids": [
+      "cd_auctions"
+    ],
+    "first": "2020-01-23",
+    "last": "2026-11-05",
+    "missing_cells": {
+      "date": 0,
+      "auction_number": 0,
+      "maturity_days": 0,
+      "maturity_date": 0,
+      "offered_gel": 0,
+      "demand_gel": 0,
+      "nominal_allocated_gel": 0,
+      "settlement_gel": 0,
+      "discount_gel": 0,
+      "weighted_rate_pct": 0,
+      "source_id": 0,
+      "source_row": 0
+    },
+    "sha256": "a9e69a9a82ee0bdcc7be7489ca080cb2aa799a44b76e8b8e1b820cb29e51009a"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/repo_events.csv",
+    "rows": 345,
+    "frequency": "operation event",
+    "units": "GEL; annual percent where available",
+    "definition": "Native dated transactions; future contractual maturities are not future executed observations. Repo is interbank, not NBG intervention.",
+    "source_ids": [
+      "repo"
+    ],
+    "first": "2020-01-14",
+    "last": "2026-11-04",
+    "missing_cells": {
+      "date": 0,
+      "event_number": 0,
+      "settlement_date": 0,
+      "maturity_date": 0,
+      "maturity_days": 0,
+      "rate_pct": 0,
+      "amount_gel": 0,
+      "source_id": 0,
+      "source_row": 0
+    },
+    "sha256": "0f07bd30396a6a7525c5b89412717e29f1d237eba5ed553d9f52d679984c526e"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/money_market.csv",
+    "rows": 2592,
+    "frequency": "daily",
+    "units": "GEL million",
+    "definition": "Native dated source cells; repeated labels retain source row identity. Annual and quarterly BOP periods remain distinct.",
+    "source_ids": [
+      "money_market"
+    ],
+    "first": "2025-12-31",
+    "last": "2026-11-06",
+    "missing_cells": {
+      "date": 0,
+      "series_row": 0,
+      "label": 0,
+      "value": 0,
+      "source_value_status": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "e153fe3eb117cd6385860e556d6624b669cc010e7446b96ec1b9587801fa98b3"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/central_bank.csv",
+    "rows": 4617,
+    "frequency": "monthly",
+    "units": "GEL million, end period",
+    "definition": "Native dated source cells; repeated labels retain source row identity. Annual and quarterly BOP periods remain distinct.",
+    "source_ids": [
+      "central_bank"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-09-30",
+    "missing_cells": {
+      "date": 0,
+      "series_row": 0,
+      "label": 0,
+      "value": 0,
+      "source_value_status": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "113eb15df242e7808bc82cc70a076978e96e62825e48be7f1dd74928d6862a8f"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/market_rates_monthly.csv",
+    "rows": 81,
+    "frequency": "monthly",
+    "units": "annual percent (source decimals x100)",
+    "definition": "Published money and government-paper rates. Blank terms remain missing; domestic yields are not sovereign external spreads.",
+    "source_ids": [
+      "market_rates"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-10-31",
+    "missing_cells": {
+      "date": 0,
+      "tibr_1day_pct": 0,
+      "tibr_7day_pct": 81,
+      "cd_7day_pct": 79,
+      "cd_1month_pct": 78,
+      "cd_3month_pct": 0,
+      "cd_6month_pct": 81,
+      "government_6month_pct": 2,
+      "government_1year_pct": 2,
+      "government_2to3year_pct": 8,
+      "government_5year_pct": 0,
+      "government_8to10year_pct": 28,
+      "source_id": 0,
+      "source_row": 0
+    },
+    "sha256": "2b4c8bcdbac3e9629d1d870bc9431669fc740c53b20625af6505f253fc02f010"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/reserve_stocks_monthly.csv",
+    "rows": 82,
+    "frequency": "monthly end period",
+    "units": "USD million (source USD thousand / 1000)",
+    "definition": "Stocks are not intervention flows. Gold includes market valuation.",
+    "source_ids": [
+      "reserve_assets"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-10-31",
+    "missing_cells": {
+      "date": 0,
+      "reserves_usdm": 0,
+      "fx_usdm": 0,
+      "sdr_usdm": 0,
+      "imf_position_usdm": 0,
+      "gold_usdm": 0,
+      "other_usdm": 0,
+      "source_id": 0,
+      "source_row": 0
+    },
+    "sha256": "e09a7fed1f48ea81be40deb9f0b882492582f130eadfa692855f98d15feedd64"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/reserve_liquidity_cells.csv",
+    "rows": 11523,
+    "frequency": "monthly end period; forward drains at that vintage",
+    "units": "USD million, except labeled gold volume",
+    "definition": "Sparse R1 disclosure cells, not a fully audited usable-reserve measure. Section II D total/E-F-G maturity; III C total/D-E-F maturity; I D levels.",
+    "source_ids": [
+      "reserve_liquidity"
+    ],
+    "first": "2024-12-31",
+    "last": "2026-10-31",
+    "missing_cells": {
+      "date": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0,
+      "label": 0,
+      "value": 10672,
+      "source_value_status": 0,
+      "units": 0
+    },
+    "sha256": "27111dd1c83071f480dd11c2fc7917df4ed965274ba2e2e64e628b36f0a1baa0"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/reserve_liquidity_reported.csv",
+    "rows": 851,
+    "frequency": "monthly end period",
+    "units": "USD million except labeled gold volume",
+    "definition": "Only explicitly numeric cells from the sparse R1 form. Omitted cells remain unknown, never zero; full sparse form is a manual-commit artifact.",
+    "source_ids": [
+      "reserve_liquidity"
+    ],
+    "first": "2024-12-31",
+    "last": "2026-10-31",
+    "missing_cells": {
+      "date": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0,
+      "label": 0,
+      "value": 0,
+      "source_value_status": 0,
+      "units": 0
+    },
+    "sha256": "4eb6e846a1cfabef15d62cd52fbb39cebc5b2db55339e6cc38338b43999e2ab7"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/bop_bpm6.csv",
+    "rows": 1184,
+    "frequency": "quarterly and separate annual totals",
+    "units": "USD million",
+    "definition": "Native dated source cells; repeated labels retain source row identity. Annual and quarterly BOP periods remain distinct.",
+    "source_ids": [
+      "bop_bpm6"
+    ],
+    "first": "2020",
+    "last": "2026Q2",
+    "missing_cells": {
+      "date": 0,
+      "series_row": 0,
+      "label": 0,
+      "value": 0,
+      "source_value_status": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "6cd1e852afdbdc46c806da57eecd0034035878237a4f346cd8308333caa98eba"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/external_debt_ED-GEO-Tb2.csv",
+    "rows": 182,
+    "frequency": "quarterly end period",
+    "units": "USD million; original-maturity classification",
+    "definition": "Native dated source cells; repeated labels retain source row identity. Annual and quarterly BOP periods remain distinct.",
+    "source_ids": [
+      "external_debt"
+    ],
+    "first": "2020-03-31",
+    "last": "2026-06-30",
+    "missing_cells": {
+      "date": 0,
+      "series_row": 0,
+      "label": 0,
+      "value": 0,
+      "source_value_status": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "720484984559ff814cf9ed8918e9b8bc3f73ac7a5c5f9bf2444bc599fdda3ac3"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/iip.csv",
+    "rows": 260,
+    "frequency": "quarterly end period",
+    "units": "USD million",
+    "definition": "Native dated source cells; repeated labels retain source row identity. Annual and quarterly BOP periods remain distinct.",
+    "source_ids": [
+      "iip"
+    ],
+    "first": "2020-03-31",
+    "last": "2026-06-30",
+    "missing_cells": {
+      "date": 0,
+      "series_row": 0,
+      "label": 0,
+      "value": 0,
+      "source_value_status": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "112c4187adaa30f0be94e85f07cf1bf7967b1cdefa72c7def653734fccf263ab"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/trade_monthly.csv",
+    "rows": 162,
+    "frequency": "monthly",
+    "units": "USD million (source thousand / 1000)",
+    "definition": "Merchandise trade, not BOP goods-and-services or domestic value added.",
+    "source_ids": [
+      "trade_country"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-09-30",
+    "missing_cells": {
+      "date": 0,
+      "direction": 0,
+      "value_usdm": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "5195be93dffb6d222777d8e8ee71bc1ef5f773341209fd978d697b5558febe3d"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/money_transfers_monthly.csv",
+    "rows": 140,
+    "frequency": "monthly",
+    "units": "USD million (source thousand / 1000)",
+    "definition": "Electronic transfer-system flows, not all remittances or BOP personal transfers. Source header has no 2024 columns; do not relabel 2025.",
+    "source_ids": [
+      "remittances"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-10-31",
+    "missing_cells": {
+      "date": 0,
+      "direction": 0,
+      "value_usdm": 2,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "8da20c327406911736f69f61cb7335aea22bd18d77e6282f2ae41edba2f757bd"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/money_transfers_canonical.csv",
+    "rows": 162,
+    "frequency": "monthly",
+    "units": "USD million (source thousand / 1000)",
+    "definition": "Totals from the complete by-country workbook, including 2024. Original by-month table preserved separately for comparison.",
+    "source_ids": [
+      "remittances_country"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-09-30",
+    "missing_cells": {
+      "date": 0,
+      "direction": 0,
+      "value_usdm": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "ac21f17d1e804e4d5911cafc52b24ddc7640d6b4f8b6d205e17cc1d2c8aa82a8"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/money_transfers_country.csv",
+    "rows": 40338,
+    "frequency": "monthly by country",
+    "units": "USD million (source thousand / 1000)",
+    "definition": "All labeled country rows 7-255, including reported zeros and blank cells. Country labels follow the source, not a causal control selection.",
+    "source_ids": [
+      "remittances_country"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-09-30",
+    "missing_cells": {
+      "date": 0,
+      "country": 0,
+      "direction": 0,
+      "value_usdm": 0,
+      "source_id": 0,
+      "source_cell": 0
+    },
+    "sha256": "e403f2619eabb29027d8c3e9ae7f8b6efbb1a2f14bd1be2ac7c1606a0d62de5f"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/money_transfers_country_sums.csv",
+    "rows": 162,
+    "frequency": "monthly",
+    "units": "USD million",
+    "definition": "Reproducible sum of all country rows; compared with independently published total.",
+    "source_ids": [
+      "remittances_country"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-09-30",
+    "missing_cells": {
+      "date": 0,
+      "direction": 0,
+      "sum_country_usdm": 0,
+      "country_rows": 0,
+      "missing_country_cells": 0,
+      "source_id": 0
+    },
+    "sha256": "cf2d8da50a25e64dc64133319ba49e1c95f3b12c5a2e27493066722ed6f093ff"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/travel_quarterly.csv",
+    "rows": 27,
+    "frequency": "quarterly",
+    "units": "USD million",
+    "definition": "Quarterly travel receipts; no fabricated monthly travel observations after 2022.",
+    "source_ids": [
+      "travel"
+    ],
+    "first": "2020Q1",
+    "last": "2026Q3",
+    "missing_cells": {
+      "date": 0,
+      "travel_receipts_usdm": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0
+    },
+    "sha256": "2ed84002250cc99cc32f76a5cc2f3225b70c7e021fbf974e1380f0c0aaae7513"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/money_aggregates_monthly.csv",
+    "rows": 81,
+    "frequency": "monthly end period",
+    "units": "GEL million",
+    "definition": "NBG M2 and M3 kept distinct; IMF ARA money definition remains to be reconciled.",
+    "source_ids": [
+      "money_aggregates"
+    ],
+    "first": "2020-01-31",
+    "last": "2026-09-30",
+    "missing_cells": {
+      "date": 0,
+      "m3_gelm": 0,
+      "m2_gelm": 0,
+      "fx_deposits_gelm": 0,
+      "source_id": 0,
+      "source_row": 0
+    },
+    "sha256": "1b77a400b98c2729f951129e1b23b053a50426055139c3a3f93d71d086629171"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/external_debt_payment_schedule.csv",
+    "rows": 722,
+    "frequency": "schedule at published stock date",
+    "units": "USD million",
+    "definition": "Principal and interest separated by source labels. Buckets include nested totals; do not sum overlapping buckets. Not a 2025 residual-maturity debt observation.",
+    "source_ids": [
+      "debt_schedule"
+    ],
+    "first": "2026-06-30",
+    "last": "2026-06-30",
+    "missing_cells": {
+      "date": 0,
+      "source_id": 0,
+      "sheet": 0,
+      "source_cell": 0,
+      "label": 0,
+      "payment_bucket": 0,
+      "value_usdm": 6,
+      "measurement": 0
+    },
+    "sha256": "24272fab7726e28bbd4c91bd03a06c1d9d598872e4b92d6bbbb8a80c8bf7026e"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/sofr_daily.csv",
+    "rows": 1710,
+    "frequency": "US business daily",
+    "units": "annualized percent; USD billion volume",
+    "definition": "Effective date, not Georgian same-day pre-trade information. Publication is later; lag before causal use.",
+    "source_ids": [
+      "sofr"
+    ],
+    "first": "2020-01-02",
+    "last": "2026-11-05",
+    "missing_cells": {
+      "date": 0,
+      "rate_pct": 0,
+      "volume_usd_bn": 0,
+      "revision_indicator": 1710,
+      "source_id": 0,
+      "source_record": 0
+    },
+    "sha256": "f694d3109a259028c021669b7545f5bc53a5b4e04dd7c7c8d5a8a7d6b90bdfbc"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/vix_daily.csv",
+    "rows": 1755,
+    "frequency": "US trading daily",
+    "units": "VIX index points",
+    "definition": "Cboe close; not information available at Georgian morning trade.",
+    "source_ids": [
+      "vix"
+    ],
+    "first": "2020-01-02",
+    "last": "2026-11-06",
+    "missing_cells": {
+      "date": 0,
+      "close": 0,
+      "source_id": 0,
+      "source_row": 0
+    },
+    "sha256": "6ab322fae6132727a6b2b0f6c5db9181ce92eceb78bb0e4c14ed3752a4765579"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/broad_dollar_daily.csv",
+    "rows": 1783,
+    "frequency": "US business daily",
+    "units": "nominal broad USD index, January 2006=100",
+    "definition": "Federal Reserve broad goods-and-services dollar index; higher=USD appreciation. Historical weights are revisable. No holiday fill.",
+    "source_ids": [
+      "broad_dollar"
+    ],
+    "first": "2020-01-01",
+    "last": "2026-10-30",
+    "missing_cells": {
+      "date": 0,
+      "index": 75,
+      "source_id": 0,
+      "source_date_label": 0
+    },
+    "sha256": "f49cb70bf62701cc2493349f96817c427a859f64791c0c1ae366a175974446f6"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/government_external_debt_monthly.csv",
+    "rows": 132,
+    "frequency": "monthly stated reference date",
+    "units": "USD and GEL million (source thousand / 1000)",
+    "definition": "Stocks, not disbursements or FX conversions. Preserve 2026 inclusion of accrued interest and source reference-date anomalies.",
+    "source_ids": [
+      "mof_external_2024",
+      "mof_external_2025",
+      "mof_external_2026"
+    ],
+    "first": "2024-01-31",
+    "last": "2026-09-30",
+    "missing_cells": {
+      "date": 4,
+      "month": 0,
+      "source_date_label": 0,
+      "category": 0,
+      "stock_usdm": 0,
+      "stock_gelm": 0,
+      "accrued_interest_usdm": 96,
+      "accrued_interest_gelm": 96,
+      "definition": 0,
+      "source_id": 0,
+      "source_table": 0,
+      "source_row": 0
+    },
+    "sha256": "aa4186b8b377d31deebac5702e1286120f5f04e6999eae031baf04dd353093fa"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/government_debt_flows.csv",
+    "rows": 2,
+    "frequency": "one published month",
+    "units": "USD million (source thousand / 1000)",
+    "definition": "MoF debt cash flows use transaction-day FX; stocks use period-end FX and accrued interest. Conversion channel not disclosed.",
+    "source_ids": [
+      "mof_debt"
+    ],
+    "first": "2026-09",
+    "last": "2026-09",
+    "missing_cells": {
+      "month": 0,
+      "category": 0,
+      "opening_usdm": 0,
+      "closing_usdm": 0,
+      "reported_difference_usdm": 0,
+      "drawings_usdm": 0,
+      "principal_paid_usdm": 0,
+      "interest_paid_usdm": 0,
+      "source_id": 0,
+      "source_table": 0,
+      "source_row": 0
+    },
+    "sha256": "4f59a64e772b69aebb68e21c9664a5100d07633b06145fe46b428969c533442d"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/imf_ara_published.csv",
+    "rows": 104,
+    "frequency": "annual",
+    "units": "ratios or months as labeled",
+    "definition": "April 2026 ARA dataset. Not an independent reconstruction or proof of an optimal reserve target. API returns all countries; explicitly select GEO.",
+    "source_ids": [
+      "ara_ratio",
+      "ara_money_ratio",
+      "ara_debt_ratio",
+      "ara_import_cover",
+      "ara_indicators"
+    ],
+    "first": "2000",
+    "last": "2025",
+    "missing_cells": {
+      "year": 0,
+      "indicator": 0,
+      "value": 0,
+      "units": 0,
+      "source_id": 0,
+      "source_key": 0,
+      "provider_metadata_modified": 0,
+      "observation_status": 0
+    },
+    "sha256": "1be5c53200f19b7eaf3c03207abb51f9d67105968fd283c13016d954e845b00b"
+  },
+  {
+    "file": "data/derived/episode_2026_11_09/annual_interest_accounts.csv",
+    "rows": 40,
+    "frequency": "annual",
+    "units": "GEL million (source thousand / 1000)",
+    "definition": "Accounting categories, not marginal costs attributable to the reserve-purchase episode. Audit dated 24 April 2026 is not a verified public-release timestamp.",
+    "source_ids": [
+      "annual2025"
+    ],
+    "first": "2024",
+    "last": "2025",
+    "missing_cells": {
+      "year": 0,
+      "series": 0,
+      "value_gelm": 0,
+      "source_value_gel_thousand": 0,
+      "source_id": 0,
+      "pdf_page": 0,
+      "financial_statement_page": 0,
+      "measurement": 0,
+      "extraction": 0
+    },
+    "sha256": "6d47b9ce31617d8a2182cc463f6102c3a704f84e621c3e7be820d70a2b48adbe"
+  }
+]

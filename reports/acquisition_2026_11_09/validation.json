@@ -1,0 +1,412 @@
+{
+  "vintage": "2026-11-09",
+  "baseline_commit": "f741828d53ef843be79b0744d51e0cc24a47fc5b",
+  "source_count": 57,
+  "source_hashes_checked": 57,
+  "raw_caches_absent": [],
+  "output_count": 36,
+  "checks": [
+    {
+      "check": "extracted_output_hashes",
+      "passed": true,
+      "detail": {
+        "checked": 36,
+        "manual_files_absent": []
+      },
+      "qualification": null
+    },
+    {
+      "check": "available_source_hashes",
+      "passed": true,
+      "detail": 57,
+      "qualification": null
+    },
+    {
+      "check": "intervention_monthly_unique_dates",
+      "passed": true,
+      "detail": 81,
+      "qualification": null
+    },
+    {
+      "check": "official_fx_daily_unique_dates",
+      "passed": true,
+      "detail": 2505,
+      "qualification": null
+    },
+    {
+      "check": "neer_daily_unique_dates",
+      "passed": true,
+      "detail": 2504,
+      "qualification": null
+    },
+    {
+      "check": "tibr_daily_unique_dates",
+      "passed": true,
+      "detail": 1709,
+      "qualification": null
+    },
+    {
+      "check": "reserve_stocks_monthly_unique_dates",
+      "passed": true,
+      "detail": 82,
+      "qualification": null
+    },
+    {
+      "check": "money_aggregates_monthly_unique_dates",
+      "passed": true,
+      "detail": 81,
+      "qualification": null
+    },
+    {
+      "check": "nonauction_gross_unknown",
+      "passed": true,
+      "detail": "Net never split into fabricated gross flows",
+      "qualification": null
+    },
+    {
+      "check": "purchase_sign",
+      "passed": true,
+      "detail": "NBG purchases positive; sales negative in net",
+      "qualification": null
+    },
+    {
+      "check": "2024_annual_reconciles",
+      "passed": true,
+      "detail": 0.0,
+      "qualification": null
+    },
+    {
+      "check": "2025_annual_reconciles",
+      "passed": true,
+      "detail": 0.0,
+      "qualification": null
+    },
+    {
+      "check": "2023_discrepancy_explicit",
+      "passed": true,
+      "detail": {
+        "year": 2023,
+        "months": 12,
+        "auction_purchases_usdm": 0.0,
+        "auction_sales_usdm": 166.75,
+        "nonauction_net_purchases_usdm": 1446.0,
+        "total_net_purchases_usdm": 1279.25,
+        "annual_report_net_usdm": 1278.7,
+        "difference_usdm": 0.5499999999999545,
+        "status": "unresolved historical discrepancy",
+        "source": "fx_market; archived annual benchmarks"
+      },
+      "qualification": null
+    },
+    {
+      "check": "2026_Jan_Jul_press_reconciles",
+      "passed": true,
+      "detail": {
+        "computed_usdm": 2566.58,
+        "press_usdm": 2566.6,
+        "tolerance_usdm": 0.05,
+        "source": "reserves_aug2026, published 2026-09-07"
+      },
+      "qualification": null
+    },
+    {
+      "check": "dated_auction_vs_monthly",
+      "passed": false,
+      "detail": [
+        {
+          "month": "2021-09",
+          "event_minus_monthly_usdm": -60.0
+        },
+        {
+          "month": "2021-10",
+          "event_minus_monthly_usdm": 60.0
+        },
+        {
+          "month": "2022-08",
+          "event_minus_monthly_usdm": -32.305
+        },
+        {
+          "month": "2022-09",
+          "event_minus_monthly_usdm": 32.305
+        }
+      ],
+      "qualification": "Do not force trade-date sums to match settlement-period tables. September 30 2021 and August 31 2022 events match adjacent-month differences; exact frequency convention requires confirmation."
+    },
+    {
+      "check": "dated_auction_calendar_year_totals",
+      "passed": true,
+      "detail": [
+        0.0,
+        0.0,
+        1.7763568394002505e-15,
+        0.0,
+        0.0
+      ],
+      "qualification": null
+    },
+    {
+      "check": "reserve_component_sum",
+      "passed": true,
+      "detail": 1.8189894035458565e-12,
+      "qualification": null
+    },
+    {
+      "check": "reserve_template_matches_stocks",
+      "passed": true,
+      "detail": 1.8189894035458565e-12,
+      "qualification": null
+    },
+    {
+      "check": "money_market_identities",
+      "passed": true,
+      "detail": {
+        "max_abs_residual_gelm": 0.0,
+        "tolerance_gelm": 1e-06
+      },
+      "qualification": null
+    },
+    {
+      "check": "central_bank_identities",
+      "passed": true,
+      "detail": {
+        "max_abs_residual_gelm": 0.0010000000020227162,
+        "tolerance_gelm": 0.0031
+      },
+      "qualification": null
+    },
+    {
+      "check": "money_market_security_total",
+      "passed": false,
+      "detail": [
+        {
+          "date": "2026-07-30",
+          "reported_total_gelm": 1454.154462,
+          "components_gelm": 11485.978000000001,
+          "residual_gelm": -10031.823538
+        }
+      ],
+      "qualification": "Quarantine the reported government-security total on 2026-07-30; retain original. No replacement total is treated as an observation."
+    },
+    {
+      "check": "CD_contract_discount_identity",
+      "passed": true,
+      "detail": 7.566995918750763e-10,
+      "qualification": null
+    },
+    {
+      "check": "operation_maturities",
+      "passed": true,
+      "detail": "Date of issue/trade <= contractual maturity; maturity may follow vintage cutoff",
+      "qualification": null
+    },
+    {
+      "check": "annual_interest_accounting",
+      "passed": true,
+      "detail": {
+        "max_residual_gelm": 8.526512829121202e-14,
+        "not_marginal_reserve_cost": true
+      },
+      "qualification": null
+    },
+    {
+      "check": "transfer_workbook_overlap",
+      "passed": false,
+      "detail": {
+        "overlap_observations": 138,
+        "max_residual_usdm": 0.0020000000000095497,
+        "recovered_2024_months": 12
+      },
+      "qualification": "Small cross-file discrepancies retained; by-country workbook used because it has 2024 and reconciles to its country components. Not evidence that the alternative table is intentionally wrong."
+    },
+    {
+      "check": "transfer_country_sum",
+      "passed": true,
+      "detail": 3.979039320256561e-13,
+      "qualification": null
+    },
+    {
+      "check": "NEER_gap_explicit",
+      "passed": true,
+      "detail": [
+        "2025-10-11"
+      ],
+      "qualification": null
+    },
+    {
+      "check": "archived_month_end_FX_overlap",
+      "passed": true,
+      "detail": {
+        "observations": 60,
+        "max_difference": 0.0
+      },
+      "qualification": null
+    }
+  ],
+  "all_checks_passed": false,
+  "required_checks_passed": true,
+  "known_source_discrepancies": [
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2020-01 row 57",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2020-02 row 58",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": 0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2020-03 row 59",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2020-04 row 60",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0009999999997489795,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2020-05 row 61",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2020-06 row 62",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0009999999997489795,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2020-08 row 64",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0009999999997489795,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2020-09 row 65",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0019999999999527063,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2020-10 row 66",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2020-12 row 68",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2021-01 row 69",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": 0.0009999999999763531,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2022-02 row 82",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": 0.0009999999997489795,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2022-03 row 83",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": 0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2022-04 row 84",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2022-06 row 86",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2022-06 row 86",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2022-08 row 88",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": 0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_buy 2022-09 row 89",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": 0.0009999999992942321,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2022-11 row 91",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -0.0010000000002037268,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2022-12 row 92",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": 0.0009999999992942321,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "fx_market",
+      "location": "bank_sell 2026-02 row 130",
+      "issue": "Reported total differs from sum of reported components",
+      "residual": -522.6617040499996,
+      "action": "Retain both; do not silently repair or use total as validated turnover"
+    },
+    {
+      "source_id": "remittances",
+      "location": "1999-2026 E row 3",
+      "issue": "Year header jumps from 2023 to 2025; 2024 absent",
+      "residual": null,
+      "action": "Retain explicit years; 2024 independently retrieved from remittances_country; see separate canonical totals and overlap validation"
+    },
+    {
+      "source_id": "mof_external_2025",
+      "location": "HTML table 6 heading",
+      "issue": "Invalid source reference date: 31.06.2025",
+      "residual": null,
+      "action": "Retain source label and month; exact date left missing, not corrected"
+    }
+  ],
+  "annual_2023_reconciliation": "not reconciled; +0.55 USD million vs archived annual report",
+  "causal_estimation_performed": false
+}

@@ -1,0 +1,183 @@
+date,series_row,label,value,source_value_status,source_id,sheet,source_cell
+2020-03-31,5,Short-term,1635.1994345199998,reported,external_debt,ED-GEO-Tb2,BC5
+2020-03-31,6,Long-term,15199.147318270003,reported,external_debt,ED-GEO-Tb2,BC6
+2020-03-31,7,Total,16834.346752790003,reported,external_debt,ED-GEO-Tb2,BC7
+2020-03-31,9,Short-term,611.66654017,reported,external_debt,ED-GEO-Tb2,BC9
+2020-03-31,10,Long-term,1261.12495996,reported,external_debt,ED-GEO-Tb2,BC10
+2020-03-31,11,Total,1872.79150013,reported,external_debt,ED-GEO-Tb2,BC11
+2020-03-31,12,Gross External Debt Position,18707.138252920002,reported,external_debt,ED-GEO-Tb2,BC12
+2020-06-30,5,Short-term,1681.7091287,reported,external_debt,ED-GEO-Tb2,BD5
+2020-06-30,6,Long-term,15818.626181970001,reported,external_debt,ED-GEO-Tb2,BD6
+2020-06-30,7,Total,17500.33531067,reported,external_debt,ED-GEO-Tb2,BD7
+2020-06-30,9,Short-term,566.0158767700001,reported,external_debt,ED-GEO-Tb2,BD9
+2020-06-30,10,Long-term,1212.9675417600001,reported,external_debt,ED-GEO-Tb2,BD10
+2020-06-30,11,Total,1778.98341853,reported,external_debt,ED-GEO-Tb2,BD11
+2020-06-30,12,Gross External Debt Position,19279.3187292,reported,external_debt,ED-GEO-Tb2,BD12
+2020-09-30,5,Short-term,1954.4316438100002,reported,external_debt,ED-GEO-Tb2,BE5
+2020-09-30,6,Long-term,16725.362022050005,reported,external_debt,ED-GEO-Tb2,BE6
+2020-09-30,7,Total,18679.793665860005,reported,external_debt,ED-GEO-Tb2,BE7
+2020-09-30,9,Short-term,524.9636465100001,reported,external_debt,ED-GEO-Tb2,BE9
+2020-09-30,10,Long-term,1113.0853282599999,reported,external_debt,ED-GEO-Tb2,BE10
+2020-09-30,11,Total,1638.0489747699999,reported,external_debt,ED-GEO-Tb2,BE11
+2020-09-30,12,Gross External Debt Position,20317.842640630006,reported,external_debt,ED-GEO-Tb2,BE12
+2020-12-31,5,Short-term,1809.3031426800003,reported,external_debt,ED-GEO-Tb2,BF5
+2020-12-31,6,Long-term,17579.66635806,reported,external_debt,ED-GEO-Tb2,BF6
+2020-12-31,7,Total,19388.96950074,reported,external_debt,ED-GEO-Tb2,BF7
+2020-12-31,9,Short-term,500.68074114999996,reported,external_debt,ED-GEO-Tb2,BF9
+2020-12-31,10,Long-term,1115.9182312499997,reported,external_debt,ED-GEO-Tb2,BF10
+2020-12-31,11,Total,1616.5989723999996,reported,external_debt,ED-GEO-Tb2,BF11
+2020-12-31,12,Gross External Debt Position,21005.56847314,reported,external_debt,ED-GEO-Tb2,BF12
+2021-03-31,5,Short-term,1745.88186583,reported,external_debt,ED-GEO-Tb2,BG5
+2021-03-31,6,Long-term,17984.08024391,reported,external_debt,ED-GEO-Tb2,BG6
+2021-03-31,7,Total,19729.96210974,reported,external_debt,ED-GEO-Tb2,BG7
+2021-03-31,9,Short-term,502.37706069999996,reported,external_debt,ED-GEO-Tb2,BG9
+2021-03-31,10,Long-term,1041.69394843,reported,external_debt,ED-GEO-Tb2,BG10
+2021-03-31,11,Total,1544.07100913,reported,external_debt,ED-GEO-Tb2,BG11
+2021-03-31,12,Gross External Debt Position,21274.03311887,reported,external_debt,ED-GEO-Tb2,BG12
+2021-06-30,5,Short-term,1612.4349898,reported,external_debt,ED-GEO-Tb2,BH5
+2021-06-30,6,Long-term,18001.09047917,reported,external_debt,ED-GEO-Tb2,BH6
+2021-06-30,7,Total,19613.52546897,reported,external_debt,ED-GEO-Tb2,BH7
+2021-06-30,9,Short-term,552.7756206099999,reported,external_debt,ED-GEO-Tb2,BH9
+2021-06-30,10,Long-term,1176.5532148000002,reported,external_debt,ED-GEO-Tb2,BH10
+2021-06-30,11,Total,1729.32883541,reported,external_debt,ED-GEO-Tb2,BH11
+2021-06-30,12,Gross External Debt Position,21342.854304380002,reported,external_debt,ED-GEO-Tb2,BH12
+2021-09-30,5,Short-term,1577.9911116000005,reported,external_debt,ED-GEO-Tb2,BI5
+2021-09-30,6,Long-term,18278.1524218,reported,external_debt,ED-GEO-Tb2,BI6
+2021-09-30,7,Total,19856.1435334,reported,external_debt,ED-GEO-Tb2,BI7
+2021-09-30,9,Short-term,443.52367669,reported,external_debt,ED-GEO-Tb2,BI9
+2021-09-30,10,Long-term,1189.76419213,reported,external_debt,ED-GEO-Tb2,BI10
+2021-09-30,11,Total,1633.28786882,reported,external_debt,ED-GEO-Tb2,BI11
+2021-09-30,12,Gross External Debt Position,21489.43140222,reported,external_debt,ED-GEO-Tb2,BI12
+2021-12-31,5,Short-term,1790.1096202200001,reported,external_debt,ED-GEO-Tb2,BJ5
+2021-12-31,6,Long-term,18341.493482589998,reported,external_debt,ED-GEO-Tb2,BJ6
+2021-12-31,7,Total,20131.603102809997,reported,external_debt,ED-GEO-Tb2,BJ7
+2021-12-31,9,Short-term,540.3943578399999,reported,external_debt,ED-GEO-Tb2,BJ9
+2021-12-31,10,Long-term,1495.41104325,reported,external_debt,ED-GEO-Tb2,BJ10
+2021-12-31,11,Total,2035.8054010899998,reported,external_debt,ED-GEO-Tb2,BJ11
+2021-12-31,12,Gross External Debt Position,22167.4085039,reported,external_debt,ED-GEO-Tb2,BJ12
+2022-03-31,5,Short-term,2050.38116689,reported,external_debt,ED-GEO-Tb2,BK5
+2022-03-31,6,Long-term,18068.022748460004,reported,external_debt,ED-GEO-Tb2,BK6
+2022-03-31,7,Total,20118.403915350005,reported,external_debt,ED-GEO-Tb2,BK7
+2022-03-31,9,Short-term,582.8326133099999,reported,external_debt,ED-GEO-Tb2,BK9
+2022-03-31,10,Long-term,1446.27935089,reported,external_debt,ED-GEO-Tb2,BK10
+2022-03-31,11,Total,2029.1119641999999,reported,external_debt,ED-GEO-Tb2,BK11
+2022-03-31,12,Gross External Debt Position,22147.515879550007,reported,external_debt,ED-GEO-Tb2,BK12
+2022-06-30,5,Short-term,2374.4997849400006,reported,external_debt,ED-GEO-Tb2,BL5
+2022-06-30,6,Long-term,17815.49573681,reported,external_debt,ED-GEO-Tb2,BL6
+2022-06-30,7,Total,20189.995521750003,reported,external_debt,ED-GEO-Tb2,BL7
+2022-06-30,9,Short-term,651.1057761100001,reported,external_debt,ED-GEO-Tb2,BL9
+2022-06-30,10,Long-term,1611.1308871500005,reported,external_debt,ED-GEO-Tb2,BL10
+2022-06-30,11,Total,2262.2366632600006,reported,external_debt,ED-GEO-Tb2,BL11
+2022-06-30,12,Gross External Debt Position,22452.232185010005,reported,external_debt,ED-GEO-Tb2,BL12
+2022-09-30,5,Short-term,2959.39102219,reported,external_debt,ED-GEO-Tb2,BM5
+2022-09-30,6,Long-term,17178.97185756,reported,external_debt,ED-GEO-Tb2,BM6
+2022-09-30,7,Total,20138.362879750002,reported,external_debt,ED-GEO-Tb2,BM7
+2022-09-30,9,Short-term,618.33613176,reported,external_debt,ED-GEO-Tb2,BM9
+2022-09-30,10,Long-term,1699.34724588,reported,external_debt,ED-GEO-Tb2,BM10
+2022-09-30,11,Total,2317.68337764,reported,external_debt,ED-GEO-Tb2,BM11
+2022-09-30,12,Gross External Debt Position,22456.04625739,reported,external_debt,ED-GEO-Tb2,BM12
+2022-12-31,5,Short-term,3128.6304443,reported,external_debt,ED-GEO-Tb2,BN5
+2022-12-31,6,Long-term,18336.65135516,reported,external_debt,ED-GEO-Tb2,BN6
+2022-12-31,7,Total,21465.28179946,reported,external_debt,ED-GEO-Tb2,BN7
+2022-12-31,9,Short-term,673.89533508,reported,external_debt,ED-GEO-Tb2,BN9
+2022-12-31,10,Long-term,1846.8151837500002,reported,external_debt,ED-GEO-Tb2,BN10
+2022-12-31,11,Total,2520.71051883,reported,external_debt,ED-GEO-Tb2,BN11
+2022-12-31,12,Gross External Debt Position,23985.992318290002,reported,external_debt,ED-GEO-Tb2,BN12
+2023-03-31,5,Short-term,3159.74701962,reported,external_debt,ED-GEO-Tb2,BO5
+2023-03-31,6,Long-term,18473.39545418,reported,external_debt,ED-GEO-Tb2,BO6
+2023-03-31,7,Total,21633.142473800002,reported,external_debt,ED-GEO-Tb2,BO7
+2023-03-31,9,Short-term,807.58906976,reported,external_debt,ED-GEO-Tb2,BO9
+2023-03-31,10,Long-term,1945.7773801700002,reported,external_debt,ED-GEO-Tb2,BO10
+2023-03-31,11,Total,2753.3664499300003,reported,external_debt,ED-GEO-Tb2,BO11
+2023-03-31,12,Gross External Debt Position,24386.50892373,reported,external_debt,ED-GEO-Tb2,BO12
+2023-06-30,5,Short-term,3229.1700890800003,reported,external_debt,ED-GEO-Tb2,BP5
+2023-06-30,6,Long-term,18620.960586660003,reported,external_debt,ED-GEO-Tb2,BP6
+2023-06-30,7,Total,21850.13067574,reported,external_debt,ED-GEO-Tb2,BP7
+2023-06-30,9,Short-term,865.37123749,reported,external_debt,ED-GEO-Tb2,BP9
+2023-06-30,10,Long-term,1877.5987460399995,reported,external_debt,ED-GEO-Tb2,BP10
+2023-06-30,11,Total,2742.9699835299994,reported,external_debt,ED-GEO-Tb2,BP11
+2023-06-30,12,Gross External Debt Position,24593.10065927,reported,external_debt,ED-GEO-Tb2,BP12
+2023-09-30,5,Short-term,3153.49000033,reported,external_debt,ED-GEO-Tb2,BQ5
+2023-09-30,6,Long-term,17776.22967448,reported,external_debt,ED-GEO-Tb2,BQ6
+2023-09-30,7,Total,20929.71967481,reported,external_debt,ED-GEO-Tb2,BQ7
+2023-09-30,9,Short-term,902.8049602599998,reported,external_debt,ED-GEO-Tb2,BQ9
+2023-09-30,10,Long-term,1859.38709342,reported,external_debt,ED-GEO-Tb2,BQ10
+2023-09-30,11,Total,2762.19205368,reported,external_debt,ED-GEO-Tb2,BQ11
+2023-09-30,12,Gross External Debt Position,23691.91172849,reported,external_debt,ED-GEO-Tb2,BQ12
+2023-12-31,5,Short-term,3195.1723956300007,reported,external_debt,ED-GEO-Tb2,BR5
+2023-12-31,6,Long-term,18507.587356940006,reported,external_debt,ED-GEO-Tb2,BR6
+2023-12-31,7,Total,21702.759752570008,reported,external_debt,ED-GEO-Tb2,BR7
+2023-12-31,9,Short-term,1037.09261345,reported,external_debt,ED-GEO-Tb2,BR9
+2023-12-31,10,Long-term,1769.0820532900002,reported,external_debt,ED-GEO-Tb2,BR10
+2023-12-31,11,Total,2806.1746667400002,reported,external_debt,ED-GEO-Tb2,BR11
+2023-12-31,12,Gross External Debt Position,24508.934419310008,reported,external_debt,ED-GEO-Tb2,BR12
+2024-03-31,5,Short-term,3486.4496777200006,reported,external_debt,ED-GEO-Tb2,BS5
+2024-03-31,6,Long-term,18306.45081699,reported,external_debt,ED-GEO-Tb2,BS6
+2024-03-31,7,Total,21792.90049471,reported,external_debt,ED-GEO-Tb2,BS7
+2024-03-31,9,Short-term,1009.52901697,reported,external_debt,ED-GEO-Tb2,BS9
+2024-03-31,10,Long-term,1778.4763019700001,reported,external_debt,ED-GEO-Tb2,BS10
+2024-03-31,11,Total,2788.00531894,reported,external_debt,ED-GEO-Tb2,BS11
+2024-03-31,12,Gross External Debt Position,24580.90581365,reported,external_debt,ED-GEO-Tb2,BS12
+2024-06-30,5,Short-term,3618.13659667,reported,external_debt,ED-GEO-Tb2,BT5
+2024-06-30,6,Long-term,18525.9947699,reported,external_debt,ED-GEO-Tb2,BT6
+2024-06-30,7,Total,22144.13136657,reported,external_debt,ED-GEO-Tb2,BT7
+2024-06-30,9,Short-term,1123.19283941,reported,external_debt,ED-GEO-Tb2,BT9
+2024-06-30,10,Long-term,1669.5402781399998,reported,external_debt,ED-GEO-Tb2,BT10
+2024-06-30,11,Total,2792.73311755,reported,external_debt,ED-GEO-Tb2,BT11
+2024-06-30,12,Gross External Debt Position,24936.86448412,reported,external_debt,ED-GEO-Tb2,BT12
+2024-09-30,5,Short-term,3647.39276025,reported,external_debt,ED-GEO-Tb2,BU5
+2024-09-30,6,Long-term,19157.519201820003,reported,external_debt,ED-GEO-Tb2,BU6
+2024-09-30,7,Total,22804.911962070004,reported,external_debt,ED-GEO-Tb2,BU7
+2024-09-30,9,Short-term,1166.69793566,reported,external_debt,ED-GEO-Tb2,BU9
+2024-09-30,10,Long-term,1769.5151112399997,reported,external_debt,ED-GEO-Tb2,BU10
+2024-09-30,11,Total,2936.2130468999994,reported,external_debt,ED-GEO-Tb2,BU11
+2024-09-30,12,Gross External Debt Position,25741.125008970004,reported,external_debt,ED-GEO-Tb2,BU12
+2024-12-31,5,Short-term,3816.42799151,reported,external_debt,ED-GEO-Tb2,BV5
+2024-12-31,6,Long-term,18472.18579852,reported,external_debt,ED-GEO-Tb2,BV6
+2024-12-31,7,Total,22288.613790030002,reported,external_debt,ED-GEO-Tb2,BV7
+2024-12-31,9,Short-term,1064.65235112,reported,external_debt,ED-GEO-Tb2,BV9
+2024-12-31,10,Long-term,1825.8037337199999,reported,external_debt,ED-GEO-Tb2,BV10
+2024-12-31,11,Total,2890.4560848399997,reported,external_debt,ED-GEO-Tb2,BV11
+2024-12-31,12,Gross External Debt Position,25179.06987487,reported,external_debt,ED-GEO-Tb2,BV12
+2025-03-31,5,Short-term,3875.9526491599995,reported,external_debt,ED-GEO-Tb2,BW5
+2025-03-31,6,Long-term,18770.02585583,reported,external_debt,ED-GEO-Tb2,BW6
+2025-03-31,7,Total,22645.978504990002,reported,external_debt,ED-GEO-Tb2,BW7
+2025-03-31,9,Short-term,1166.99674382,reported,external_debt,ED-GEO-Tb2,BW9
+2025-03-31,10,Long-term,1805.4965601899999,reported,external_debt,ED-GEO-Tb2,BW10
+2025-03-31,11,Total,2972.4933040099995,reported,external_debt,ED-GEO-Tb2,BW11
+2025-03-31,12,Gross External Debt Position,25618.471809000002,reported,external_debt,ED-GEO-Tb2,BW12
+2025-06-30,5,Short-term,3762.58656325,reported,external_debt,ED-GEO-Tb2,BX5
+2025-06-30,6,Long-term,19319.620933160004,reported,external_debt,ED-GEO-Tb2,BX6
+2025-06-30,7,Total,23082.207496410003,reported,external_debt,ED-GEO-Tb2,BX7
+2025-06-30,9,Short-term,1633.3890207900001,reported,external_debt,ED-GEO-Tb2,BX9
+2025-06-30,10,Long-term,1827.2993685799997,reported,external_debt,ED-GEO-Tb2,BX10
+2025-06-30,11,Total,3460.6883893699996,reported,external_debt,ED-GEO-Tb2,BX11
+2025-06-30,12,Gross External Debt Position,26542.895885780003,reported,external_debt,ED-GEO-Tb2,BX12
+2025-09-30,5,Short-term,4082.9614940400006,reported,external_debt,ED-GEO-Tb2,BY5
+2025-09-30,6,Long-term,19904.61615624,reported,external_debt,ED-GEO-Tb2,BY6
+2025-09-30,7,Total,23987.57765028,reported,external_debt,ED-GEO-Tb2,BY7
+2025-09-30,9,Short-term,1545.7807158399999,reported,external_debt,ED-GEO-Tb2,BY9
+2025-09-30,10,Long-term,1850.70048975,reported,external_debt,ED-GEO-Tb2,BY10
+2025-09-30,11,Total,3396.48120559,reported,external_debt,ED-GEO-Tb2,BY11
+2025-09-30,12,Gross External Debt Position,27384.05885587,reported,external_debt,ED-GEO-Tb2,BY12
+2025-12-31,5,Short-term,3864.7895338700005,reported,external_debt,ED-GEO-Tb2,BZ5
+2025-12-31,6,Long-term,19588.54193475,reported,external_debt,ED-GEO-Tb2,BZ6
+2025-12-31,7,Total,23453.33146862,reported,external_debt,ED-GEO-Tb2,BZ7
+2025-12-31,9,Short-term,1477.61876881,reported,external_debt,ED-GEO-Tb2,BZ9
+2025-12-31,10,Long-term,2115.9872732,reported,external_debt,ED-GEO-Tb2,BZ10
+2025-12-31,11,Total,3593.60604201,reported,external_debt,ED-GEO-Tb2,BZ11
+2025-12-31,12,Gross External Debt Position,27046.93751063,reported,external_debt,ED-GEO-Tb2,BZ12
+2026-03-31,5,Short-term,4063.2295780900004,reported,external_debt,ED-GEO-Tb2,CA5
+2026-03-31,6,Long-term,19428.021417329997,reported,external_debt,ED-GEO-Tb2,CA6
+2026-03-31,7,Total,23491.25099542,reported,external_debt,ED-GEO-Tb2,CA7
+2026-03-31,9,Short-term,1841.2907426299998,reported,external_debt,ED-GEO-Tb2,CA9
+2026-03-31,10,Long-term,2161.9365809899996,reported,external_debt,ED-GEO-Tb2,CA10
+2026-03-31,11,Total,4003.2273236199994,reported,external_debt,ED-GEO-Tb2,CA11
+2026-03-31,12,Gross External Debt Position,27494.478319039998,reported,external_debt,ED-GEO-Tb2,CA12
+2026-06-30,5,Short-term,4287.586088419999,reported,external_debt,ED-GEO-Tb2,CB5
+2026-06-30,6,Long-term,19125.212263930003,reported,external_debt,ED-GEO-Tb2,CB6
+2026-06-30,7,Total,23412.79835235,reported,external_debt,ED-GEO-Tb2,CB7
+2026-06-30,9,Short-term,2075.51542023,reported,external_debt,ED-GEO-Tb2,CB9
+2026-06-30,10,Long-term,2677.89943767,reported,external_debt,ED-GEO-Tb2,CB10
+2026-06-30,11,Total,4753.4148579,reported,external_debt,ED-GEO-Tb2,CB11
+2026-06-30,12,Gross External Debt Position,28166.21321025,reported,external_debt,ED-GEO-Tb2,CB12

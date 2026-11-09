@@ -1,0 +1,163 @@
+[
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2020-01 row 57",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2020-02 row 58",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": 0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2020-03 row 59",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2020-04 row 60",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0009999999997489795,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2020-05 row 61",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2020-06 row 62",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0009999999997489795,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2020-08 row 64",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0009999999997489795,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2020-09 row 65",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0019999999999527063,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2020-10 row 66",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2020-12 row 68",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2021-01 row 69",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": 0.0009999999999763531,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2022-02 row 82",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": 0.0009999999997489795,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2022-03 row 83",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": 0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2022-04 row 84",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2022-06 row 86",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2022-06 row 86",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2022-08 row 88",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": 0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_buy 2022-09 row 89",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": 0.0009999999992942321,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2022-11 row 91",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -0.0010000000002037268,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2022-12 row 92",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": 0.0009999999992942321,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "fx_market",
+    "location": "bank_sell 2026-02 row 130",
+    "issue": "Reported total differs from sum of reported components",
+    "residual": -522.6617040499996,
+    "action": "Retain both; do not silently repair or use total as validated turnover"
+  },
+  {
+    "source_id": "remittances",
+    "location": "1999-2026 E row 3",
+    "issue": "Year header jumps from 2023 to 2025; 2024 absent",
+    "residual": null,
+    "action": "Retain explicit years; 2024 independently retrieved from remittances_country; see separate canonical totals and overlap validation"
+  },
+  {
+    "source_id": "mof_external_2025",
+    "location": "HTML table 6 heading",
+    "issue": "Invalid source reference date: 31.06.2025",
+    "residual": null,
+    "action": "Retain source label and month; exact date left missing, not corrected"
+  }
+]

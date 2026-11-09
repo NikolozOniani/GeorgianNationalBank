@@ -23,6 +23,8 @@ This is one academic economics project. The [research protocol](research/PROTOCO
 
 ## Evidence status
 
+The [9 November acquisition results](reports/acquisition_2026_11_09/README.md) now provide actual 2025–2026 monthly intervention observations, daily exchange rates, reserve and liquidity records, external flows, audited 2025 interest accounts and IMF ARA benchmarks. See the [current requirement status](research/ACQUISITION_STATUS.md) and [replication/manual-file instructions](replication/ACQUISITION.md). The remaining text below describes the preserved historical foundation; it is not the current acquisition inventory.
+
 The verified supporting data include a 60-month 2020–2024 policy/reserve panel, two annual intervention benchmarks, five years of audited interest accounts, and an arithmetic reconstruction of the IMF's published 2022–2023 ARA components. They establish useful accounting foundations. They do not supply a verified 2025–2026 intervention event series or identify the exchange rate without purchases.
 
 The immediate priorities are executed purchase/sale records and market prices; the intervention decision rule and concurrent FX flows; then matched reserve-financing accounts and usable-reserve needs. The [data assessment](research/DATA_REQUIREMENTS.md) states precisely which conclusions require which evidence. No optimum or net economic loss is assumed.

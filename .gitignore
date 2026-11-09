@@ -6,3 +6,5 @@ reports/nbg_structure.json
 .deps/
 .venv/
 replication/local-results/
+data/derived/episode_2026_11_09/reserve_liquidity_cells.csv
+data/derived/episode_2026_11_09/money_transfers_country.csv

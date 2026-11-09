@@ -1,0 +1,1185 @@
+date,series_row,label,value,source_value_status,source_id,sheet,source_cell
+2020Q1,4,Current account,-415.29292946999976,reported,bop_bpm6,BOP–BPM6(short),CX4
+2020Q1,5,Credit,2444.5470782899997,reported,bop_bpm6,BOP–BPM6(short),CX5
+2020Q1,6,Debit,2859.8400077599995,reported,bop_bpm6,BOP–BPM6(short),CX6
+2020Q1,7,Goods and services,-634.1617373499998,reported,bop_bpm6,BOP–BPM6(short),CX7
+2020Q1,8,Credit,1764.8785485899998,reported,bop_bpm6,BOP–BPM6(short),CX8
+2020Q1,9,Debit,2399.0402859399996,reported,bop_bpm6,BOP–BPM6(short),CX9
+2020Q1,10,Goods,-882.70958901,reported,bop_bpm6,BOP–BPM6(short),CX10
+2020Q1,11,Credit,1028.555484,reported,bop_bpm6,BOP–BPM6(short),CX11
+2020Q1,12,Debit,1911.26507301,reported,bop_bpm6,BOP–BPM6(short),CX12
+2020Q1,13,Services,248.54785165999982,reported,bop_bpm6,BOP–BPM6(short),CX13
+2020Q1,14,Credit,736.3230645899997,reported,bop_bpm6,BOP–BPM6(short),CX14
+2020Q1,15,Debit,487.7752129299999,reported,bop_bpm6,BOP–BPM6(short),CX15
+2020Q1,16,Primary income,-152.17452902000008,reported,bop_bpm6,BOP–BPM6(short),CX16
+2020Q1,17,Credit,274.77869545,reported,bop_bpm6,BOP–BPM6(short),CX17
+2020Q1,18,Debit,426.95322447000007,reported,bop_bpm6,BOP–BPM6(short),CX18
+2020Q1,19,Secondary income,371.04333690000004,reported,bop_bpm6,BOP–BPM6(short),CX19
+2020Q1,20,Credit,404.88983425000004,reported,bop_bpm6,BOP–BPM6(short),CX20
+2020Q1,21,Debit,33.84649735,reported,bop_bpm6,BOP–BPM6(short),CX21
+2020Q1,22,Capital account,8.80815327,reported,bop_bpm6,BOP–BPM6(short),CX22
+2020Q1,23,Credit,8.80815327,reported,bop_bpm6,BOP–BPM6(short),CX23
+2020Q1,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),CX24
+2020Q1,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-406.48477619999977,reported,bop_bpm6,BOP–BPM6(short),CX25
+2020Q1,26,Financial account,-451.77026100000006,reported,bop_bpm6,BOP–BPM6(short),CX26
+2020Q1,27,Direct investment,-143.20184385000005,reported,bop_bpm6,BOP–BPM6(short),CX27
+2020Q1,28,Assets,40.83559810999999,reported,bop_bpm6,BOP–BPM6(short),CX28
+2020Q1,29,Liabilities,184.03744196000002,reported,bop_bpm6,BOP–BPM6(short),CX29
+2020Q1,30,Portfolio investment,-79.25515221000002,reported,bop_bpm6,BOP–BPM6(short),CX30
+2020Q1,31,Assets,6.47338275,reported,bop_bpm6,BOP–BPM6(short),CX31
+2020Q1,32,Liabilities,85.72853496000002,reported,bop_bpm6,BOP–BPM6(short),CX32
+2020Q1,33,Financial derivatives and employee stock options,-2.24608501,reported,bop_bpm6,BOP–BPM6(short),CX33
+2020Q1,34,Assets,-15.06495206,reported,bop_bpm6,BOP–BPM6(short),CX34
+2020Q1,35,Liabilities,-12.81886705,reported,bop_bpm6,BOP–BPM6(short),CX35
+2020Q1,36,Other investment,-129.17111224,reported,bop_bpm6,BOP–BPM6(short),CX36
+2020Q1,37,Assets,-30.700446020000008,reported,bop_bpm6,BOP–BPM6(short),CX37
+2020Q1,38,Liabilities,98.47066622000001,reported,bop_bpm6,BOP–BPM6(short),CX38
+2020Q1,39,Reserve assets,-97.89606769,reported,bop_bpm6,BOP–BPM6(short),CX39
+2020Q1,40,Net errors and omissions,-45.28548480000029,reported,bop_bpm6,BOP–BPM6(short),CX40
+2020Q2,4,Current account,-425.07595290999984,reported,bop_bpm6,BOP–BPM6(short),CY4
+2020Q2,5,Credit,1794.70722525,reported,bop_bpm6,BOP–BPM6(short),CY5
+2020Q2,6,Debit,2219.78317816,reported,bop_bpm6,BOP–BPM6(short),CY6
+2020Q2,7,Goods and services,-606.9188607599999,reported,bop_bpm6,BOP–BPM6(short),CY7
+2020Q2,8,Credit,1187.11169165,reported,bop_bpm6,BOP–BPM6(short),CY8
+2020Q2,9,Debit,1794.03055241,reported,bop_bpm6,BOP–BPM6(short),CY9
+2020Q2,10,Goods,-612.1975261499999,reported,bop_bpm6,BOP–BPM6(short),CY10
+2020Q2,11,Credit,924.13852367,reported,bop_bpm6,BOP–BPM6(short),CY11
+2020Q2,12,Debit,1536.33604982,reported,bop_bpm6,BOP–BPM6(short),CY12
+2020Q2,13,Services,5.278665389999958,reported,bop_bpm6,BOP–BPM6(short),CY13
+2020Q2,14,Credit,262.97316797999997,reported,bop_bpm6,BOP–BPM6(short),CY14
+2020Q2,15,Debit,257.69450259,reported,bop_bpm6,BOP–BPM6(short),CY15
+2020Q2,16,Primary income,-157.10928643,reported,bop_bpm6,BOP–BPM6(short),CY16
+2020Q2,17,Credit,246.67983635000002,reported,bop_bpm6,BOP–BPM6(short),CY17
+2020Q2,18,Debit,403.78912278,reported,bop_bpm6,BOP–BPM6(short),CY18
+2020Q2,19,Secondary income,338.95219428,reported,bop_bpm6,BOP–BPM6(short),CY19
+2020Q2,20,Credit,360.91569725,reported,bop_bpm6,BOP–BPM6(short),CY20
+2020Q2,21,Debit,21.963502969999997,reported,bop_bpm6,BOP–BPM6(short),CY21
+2020Q2,22,Capital account,4.40622333,reported,bop_bpm6,BOP–BPM6(short),CY22
+2020Q2,23,Credit,4.40622333,reported,bop_bpm6,BOP–BPM6(short),CY23
+2020Q2,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),CY24
+2020Q2,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-420.66972957999985,reported,bop_bpm6,BOP–BPM6(short),CY25
+2020Q2,26,Financial account,-462.06195971,reported,bop_bpm6,BOP–BPM6(short),CY26
+2020Q2,27,Direct investment,-161.15551150999997,reported,bop_bpm6,BOP–BPM6(short),CY27
+2020Q2,28,Assets,91.34965410000001,reported,bop_bpm6,BOP–BPM6(short),CY28
+2020Q2,29,Liabilities,252.50516560999998,reported,bop_bpm6,BOP–BPM6(short),CY29
+2020Q2,30,Portfolio investment,237.67369785,reported,bop_bpm6,BOP–BPM6(short),CY30
+2020Q2,31,Assets,20.15972522,reported,bop_bpm6,BOP–BPM6(short),CY31
+2020Q2,32,Liabilities,-217.51397262999998,reported,bop_bpm6,BOP–BPM6(short),CY32
+2020Q2,33,Financial derivatives and employee stock options,-21.520014800000002,reported,bop_bpm6,BOP–BPM6(short),CY33
+2020Q2,34,Assets,-26.21829135,reported,bop_bpm6,BOP–BPM6(short),CY34
+2020Q2,35,Liabilities,-4.69827655,reported,bop_bpm6,BOP–BPM6(short),CY35
+2020Q2,36,Other investment,-706.73833239,reported,bop_bpm6,BOP–BPM6(short),CY36
+2020Q2,37,Assets,-156.06286434,reported,bop_bpm6,BOP–BPM6(short),CY37
+2020Q2,38,Liabilities,550.67546805,reported,bop_bpm6,BOP–BPM6(short),CY38
+2020Q2,39,Reserve assets,189.67820113999997,reported,bop_bpm6,BOP–BPM6(short),CY39
+2020Q2,40,Net errors and omissions,-41.392230130000144,reported,bop_bpm6,BOP–BPM6(short),CY40
+2020Q3,4,Current account,-578.1909180399998,reported,bop_bpm6,BOP–BPM6(short),CZ4
+2020Q3,5,Credit,2185.1077775100002,reported,bop_bpm6,BOP–BPM6(short),CZ5
+2020Q3,6,Debit,2763.29869555,reported,bop_bpm6,BOP–BPM6(short),CZ6
+2020Q3,7,Goods and services,-837.7877854899998,reported,bop_bpm6,BOP–BPM6(short),CZ7
+2020Q3,8,Credit,1465.3361430300001,reported,bop_bpm6,BOP–BPM6(short),CZ8
+2020Q3,9,Debit,2303.12392852,reported,bop_bpm6,BOP–BPM6(short),CZ9
+2020Q3,10,Goods,-785.72521057,reported,bop_bpm6,BOP–BPM6(short),CZ10
+2020Q3,11,Credit,1172.90252288,reported,bop_bpm6,BOP–BPM6(short),CZ11
+2020Q3,12,Debit,1958.62773345,reported,bop_bpm6,BOP–BPM6(short),CZ12
+2020Q3,13,Services,-52.062574919999975,reported,bop_bpm6,BOP–BPM6(short),CZ13
+2020Q3,14,Credit,292.43362015,reported,bop_bpm6,BOP–BPM6(short),CZ14
+2020Q3,15,Debit,344.49619507,reported,bop_bpm6,BOP–BPM6(short),CZ15
+2020Q3,16,Primary income,-214.06778903000003,reported,bop_bpm6,BOP–BPM6(short),CZ16
+2020Q3,17,Credit,225.28499704,reported,bop_bpm6,BOP–BPM6(short),CZ17
+2020Q3,18,Debit,439.35278607000004,reported,bop_bpm6,BOP–BPM6(short),CZ18
+2020Q3,19,Secondary income,473.66465647999996,reported,bop_bpm6,BOP–BPM6(short),CZ19
+2020Q3,20,Credit,494.48663744,reported,bop_bpm6,BOP–BPM6(short),CZ20
+2020Q3,21,Debit,20.821980959999998,reported,bop_bpm6,BOP–BPM6(short),CZ21
+2020Q3,22,Capital account,15.900905570000003,reported,bop_bpm6,BOP–BPM6(short),CZ22
+2020Q3,23,Credit,15.900905570000003,reported,bop_bpm6,BOP–BPM6(short),CZ23
+2020Q3,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),CZ24
+2020Q3,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-562.2900124699999,reported,bop_bpm6,BOP–BPM6(short),CZ25
+2020Q3,26,Financial account,-615.55996293,reported,bop_bpm6,BOP–BPM6(short),CZ26
+2020Q3,27,Direct investment,-181.98022804,reported,bop_bpm6,BOP–BPM6(short),CZ27
+2020Q3,28,Assets,76.20168259,reported,bop_bpm6,BOP–BPM6(short),CZ28
+2020Q3,29,Liabilities,258.18191063,reported,bop_bpm6,BOP–BPM6(short),CZ29
+2020Q3,30,Portfolio investment,-241.53605512000001,reported,bop_bpm6,BOP–BPM6(short),CZ30
+2020Q3,31,Assets,4.27617362,reported,bop_bpm6,BOP–BPM6(short),CZ31
+2020Q3,32,Liabilities,245.81222874000002,reported,bop_bpm6,BOP–BPM6(short),CZ32
+2020Q3,33,Financial derivatives and employee stock options,-0.68272577,reported,bop_bpm6,BOP–BPM6(short),CZ33
+2020Q3,34,Assets,-1.05386348,reported,bop_bpm6,BOP–BPM6(short),CZ34
+2020Q3,35,Liabilities,-0.37113771,reported,bop_bpm6,BOP–BPM6(short),CZ35
+2020Q3,36,Other investment,-309.52988294,reported,bop_bpm6,BOP–BPM6(short),CZ36
+2020Q3,37,Assets,263.46692012000005,reported,bop_bpm6,BOP–BPM6(short),CZ37
+2020Q3,38,Liabilities,572.99680306,reported,bop_bpm6,BOP–BPM6(short),CZ38
+2020Q3,39,Reserve assets,118.16892894,reported,bop_bpm6,BOP–BPM6(short),CZ39
+2020Q3,40,Net errors and omissions,-53.26995046000013,reported,bop_bpm6,BOP–BPM6(short),CZ40
+2020Q4,4,Current account,-570.3561240199997,reported,bop_bpm6,BOP–BPM6(short),DA4
+2020Q4,5,Credit,2372.65411633,reported,bop_bpm6,BOP–BPM6(short),DA5
+2020Q4,6,Debit,2943.0102403499995,reported,bop_bpm6,BOP–BPM6(short),DA6
+2020Q4,7,Goods and services,-960.1238164999995,reported,bop_bpm6,BOP–BPM6(short),DA7
+2020Q4,8,Credit,1511.1085476100002,reported,bop_bpm6,BOP–BPM6(short),DA8
+2020Q4,9,Debit,2471.2323641099997,reported,bop_bpm6,BOP–BPM6(short),DA9
+2020Q4,10,Goods,-884.3635911299996,reported,bop_bpm6,BOP–BPM6(short),DA10
+2020Q4,11,Credit,1220.92939692,reported,bop_bpm6,BOP–BPM6(short),DA11
+2020Q4,12,Debit,2105.2929880499996,reported,bop_bpm6,BOP–BPM6(short),DA12
+2020Q4,13,Services,-75.76022537,reported,bop_bpm6,BOP–BPM6(short),DA13
+2020Q4,14,Credit,290.1791506900001,reported,bop_bpm6,BOP–BPM6(short),DA14
+2020Q4,15,Debit,365.9393760600001,reported,bop_bpm6,BOP–BPM6(short),DA15
+2020Q4,16,Primary income,-236.22367498999995,reported,bop_bpm6,BOP–BPM6(short),DA16
+2020Q4,17,Credit,215.08227797,reported,bop_bpm6,BOP–BPM6(short),DA17
+2020Q4,18,Debit,451.30595295999996,reported,bop_bpm6,BOP–BPM6(short),DA18
+2020Q4,19,Secondary income,625.9913674699999,reported,bop_bpm6,BOP–BPM6(short),DA19
+2020Q4,20,Credit,646.4632907499999,reported,bop_bpm6,BOP–BPM6(short),DA20
+2020Q4,21,Debit,20.471923280000002,reported,bop_bpm6,BOP–BPM6(short),DA21
+2020Q4,22,Capital account,11.9375056,reported,bop_bpm6,BOP–BPM6(short),DA22
+2020Q4,23,Credit,11.9375056,reported,bop_bpm6,BOP–BPM6(short),DA23
+2020Q4,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DA24
+2020Q4,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-558.4186184199997,reported,bop_bpm6,BOP–BPM6(short),DA25
+2020Q4,26,Financial account,-510.4787908000001,reported,bop_bpm6,BOP–BPM6(short),DA26
+2020Q4,27,Direct investment,-86.95314475999999,reported,bop_bpm6,BOP–BPM6(short),DA27
+2020Q4,28,Assets,-224.50415977,reported,bop_bpm6,BOP–BPM6(short),DA28
+2020Q4,29,Liabilities,-137.55101501000001,reported,bop_bpm6,BOP–BPM6(short),DA29
+2020Q4,30,Portfolio investment,8.491357089999994,reported,bop_bpm6,BOP–BPM6(short),DA30
+2020Q4,31,Assets,16.112615489999996,reported,bop_bpm6,BOP–BPM6(short),DA31
+2020Q4,32,Liabilities,7.621258400000001,reported,bop_bpm6,BOP–BPM6(short),DA32
+2020Q4,33,Financial derivatives and employee stock options,-2.7182412000000005,reported,bop_bpm6,BOP–BPM6(short),DA33
+2020Q4,34,Assets,-6.09123908,reported,bop_bpm6,BOP–BPM6(short),DA34
+2020Q4,35,Liabilities,-3.37299788,reported,bop_bpm6,BOP–BPM6(short),DA35
+2020Q4,36,Other investment,-524.8375721200001,reported,bop_bpm6,BOP–BPM6(short),DA36
+2020Q4,37,Assets,-171.90394041,reported,bop_bpm6,BOP–BPM6(short),DA37
+2020Q4,38,Liabilities,352.93363171000016,reported,bop_bpm6,BOP–BPM6(short),DA38
+2020Q4,39,Reserve assets,95.53881019,reported,bop_bpm6,BOP–BPM6(short),DA39
+2020Q4,40,Net errors and omissions,47.93982761999956,reported,bop_bpm6,BOP–BPM6(short),DA40
+2020,4,Current account,-1988.9159244400016,reported,bop_bpm6,BOP–BPM6(short),DB4
+2020,5,Credit,8797.016197379999,reported,bop_bpm6,BOP–BPM6(short),DB5
+2020,6,Debit,10785.93212182,reported,bop_bpm6,BOP–BPM6(short),DB6
+2020,7,Goods and services,-3038.9922001000004,reported,bop_bpm6,BOP–BPM6(short),DB7
+2020,8,Credit,5928.43493088,reported,bop_bpm6,BOP–BPM6(short),DB8
+2020,9,Debit,8967.42713098,reported,bop_bpm6,BOP–BPM6(short),DB9
+2020,10,Goods,-3164.99591686,reported,bop_bpm6,BOP–BPM6(short),DB10
+2020,11,Credit,4346.52592747,reported,bop_bpm6,BOP–BPM6(short),DB11
+2020,12,Debit,7511.52184433,reported,bop_bpm6,BOP–BPM6(short),DB12
+2020,13,Services,126.00371675999963,reported,bop_bpm6,BOP–BPM6(short),DB13
+2020,14,Credit,1581.9090034099997,reported,bop_bpm6,BOP–BPM6(short),DB14
+2020,15,Debit,1455.90528665,reported,bop_bpm6,BOP–BPM6(short),DB15
+2020,16,Primary income,-759.5752794700002,reported,bop_bpm6,BOP–BPM6(short),DB16
+2020,17,Credit,961.8258068099999,reported,bop_bpm6,BOP–BPM6(short),DB17
+2020,18,Debit,1721.40108628,reported,bop_bpm6,BOP–BPM6(short),DB18
+2020,19,Secondary income,1809.65155513,reported,bop_bpm6,BOP–BPM6(short),DB19
+2020,20,Credit,1906.75545969,reported,bop_bpm6,BOP–BPM6(short),DB20
+2020,21,Debit,97.10390455999999,reported,bop_bpm6,BOP–BPM6(short),DB21
+2020,22,Capital account,41.05278777,reported,bop_bpm6,BOP–BPM6(short),DB22
+2020,23,Credit,41.05278777,reported,bop_bpm6,BOP–BPM6(short),DB23
+2020,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DB24
+2020,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-1947.8631366699992,reported,bop_bpm6,BOP–BPM6(short),DB25
+2020,26,Financial account,-2039.8709744399998,reported,bop_bpm6,BOP–BPM6(short),DB26
+2020,27,Direct investment,-573.2907281599998,reported,bop_bpm6,BOP–BPM6(short),DB27
+2020,28,Assets,-16.117224969999995,reported,bop_bpm6,BOP–BPM6(short),DB28
+2020,29,Liabilities,557.1735031899999,reported,bop_bpm6,BOP–BPM6(short),DB29
+2020,30,Portfolio investment,-74.62615239000007,reported,bop_bpm6,BOP–BPM6(short),DB30
+2020,31,Assets,47.021897079999995,reported,bop_bpm6,BOP–BPM6(short),DB31
+2020,32,Liabilities,121.64804947000006,reported,bop_bpm6,BOP–BPM6(short),DB32
+2020,33,Financial derivatives and employee stock options,-27.167066779999995,reported,bop_bpm6,BOP–BPM6(short),DB33
+2020,34,Assets,-48.428345969999995,reported,bop_bpm6,BOP–BPM6(short),DB34
+2020,35,Liabilities,-21.26127919,reported,bop_bpm6,BOP–BPM6(short),DB35
+2020,36,Other investment,-1670.27689969,reported,bop_bpm6,BOP–BPM6(short),DB36
+2020,37,Assets,-95.20033064999996,reported,bop_bpm6,BOP–BPM6(short),DB37
+2020,38,Liabilities,1575.07656904,reported,bop_bpm6,BOP–BPM6(short),DB38
+2020,39,Reserve assets,305.48987258,reported,bop_bpm6,BOP–BPM6(short),DB39
+2020,40,Net errors and omissions,-92.007837770001,reported,bop_bpm6,BOP–BPM6(short),DB40
+2021Q1,4,Current account,-439.8505165300003,reported,bop_bpm6,BOP–BPM6(short),DC4
+2021Q1,5,Credit,2201.76091921,reported,bop_bpm6,BOP–BPM6(short),DC5
+2021Q1,6,Debit,2641.61143574,reported,bop_bpm6,BOP–BPM6(short),DC6
+2021Q1,7,Goods and services,-784.67262162,reported,bop_bpm6,BOP–BPM6(short),DC7
+2021Q1,8,Credit,1401.6368859,reported,bop_bpm6,BOP–BPM6(short),DC8
+2021Q1,9,Debit,2186.30950752,reported,bop_bpm6,BOP–BPM6(short),DC9
+2021Q1,10,Goods,-804.39916376,reported,bop_bpm6,BOP–BPM6(short),DC10
+2021Q1,11,Credit,1075.50096777,reported,bop_bpm6,BOP–BPM6(short),DC11
+2021Q1,12,Debit,1879.90013153,reported,bop_bpm6,BOP–BPM6(short),DC12
+2021Q1,13,Services,19.726542139999935,reported,bop_bpm6,BOP–BPM6(short),DC13
+2021Q1,14,Credit,326.13591812999994,reported,bop_bpm6,BOP–BPM6(short),DC14
+2021Q1,15,Debit,306.40937599,reported,bop_bpm6,BOP–BPM6(short),DC15
+2021Q1,16,Primary income,-152.64868427999994,reported,bop_bpm6,BOP–BPM6(short),DC16
+2021Q1,17,Credit,278.78531577,reported,bop_bpm6,BOP–BPM6(short),DC17
+2021Q1,18,Debit,431.43400004999995,reported,bop_bpm6,BOP–BPM6(short),DC18
+2021Q1,19,Secondary income,497.47078937000003,reported,bop_bpm6,BOP–BPM6(short),DC19
+2021Q1,20,Credit,521.3387175400001,reported,bop_bpm6,BOP–BPM6(short),DC20
+2021Q1,21,Debit,23.867928170000003,reported,bop_bpm6,BOP–BPM6(short),DC21
+2021Q1,22,Capital account,4.46375029,reported,bop_bpm6,BOP–BPM6(short),DC22
+2021Q1,23,Credit,4.46375029,reported,bop_bpm6,BOP–BPM6(short),DC23
+2021Q1,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DC24
+2021Q1,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-435.38676624000027,reported,bop_bpm6,BOP–BPM6(short),DC25
+2021Q1,26,Financial account,-471.46760108,reported,bop_bpm6,BOP–BPM6(short),DC26
+2021Q1,27,Direct investment,-68.51327467,reported,bop_bpm6,BOP–BPM6(short),DC27
+2021Q1,28,Assets,82.27473291,reported,bop_bpm6,BOP–BPM6(short),DC28
+2021Q1,29,Liabilities,150.78800758,reported,bop_bpm6,BOP–BPM6(short),DC29
+2021Q1,30,Portfolio investment,-52.320900120000005,reported,bop_bpm6,BOP–BPM6(short),DC30
+2021Q1,31,Assets,-35.78938961,reported,bop_bpm6,BOP–BPM6(short),DC31
+2021Q1,32,Liabilities,16.53151051,reported,bop_bpm6,BOP–BPM6(short),DC32
+2021Q1,33,Financial derivatives and employee stock options,-1.6854038900000001,reported,bop_bpm6,BOP–BPM6(short),DC33
+2021Q1,34,Assets,-1.91844184,reported,bop_bpm6,BOP–BPM6(short),DC34
+2021Q1,35,Liabilities,-0.23303795,reported,bop_bpm6,BOP–BPM6(short),DC35
+2021Q1,36,Other investment,-587.61073101,reported,bop_bpm6,BOP–BPM6(short),DC36
+2021Q1,37,Assets,84.16487982000001,reported,bop_bpm6,BOP–BPM6(short),DC37
+2021Q1,38,Liabilities,671.77561083,reported,bop_bpm6,BOP–BPM6(short),DC38
+2021Q1,39,Reserve assets,238.66270860999998,reported,bop_bpm6,BOP–BPM6(short),DC39
+2021Q1,40,Net errors and omissions,-36.08083483999974,reported,bop_bpm6,BOP–BPM6(short),DC40
+2021Q2,4,Current account,-492.75752564999993,reported,bop_bpm6,BOP–BPM6(short),DD4
+2021Q2,5,Credit,2762.7051039,reported,bop_bpm6,BOP–BPM6(short),DD5
+2021Q2,6,Debit,3255.4626295499997,reported,bop_bpm6,BOP–BPM6(short),DD6
+2021Q2,7,Goods and services,-716.4362709899997,reported,bop_bpm6,BOP–BPM6(short),DD7
+2021Q2,8,Credit,1928.45794661,reported,bop_bpm6,BOP–BPM6(short),DD8
+2021Q2,9,Debit,2644.8942175999996,reported,bop_bpm6,BOP–BPM6(short),DD9
+2021Q2,10,Goods,-860.3742209099996,reported,bop_bpm6,BOP–BPM6(short),DD10
+2021Q2,11,Credit,1377.53138627,reported,bop_bpm6,BOP–BPM6(short),DD11
+2021Q2,12,Debit,2237.9056071799996,reported,bop_bpm6,BOP–BPM6(short),DD12
+2021Q2,13,Services,143.93794991999988,reported,bop_bpm6,BOP–BPM6(short),DD13
+2021Q2,14,Credit,550.9265603399999,reported,bop_bpm6,BOP–BPM6(short),DD14
+2021Q2,15,Debit,406.98861042000004,reported,bop_bpm6,BOP–BPM6(short),DD15
+2021Q2,16,Primary income,-319.3227867800001,reported,bop_bpm6,BOP–BPM6(short),DD16
+2021Q2,17,Credit,265.78151597,reported,bop_bpm6,BOP–BPM6(short),DD17
+2021Q2,18,Debit,585.1043027500001,reported,bop_bpm6,BOP–BPM6(short),DD18
+2021Q2,19,Secondary income,543.0015321200001,reported,bop_bpm6,BOP–BPM6(short),DD19
+2021Q2,20,Credit,568.46564132,reported,bop_bpm6,BOP–BPM6(short),DD20
+2021Q2,21,Debit,25.464109199999996,reported,bop_bpm6,BOP–BPM6(short),DD21
+2021Q2,22,Capital account,4.13339829,reported,bop_bpm6,BOP–BPM6(short),DD22
+2021Q2,23,Credit,4.13339829,reported,bop_bpm6,BOP–BPM6(short),DD23
+2021Q2,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DD24
+2021Q2,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-488.62412735999993,reported,bop_bpm6,BOP–BPM6(short),DD25
+2021Q2,26,Financial account,-481.34414586,reported,bop_bpm6,BOP–BPM6(short),DD26
+2021Q2,27,Direct investment,-253.97675658000003,reported,bop_bpm6,BOP–BPM6(short),DD27
+2021Q2,28,Assets,84.17661609999999,reported,bop_bpm6,BOP–BPM6(short),DD28
+2021Q2,29,Liabilities,338.15337268,reported,bop_bpm6,BOP–BPM6(short),DD29
+2021Q2,30,Portfolio investment,306.0657442,reported,bop_bpm6,BOP–BPM6(short),DD30
+2021Q2,31,Assets,-12.054618219999998,reported,bop_bpm6,BOP–BPM6(short),DD31
+2021Q2,32,Liabilities,-318.12036242,reported,bop_bpm6,BOP–BPM6(short),DD32
+2021Q2,33,Financial derivatives and employee stock options,-1.7140806699999995,reported,bop_bpm6,BOP–BPM6(short),DD33
+2021Q2,34,Assets,-6.40778233,reported,bop_bpm6,BOP–BPM6(short),DD34
+2021Q2,35,Liabilities,-4.69370166,reported,bop_bpm6,BOP–BPM6(short),DD35
+2021Q2,36,Other investment,-342.83994986000005,reported,bop_bpm6,BOP–BPM6(short),DD36
+2021Q2,37,Assets,-272.11977616,reported,bop_bpm6,BOP–BPM6(short),DD37
+2021Q2,38,Liabilities,70.72017370000003,reported,bop_bpm6,BOP–BPM6(short),DD38
+2021Q2,39,Reserve assets,-188.87910294999998,reported,bop_bpm6,BOP–BPM6(short),DD39
+2021Q2,40,Net errors and omissions,7.279981499999906,reported,bop_bpm6,BOP–BPM6(short),DD40
+2021Q3,4,Current account,-418.1396643799999,reported,bop_bpm6,BOP–BPM6(short),DE4
+2021Q3,5,Credit,3229.30067803,reported,bop_bpm6,BOP–BPM6(short),DE5
+2021Q3,6,Debit,3647.44034241,reported,bop_bpm6,BOP–BPM6(short),DE6
+2021Q3,7,Goods and services,-626.10510974,reported,bop_bpm6,BOP–BPM6(short),DE7
+2021Q3,8,Credit,2349.70345718,reported,bop_bpm6,BOP–BPM6(short),DE8
+2021Q3,9,Debit,2975.80856692,reported,bop_bpm6,BOP–BPM6(short),DE9
+2021Q3,10,Goods,-1019.99646493,reported,bop_bpm6,BOP–BPM6(short),DE10
+2021Q3,11,Credit,1434.5587203599998,reported,bop_bpm6,BOP–BPM6(short),DE11
+2021Q3,12,Debit,2454.55518529,reported,bop_bpm6,BOP–BPM6(short),DE12
+2021Q3,13,Services,393.8913551900001,reported,bop_bpm6,BOP–BPM6(short),DE13
+2021Q3,14,Credit,915.1447368200002,reported,bop_bpm6,BOP–BPM6(short),DE14
+2021Q3,15,Debit,521.25338163,reported,bop_bpm6,BOP–BPM6(short),DE15
+2021Q3,16,Primary income,-373.77294201999996,reported,bop_bpm6,BOP–BPM6(short),DE16
+2021Q3,17,Credit,270.89247113,reported,bop_bpm6,BOP–BPM6(short),DE17
+2021Q3,18,Debit,644.66541315,reported,bop_bpm6,BOP–BPM6(short),DE18
+2021Q3,19,Secondary income,581.73838738,reported,bop_bpm6,BOP–BPM6(short),DE19
+2021Q3,20,Credit,608.70474972,reported,bop_bpm6,BOP–BPM6(short),DE20
+2021Q3,21,Debit,26.96636234,reported,bop_bpm6,BOP–BPM6(short),DE21
+2021Q3,22,Capital account,6.39224181,reported,bop_bpm6,BOP–BPM6(short),DE22
+2021Q3,23,Credit,6.39224181,reported,bop_bpm6,BOP–BPM6(short),DE23
+2021Q3,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DE24
+2021Q3,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-411.7474225699999,reported,bop_bpm6,BOP–BPM6(short),DE25
+2021Q3,26,Financial account,-394.79309966499994,reported,bop_bpm6,BOP–BPM6(short),DE26
+2021Q3,27,Direct investment,-310.44060042,reported,bop_bpm6,BOP–BPM6(short),DE27
+2021Q3,28,Assets,85.28770564,reported,bop_bpm6,BOP–BPM6(short),DE28
+2021Q3,29,Liabilities,395.72830606,reported,bop_bpm6,BOP–BPM6(short),DE29
+2021Q3,30,Portfolio investment,160.83383621000002,reported,bop_bpm6,BOP–BPM6(short),DE30
+2021Q3,31,Assets,110.31660544,reported,bop_bpm6,BOP–BPM6(short),DE31
+2021Q3,32,Liabilities,-50.51723077000001,reported,bop_bpm6,BOP–BPM6(short),DE32
+2021Q3,33,Financial derivatives and employee stock options,-0.5730921400000009,reported,bop_bpm6,BOP–BPM6(short),DE33
+2021Q3,34,Assets,-8.051342980000001,reported,bop_bpm6,BOP–BPM6(short),DE34
+2021Q3,35,Liabilities,-7.47825084,reported,bop_bpm6,BOP–BPM6(short),DE35
+2021Q3,36,Other investment,-424.73269753499994,reported,bop_bpm6,BOP–BPM6(short),DE36
+2021Q3,37,Assets,-157.45437007999996,reported,bop_bpm6,BOP–BPM6(short),DE37
+2021Q3,38,Liabilities,267.278327455,reported,bop_bpm6,BOP–BPM6(short),DE38
+2021Q3,39,Reserve assets,180.11945422000002,reported,bop_bpm6,BOP–BPM6(short),DE39
+2021Q3,40,Net errors and omissions,16.95432290499997,reported,bop_bpm6,BOP–BPM6(short),DE40
+2021Q4,4,Current account,-592.8563393099989,reported,bop_bpm6,BOP–BPM6(short),DF4
+2021Q4,5,Credit,3354.2953710700003,reported,bop_bpm6,BOP–BPM6(short),DF5
+2021Q4,6,Debit,3947.1517103799993,reported,bop_bpm6,BOP–BPM6(short),DF6
+2021Q4,7,Goods and services,-934.2222725899996,reported,bop_bpm6,BOP–BPM6(short),DF7
+2021Q4,8,Credit,2409.92497935,reported,bop_bpm6,BOP–BPM6(short),DF8
+2021Q4,9,Debit,3344.1472519399995,reported,bop_bpm6,BOP–BPM6(short),DF9
+2021Q4,10,Goods,-1104.7803363199998,reported,bop_bpm6,BOP–BPM6(short),DF10
+2021Q4,11,Credit,1651.7481375999998,reported,bop_bpm6,BOP–BPM6(short),DF11
+2021Q4,12,Debit,2756.5284739199997,reported,bop_bpm6,BOP–BPM6(short),DF12
+2021Q4,13,Services,170.55806373000007,reported,bop_bpm6,BOP–BPM6(short),DF13
+2021Q4,14,Credit,758.1768417500001,reported,bop_bpm6,BOP–BPM6(short),DF14
+2021Q4,15,Debit,587.61877802,reported,bop_bpm6,BOP–BPM6(short),DF15
+2021Q4,16,Primary income,-340.1296874600001,reported,bop_bpm6,BOP–BPM6(short),DF16
+2021Q4,17,Credit,233.19259485,reported,bop_bpm6,BOP–BPM6(short),DF17
+2021Q4,18,Debit,573.3222823100001,reported,bop_bpm6,BOP–BPM6(short),DF18
+2021Q4,19,Secondary income,681.49562074,reported,bop_bpm6,BOP–BPM6(short),DF19
+2021Q4,20,Credit,711.1777968700001,reported,bop_bpm6,BOP–BPM6(short),DF20
+2021Q4,21,Debit,29.68217613,reported,bop_bpm6,BOP–BPM6(short),DF21
+2021Q4,22,Capital account,25.148698850000002,reported,bop_bpm6,BOP–BPM6(short),DF22
+2021Q4,23,Credit,25.148698850000002,reported,bop_bpm6,BOP–BPM6(short),DF23
+2021Q4,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DF24
+2021Q4,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-567.707640459999,reported,bop_bpm6,BOP–BPM6(short),DF25
+2021Q4,26,Financial account,-603.160088735,reported,bop_bpm6,BOP–BPM6(short),DF26
+2021Q4,27,Direct investment,-338.72277269000006,reported,bop_bpm6,BOP–BPM6(short),DF27
+2021Q4,28,Assets,95.58840606999999,reported,bop_bpm6,BOP–BPM6(short),DF28
+2021Q4,29,Liabilities,434.31117876,reported,bop_bpm6,BOP–BPM6(short),DF29
+2021Q4,30,Portfolio investment,-103.46467339,reported,bop_bpm6,BOP–BPM6(short),DF30
+2021Q4,31,Assets,-25.514986379999996,reported,bop_bpm6,BOP–BPM6(short),DF31
+2021Q4,32,Liabilities,77.94968701,reported,bop_bpm6,BOP–BPM6(short),DF32
+2021Q4,33,Financial derivatives and employee stock options,3.1993841699999996,reported,bop_bpm6,BOP–BPM6(short),DF33
+2021Q4,34,Assets,-2.5683257000000004,reported,bop_bpm6,BOP–BPM6(short),DF34
+2021Q4,35,Liabilities,-5.76770987,reported,bop_bpm6,BOP–BPM6(short),DF35
+2021Q4,36,Other investment,-386.88965774499997,reported,bop_bpm6,BOP–BPM6(short),DF36
+2021Q4,37,Assets,306.2360468,reported,bop_bpm6,BOP–BPM6(short),DF37
+2021Q4,38,Liabilities,693.125704545,reported,bop_bpm6,BOP–BPM6(short),DF38
+2021Q4,39,Reserve assets,222.71763092,reported,bop_bpm6,BOP–BPM6(short),DF39
+2021Q4,40,Net errors and omissions,-35.452448275001075,reported,bop_bpm6,BOP–BPM6(short),DF40
+2021,4,Current account,-1943.6040458700008,reported,bop_bpm6,BOP–BPM6(short),DG4
+2021,5,Credit,11548.06207221,reported,bop_bpm6,BOP–BPM6(short),DG5
+2021,6,Debit,13491.66611808,reported,bop_bpm6,BOP–BPM6(short),DG6
+2021,7,Goods and services,-3061.4362749400007,reported,bop_bpm6,BOP–BPM6(short),DG7
+2021,8,Credit,8089.72326904,reported,bop_bpm6,BOP–BPM6(short),DG8
+2021,9,Debit,11151.15954398,reported,bop_bpm6,BOP–BPM6(short),DG9
+2021,10,Goods,-3789.5501859200003,reported,bop_bpm6,BOP–BPM6(short),DG10
+2021,11,Credit,5539.339212,reported,bop_bpm6,BOP–BPM6(short),DG11
+2021,12,Debit,9328.88939792,reported,bop_bpm6,BOP–BPM6(short),DG12
+2021,13,Services,728.1139109800001,reported,bop_bpm6,BOP–BPM6(short),DG13
+2021,14,Credit,2550.3840570400002,reported,bop_bpm6,BOP–BPM6(short),DG14
+2021,15,Debit,1822.2701460600001,reported,bop_bpm6,BOP–BPM6(short),DG15
+2021,16,Primary income,-1185.87410054,reported,bop_bpm6,BOP–BPM6(short),DG16
+2021,17,Credit,1048.65189772,reported,bop_bpm6,BOP–BPM6(short),DG17
+2021,18,Debit,2234.52599826,reported,bop_bpm6,BOP–BPM6(short),DG18
+2021,19,Secondary income,2303.7063296100005,reported,bop_bpm6,BOP–BPM6(short),DG19
+2021,20,Credit,2409.6869054500003,reported,bop_bpm6,BOP–BPM6(short),DG20
+2021,21,Debit,105.98057584,reported,bop_bpm6,BOP–BPM6(short),DG21
+2021,22,Capital account,40.13808924,reported,bop_bpm6,BOP–BPM6(short),DG22
+2021,23,Credit,40.13808924,reported,bop_bpm6,BOP–BPM6(short),DG23
+2021,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DG24
+2021,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-1903.4659566299988,reported,bop_bpm6,BOP–BPM6(short),DG25
+2021,26,Financial account,-1950.7649353400002,reported,bop_bpm6,BOP–BPM6(short),DG26
+2021,27,Direct investment,-971.6534043600001,reported,bop_bpm6,BOP–BPM6(short),DG27
+2021,28,Assets,347.32746072,reported,bop_bpm6,BOP–BPM6(short),DG28
+2021,29,Liabilities,1318.98086508,reported,bop_bpm6,BOP–BPM6(short),DG29
+2021,30,Portfolio investment,311.11400690000005,reported,bop_bpm6,BOP–BPM6(short),DG30
+2021,31,Assets,36.95761123000001,reported,bop_bpm6,BOP–BPM6(short),DG31
+2021,32,Liabilities,-274.15639567000005,reported,bop_bpm6,BOP–BPM6(short),DG32
+2021,33,Financial derivatives and employee stock options,-0.7731925299999993,reported,bop_bpm6,BOP–BPM6(short),DG33
+2021,34,Assets,-18.94589285,reported,bop_bpm6,BOP–BPM6(short),DG34
+2021,35,Liabilities,-18.17270032,reported,bop_bpm6,BOP–BPM6(short),DG35
+2021,36,Other investment,-1742.07303615,reported,bop_bpm6,BOP–BPM6(short),DG36
+2021,37,Assets,-39.17321962,reported,bop_bpm6,BOP–BPM6(short),DG37
+2021,38,Liabilities,1702.89981653,reported,bop_bpm6,BOP–BPM6(short),DG38
+2021,39,Reserve assets,452.62069080000003,reported,bop_bpm6,BOP–BPM6(short),DG39
+2021,40,Net errors and omissions,-47.29897871000094,reported,bop_bpm6,BOP–BPM6(short),DG40
+2022Q1,4,Current account,-620.5883511500001,reported,bop_bpm6,BOP–BPM6(short),DH4
+2022Q1,5,Credit,3119.49798952,reported,bop_bpm6,BOP–BPM6(short),DH5
+2022Q1,6,Debit,3740.08634067,reported,bop_bpm6,BOP–BPM6(short),DH6
+2022Q1,7,Goods and services,-815.3807790000005,reported,bop_bpm6,BOP–BPM6(short),DH7
+2022Q1,8,Credit,2287.8372838699997,reported,bop_bpm6,BOP–BPM6(short),DH8
+2022Q1,9,Debit,3103.2180628700003,reported,bop_bpm6,BOP–BPM6(short),DH9
+2022Q1,10,Goods,-1028.0907635200006,reported,bop_bpm6,BOP–BPM6(short),DH10
+2022Q1,11,Credit,1514.6719299699998,reported,bop_bpm6,BOP–BPM6(short),DH11
+2022Q1,12,Debit,2542.7626934900004,reported,bop_bpm6,BOP–BPM6(short),DH12
+2022Q1,13,Services,212.70998452000003,reported,bop_bpm6,BOP–BPM6(short),DH13
+2022Q1,14,Credit,773.1653538999999,reported,bop_bpm6,BOP–BPM6(short),DH14
+2022Q1,15,Debit,560.4553693799999,reported,bop_bpm6,BOP–BPM6(short),DH15
+2022Q1,16,Primary income,-340.8510605700001,reported,bop_bpm6,BOP–BPM6(short),DH16
+2022Q1,17,Credit,260.25920527999995,reported,bop_bpm6,BOP–BPM6(short),DH17
+2022Q1,18,Debit,601.11026585,reported,bop_bpm6,BOP–BPM6(short),DH18
+2022Q1,19,Secondary income,535.64348842,reported,bop_bpm6,BOP–BPM6(short),DH19
+2022Q1,20,Credit,571.40150037,reported,bop_bpm6,BOP–BPM6(short),DH20
+2022Q1,21,Debit,35.758011950000004,reported,bop_bpm6,BOP–BPM6(short),DH21
+2022Q1,22,Capital account,3.28385439,reported,bop_bpm6,BOP–BPM6(short),DH22
+2022Q1,23,Credit,3.28385439,reported,bop_bpm6,BOP–BPM6(short),DH23
+2022Q1,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DH24
+2022Q1,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-617.3044967600001,reported,bop_bpm6,BOP–BPM6(short),DH25
+2022Q1,26,Financial account,-657.33144371,reported,bop_bpm6,BOP–BPM6(short),DH26
+2022Q1,27,Direct investment,-477.6702950299999,reported,bop_bpm6,BOP–BPM6(short),DH27
+2022Q1,28,Assets,120.84049308,reported,bop_bpm6,BOP–BPM6(short),DH28
+2022Q1,29,Liabilities,598.5107881099999,reported,bop_bpm6,BOP–BPM6(short),DH29
+2022Q1,30,Portfolio investment,-43.72254711000001,reported,bop_bpm6,BOP–BPM6(short),DH30
+2022Q1,31,Assets,22.550598230000006,reported,bop_bpm6,BOP–BPM6(short),DH31
+2022Q1,32,Liabilities,66.27314534000001,reported,bop_bpm6,BOP–BPM6(short),DH32
+2022Q1,33,Financial derivatives and employee stock options,-17.646289900000003,reported,bop_bpm6,BOP–BPM6(short),DH33
+2022Q1,34,Assets,-21.733388050000002,reported,bop_bpm6,BOP–BPM6(short),DH34
+2022Q1,35,Liabilities,-4.08709815,reported,bop_bpm6,BOP–BPM6(short),DH35
+2022Q1,36,Other investment,74.97431002000002,reported,bop_bpm6,BOP–BPM6(short),DH36
+2022Q1,37,Assets,375.45857341,reported,bop_bpm6,BOP–BPM6(short),DH37
+2022Q1,38,Liabilities,300.48426338999997,reported,bop_bpm6,BOP–BPM6(short),DH38
+2022Q1,39,Reserve assets,-193.26662169000002,reported,bop_bpm6,BOP–BPM6(short),DH39
+2022Q1,40,Net errors and omissions,-40.02694694999991,reported,bop_bpm6,BOP–BPM6(short),DH40
+2022Q2,4,Current account,-264.45823503999964,reported,bop_bpm6,BOP–BPM6(short),DI4
+2022Q2,5,Credit,4111.60206297,reported,bop_bpm6,BOP–BPM6(short),DI5
+2022Q2,6,Debit,4376.060298009999,reported,bop_bpm6,BOP–BPM6(short),DI6
+2022Q2,7,Goods and services,-584.3843012699999,reported,bop_bpm6,BOP–BPM6(short),DI7
+2022Q2,8,Credit,3022.5155202099995,reported,bop_bpm6,BOP–BPM6(short),DI8
+2022Q2,9,Debit,3606.8998214799994,reported,bop_bpm6,BOP–BPM6(short),DI9
+2022Q2,10,Goods,-1102.15826918,reported,bop_bpm6,BOP–BPM6(short),DI10
+2022Q2,11,Credit,1812.4211842599998,reported,bop_bpm6,BOP–BPM6(short),DI11
+2022Q2,12,Debit,2914.5794534399997,reported,bop_bpm6,BOP–BPM6(short),DI12
+2022Q2,13,Services,517.7739679099998,reported,bop_bpm6,BOP–BPM6(short),DI13
+2022Q2,14,Credit,1210.0943359499997,reported,bop_bpm6,BOP–BPM6(short),DI14
+2022Q2,15,Debit,692.32036804,reported,bop_bpm6,BOP–BPM6(short),DI15
+2022Q2,16,Primary income,-404.6085004900001,reported,bop_bpm6,BOP–BPM6(short),DI16
+2022Q2,17,Credit,323.39005161,reported,bop_bpm6,BOP–BPM6(short),DI17
+2022Q2,18,Debit,727.9985521000001,reported,bop_bpm6,BOP–BPM6(short),DI18
+2022Q2,19,Secondary income,724.5345667199999,reported,bop_bpm6,BOP–BPM6(short),DI19
+2022Q2,20,Credit,765.6964911499999,reported,bop_bpm6,BOP–BPM6(short),DI20
+2022Q2,21,Debit,41.161924430000006,reported,bop_bpm6,BOP–BPM6(short),DI21
+2022Q2,22,Capital account,13.27605811,reported,bop_bpm6,BOP–BPM6(short),DI22
+2022Q2,23,Credit,13.27605811,reported,bop_bpm6,BOP–BPM6(short),DI23
+2022Q2,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DI24
+2022Q2,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-251.18217692999963,reported,bop_bpm6,BOP–BPM6(short),DI25
+2022Q2,26,Financial account,-237.62465981,reported,bop_bpm6,BOP–BPM6(short),DI26
+2022Q2,27,Direct investment,-333.34172414,reported,bop_bpm6,BOP–BPM6(short),DI27
+2022Q2,28,Assets,68.20489874,reported,bop_bpm6,BOP–BPM6(short),DI28
+2022Q2,29,Liabilities,401.54662288,reported,bop_bpm6,BOP–BPM6(short),DI29
+2022Q2,30,Portfolio investment,252.74415380999997,reported,bop_bpm6,BOP–BPM6(short),DI30
+2022Q2,31,Assets,230.33221549999996,reported,bop_bpm6,BOP–BPM6(short),DI31
+2022Q2,32,Liabilities,-22.41193831,reported,bop_bpm6,BOP–BPM6(short),DI32
+2022Q2,33,Financial derivatives and employee stock options,5.56366254,reported,bop_bpm6,BOP–BPM6(short),DI33
+2022Q2,34,Assets,-6.0037427800000005,reported,bop_bpm6,BOP–BPM6(short),DI34
+2022Q2,35,Liabilities,-11.56740532,reported,bop_bpm6,BOP–BPM6(short),DI35
+2022Q2,36,Other investment,-133.78993936999996,reported,bop_bpm6,BOP–BPM6(short),DI36
+2022Q2,37,Assets,556.83955553,reported,bop_bpm6,BOP–BPM6(short),DI37
+2022Q2,38,Liabilities,690.6294948999999,reported,bop_bpm6,BOP–BPM6(short),DI38
+2022Q2,39,Reserve assets,-28.800812650000005,reported,bop_bpm6,BOP–BPM6(short),DI39
+2022Q2,40,Net errors and omissions,13.55751711999963,reported,bop_bpm6,BOP–BPM6(short),DI40
+2022Q3,4,Current account,335.4982920499997,reported,bop_bpm6,BOP–BPM6(short),DJ4
+2022Q3,5,Credit,5588.14672357,reported,bop_bpm6,BOP–BPM6(short),DJ5
+2022Q3,6,Debit,5252.6484315200005,reported,bop_bpm6,BOP–BPM6(short),DJ6
+2022Q3,7,Goods and services,2.046497680000357,reported,bop_bpm6,BOP–BPM6(short),DJ7
+2022Q3,8,Credit,4218.95284322,reported,bop_bpm6,BOP–BPM6(short),DJ8
+2022Q3,9,Debit,4216.90634554,reported,bop_bpm6,BOP–BPM6(short),DJ9
+2022Q3,10,Goods,-1174.04337054,reported,bop_bpm6,BOP–BPM6(short),DJ10
+2022Q3,11,Credit,2171.64028729,reported,bop_bpm6,BOP–BPM6(short),DJ11
+2022Q3,12,Debit,3345.68365783,reported,bop_bpm6,BOP–BPM6(short),DJ12
+2022Q3,13,Services,1176.08986822,reported,bop_bpm6,BOP–BPM6(short),DJ13
+2022Q3,14,Credit,2047.3125559300001,reported,bop_bpm6,BOP–BPM6(short),DJ14
+2022Q3,15,Debit,871.2226877100002,reported,bop_bpm6,BOP–BPM6(short),DJ15
+2022Q3,16,Primary income,-564.58322568,reported,bop_bpm6,BOP–BPM6(short),DJ16
+2022Q3,17,Credit,421.9121613,reported,bop_bpm6,BOP–BPM6(short),DJ17
+2022Q3,18,Debit,986.49538698,reported,bop_bpm6,BOP–BPM6(short),DJ18
+2022Q3,19,Secondary income,898.0350200500001,reported,bop_bpm6,BOP–BPM6(short),DJ19
+2022Q3,20,Credit,947.2817190500001,reported,bop_bpm6,BOP–BPM6(short),DJ20
+2022Q3,21,Debit,49.246699,reported,bop_bpm6,BOP–BPM6(short),DJ21
+2022Q3,22,Capital account,6.5199673,reported,bop_bpm6,BOP–BPM6(short),DJ22
+2022Q3,23,Credit,6.5199673,reported,bop_bpm6,BOP–BPM6(short),DJ23
+2022Q3,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DJ24
+2022Q3,25,Net lending (+) / net borrowing (-) (balance from current and capital account),342.0182593499997,reported,bop_bpm6,BOP–BPM6(short),DJ25
+2022Q3,26,Financial account,310.24490099,reported,bop_bpm6,BOP–BPM6(short),DJ26
+2022Q3,27,Direct investment,-911.50559939,reported,bop_bpm6,BOP–BPM6(short),DJ27
+2022Q3,28,Assets,72.20636019,reported,bop_bpm6,BOP–BPM6(short),DJ28
+2022Q3,29,Liabilities,983.71195958,reported,bop_bpm6,BOP–BPM6(short),DJ29
+2022Q3,30,Portfolio investment,1046.47646024,reported,bop_bpm6,BOP–BPM6(short),DJ30
+2022Q3,31,Assets,588.8381535000001,reported,bop_bpm6,BOP–BPM6(short),DJ31
+2022Q3,32,Liabilities,-457.6383067399999,reported,bop_bpm6,BOP–BPM6(short),DJ32
+2022Q3,33,Financial derivatives and employee stock options,-1.3744407600000006,reported,bop_bpm6,BOP–BPM6(short),DJ33
+2022Q3,34,Assets,-11.34274296,reported,bop_bpm6,BOP–BPM6(short),DJ34
+2022Q3,35,Liabilities,-9.9683022,reported,bop_bpm6,BOP–BPM6(short),DJ35
+2022Q3,36,Other investment,-322.72933529,reported,bop_bpm6,BOP–BPM6(short),DJ36
+2022Q3,37,Assets,380.16497523,reported,bop_bpm6,BOP–BPM6(short),DJ37
+2022Q3,38,Liabilities,702.89431052,reported,bop_bpm6,BOP–BPM6(short),DJ38
+2022Q3,39,Reserve assets,499.37781619000003,reported,bop_bpm6,BOP–BPM6(short),DJ39
+2022Q3,40,Net errors and omissions,-31.77335835999969,reported,bop_bpm6,BOP–BPM6(short),DJ40
+2022Q4,4,Current account,-558.0373083099994,reported,bop_bpm6,BOP–BPM6(short),DK4
+2022Q4,5,Credit,5136.366314450001,reported,bop_bpm6,BOP–BPM6(short),DK5
+2022Q4,6,Debit,5694.40362276,reported,bop_bpm6,BOP–BPM6(short),DK6
+2022Q4,7,Goods and services,-1026.0649377299997,reported,bop_bpm6,BOP–BPM6(short),DK7
+2022Q4,8,Credit,3712.0563708300006,reported,bop_bpm6,BOP–BPM6(short),DK8
+2022Q4,9,Debit,4738.12130856,reported,bop_bpm6,BOP–BPM6(short),DK9
+2022Q4,10,Goods,-1795.72676623,reported,bop_bpm6,BOP–BPM6(short),DK10
+2022Q4,11,Credit,2037.5166848600002,reported,bop_bpm6,BOP–BPM6(short),DK11
+2022Q4,12,Debit,3833.2434510900002,reported,bop_bpm6,BOP–BPM6(short),DK12
+2022Q4,13,Services,769.6618285000003,reported,bop_bpm6,BOP–BPM6(short),DK13
+2022Q4,14,Credit,1674.5396859700002,reported,bop_bpm6,BOP–BPM6(short),DK14
+2022Q4,15,Debit,904.8778574699999,reported,bop_bpm6,BOP–BPM6(short),DK15
+2022Q4,16,Primary income,-426.96204323999996,reported,bop_bpm6,BOP–BPM6(short),DK16
+2022Q4,17,Credit,476.10506762,reported,bop_bpm6,BOP–BPM6(short),DK17
+2022Q4,18,Debit,903.06711086,reported,bop_bpm6,BOP–BPM6(short),DK18
+2022Q4,19,Secondary income,894.98967266,reported,bop_bpm6,BOP–BPM6(short),DK19
+2022Q4,20,Credit,948.204876,reported,bop_bpm6,BOP–BPM6(short),DK20
+2022Q4,21,Debit,53.21520334,reported,bop_bpm6,BOP–BPM6(short),DK21
+2022Q4,22,Capital account,17.81386312,reported,bop_bpm6,BOP–BPM6(short),DK22
+2022Q4,23,Credit,17.81386312,reported,bop_bpm6,BOP–BPM6(short),DK23
+2022Q4,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DK24
+2022Q4,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-540.2234451899994,reported,bop_bpm6,BOP–BPM6(short),DK25
+2022Q4,26,Financial account,-497.84481077000004,reported,bop_bpm6,BOP–BPM6(short),DK26
+2022Q4,27,Direct investment,-204.18743294999996,reported,bop_bpm6,BOP–BPM6(short),DK27
+2022Q4,28,Assets,103.91972390000001,reported,bop_bpm6,BOP–BPM6(short),DK28
+2022Q4,29,Liabilities,308.10715684999997,reported,bop_bpm6,BOP–BPM6(short),DK29
+2022Q4,30,Portfolio investment,352.37775730999994,reported,bop_bpm6,BOP–BPM6(short),DK30
+2022Q4,31,Assets,310.62207900999994,reported,bop_bpm6,BOP–BPM6(short),DK31
+2022Q4,32,Liabilities,-41.75567830000001,reported,bop_bpm6,BOP–BPM6(short),DK32
+2022Q4,33,Financial derivatives and employee stock options,10.207583319999998,reported,bop_bpm6,BOP–BPM6(short),DK33
+2022Q4,34,Assets,-72.93090865,reported,bop_bpm6,BOP–BPM6(short),DK34
+2022Q4,35,Liabilities,-83.13849197,reported,bop_bpm6,BOP–BPM6(short),DK35
+2022Q4,36,Other investment,-1144.19152022,reported,bop_bpm6,BOP–BPM6(short),DK36
+2022Q4,37,Assets,-436.35513900999996,reported,bop_bpm6,BOP–BPM6(short),DK37
+2022Q4,38,Liabilities,707.8363812100001,reported,bop_bpm6,BOP–BPM6(short),DK38
+2022Q4,39,Reserve assets,487.94880177,reported,bop_bpm6,BOP–BPM6(short),DK39
+2022Q4,40,Net errors and omissions,42.3786344199994,reported,bop_bpm6,BOP–BPM6(short),DK40
+2022,4,Current account,-1107.5856024500026,reported,bop_bpm6,BOP–BPM6(short),DL4
+2022,5,Credit,17955.61309051,reported,bop_bpm6,BOP–BPM6(short),DL5
+2022,6,Debit,19063.198692960003,reported,bop_bpm6,BOP–BPM6(short),DL6
+2022,7,Goods and services,-2423.783520320001,reported,bop_bpm6,BOP–BPM6(short),DL7
+2022,8,Credit,13241.36201813,reported,bop_bpm6,BOP–BPM6(short),DL8
+2022,9,Debit,15665.14553845,reported,bop_bpm6,BOP–BPM6(short),DL9
+2022,10,Goods,-5100.019169470001,reported,bop_bpm6,BOP–BPM6(short),DL10
+2022,11,Credit,7536.25008638,reported,bop_bpm6,BOP–BPM6(short),DL11
+2022,12,Debit,12636.26925585,reported,bop_bpm6,BOP–BPM6(short),DL12
+2022,13,Services,2676.2356491499995,reported,bop_bpm6,BOP–BPM6(short),DL13
+2022,14,Credit,5705.11193175,reported,bop_bpm6,BOP–BPM6(short),DL14
+2022,15,Debit,3028.8762826,reported,bop_bpm6,BOP–BPM6(short),DL15
+2022,16,Primary income,-1737.0048299800005,reported,bop_bpm6,BOP–BPM6(short),DL16
+2022,17,Credit,1481.6664858099998,reported,bop_bpm6,BOP–BPM6(short),DL17
+2022,18,Debit,3218.6713157900003,reported,bop_bpm6,BOP–BPM6(short),DL18
+2022,19,Secondary income,3053.2027478500004,reported,bop_bpm6,BOP–BPM6(short),DL19
+2022,20,Credit,3232.5845865700003,reported,bop_bpm6,BOP–BPM6(short),DL20
+2022,21,Debit,179.38183872000002,reported,bop_bpm6,BOP–BPM6(short),DL21
+2022,22,Capital account,40.89374292,reported,bop_bpm6,BOP–BPM6(short),DL22
+2022,23,Credit,40.89374292,reported,bop_bpm6,BOP–BPM6(short),DL23
+2022,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DL24
+2022,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-1066.6918595299994,reported,bop_bpm6,BOP–BPM6(short),DL25
+2022,26,Financial account,-1082.5560133,reported,bop_bpm6,BOP–BPM6(short),DL26
+2022,27,Direct investment,-1926.70505151,reported,bop_bpm6,BOP–BPM6(short),DL27
+2022,28,Assets,365.17147591,reported,bop_bpm6,BOP–BPM6(short),DL28
+2022,29,Liabilities,2291.87652742,reported,bop_bpm6,BOP–BPM6(short),DL29
+2022,30,Portfolio investment,1607.8758242499998,reported,bop_bpm6,BOP–BPM6(short),DL30
+2022,31,Assets,1152.34304624,reported,bop_bpm6,BOP–BPM6(short),DL31
+2022,32,Liabilities,-455.5327780099999,reported,bop_bpm6,BOP–BPM6(short),DL32
+2022,33,Financial derivatives and employee stock options,-3.2494848000000047,reported,bop_bpm6,BOP–BPM6(short),DL33
+2022,34,Assets,-112.01078244000001,reported,bop_bpm6,BOP–BPM6(short),DL34
+2022,35,Liabilities,-108.76129764000001,reported,bop_bpm6,BOP–BPM6(short),DL35
+2022,36,Other investment,-1525.7364848599998,reported,bop_bpm6,BOP–BPM6(short),DL36
+2022,37,Assets,876.10796516,reported,bop_bpm6,BOP–BPM6(short),DL37
+2022,38,Liabilities,2401.84445002,reported,bop_bpm6,BOP–BPM6(short),DL38
+2022,39,Reserve assets,765.2591836199999,reported,bop_bpm6,BOP–BPM6(short),DL39
+2022,40,Net errors and omissions,-15.86415377000057,reported,bop_bpm6,BOP–BPM6(short),DL40
+2023Q1,4,Current account,-469.05286542999966,reported,bop_bpm6,BOP–BPM6(short),DM4
+2023Q1,5,Credit,4697.73694297,reported,bop_bpm6,BOP–BPM6(short),DM5
+2023Q1,6,Debit,5166.7898084,reported,bop_bpm6,BOP–BPM6(short),DM6
+2023Q1,7,Goods and services,-725.4939346699994,reported,bop_bpm6,BOP–BPM6(short),DM7
+2023Q1,8,Credit,3444.93741047,reported,bop_bpm6,BOP–BPM6(short),DM8
+2023Q1,9,Debit,4170.431345139999,reported,bop_bpm6,BOP–BPM6(short),DM9
+2023Q1,10,Goods,-1419.53561672,reported,bop_bpm6,BOP–BPM6(short),DM10
+2023Q1,11,Credit,1935.2628017099998,reported,bop_bpm6,BOP–BPM6(short),DM11
+2023Q1,12,Debit,3354.79841843,reported,bop_bpm6,BOP–BPM6(short),DM12
+2023Q1,13,Services,694.04168205,reported,bop_bpm6,BOP–BPM6(short),DM13
+2023Q1,14,Credit,1509.67460876,reported,bop_bpm6,BOP–BPM6(short),DM14
+2023Q1,15,Debit,815.63292671,reported,bop_bpm6,BOP–BPM6(short),DM15
+2023Q1,16,Primary income,-471.7288172,reported,bop_bpm6,BOP–BPM6(short),DM16
+2023Q1,17,Credit,470.63335004,reported,bop_bpm6,BOP–BPM6(short),DM17
+2023Q1,18,Debit,942.36216724,reported,bop_bpm6,BOP–BPM6(short),DM18
+2023Q1,19,Secondary income,728.1698864399999,reported,bop_bpm6,BOP–BPM6(short),DM19
+2023Q1,20,Credit,782.16618246,reported,bop_bpm6,BOP–BPM6(short),DM20
+2023Q1,21,Debit,53.99629602,reported,bop_bpm6,BOP–BPM6(short),DM21
+2023Q1,22,Capital account,6.87085029,reported,bop_bpm6,BOP–BPM6(short),DM22
+2023Q1,23,Credit,6.87085029,reported,bop_bpm6,BOP–BPM6(short),DM23
+2023Q1,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DM24
+2023Q1,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-462.18201513999963,reported,bop_bpm6,BOP–BPM6(short),DM25
+2023Q1,26,Financial account,-499.62664728,reported,bop_bpm6,BOP–BPM6(short),DM26
+2023Q1,27,Direct investment,-544.4797128399999,reported,bop_bpm6,BOP–BPM6(short),DM27
+2023Q1,28,Assets,143.51849670000001,reported,bop_bpm6,BOP–BPM6(short),DM28
+2023Q1,29,Liabilities,687.99820954,reported,bop_bpm6,BOP–BPM6(short),DM29
+2023Q1,30,Portfolio investment,200.61341334,reported,bop_bpm6,BOP–BPM6(short),DM30
+2023Q1,31,Assets,203.83443702999998,reported,bop_bpm6,BOP–BPM6(short),DM31
+2023Q1,32,Liabilities,3.2210236899999947,reported,bop_bpm6,BOP–BPM6(short),DM32
+2023Q1,33,Financial derivatives and employee stock options,6.665435550000005,reported,bop_bpm6,BOP–BPM6(short),DM33
+2023Q1,34,Assets,-25.550769539999997,reported,bop_bpm6,BOP–BPM6(short),DM34
+2023Q1,35,Liabilities,-32.21620509,reported,bop_bpm6,BOP–BPM6(short),DM35
+2023Q1,36,Other investment,-217.91387491,reported,bop_bpm6,BOP–BPM6(short),DM36
+2023Q1,37,Assets,-106.53638251000002,reported,bop_bpm6,BOP–BPM6(short),DM37
+2023Q1,38,Liabilities,111.37749239999998,reported,bop_bpm6,BOP–BPM6(short),DM38
+2023Q1,39,Reserve assets,55.48809158,reported,bop_bpm6,BOP–BPM6(short),DM39
+2023Q1,40,Net errors and omissions,-37.44463214000035,reported,bop_bpm6,BOP–BPM6(short),DM40
+2023Q2,4,Current account,-580.2579698400014,reported,bop_bpm6,BOP–BPM6(short),DN4
+2023Q2,5,Credit,5091.205930159999,reported,bop_bpm6,BOP–BPM6(short),DN5
+2023Q2,6,Debit,5671.463900000001,reported,bop_bpm6,BOP–BPM6(short),DN6
+2023Q2,7,Goods and services,-604.2454890700005,reported,bop_bpm6,BOP–BPM6(short),DN7
+2023Q2,8,Credit,3829.3813249299997,reported,bop_bpm6,BOP–BPM6(short),DN8
+2023Q2,9,Debit,4433.626814,reported,bop_bpm6,BOP–BPM6(short),DN9
+2023Q2,10,Goods,-1421.50079852,reported,bop_bpm6,BOP–BPM6(short),DN10
+2023Q2,11,Credit,2124.2854146699997,reported,bop_bpm6,BOP–BPM6(short),DN11
+2023Q2,12,Debit,3545.7862131899997,reported,bop_bpm6,BOP–BPM6(short),DN12
+2023Q2,13,Services,817.2553094499998,reported,bop_bpm6,BOP–BPM6(short),DN13
+2023Q2,14,Credit,1705.09591026,reported,bop_bpm6,BOP–BPM6(short),DN14
+2023Q2,15,Debit,887.8406008100002,reported,bop_bpm6,BOP–BPM6(short),DN15
+2023Q2,16,Primary income,-752.11877811,reported,bop_bpm6,BOP–BPM6(short),DN16
+2023Q2,17,Credit,440.47556407,reported,bop_bpm6,BOP–BPM6(short),DN17
+2023Q2,18,Debit,1192.59434218,reported,bop_bpm6,BOP–BPM6(short),DN18
+2023Q2,19,Secondary income,776.10629734,reported,bop_bpm6,BOP–BPM6(short),DN19
+2023Q2,20,Credit,821.34904116,reported,bop_bpm6,BOP–BPM6(short),DN20
+2023Q2,21,Debit,45.242743819999994,reported,bop_bpm6,BOP–BPM6(short),DN21
+2023Q2,22,Capital account,9.6963811,reported,bop_bpm6,BOP–BPM6(short),DN22
+2023Q2,23,Credit,9.6963811,reported,bop_bpm6,BOP–BPM6(short),DN23
+2023Q2,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DN24
+2023Q2,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-570.5615887400013,reported,bop_bpm6,BOP–BPM6(short),DN25
+2023Q2,26,Financial account,-552.68096116,reported,bop_bpm6,BOP–BPM6(short),DN26
+2023Q2,27,Direct investment,-519.9094592600001,reported,bop_bpm6,BOP–BPM6(short),DN27
+2023Q2,28,Assets,34.430535,reported,bop_bpm6,BOP–BPM6(short),DN28
+2023Q2,29,Liabilities,554.33999426,reported,bop_bpm6,BOP–BPM6(short),DN29
+2023Q2,30,Portfolio investment,-43.282204969999995,reported,bop_bpm6,BOP–BPM6(short),DN30
+2023Q2,31,Assets,-29.753675169999994,reported,bop_bpm6,BOP–BPM6(short),DN31
+2023Q2,32,Liabilities,13.528529800000001,reported,bop_bpm6,BOP–BPM6(short),DN32
+2023Q2,33,Financial derivatives and employee stock options,3.4135628900000015,reported,bop_bpm6,BOP–BPM6(short),DN33
+2023Q2,34,Assets,-25.29953119,reported,bop_bpm6,BOP–BPM6(short),DN34
+2023Q2,35,Liabilities,-28.71309408,reported,bop_bpm6,BOP–BPM6(short),DN35
+2023Q2,36,Other investment,-110.19487516999996,reported,bop_bpm6,BOP–BPM6(short),DN36
+2023Q2,37,Assets,202.56166782,reported,bop_bpm6,BOP–BPM6(short),DN37
+2023Q2,38,Liabilities,312.75654298999996,reported,bop_bpm6,BOP–BPM6(short),DN38
+2023Q2,39,Reserve assets,117.29201534999997,reported,bop_bpm6,BOP–BPM6(short),DN39
+2023Q2,40,Net errors and omissions,17.88062758000126,reported,bop_bpm6,BOP–BPM6(short),DN40
+2023Q3,4,Current account,-18.147663039997497,reported,bop_bpm6,BOP–BPM6(short),DO4
+2023Q3,5,Credit,5795.199541310001,reported,bop_bpm6,BOP–BPM6(short),DO5
+2023Q3,6,Debit,5813.347204349999,reported,bop_bpm6,BOP–BPM6(short),DO6
+2023Q3,7,Goods and services,-363.4073459399988,reported,bop_bpm6,BOP–BPM6(short),DO7
+2023Q3,8,Credit,4304.864997840001,reported,bop_bpm6,BOP–BPM6(short),DO8
+2023Q3,9,Debit,4668.27234378,reported,bop_bpm6,BOP–BPM6(short),DO9
+2023Q3,10,Goods,-1613.7053045899997,reported,bop_bpm6,BOP–BPM6(short),DO10
+2023Q3,11,Credit,2071.47899201,reported,bop_bpm6,BOP–BPM6(short),DO11
+2023Q3,12,Debit,3685.1842966,reported,bop_bpm6,BOP–BPM6(short),DO12
+2023Q3,13,Services,1250.29795865,reported,bop_bpm6,BOP–BPM6(short),DO13
+2023Q3,14,Credit,2233.38600583,reported,bop_bpm6,BOP–BPM6(short),DO14
+2023Q3,15,Debit,983.08804718,reported,bop_bpm6,BOP–BPM6(short),DO15
+2023Q3,16,Primary income,-582.16310855,reported,bop_bpm6,BOP–BPM6(short),DO16
+2023Q3,17,Credit,514.30703815,reported,bop_bpm6,BOP–BPM6(short),DO17
+2023Q3,18,Debit,1096.4701467,reported,bop_bpm6,BOP–BPM6(short),DO18
+2023Q3,19,Secondary income,927.4227914500001,reported,bop_bpm6,BOP–BPM6(short),DO19
+2023Q3,20,Credit,976.02750532,reported,bop_bpm6,BOP–BPM6(short),DO20
+2023Q3,21,Debit,48.60471387,reported,bop_bpm6,BOP–BPM6(short),DO21
+2023Q3,22,Capital account,9.62636924,reported,bop_bpm6,BOP–BPM6(short),DO22
+2023Q3,23,Credit,9.62636924,reported,bop_bpm6,BOP–BPM6(short),DO23
+2023Q3,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DO24
+2023Q3,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-8.521293799997496,reported,bop_bpm6,BOP–BPM6(short),DO25
+2023Q3,26,Financial account,-26.202303959999995,reported,bop_bpm6,BOP–BPM6(short),DO26
+2023Q3,27,Direct investment,-458.11132994000013,reported,bop_bpm6,BOP–BPM6(short),DO27
+2023Q3,28,Assets,141.36137423,reported,bop_bpm6,BOP–BPM6(short),DO28
+2023Q3,29,Liabilities,599.4727041700002,reported,bop_bpm6,BOP–BPM6(short),DO29
+2023Q3,30,Portfolio investment,521.0831182100001,reported,bop_bpm6,BOP–BPM6(short),DO30
+2023Q3,31,Assets,151.10370941999997,reported,bop_bpm6,BOP–BPM6(short),DO31
+2023Q3,32,Liabilities,-369.97940879000004,reported,bop_bpm6,BOP–BPM6(short),DO32
+2023Q3,33,Financial derivatives and employee stock options,7.578806539999995,reported,bop_bpm6,BOP–BPM6(short),DO33
+2023Q3,34,Assets,-29.26376812,reported,bop_bpm6,BOP–BPM6(short),DO34
+2023Q3,35,Liabilities,-36.84257466,reported,bop_bpm6,BOP–BPM6(short),DO35
+2023Q3,36,Other investment,-332.18311237999995,reported,bop_bpm6,BOP–BPM6(short),DO36
+2023Q3,37,Assets,-18.850416910000025,reported,bop_bpm6,BOP–BPM6(short),DO37
+2023Q3,38,Liabilities,313.3326954699999,reported,bop_bpm6,BOP–BPM6(short),DO38
+2023Q3,39,Reserve assets,235.43021361,reported,bop_bpm6,BOP–BPM6(short),DO39
+2023Q3,40,Net errors and omissions,-17.6810101600025,reported,bop_bpm6,BOP–BPM6(short),DO40
+2023Q4,4,Current account,-646.1266044800004,reported,bop_bpm6,BOP–BPM6(short),DP4
+2023Q4,5,Credit,5005.86937082,reported,bop_bpm6,BOP–BPM6(short),DP5
+2023Q4,6,Debit,5651.9959753,reported,bop_bpm6,BOP–BPM6(short),DP6
+2023Q4,7,Goods and services,-941.7634483000002,reported,bop_bpm6,BOP–BPM6(short),DP7
+2023Q4,8,Credit,3601.7095365799996,reported,bop_bpm6,BOP–BPM6(short),DP8
+2023Q4,9,Debit,4543.47298488,reported,bop_bpm6,BOP–BPM6(short),DP9
+2023Q4,10,Goods,-1623.0629712900002,reported,bop_bpm6,BOP–BPM6(short),DP10
+2023Q4,11,Credit,1988.05768548,reported,bop_bpm6,BOP–BPM6(short),DP11
+2023Q4,12,Debit,3611.12065677,reported,bop_bpm6,BOP–BPM6(short),DP12
+2023Q4,13,Services,681.2995229900001,reported,bop_bpm6,BOP–BPM6(short),DP13
+2023Q4,14,Credit,1613.6518511,reported,bop_bpm6,BOP–BPM6(short),DP14
+2023Q4,15,Debit,932.3523281099998,reported,bop_bpm6,BOP–BPM6(short),DP15
+2023Q4,16,Primary income,-601.4769075400001,reported,bop_bpm6,BOP–BPM6(short),DP16
+2023Q4,17,Credit,462.42494389,reported,bop_bpm6,BOP–BPM6(short),DP17
+2023Q4,18,Debit,1063.90185143,reported,bop_bpm6,BOP–BPM6(short),DP18
+2023Q4,19,Secondary income,897.11375136,reported,bop_bpm6,BOP–BPM6(short),DP19
+2023Q4,20,Credit,941.73489035,reported,bop_bpm6,BOP–BPM6(short),DP20
+2023Q4,21,Debit,44.62113899,reported,bop_bpm6,BOP–BPM6(short),DP21
+2023Q4,22,Capital account,12.5659265,reported,bop_bpm6,BOP–BPM6(short),DP22
+2023Q4,23,Credit,12.5659265,reported,bop_bpm6,BOP–BPM6(short),DP23
+2023Q4,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DP24
+2023Q4,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-633.5606779800004,reported,bop_bpm6,BOP–BPM6(short),DP25
+2023Q4,26,Financial account,-659.00504801,reported,bop_bpm6,BOP–BPM6(short),DP26
+2023Q4,27,Direct investment,-258.36256216,reported,bop_bpm6,BOP–BPM6(short),DP27
+2023Q4,28,Assets,162.3058011,reported,bop_bpm6,BOP–BPM6(short),DP28
+2023Q4,29,Liabilities,420.66836326,reported,bop_bpm6,BOP–BPM6(short),DP29
+2023Q4,30,Portfolio investment,52.879009560000036,reported,bop_bpm6,BOP–BPM6(short),DP30
+2023Q4,31,Assets,2.4242238600000405,reported,bop_bpm6,BOP–BPM6(short),DP31
+2023Q4,32,Liabilities,-50.454785699999995,reported,bop_bpm6,BOP–BPM6(short),DP32
+2023Q4,33,Financial derivatives and employee stock options,30.73610841,reported,bop_bpm6,BOP–BPM6(short),DP33
+2023Q4,34,Assets,-34.842478240000005,reported,bop_bpm6,BOP–BPM6(short),DP34
+2023Q4,35,Liabilities,-65.57858665,reported,bop_bpm6,BOP–BPM6(short),DP35
+2023Q4,36,Other investment,-122.88154397000005,reported,bop_bpm6,BOP–BPM6(short),DP36
+2023Q4,37,Assets,507.65471309,reported,bop_bpm6,BOP–BPM6(short),DP37
+2023Q4,38,Liabilities,630.53625706,reported,bop_bpm6,BOP–BPM6(short),DP38
+2023Q4,39,Reserve assets,-361.37605985,reported,bop_bpm6,BOP–BPM6(short),DP39
+2023Q4,40,Net errors and omissions,-25.444370029999618,reported,bop_bpm6,BOP–BPM6(short),DP40
+2023,4,Current account,-1713.585102789999,reported,bop_bpm6,BOP–BPM6(short),DQ4
+2023,5,Credit,20590.01178526,reported,bop_bpm6,BOP–BPM6(short),DQ5
+2023,6,Debit,22303.59688805,reported,bop_bpm6,BOP–BPM6(short),DQ6
+2023,7,Goods and services,-2634.9102179799993,reported,bop_bpm6,BOP–BPM6(short),DQ7
+2023,8,Credit,15180.89326982,reported,bop_bpm6,BOP–BPM6(short),DQ8
+2023,9,Debit,17815.8034878,reported,bop_bpm6,BOP–BPM6(short),DQ9
+2023,10,Goods,-6077.80469112,reported,bop_bpm6,BOP–BPM6(short),DQ10
+2023,11,Credit,8119.08489387,reported,bop_bpm6,BOP–BPM6(short),DQ11
+2023,12,Debit,14196.88958499,reported,bop_bpm6,BOP–BPM6(short),DQ12
+2023,13,Services,3442.8944731400006,reported,bop_bpm6,BOP–BPM6(short),DQ13
+2023,14,Credit,7061.8083759500005,reported,bop_bpm6,BOP–BPM6(short),DQ14
+2023,15,Debit,3618.91390281,reported,bop_bpm6,BOP–BPM6(short),DQ15
+2023,16,Primary income,-2407.4876114,reported,bop_bpm6,BOP–BPM6(short),DQ16
+2023,17,Credit,1887.84089615,reported,bop_bpm6,BOP–BPM6(short),DQ17
+2023,18,Debit,4295.32850755,reported,bop_bpm6,BOP–BPM6(short),DQ18
+2023,19,Secondary income,3328.8127265900002,reported,bop_bpm6,BOP–BPM6(short),DQ19
+2023,20,Credit,3521.27761929,reported,bop_bpm6,BOP–BPM6(short),DQ20
+2023,21,Debit,192.46489269999998,reported,bop_bpm6,BOP–BPM6(short),DQ21
+2023,22,Capital account,38.759527129999995,reported,bop_bpm6,BOP–BPM6(short),DQ22
+2023,23,Credit,38.759527129999995,reported,bop_bpm6,BOP–BPM6(short),DQ23
+2023,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DQ24
+2023,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-1674.8255756599988,reported,bop_bpm6,BOP–BPM6(short),DQ25
+2023,26,Financial account,-1737.5149604100004,reported,bop_bpm6,BOP–BPM6(short),DQ26
+2023,27,Direct investment,-1780.8630642000005,reported,bop_bpm6,BOP–BPM6(short),DQ27
+2023,28,Assets,481.61620703,reported,bop_bpm6,BOP–BPM6(short),DQ28
+2023,29,Liabilities,2262.4792712300004,reported,bop_bpm6,BOP–BPM6(short),DQ29
+2023,30,Portfolio investment,731.2933361400001,reported,bop_bpm6,BOP–BPM6(short),DQ30
+2023,31,Assets,327.60869514,reported,bop_bpm6,BOP–BPM6(short),DQ31
+2023,32,Liabilities,-403.68464100000006,reported,bop_bpm6,BOP–BPM6(short),DQ32
+2023,33,Financial derivatives and employee stock options,48.39391339000001,reported,bop_bpm6,BOP–BPM6(short),DQ33
+2023,34,Assets,-114.95654709,reported,bop_bpm6,BOP–BPM6(short),DQ34
+2023,35,Liabilities,-163.35046048,reported,bop_bpm6,BOP–BPM6(short),DQ35
+2023,36,Other investment,-783.17340643,reported,bop_bpm6,BOP–BPM6(short),DQ36
+2023,37,Assets,584.8295814899999,reported,bop_bpm6,BOP–BPM6(short),DQ37
+2023,38,Liabilities,1368.00298792,reported,bop_bpm6,BOP–BPM6(short),DQ38
+2023,39,Reserve assets,46.83426069000001,reported,bop_bpm6,BOP–BPM6(short),DQ39
+2023,40,Net errors and omissions,-62.68938475000121,reported,bop_bpm6,BOP–BPM6(short),DQ40
+2024Q1,4,Current account,-402.8606322099995,reported,bop_bpm6,BOP–BPM6(short),DR4
+2024Q1,5,Credit,4681.91156096,reported,bop_bpm6,BOP–BPM6(short),DR5
+2024Q1,6,Debit,5084.77219317,reported,bop_bpm6,BOP–BPM6(short),DR6
+2024Q1,7,Goods and services,-799.3868704099996,reported,bop_bpm6,BOP–BPM6(short),DR7
+2024Q1,8,Credit,3299.0174179100004,reported,bop_bpm6,BOP–BPM6(short),DR8
+2024Q1,9,Debit,4098.40428832,reported,bop_bpm6,BOP–BPM6(short),DR9
+2024Q1,10,Goods,-1513.3819476699998,reported,bop_bpm6,BOP–BPM6(short),DR10
+2024Q1,11,Credit,1745.66197454,reported,bop_bpm6,BOP–BPM6(short),DR11
+2024Q1,12,Debit,3259.04392221,reported,bop_bpm6,BOP–BPM6(short),DR12
+2024Q1,13,Services,713.9950772600001,reported,bop_bpm6,BOP–BPM6(short),DR13
+2024Q1,14,Credit,1553.35544337,reported,bop_bpm6,BOP–BPM6(short),DR14
+2024Q1,15,Debit,839.36036611,reported,bop_bpm6,BOP–BPM6(short),DR15
+2024Q1,16,Primary income,-480.37521676999995,reported,bop_bpm6,BOP–BPM6(short),DR16
+2024Q1,17,Credit,455.41327223999997,reported,bop_bpm6,BOP–BPM6(short),DR17
+2024Q1,18,Debit,935.7884890099999,reported,bop_bpm6,BOP–BPM6(short),DR18
+2024Q1,19,Secondary income,876.9014549699999,reported,bop_bpm6,BOP–BPM6(short),DR19
+2024Q1,20,Credit,927.4808708099999,reported,bop_bpm6,BOP–BPM6(short),DR20
+2024Q1,21,Debit,50.57941584,reported,bop_bpm6,BOP–BPM6(short),DR21
+2024Q1,22,Capital account,5.9737046,reported,bop_bpm6,BOP–BPM6(short),DR22
+2024Q1,23,Credit,5.9737046,reported,bop_bpm6,BOP–BPM6(short),DR23
+2024Q1,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DR24
+2024Q1,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-396.8869276099995,reported,bop_bpm6,BOP–BPM6(short),DR25
+2024Q1,26,Financial account,-406.1102029599997,reported,bop_bpm6,BOP–BPM6(short),DR26
+2024Q1,27,Direct investment,-141.18202072,reported,bop_bpm6,BOP–BPM6(short),DR27
+2024Q1,28,Assets,95.46489423,reported,bop_bpm6,BOP–BPM6(short),DR28
+2024Q1,29,Liabilities,236.64691495,reported,bop_bpm6,BOP–BPM6(short),DR29
+2024Q1,30,Portfolio investment,302.1147611900001,reported,bop_bpm6,BOP–BPM6(short),DR30
+2024Q1,31,Assets,337.97726265000006,reported,bop_bpm6,BOP–BPM6(short),DR31
+2024Q1,32,Liabilities,35.862501460000004,reported,bop_bpm6,BOP–BPM6(short),DR32
+2024Q1,33,Financial derivatives and employee stock options,7.858244150000001,reported,bop_bpm6,BOP–BPM6(short),DR33
+2024Q1,34,Assets,-14.92275498,reported,bop_bpm6,BOP–BPM6(short),DR34
+2024Q1,35,Liabilities,-22.78099913,reported,bop_bpm6,BOP–BPM6(short),DR35
+2024Q1,36,Other investment,-378.81598226999995,reported,bop_bpm6,BOP–BPM6(short),DR36
+2024Q1,37,Assets,-143.35971835999996,reported,bop_bpm6,BOP–BPM6(short),DR37
+2024Q1,38,Liabilities,235.45626391,reported,bop_bpm6,BOP–BPM6(short),DR38
+2024Q1,39,Reserve assets,-196.08520530999982,reported,bop_bpm6,BOP–BPM6(short),DR39
+2024Q1,40,Net errors and omissions,-9.223275350000222,reported,bop_bpm6,BOP–BPM6(short),DR40
+2024Q2,4,Current account,-651.4079192100007,reported,bop_bpm6,BOP–BPM6(short),DS4
+2024Q2,5,Credit,5209.0303929,reported,bop_bpm6,BOP–BPM6(short),DS5
+2024Q2,6,Debit,5860.438312110001,reported,bop_bpm6,BOP–BPM6(short),DS6
+2024Q2,7,Goods and services,-840.0288668300009,reported,bop_bpm6,BOP–BPM6(short),DS7
+2024Q2,8,Credit,3911.06647161,reported,bop_bpm6,BOP–BPM6(short),DS8
+2024Q2,9,Debit,4751.095338440001,reported,bop_bpm6,BOP–BPM6(short),DS9
+2024Q2,10,Goods,-1814.4325673600003,reported,bop_bpm6,BOP–BPM6(short),DS10
+2024Q2,11,Credit,1996.76504627,reported,bop_bpm6,BOP–BPM6(short),DS11
+2024Q2,12,Debit,3811.1976136300004,reported,bop_bpm6,BOP–BPM6(short),DS12
+2024Q2,13,Services,974.4037005299998,reported,bop_bpm6,BOP–BPM6(short),DS13
+2024Q2,14,Credit,1914.3014253400002,reported,bop_bpm6,BOP–BPM6(short),DS14
+2024Q2,15,Debit,939.8977248100003,reported,bop_bpm6,BOP–BPM6(short),DS15
+2024Q2,16,Primary income,-657.8982626899998,reported,bop_bpm6,BOP–BPM6(short),DS16
+2024Q2,17,Credit,415.73498985000003,reported,bop_bpm6,BOP–BPM6(short),DS17
+2024Q2,18,Debit,1073.6332525399998,reported,bop_bpm6,BOP–BPM6(short),DS18
+2024Q2,19,Secondary income,846.51921031,reported,bop_bpm6,BOP–BPM6(short),DS19
+2024Q2,20,Credit,882.22893144,reported,bop_bpm6,BOP–BPM6(short),DS20
+2024Q2,21,Debit,35.70972113,reported,bop_bpm6,BOP–BPM6(short),DS21
+2024Q2,22,Capital account,3.3325123,reported,bop_bpm6,BOP–BPM6(short),DS22
+2024Q2,23,Credit,3.3325123,reported,bop_bpm6,BOP–BPM6(short),DS23
+2024Q2,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DS24
+2024Q2,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-648.0754069100008,reported,bop_bpm6,BOP–BPM6(short),DS25
+2024Q2,26,Financial account,-676.6960669700002,reported,bop_bpm6,BOP–BPM6(short),DS26
+2024Q2,27,Direct investment,-573.3836060199999,reported,bop_bpm6,BOP–BPM6(short),DS27
+2024Q2,28,Assets,107.92408169000001,reported,bop_bpm6,BOP–BPM6(short),DS28
+2024Q2,29,Liabilities,681.3076877099999,reported,bop_bpm6,BOP–BPM6(short),DS29
+2024Q2,30,Portfolio investment,19.866634769999933,reported,bop_bpm6,BOP–BPM6(short),DS30
+2024Q2,31,Assets,202.28046830999995,reported,bop_bpm6,BOP–BPM6(short),DS31
+2024Q2,32,Liabilities,182.41383354,reported,bop_bpm6,BOP–BPM6(short),DS32
+2024Q2,33,Financial derivatives and employee stock options,20.45858569,reported,bop_bpm6,BOP–BPM6(short),DS33
+2024Q2,34,Assets,-6.62149779,reported,bop_bpm6,BOP–BPM6(short),DS34
+2024Q2,35,Liabilities,-27.08008348,reported,bop_bpm6,BOP–BPM6(short),DS35
+2024Q2,36,Other investment,81.18767687999986,reported,bop_bpm6,BOP–BPM6(short),DS36
+2024Q2,37,Assets,394.52100060999993,reported,bop_bpm6,BOP–BPM6(short),DS37
+2024Q2,38,Liabilities,313.3333237300001,reported,bop_bpm6,BOP–BPM6(short),DS38
+2024Q2,39,Reserve assets,-224.82535829,reported,bop_bpm6,BOP–BPM6(short),DS39
+2024Q2,40,Net errors and omissions,-28.62066005999941,reported,bop_bpm6,BOP–BPM6(short),DS40
+2024Q3,4,Current account,9.836583830000563,reported,bop_bpm6,BOP–BPM6(short),DT4
+2024Q3,5,Credit,6336.34049569,reported,bop_bpm6,BOP–BPM6(short),DT5
+2024Q3,6,Debit,6326.50391186,reported,bop_bpm6,BOP–BPM6(short),DT6
+2024Q3,7,Goods and services,-42.868713269999716,reported,bop_bpm6,BOP–BPM6(short),DT7
+2024Q3,8,Credit,5029.3063618900005,reported,bop_bpm6,BOP–BPM6(short),DT8
+2024Q3,9,Debit,5072.17507516,reported,bop_bpm6,BOP–BPM6(short),DT9
+2024Q3,10,Goods,-1507.26982976,reported,bop_bpm6,BOP–BPM6(short),DT10
+2024Q3,11,Credit,2552.822591,reported,bop_bpm6,BOP–BPM6(short),DT11
+2024Q3,12,Debit,4060.09242076,reported,bop_bpm6,BOP–BPM6(short),DT12
+2024Q3,13,Services,1464.4011164900003,reported,bop_bpm6,BOP–BPM6(short),DT13
+2024Q3,14,Credit,2476.4837708900004,reported,bop_bpm6,BOP–BPM6(short),DT14
+2024Q3,15,Debit,1012.0826544000001,reported,bop_bpm6,BOP–BPM6(short),DT15
+2024Q3,16,Primary income,-757.98930393,reported,bop_bpm6,BOP–BPM6(short),DT16
+2024Q3,17,Credit,459.68132451,reported,bop_bpm6,BOP–BPM6(short),DT17
+2024Q3,18,Debit,1217.67062844,reported,bop_bpm6,BOP–BPM6(short),DT18
+2024Q3,19,Secondary income,810.69460103,reported,bop_bpm6,BOP–BPM6(short),DT19
+2024Q3,20,Credit,847.35280929,reported,bop_bpm6,BOP–BPM6(short),DT20
+2024Q3,21,Debit,36.65820826,reported,bop_bpm6,BOP–BPM6(short),DT21
+2024Q3,22,Capital account,8.1933526,reported,bop_bpm6,BOP–BPM6(short),DT22
+2024Q3,23,Credit,8.1933526,reported,bop_bpm6,BOP–BPM6(short),DT23
+2024Q3,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DT24
+2024Q3,25,Net lending (+) / net borrowing (-) (balance from current and capital account),18.029936430000564,reported,bop_bpm6,BOP–BPM6(short),DT25
+2024Q3,26,Financial account,26.51456785999998,reported,bop_bpm6,BOP–BPM6(short),DT26
+2024Q3,27,Direct investment,-106.53163793000006,reported,bop_bpm6,BOP–BPM6(short),DT27
+2024Q3,28,Assets,123.14884801999999,reported,bop_bpm6,BOP–BPM6(short),DT28
+2024Q3,29,Liabilities,229.68048595000005,reported,bop_bpm6,BOP–BPM6(short),DT29
+2024Q3,30,Portfolio investment,-419.9051491599999,reported,bop_bpm6,BOP–BPM6(short),DT30
+2024Q3,31,Assets,-44.39488718999996,reported,bop_bpm6,BOP–BPM6(short),DT31
+2024Q3,32,Liabilities,375.51026196999993,reported,bop_bpm6,BOP–BPM6(short),DT32
+2024Q3,33,Financial derivatives and employee stock options,6.126347370000001,reported,bop_bpm6,BOP–BPM6(short),DT33
+2024Q3,34,Assets,-12.991800099999999,reported,bop_bpm6,BOP–BPM6(short),DT34
+2024Q3,35,Liabilities,-19.11814747,reported,bop_bpm6,BOP–BPM6(short),DT35
+2024Q3,36,Other investment,565.64954811,reported,bop_bpm6,BOP–BPM6(short),DT36
+2024Q3,37,Assets,792.37205418,reported,bop_bpm6,BOP–BPM6(short),DT37
+2024Q3,38,Liabilities,226.72250607,reported,bop_bpm6,BOP–BPM6(short),DT38
+2024Q3,39,Reserve assets,-18.82454053,reported,bop_bpm6,BOP–BPM6(short),DT39
+2024Q3,40,Net errors and omissions,8.484631429999414,reported,bop_bpm6,BOP–BPM6(short),DT40
+2024Q4,4,Current account,-714.5105587500002,reported,bop_bpm6,BOP–BPM6(short),DU4
+2024Q4,5,Credit,5471.702033590001,reported,bop_bpm6,BOP–BPM6(short),DU5
+2024Q4,6,Debit,6186.212592340001,reported,bop_bpm6,BOP–BPM6(short),DU6
+2024Q4,7,Goods and services,-926.6802344099997,reported,bop_bpm6,BOP–BPM6(short),DU7
+2024Q4,8,Credit,4160.039792070001,reported,bop_bpm6,BOP–BPM6(short),DU8
+2024Q4,9,Debit,5086.72002648,reported,bop_bpm6,BOP–BPM6(short),DU9
+2024Q4,10,Goods,-1728.1946403800002,reported,bop_bpm6,BOP–BPM6(short),DU10
+2024Q4,11,Credit,2335.05163752,reported,bop_bpm6,BOP–BPM6(short),DU11
+2024Q4,12,Debit,4063.2462779,reported,bop_bpm6,BOP–BPM6(short),DU12
+2024Q4,13,Services,801.5144059700006,reported,bop_bpm6,BOP–BPM6(short),DU13
+2024Q4,14,Credit,1824.9881545500004,reported,bop_bpm6,BOP–BPM6(short),DU14
+2024Q4,15,Debit,1023.4737485799999,reported,bop_bpm6,BOP–BPM6(short),DU15
+2024Q4,16,Primary income,-626.32540846,reported,bop_bpm6,BOP–BPM6(short),DU16
+2024Q4,17,Credit,438.83615991,reported,bop_bpm6,BOP–BPM6(short),DU17
+2024Q4,18,Debit,1065.16156837,reported,bop_bpm6,BOP–BPM6(short),DU18
+2024Q4,19,Secondary income,838.4950841200001,reported,bop_bpm6,BOP–BPM6(short),DU19
+2024Q4,20,Credit,872.8260816100001,reported,bop_bpm6,BOP–BPM6(short),DU20
+2024Q4,21,Debit,34.33099749,reported,bop_bpm6,BOP–BPM6(short),DU21
+2024Q4,22,Capital account,10.50055509,reported,bop_bpm6,BOP–BPM6(short),DU22
+2024Q4,23,Credit,10.50055509,reported,bop_bpm6,BOP–BPM6(short),DU23
+2024Q4,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DU24
+2024Q4,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-704.0100036600002,reported,bop_bpm6,BOP–BPM6(short),DU25
+2024Q4,26,Financial account,-686.5464926500001,reported,bop_bpm6,BOP–BPM6(short),DU26
+2024Q4,27,Direct investment,-343.71944476,reported,bop_bpm6,BOP–BPM6(short),DU27
+2024Q4,28,Assets,140.62168746,reported,bop_bpm6,BOP–BPM6(short),DU28
+2024Q4,29,Liabilities,484.34113221999996,reported,bop_bpm6,BOP–BPM6(short),DU29
+2024Q4,30,Portfolio investment,1189.5452368400001,reported,bop_bpm6,BOP–BPM6(short),DU30
+2024Q4,31,Assets,999.0179409200001,reported,bop_bpm6,BOP–BPM6(short),DU31
+2024Q4,32,Liabilities,-190.52729592,reported,bop_bpm6,BOP–BPM6(short),DU32
+2024Q4,33,Financial derivatives and employee stock options,-0.8985940600000006,reported,bop_bpm6,BOP–BPM6(short),DU33
+2024Q4,34,Assets,-26.79051321,reported,bop_bpm6,BOP–BPM6(short),DU34
+2024Q4,35,Liabilities,-25.89191915,reported,bop_bpm6,BOP–BPM6(short),DU35
+2024Q4,36,Other investment,-1352.1118470800002,reported,bop_bpm6,BOP–BPM6(short),DU36
+2024Q4,37,Assets,-873.77372554,reported,bop_bpm6,BOP–BPM6(short),DU37
+2024Q4,38,Liabilities,478.3381215400001,reported,bop_bpm6,BOP–BPM6(short),DU38
+2024Q4,39,Reserve assets,-179.36184358999998,reported,bop_bpm6,BOP–BPM6(short),DU39
+2024Q4,40,Net errors and omissions,17.463511010000047,reported,bop_bpm6,BOP–BPM6(short),DU40
+2024,4,Current account,-1758.9425263399935,reported,bop_bpm6,BOP–BPM6(short),DV4
+2024,5,Credit,21698.984483140004,reported,bop_bpm6,BOP–BPM6(short),DV5
+2024,6,Debit,23457.927009479998,reported,bop_bpm6,BOP–BPM6(short),DV6
+2024,7,Goods and services,-2608.964684919996,reported,bop_bpm6,BOP–BPM6(short),DV7
+2024,8,Credit,16399.430043480002,reported,bop_bpm6,BOP–BPM6(short),DV8
+2024,9,Debit,19008.3947284,reported,bop_bpm6,BOP–BPM6(short),DV9
+2024,10,Goods,-6563.278985169998,reported,bop_bpm6,BOP–BPM6(short),DV10
+2024,11,Credit,8630.301249330001,reported,bop_bpm6,BOP–BPM6(short),DV11
+2024,12,Debit,15193.5802345,reported,bop_bpm6,BOP–BPM6(short),DV12
+2024,13,Services,3954.31430025,reported,bop_bpm6,BOP–BPM6(short),DV13
+2024,14,Credit,7769.12879415,reported,bop_bpm6,BOP–BPM6(short),DV14
+2024,15,Debit,3814.8144939000003,reported,bop_bpm6,BOP–BPM6(short),DV15
+2024,16,Primary income,-2522.5881918499995,reported,bop_bpm6,BOP–BPM6(short),DV16
+2024,17,Credit,1769.6657465100002,reported,bop_bpm6,BOP–BPM6(short),DV17
+2024,18,Debit,4292.25393836,reported,bop_bpm6,BOP–BPM6(short),DV18
+2024,19,Secondary income,3372.61035043,reported,bop_bpm6,BOP–BPM6(short),DV19
+2024,20,Credit,3529.88869315,reported,bop_bpm6,BOP–BPM6(short),DV20
+2024,21,Debit,157.27834272,reported,bop_bpm6,BOP–BPM6(short),DV21
+2024,22,Capital account,28.00012459,reported,bop_bpm6,BOP–BPM6(short),DV22
+2024,23,Credit,28.00012459,reported,bop_bpm6,BOP–BPM6(short),DV23
+2024,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DV24
+2024,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-1730.9424017499998,reported,bop_bpm6,BOP–BPM6(short),DV25
+2024,26,Financial account,-1742.8381947199991,reported,bop_bpm6,BOP–BPM6(short),DV26
+2024,27,Direct investment,-1164.8167094299997,reported,bop_bpm6,BOP–BPM6(short),DV27
+2024,28,Assets,467.15951140000004,reported,bop_bpm6,BOP–BPM6(short),DV28
+2024,29,Liabilities,1631.9762208299999,reported,bop_bpm6,BOP–BPM6(short),DV29
+2024,30,Portfolio investment,1091.6214836400004,reported,bop_bpm6,BOP–BPM6(short),DV30
+2024,31,Assets,1494.8807846900002,reported,bop_bpm6,BOP–BPM6(short),DV31
+2024,32,Liabilities,403.25930104999986,reported,bop_bpm6,BOP–BPM6(short),DV32
+2024,33,Financial derivatives and employee stock options,33.54458314999999,reported,bop_bpm6,BOP–BPM6(short),DV33
+2024,34,Assets,-61.32656608,reported,bop_bpm6,BOP–BPM6(short),DV34
+2024,35,Liabilities,-94.87114922999999,reported,bop_bpm6,BOP–BPM6(short),DV35
+2024,36,Other investment,-1084.09060436,reported,bop_bpm6,BOP–BPM6(short),DV36
+2024,37,Assets,169.75961088999998,reported,bop_bpm6,BOP–BPM6(short),DV37
+2024,38,Liabilities,1253.85021525,reported,bop_bpm6,BOP–BPM6(short),DV38
+2024,39,Reserve assets,-619.0969477199998,reported,bop_bpm6,BOP–BPM6(short),DV39
+2024,40,Net errors and omissions,-11.89579297000017,reported,bop_bpm6,BOP–BPM6(short),DV40
+2025Q1,4,Current account,-676.9210621700004,reported,bop_bpm6,BOP–BPM6(short),DW4
+2025Q1,5,Credit,4778.05421882,reported,bop_bpm6,BOP–BPM6(short),DW5
+2025Q1,6,Debit,5454.97528099,reported,bop_bpm6,BOP–BPM6(short),DW6
+2025Q1,7,Goods and services,-901.6227140599999,reported,bop_bpm6,BOP–BPM6(short),DW7
+2025Q1,8,Credit,3537.64334405,reported,bop_bpm6,BOP–BPM6(short),DW8
+2025Q1,9,Debit,4439.26605811,reported,bop_bpm6,BOP–BPM6(short),DW9
+2025Q1,10,Goods,-1725.9564143500002,reported,bop_bpm6,BOP–BPM6(short),DW10
+2025Q1,11,Credit,1840.4464833900001,reported,bop_bpm6,BOP–BPM6(short),DW11
+2025Q1,12,Debit,3566.4028977400003,reported,bop_bpm6,BOP–BPM6(short),DW12
+2025Q1,13,Services,824.33370029,reported,bop_bpm6,BOP–BPM6(short),DW13
+2025Q1,14,Credit,1697.1968606599999,reported,bop_bpm6,BOP–BPM6(short),DW14
+2025Q1,15,Debit,872.8631603699998,reported,bop_bpm6,BOP–BPM6(short),DW15
+2025Q1,16,Primary income,-610.68607255,reported,bop_bpm6,BOP–BPM6(short),DW16
+2025Q1,17,Credit,372.09982905000004,reported,bop_bpm6,BOP–BPM6(short),DW17
+2025Q1,18,Debit,982.7859016,reported,bop_bpm6,BOP–BPM6(short),DW18
+2025Q1,19,Secondary income,835.38772444,reported,bop_bpm6,BOP–BPM6(short),DW19
+2025Q1,20,Credit,868.31104572,reported,bop_bpm6,BOP–BPM6(short),DW20
+2025Q1,21,Debit,32.923321279999996,reported,bop_bpm6,BOP–BPM6(short),DW21
+2025Q1,22,Capital account,4.49935945,reported,bop_bpm6,BOP–BPM6(short),DW22
+2025Q1,23,Credit,4.49935945,reported,bop_bpm6,BOP–BPM6(short),DW23
+2025Q1,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DW24
+2025Q1,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-672.4217027200003,reported,bop_bpm6,BOP–BPM6(short),DW25
+2025Q1,26,Financial account,-699.0168815499998,reported,bop_bpm6,BOP–BPM6(short),DW26
+2025Q1,27,Direct investment,-245.49520180999994,reported,bop_bpm6,BOP–BPM6(short),DW27
+2025Q1,28,Assets,72.50550290999999,reported,bop_bpm6,BOP–BPM6(short),DW28
+2025Q1,29,Liabilities,318.00070471999993,reported,bop_bpm6,BOP–BPM6(short),DW29
+2025Q1,30,Portfolio investment,-91.49738411999984,reported,bop_bpm6,BOP–BPM6(short),DW30
+2025Q1,31,Assets,-87.75227781999985,reported,bop_bpm6,BOP–BPM6(short),DW31
+2025Q1,32,Liabilities,3.745106299999996,reported,bop_bpm6,BOP–BPM6(short),DW32
+2025Q1,33,Financial derivatives and employee stock options,68.74842032000001,reported,bop_bpm6,BOP–BPM6(short),DW33
+2025Q1,34,Assets,-55.692135740000005,reported,bop_bpm6,BOP–BPM6(short),DW34
+2025Q1,35,Liabilities,-124.44055606,reported,bop_bpm6,BOP–BPM6(short),DW35
+2025Q1,36,Other investment,-147.30891824,reported,bop_bpm6,BOP–BPM6(short),DW36
+2025Q1,37,Assets,-13.100005509999994,reported,bop_bpm6,BOP–BPM6(short),DW37
+2025Q1,38,Liabilities,134.20891273,reported,bop_bpm6,BOP–BPM6(short),DW38
+2025Q1,39,Reserve assets,-283.4637977,reported,bop_bpm6,BOP–BPM6(short),DW39
+2025Q1,40,Net errors and omissions,-26.59517882999944,reported,bop_bpm6,BOP–BPM6(short),DW40
+2025Q2,4,Current account,-329.09779892000006,reported,bop_bpm6,BOP–BPM6(short),DX4
+2025Q2,5,Credit,5797.82176751,reported,bop_bpm6,BOP–BPM6(short),DX5
+2025Q2,6,Debit,6126.9195664300005,reported,bop_bpm6,BOP–BPM6(short),DX6
+2025Q2,7,Goods and services,-554.6432788500006,reported,bop_bpm6,BOP–BPM6(short),DX7
+2025Q2,8,Credit,4443.11646985,reported,bop_bpm6,BOP–BPM6(short),DX8
+2025Q2,9,Debit,4997.7597487,reported,bop_bpm6,BOP–BPM6(short),DX9
+2025Q2,10,Goods,-1633.1091628699996,reported,bop_bpm6,BOP–BPM6(short),DX10
+2025Q2,11,Credit,2421.59671396,reported,bop_bpm6,BOP–BPM6(short),DX11
+2025Q2,12,Debit,4054.70587683,reported,bop_bpm6,BOP–BPM6(short),DX12
+2025Q2,13,Services,1078.4658840199997,reported,bop_bpm6,BOP–BPM6(short),DX13
+2025Q2,14,Credit,2021.51975589,reported,bop_bpm6,BOP–BPM6(short),DX14
+2025Q2,15,Debit,943.0538718700002,reported,bop_bpm6,BOP–BPM6(short),DX15
+2025Q2,16,Primary income,-641.5070042599999,reported,bop_bpm6,BOP–BPM6(short),DX16
+2025Q2,17,Credit,450.55217667,reported,bop_bpm6,BOP–BPM6(short),DX17
+2025Q2,18,Debit,1092.05918093,reported,bop_bpm6,BOP–BPM6(short),DX18
+2025Q2,19,Secondary income,867.05248419,reported,bop_bpm6,BOP–BPM6(short),DX19
+2025Q2,20,Credit,904.1531209899999,reported,bop_bpm6,BOP–BPM6(short),DX20
+2025Q2,21,Debit,37.100636800000004,reported,bop_bpm6,BOP–BPM6(short),DX21
+2025Q2,22,Capital account,7.04104071,reported,bop_bpm6,BOP–BPM6(short),DX22
+2025Q2,23,Credit,7.04104071,reported,bop_bpm6,BOP–BPM6(short),DX23
+2025Q2,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DX24
+2025Q2,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-322.05675821000005,reported,bop_bpm6,BOP–BPM6(short),DX25
+2025Q2,26,Financial account,-296.81329086999995,reported,bop_bpm6,BOP–BPM6(short),DX26
+2025Q2,27,Direct investment,-536.79965326,reported,bop_bpm6,BOP–BPM6(short),DX27
+2025Q2,28,Assets,51.79918769000001,reported,bop_bpm6,BOP–BPM6(short),DX28
+2025Q2,29,Liabilities,588.5988409500001,reported,bop_bpm6,BOP–BPM6(short),DX29
+2025Q2,30,Portfolio investment,-154.68082518999998,reported,bop_bpm6,BOP–BPM6(short),DX30
+2025Q2,31,Assets,-105.76180756999997,reported,bop_bpm6,BOP–BPM6(short),DX31
+2025Q2,32,Liabilities,48.91901762,reported,bop_bpm6,BOP–BPM6(short),DX32
+2025Q2,33,Financial derivatives and employee stock options,6.6009883999999985,reported,bop_bpm6,BOP–BPM6(short),DX33
+2025Q2,34,Assets,-32.5164722,reported,bop_bpm6,BOP–BPM6(short),DX34
+2025Q2,35,Liabilities,-39.1174606,reported,bop_bpm6,BOP–BPM6(short),DX35
+2025Q2,36,Other investment,115.32712028000003,reported,bop_bpm6,BOP–BPM6(short),DX36
+2025Q2,37,Assets,178.02263121000001,reported,bop_bpm6,BOP–BPM6(short),DX37
+2025Q2,38,Liabilities,62.69551092999999,reported,bop_bpm6,BOP–BPM6(short),DX38
+2025Q2,39,Reserve assets,272.7390789,reported,bop_bpm6,BOP–BPM6(short),DX39
+2025Q2,40,Net errors and omissions,25.24346734000011,reported,bop_bpm6,BOP–BPM6(short),DX40
+2025Q3,4,Current account,335.80934119000085,reported,bop_bpm6,BOP–BPM6(short),DY4
+2025Q3,5,Credit,6694.23631007,reported,bop_bpm6,BOP–BPM6(short),DY5
+2025Q3,6,Debit,6358.42696888,reported,bop_bpm6,BOP–BPM6(short),DY6
+2025Q3,7,Goods and services,39.60476191999987,reported,bop_bpm6,BOP–BPM6(short),DY7
+2025Q3,8,Credit,5242.045897,reported,bop_bpm6,BOP–BPM6(short),DY8
+2025Q3,9,Debit,5202.44113508,reported,bop_bpm6,BOP–BPM6(short),DY9
+2025Q3,10,Goods,-1641.6908626199997,reported,bop_bpm6,BOP–BPM6(short),DY10
+2025Q3,11,Credit,2547.8844372500002,reported,bop_bpm6,BOP–BPM6(short),DY11
+2025Q3,12,Debit,4189.57529987,reported,bop_bpm6,BOP–BPM6(short),DY12
+2025Q3,13,Services,1681.29562454,reported,bop_bpm6,BOP–BPM6(short),DY13
+2025Q3,14,Credit,2694.16145975,reported,bop_bpm6,BOP–BPM6(short),DY14
+2025Q3,15,Debit,1012.8658352100001,reported,bop_bpm6,BOP–BPM6(short),DY15
+2025Q3,16,Primary income,-597.09894236,reported,bop_bpm6,BOP–BPM6(short),DY16
+2025Q3,17,Credit,514.31172484,reported,bop_bpm6,BOP–BPM6(short),DY17
+2025Q3,18,Debit,1111.4106672,reported,bop_bpm6,BOP–BPM6(short),DY18
+2025Q3,19,Secondary income,893.30352163,reported,bop_bpm6,BOP–BPM6(short),DY19
+2025Q3,20,Credit,937.87868823,reported,bop_bpm6,BOP–BPM6(short),DY20
+2025Q3,21,Debit,44.5751666,reported,bop_bpm6,BOP–BPM6(short),DY21
+2025Q3,22,Capital account,5.54346398,reported,bop_bpm6,BOP–BPM6(short),DY22
+2025Q3,23,Credit,5.54346398,reported,bop_bpm6,BOP–BPM6(short),DY23
+2025Q3,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DY24
+2025Q3,25,Net lending (+) / net borrowing (-) (balance from current and capital account),341.35280517000086,reported,bop_bpm6,BOP–BPM6(short),DY25
+2025Q3,26,Financial account,318.82377228999997,reported,bop_bpm6,BOP–BPM6(short),DY26
+2025Q3,27,Direct investment,-455.10386365,reported,bop_bpm6,BOP–BPM6(short),DY27
+2025Q3,28,Assets,92.37913678999999,reported,bop_bpm6,BOP–BPM6(short),DY28
+2025Q3,29,Liabilities,547.48300044,reported,bop_bpm6,BOP–BPM6(short),DY29
+2025Q3,30,Portfolio investment,84.69327788000004,reported,bop_bpm6,BOP–BPM6(short),DY30
+2025Q3,31,Assets,404.63943474999996,reported,bop_bpm6,BOP–BPM6(short),DY31
+2025Q3,32,Liabilities,319.9461568699999,reported,bop_bpm6,BOP–BPM6(short),DY32
+2025Q3,33,Financial derivatives and employee stock options,2.607011270000001,reported,bop_bpm6,BOP–BPM6(short),DY33
+2025Q3,34,Assets,-18.61844871,reported,bop_bpm6,BOP–BPM6(short),DY34
+2025Q3,35,Liabilities,-21.22545998,reported,bop_bpm6,BOP–BPM6(short),DY35
+2025Q3,36,Other investment,70.27350430999991,reported,bop_bpm6,BOP–BPM6(short),DY36
+2025Q3,37,Assets,412.44462465999993,reported,bop_bpm6,BOP–BPM6(short),DY37
+2025Q3,38,Liabilities,342.17112035,reported,bop_bpm6,BOP–BPM6(short),DY38
+2025Q3,39,Reserve assets,616.35384248,reported,bop_bpm6,BOP–BPM6(short),DY39
+2025Q3,40,Net errors and omissions,-22.529032880000898,reported,bop_bpm6,BOP–BPM6(short),DY40
+2025Q4,4,Current account,-453.0315924100023,reported,bop_bpm6,BOP–BPM6(short),DZ4
+2025Q4,5,Credit,6459.331510699999,reported,bop_bpm6,BOP–BPM6(short),DZ5
+2025Q4,6,Debit,6912.363103110001,reported,bop_bpm6,BOP–BPM6(short),DZ6
+2025Q4,7,Goods and services,-688.2672613000013,reported,bop_bpm6,BOP–BPM6(short),DZ7
+2025Q4,8,Credit,4981.660431439999,reported,bop_bpm6,BOP–BPM6(short),DZ8
+2025Q4,9,Debit,5669.927692740001,reported,bop_bpm6,BOP–BPM6(short),DZ9
+2025Q4,10,Goods,-1813.522152470001,reported,bop_bpm6,BOP–BPM6(short),DZ10
+2025Q4,11,Credit,2821.6268248999995,reported,bop_bpm6,BOP–BPM6(short),DZ11
+2025Q4,12,Debit,4635.1489773700005,reported,bop_bpm6,BOP–BPM6(short),DZ12
+2025Q4,13,Services,1125.25489117,reported,bop_bpm6,BOP–BPM6(short),DZ13
+2025Q4,14,Credit,2160.03360654,reported,bop_bpm6,BOP–BPM6(short),DZ14
+2025Q4,15,Debit,1034.77871537,reported,bop_bpm6,BOP–BPM6(short),DZ15
+2025Q4,16,Primary income,-732.5971140700001,reported,bop_bpm6,BOP–BPM6(short),DZ16
+2025Q4,17,Credit,470.99474724,reported,bop_bpm6,BOP–BPM6(short),DZ17
+2025Q4,18,Debit,1203.59186131,reported,bop_bpm6,BOP–BPM6(short),DZ18
+2025Q4,19,Secondary income,967.83278296,reported,bop_bpm6,BOP–BPM6(short),DZ19
+2025Q4,20,Credit,1006.67633202,reported,bop_bpm6,BOP–BPM6(short),DZ20
+2025Q4,21,Debit,38.84354906,reported,bop_bpm6,BOP–BPM6(short),DZ21
+2025Q4,22,Capital account,7.3224507,reported,bop_bpm6,BOP–BPM6(short),DZ22
+2025Q4,23,Credit,7.3224507,reported,bop_bpm6,BOP–BPM6(short),DZ23
+2025Q4,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),DZ24
+2025Q4,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-445.7091417100023,reported,bop_bpm6,BOP–BPM6(short),DZ25
+2025Q4,26,Financial account,-420.04908111,reported,bop_bpm6,BOP–BPM6(short),DZ26
+2025Q4,27,Direct investment,-363.56207440000003,reported,bop_bpm6,BOP–BPM6(short),DZ27
+2025Q4,28,Assets,56.77590486,reported,bop_bpm6,BOP–BPM6(short),DZ28
+2025Q4,29,Liabilities,420.33797926,reported,bop_bpm6,BOP–BPM6(short),DZ29
+2025Q4,30,Portfolio investment,117.42379452,reported,bop_bpm6,BOP–BPM6(short),DZ30
+2025Q4,31,Assets,167.70812135,reported,bop_bpm6,BOP–BPM6(short),DZ31
+2025Q4,32,Liabilities,50.28432683,reported,bop_bpm6,BOP–BPM6(short),DZ32
+2025Q4,33,Financial derivatives and employee stock options,0.25995762000000155,reported,bop_bpm6,BOP–BPM6(short),DZ33
+2025Q4,34,Assets,-16.92530583,reported,bop_bpm6,BOP–BPM6(short),DZ34
+2025Q4,35,Liabilities,-17.18526345,reported,bop_bpm6,BOP–BPM6(short),DZ35
+2025Q4,36,Other investment,-776.3085859400001,reported,bop_bpm6,BOP–BPM6(short),DZ36
+2025Q4,37,Assets,-919.2202093000001,reported,bop_bpm6,BOP–BPM6(short),DZ37
+2025Q4,38,Liabilities,-142.91162336,reported,bop_bpm6,BOP–BPM6(short),DZ38
+2025Q4,39,Reserve assets,602.1378270900001,reported,bop_bpm6,BOP–BPM6(short),DZ39
+2025Q4,40,Net errors and omissions,25.66006060000234,reported,bop_bpm6,BOP–BPM6(short),DZ40
+2025,4,Current account,-1123.2411123100028,reported,bop_bpm6,BOP–BPM6(short),EA4
+2025,5,Credit,23729.443807099997,reported,bop_bpm6,BOP–BPM6(short),EA5
+2025,6,Debit,24852.68491941,reported,bop_bpm6,BOP–BPM6(short),EA6
+2025,7,Goods and services,-2104.9284922900006,reported,bop_bpm6,BOP–BPM6(short),EA7
+2025,8,Credit,18204.46614234,reported,bop_bpm6,BOP–BPM6(short),EA8
+2025,9,Debit,20309.39463463,reported,bop_bpm6,BOP–BPM6(short),EA9
+2025,10,Goods,-6814.278592310002,reported,bop_bpm6,BOP–BPM6(short),EA10
+2025,11,Credit,9631.5544595,reported,bop_bpm6,BOP–BPM6(short),EA11
+2025,12,Debit,16445.83305181,reported,bop_bpm6,BOP–BPM6(short),EA12
+2025,13,Services,4709.350100019999,reported,bop_bpm6,BOP–BPM6(short),EA13
+2025,14,Credit,8572.91168284,reported,bop_bpm6,BOP–BPM6(short),EA14
+2025,15,Debit,3863.5615828200002,reported,bop_bpm6,BOP–BPM6(short),EA15
+2025,16,Primary income,-2581.88913324,reported,bop_bpm6,BOP–BPM6(short),EA16
+2025,17,Credit,1807.9584777999999,reported,bop_bpm6,BOP–BPM6(short),EA17
+2025,18,Debit,4389.84761104,reported,bop_bpm6,BOP–BPM6(short),EA18
+2025,19,Secondary income,3563.5765132200004,reported,bop_bpm6,BOP–BPM6(short),EA19
+2025,20,Credit,3717.0191869600003,reported,bop_bpm6,BOP–BPM6(short),EA20
+2025,21,Debit,153.44267374,reported,bop_bpm6,BOP–BPM6(short),EA21
+2025,22,Capital account,24.406314840000004,reported,bop_bpm6,BOP–BPM6(short),EA22
+2025,23,Credit,24.406314840000004,reported,bop_bpm6,BOP–BPM6(short),EA23
+2025,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),EA24
+2025,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-1098.8347974700018,reported,bop_bpm6,BOP–BPM6(short),EA25
+2025,26,Financial account,-1097.0554812399996,reported,bop_bpm6,BOP–BPM6(short),EA26
+2025,27,Direct investment,-1600.9607931199998,reported,bop_bpm6,BOP–BPM6(short),EA27
+2025,28,Assets,273.45973225,reported,bop_bpm6,BOP–BPM6(short),EA28
+2025,29,Liabilities,1874.4205253699997,reported,bop_bpm6,BOP–BPM6(short),EA29
+2025,30,Portfolio investment,-44.06113690999979,reported,bop_bpm6,BOP–BPM6(short),EA30
+2025,31,Assets,378.83347071000014,reported,bop_bpm6,BOP–BPM6(short),EA31
+2025,32,Liabilities,422.89460761999993,reported,bop_bpm6,BOP–BPM6(short),EA32
+2025,33,Financial derivatives and employee stock options,78.21637761000004,reported,bop_bpm6,BOP–BPM6(short),EA33
+2025,34,Assets,-123.75236248,reported,bop_bpm6,BOP–BPM6(short),EA34
+2025,35,Liabilities,-201.96874009000004,reported,bop_bpm6,BOP–BPM6(short),EA35
+2025,36,Other investment,-738.0168795900001,reported,bop_bpm6,BOP–BPM6(short),EA36
+2025,37,Assets,-341.8529589400001,reported,bop_bpm6,BOP–BPM6(short),EA37
+2025,38,Liabilities,396.16392065,reported,bop_bpm6,BOP–BPM6(short),EA38
+2025,39,Reserve assets,1207.7669507700002,reported,bop_bpm6,BOP–BPM6(short),EA39
+2025,40,Net errors and omissions,1.7793162300021095,reported,bop_bpm6,BOP–BPM6(short),EA40
+2026Q1,4,Current account,-355.20029419,reported,bop_bpm6,BOP–BPM6(short),EB4
+2026Q1,5,Credit,5464.98883971,reported,bop_bpm6,BOP–BPM6(short),EB5
+2026Q1,6,Debit,5820.1891339,reported,bop_bpm6,BOP–BPM6(short),EB6
+2026Q1,7,Goods and services,-797.7667938799996,reported,bop_bpm6,BOP–BPM6(short),EB7
+2026Q1,8,Credit,4099.83925943,reported,bop_bpm6,BOP–BPM6(short),EB8
+2026Q1,9,Debit,4897.60605331,reported,bop_bpm6,BOP–BPM6(short),EB9
+2026Q1,10,Goods,-1686.9551077800002,reported,bop_bpm6,BOP–BPM6(short),EB10
+2026Q1,11,Credit,2279.45654015,reported,bop_bpm6,BOP–BPM6(short),EB11
+2026Q1,12,Debit,3966.41164793,reported,bop_bpm6,BOP–BPM6(short),EB12
+2026Q1,13,Services,889.1883139000001,reported,bop_bpm6,BOP–BPM6(short),EB13
+2026Q1,14,Credit,1820.38271928,reported,bop_bpm6,BOP–BPM6(short),EB14
+2026Q1,15,Debit,931.1944053799998,reported,bop_bpm6,BOP–BPM6(short),EB15
+2026Q1,16,Primary income,-458.25278967,reported,bop_bpm6,BOP–BPM6(short),EB16
+2026Q1,17,Credit,428.09056324,reported,bop_bpm6,BOP–BPM6(short),EB17
+2026Q1,18,Debit,886.34335291,reported,bop_bpm6,BOP–BPM6(short),EB18
+2026Q1,19,Secondary income,900.81928936,reported,bop_bpm6,BOP–BPM6(short),EB19
+2026Q1,20,Credit,937.05901704,reported,bop_bpm6,BOP–BPM6(short),EB20
+2026Q1,21,Debit,36.23972768000001,reported,bop_bpm6,BOP–BPM6(short),EB21
+2026Q1,22,Capital account,37.06366498,reported,bop_bpm6,BOP–BPM6(short),EB22
+2026Q1,23,Credit,37.06366498,reported,bop_bpm6,BOP–BPM6(short),EB23
+2026Q1,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),EB24
+2026Q1,25,Net lending (+) / net borrowing (-) (balance from current and capital account),-318.13662921,reported,bop_bpm6,BOP–BPM6(short),EB25
+2026Q1,26,Financial account,-346.86526260999995,reported,bop_bpm6,BOP–BPM6(short),EB26
+2026Q1,27,Direct investment,-170.948755,reported,bop_bpm6,BOP–BPM6(short),EB27
+2026Q1,28,Assets,121.72167677999998,reported,bop_bpm6,BOP–BPM6(short),EB28
+2026Q1,29,Liabilities,292.67043178,reported,bop_bpm6,BOP–BPM6(short),EB29
+2026Q1,30,Portfolio investment,-452.78919898999993,reported,bop_bpm6,BOP–BPM6(short),EB30
+2026Q1,31,Assets,-265.82795881,reported,bop_bpm6,BOP–BPM6(short),EB31
+2026Q1,32,Liabilities,186.96124017999998,reported,bop_bpm6,BOP–BPM6(short),EB32
+2026Q1,33,Financial derivatives and employee stock options,0.5190221799999986,reported,bop_bpm6,BOP–BPM6(short),EB33
+2026Q1,34,Assets,-14.444449070000001,reported,bop_bpm6,BOP–BPM6(short),EB34
+2026Q1,35,Liabilities,-14.96347125,reported,bop_bpm6,BOP–BPM6(short),EB35
+2026Q1,36,Other investment,128.80752787000006,reported,bop_bpm6,BOP–BPM6(short),EB36
+2026Q1,37,Assets,506.9973729800001,reported,bop_bpm6,BOP–BPM6(short),EB37
+2026Q1,38,Liabilities,378.18984511,reported,bop_bpm6,BOP–BPM6(short),EB38
+2026Q1,39,Reserve assets,147.54614132999995,reported,bop_bpm6,BOP–BPM6(short),EB39
+2026Q1,40,Net errors and omissions,-28.72863339999992,reported,bop_bpm6,BOP–BPM6(short),EB40
+2026Q2,4,Current account,-146.54696083999897,reported,bop_bpm6,BOP–BPM6(short),EC4
+2026Q2,5,Credit,6592.114376050001,reported,bop_bpm6,BOP–BPM6(short),EC5
+2026Q2,6,Debit,6738.66133689,reported,bop_bpm6,BOP–BPM6(short),EC6
+2026Q2,7,Goods and services,-451.37432054999954,reported,bop_bpm6,BOP–BPM6(short),EC7
+2026Q2,8,Credit,5089.1428694100005,reported,bop_bpm6,BOP–BPM6(short),EC8
+2026Q2,9,Debit,5540.51718996,reported,bop_bpm6,BOP–BPM6(short),EC9
+2026Q2,10,Goods,-1569.9159510199997,reported,bop_bpm6,BOP–BPM6(short),EC10
+2026Q2,11,Credit,2899.89883981,reported,bop_bpm6,BOP–BPM6(short),EC11
+2026Q2,12,Debit,4469.81479083,reported,bop_bpm6,BOP–BPM6(short),EC12
+2026Q2,13,Services,1118.5416304700004,reported,bop_bpm6,BOP–BPM6(short),EC13
+2026Q2,14,Credit,2189.2440296000004,reported,bop_bpm6,BOP–BPM6(short),EC14
+2026Q2,15,Debit,1070.70239913,reported,bop_bpm6,BOP–BPM6(short),EC15
+2026Q2,16,Primary income,-685.4110975899999,reported,bop_bpm6,BOP–BPM6(short),EC16
+2026Q2,17,Credit,477.4072032,reported,bop_bpm6,BOP–BPM6(short),EC17
+2026Q2,18,Debit,1162.81830079,reported,bop_bpm6,BOP–BPM6(short),EC18
+2026Q2,19,Secondary income,990.2384573,reported,bop_bpm6,BOP–BPM6(short),EC19
+2026Q2,20,Credit,1025.56430344,reported,bop_bpm6,BOP–BPM6(short),EC20
+2026Q2,21,Debit,35.32584614,reported,bop_bpm6,BOP–BPM6(short),EC21
+2026Q2,22,Capital account,356.1428906,reported,bop_bpm6,BOP–BPM6(short),EC22
+2026Q2,23,Credit,356.1428906,reported,bop_bpm6,BOP–BPM6(short),EC23
+2026Q2,24,Debit,0,reported,bop_bpm6,BOP–BPM6(short),EC24
+2026Q2,25,Net lending (+) / net borrowing (-) (balance from current and capital account),209.595929760001,reported,bop_bpm6,BOP–BPM6(short),EC25
+2026Q2,26,Financial account,233.00226242000008,reported,bop_bpm6,BOP–BPM6(short),EC26
+2026Q2,27,Direct investment,-364.31025348000003,reported,bop_bpm6,BOP–BPM6(short),EC27
+2026Q2,28,Assets,138.96912752,reported,bop_bpm6,BOP–BPM6(short),EC28
+2026Q2,29,Liabilities,503.279381,reported,bop_bpm6,BOP–BPM6(short),EC29
+2026Q2,30,Portfolio investment,-90.39303828999994,reported,bop_bpm6,BOP–BPM6(short),EC30
+2026Q2,31,Assets,325.8711682,reported,bop_bpm6,BOP–BPM6(short),EC31
+2026Q2,32,Liabilities,416.26420648999994,reported,bop_bpm6,BOP–BPM6(short),EC32
+2026Q2,33,Financial derivatives and employee stock options,-0.6705863399999998,reported,bop_bpm6,BOP–BPM6(short),EC33
+2026Q2,34,Assets,-87.80055981,reported,bop_bpm6,BOP–BPM6(short),EC34
+2026Q2,35,Liabilities,-87.12997347,reported,bop_bpm6,BOP–BPM6(short),EC35
+2026Q2,36,Other investment,-280.9496166199999,reported,bop_bpm6,BOP–BPM6(short),EC36
+2026Q2,37,Assets,-60.579891179999976,reported,bop_bpm6,BOP–BPM6(short),EC37
+2026Q2,38,Liabilities,220.3697254399999,reported,bop_bpm6,BOP–BPM6(short),EC38
+2026Q2,39,Reserve assets,969.32575715,reported,bop_bpm6,BOP–BPM6(short),EC39
+2026Q2,40,Net errors and omissions,23.406332659999066,reported,bop_bpm6,BOP–BPM6(short),EC40

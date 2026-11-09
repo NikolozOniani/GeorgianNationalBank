@@ -1,0 +1,8 @@
+year,months,auction_purchases_usdm,auction_sales_usdm,nonauction_net_purchases_usdm,total_net_purchases_usdm,annual_report_net_usdm,difference_usdm,status,source
+2020,12,0.0,873.222,-42.85,-916.072,,,no annual benchmark checked,fx_market
+2021,12,0.0,332.9,-21.96,-354.85999999999996,,,no annual benchmark checked,fx_market
+2022,12,80.0,93.78,578.35,564.57,,,no annual benchmark checked,fx_market
+2023,12,0.0,166.75,1446.0,1279.25,1278.7,0.5499999999999545,unresolved historical discrepancy,fx_market; archived annual benchmarks
+2024,12,0.0,382.1,-52.64999999999999,-434.75,-434.75,0.0,reconciled,fx_market; archived annual benchmarks
+2025,12,0.0,0.0,2432.5,2432.5,2432.5,0.0,reconciled,fx_market; annual2025 p47
+2026,9,0.0,0.0,3370.65,3370.65,,,no annual benchmark checked,fx_market

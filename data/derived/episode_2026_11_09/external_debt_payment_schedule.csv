@@ -1,0 +1,723 @@
+date,source_id,sheet,source_cell,label,payment_bucket,value_usdm,measurement
+2026-06-30,debt_schedule,ED-Service,B6,General Government,immediate2,36.44470922,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C6,General Government,0-3 | 2026Q3,203.88561295,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D6,General Government,4-6 | 2026Q4,202.75236297,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E6,General Government,7-9 | 2027Q1,227.08956229,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F6,General Government,10-12 | 2027Q2,195.46070378,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G6,General Government,13-18 | 27Q3-27Q4,394.6990123,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H6,General Government,19-24 | 28Q1-28Q2,410.04681236,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I6,General Government,≥2028Q3,9920.66611864,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J6,General Government,3rd. year | 28Q3-29Q2,780.68531211,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K6,General Government,4th. year | 29Q3-30Q2,805.1710239700001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L6,General Government,5th. year | 30Q3-31Q2,1185.1032994900002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M6,General Government,Over 5 years to 10 years | 31Q3-36Q2,3454.43736915,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N6,General Government,Over 10 years to 15 years | 36Q3-41Q2,2315.83390186,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O6,General Government,Over 15 years | ≥2041Q3,1379.4352120599997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P6,General Government,i.a. perpetual instruments 5,,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B7,Principal3,immediate2,0.21107192,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C7,Principal3,0-3 | 2026Q3,118.287331,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D7,Principal3,4-6 | 2026Q4,144.48044196,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E7,Principal3,7-9 | 2027Q1,141.94745455,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F7,Principal3,10-12 | 2027Q2,138.85547383000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G7,Principal3,13-18 | 27Q3-27Q4,257.630134,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H7,Principal3,19-24 | 28Q1-28Q2,275.29929006000003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I7,Principal3,≥2028Q3,7954.7001514799995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J7,Principal3,3rd. year | 28Q3-29Q2,522.45619549,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K7,Principal3,4th. year | 29Q3-30Q2,561.58314514,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L7,Principal3,5th. year | 30Q3-31Q2,956.57712,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M7,Principal3,Over 5 years to 10 years | 31Q3-36Q2,2687.38364159,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N7,Principal3,Over 10 years to 15 years | 36Q3-41Q2,1977.8660702,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O7,Principal3,Over 15 years | ≥2041Q3,1248.8339790599998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P7,Principal3,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B8,of which in the national currency,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C8,of which in the national currency,0-3 | 2026Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D8,of which in the national currency,4-6 | 2026Q4,3.96218696,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E8,of which in the national currency,7-9 | 2027Q1,17.317884550000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F8,of which in the national currency,10-12 | 2027Q2,5.23965283,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G8,of which in the national currency,13-18 | 27Q3-27Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H8,of which in the national currency,19-24 | 28Q1-28Q2,14.0466932,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I8,of which in the national currency,≥2028Q3,357.15369602,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J8,of which in the national currency,3rd. year | 28Q3-29Q2,7.249625770000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K8,of which in the national currency,4th. year | 29Q3-30Q2,41.86649342,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L8,of which in the national currency,5th. year | 30Q3-31Q2,0.85942428,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M8,of which in the national currency,Over 5 years to 10 years | 31Q3-36Q2,146.68981643,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N8,of which in the national currency,Over 10 years to 15 years | 36Q3-41Q2,160.48833612,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O8,of which in the national currency,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P8,of which in the national currency,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B9,Interest3,immediate2,36.233637300000005,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C9,Interest3,0-3 | 2026Q3,85.59828195,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D9,Interest3,4-6 | 2026Q4,58.27192101,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E9,Interest3,7-9 | 2027Q1,85.14210773999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F9,Interest3,10-12 | 2027Q2,56.60522995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G9,Interest3,13-18 | 27Q3-27Q4,137.0688783,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H9,Interest3,19-24 | 28Q1-28Q2,134.74752229999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I9,Interest3,≥2028Q3,1965.9659671600002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J9,Interest3,3rd. year | 28Q3-29Q2,258.22911662,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K9,Interest3,4th. year | 29Q3-30Q2,243.58787883,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L9,Interest3,5th. year | 30Q3-31Q2,228.52617949,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M9,Interest3,Over 5 years to 10 years | 31Q3-36Q2,767.0537275600001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N9,Interest3,Over 10 years to 15 years | 36Q3-41Q2,337.96783165999994,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O9,Interest3,Over 15 years | ≥2041Q3,130.60123299999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P9,Interest3,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B10,of which in the national currency,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C10,of which in the national currency,0-3 | 2026Q3,14.216754949999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D10,of which in the national currency,4-6 | 2026Q4,2.17440781,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E10,of which in the national currency,7-9 | 2027Q1,14.751006740000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F10,of which in the national currency,10-12 | 2027Q2,2.44799475,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G10,of which in the national currency,13-18 | 27Q3-27Q4,15.923973100000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H10,of which in the national currency,19-24 | 28Q1-28Q2,15.923973100000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I10,of which in the national currency,≥2028Q3,182.20530022999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J10,of which in the national currency,3rd. year | 28Q3-29Q2,30.511280460000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K10,of which in the national currency,4th. year | 29Q3-30Q2,28.32045933,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L10,of which in the national currency,5th. year | 30Q3-31Q2,26.31727664,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M10,of which in the national currency,Over 5 years to 10 years | 31Q3-36Q2,89.70118316,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N10,of which in the national currency,Over 10 years to 15 years | 36Q3-41Q2,7.35510064,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O10,of which in the national currency,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P10,of which in the national currency,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B11,Monetary Authorities,immediate2,0.26700569,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C11,Monetary Authorities,0-3 | 2026Q3,5.9594426799999995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D11,Monetary Authorities,4-6 | 2026Q4,43.88238064,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E11,Monetary Authorities,7-9 | 2027Q1,5.64715921,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F11,Monetary Authorities,10-12 | 2027Q2,43.40147015,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G11,Monetary Authorities,13-18 | 27Q3-27Q4,44.57181696000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H11,Monetary Authorities,19-24 | 28Q1-28Q2,40.44804261,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I11,Monetary Authorities,≥2028Q3,764.10869129,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J11,Monetary Authorities,3rd. year | 28Q3-29Q2,69.28323956999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K11,Monetary Authorities,4th. year | 29Q3-30Q2,53.99971357,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L11,Monetary Authorities,5th. year | 30Q3-31Q2,40.37915503,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M11,Monetary Authorities,Over 5 years to 10 years | 31Q3-36Q2,65.87480285000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N11,Monetary Authorities,Over 10 years to 15 years | 36Q3-41Q2,65.87480285000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O11,Monetary Authorities,Over 15 years | ≥2041Q3,468.69697741999994,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P11,Monetary Authorities,i.a. perpetual instruments 5,,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B12,Principal,immediate2,0.26700569,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C12,Principal,0-3 | 2026Q3,0.32934208000000004,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D12,Principal,4-6 | 2026Q4,38.36444866,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E12,Principal,7-9 | 2027Q1,0.31714422999999997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F12,Principal,10-12 | 2027Q2,38.37664652,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G12,Principal,13-18 | 27Q3-27Q4,34.69364,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H12,Principal,19-24 | 28Q1-28Q2,31.303382000000003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I12,Principal,≥2028Q3,586.5643348799999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J12,Principal,3rd. year | 28Q3-29Q2,52.43599,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K12,Principal,4th. year | 29Q3-30Q2,38.874958,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L12,Principal,5th. year | 30Q3-31Q2,26.55640946,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M12,Principal,Over 5 years to 10 years | 31Q3-36Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N12,Principal,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O12,Principal,Over 15 years | ≥2041Q3,468.69697741999994,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P12,Principal,i.a. perpetual instruments 5,468.69697741999994,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B13,Interest,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C13,Interest,0-3 | 2026Q3,5.6301006,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D13,Interest,4-6 | 2026Q4,5.517931979999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E13,Interest,7-9 | 2027Q1,5.33001498,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F13,Interest,10-12 | 2027Q2,5.02482363,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G13,Interest,13-18 | 27Q3-27Q4,9.878176960000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H13,Interest,19-24 | 28Q1-28Q2,9.144660609999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I13,Interest,≥2028Q3,177.54435641000003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J13,Interest,3rd. year | 28Q3-29Q2,16.84724957,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K13,Interest,4th. year | 29Q3-30Q2,15.124755570000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L13,Interest,5th. year | 30Q3-31Q2,13.82274557,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M13,Interest,Over 5 years to 10 years | 31Q3-36Q2,65.87480285000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N13,Interest,Over 10 years to 15 years | 36Q3-41Q2,65.87480285000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O13,Interest,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P13,Interest,i.a. perpetual instruments 5,13.17496057,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B14,Banks,immediate2,2634.15412825,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C14,Banks,0-3 | 2026Q3,1133.9451933100001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D14,Banks,4-6 | 2026Q4,1115.41690613,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E14,Banks,7-9 | 2027Q1,687.75061074,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F14,Banks,10-12 | 2027Q2,885.94748105,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G14,Banks,13-18 | 27Q3-27Q4,755.7216725800001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H14,Banks,19-24 | 28Q1-28Q2,692.44481328,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I14,Banks,≥2028Q3,4858.04470863,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J14,Banks,3rd. year | 28Q3-29Q2,1061.70983355,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K14,Banks,4th. year | 29Q3-30Q2,589.59361339,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L14,Banks,5th. year | 30Q3-31Q2,901.05019491,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M14,Banks,Over 5 years to 10 years | 31Q3-36Q2,967.36033886,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N14,Banks,Over 10 years to 15 years | 36Q3-41Q2,663.3307279200001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O14,Banks,Over 15 years | ≥2041Q3,675,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P14,Banks,i.a. perpetual instruments 5,,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B15,Principal,immediate2,2634.15412825,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C15,Principal,0-3 | 2026Q3,1009.4838638900001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D15,Principal,4-6 | 2026Q4,968.8246150799998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E15,Principal,7-9 | 2027Q1,599.8407638799999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F15,Principal,10-12 | 2027Q2,748.10486955,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G15,Principal,13-18 | 27Q3-27Q4,590.80693369,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H15,Principal,19-24 | 28Q1-28Q2,545.7514057799999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I15,Principal,≥2028Q3,3489.25455603,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J15,Principal,3rd. year | 28Q3-29Q2,851.76997394,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K15,Principal,4th. year | 29Q3-30Q2,416.07448764000003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L15,Principal,5th. year | 30Q3-31Q2,751.58904822,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M15,Principal,Over 5 years to 10 years | 31Q3-36Q2,503.52343307999996,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N15,Principal,Over 10 years to 15 years | 36Q3-41Q2,291.29761315,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O15,Principal,Over 15 years | ≥2041Q3,675,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P15,Principal,i.a. perpetual instruments 5,675,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B16,Long-term,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C16,Long-term,0-3 | 2026Q3,169.75229953,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D16,Long-term,4-6 | 2026Q4,249.50558177000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E16,Long-term,7-9 | 2027Q1,209.37424578,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F16,Long-term,10-12 | 2027Q2,180.09077236000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G16,Long-term,13-18 | 27Q3-27Q4,495.84694638,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H16,Long-term,19-24 | 28Q1-28Q2,457.70487357999997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I16,Long-term,≥2028Q3,2143.35399,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J16,Long-term,3rd. year | 28Q3-29Q2,650.7359898,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K16,Long-term,4th. year | 29Q3-30Q2,391.59477967000004,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L16,Long-term,5th. year | 30Q3-31Q2,424.22767797,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M16,Long-term,Over 5 years to 10 years | 31Q3-36Q2,396.4271925,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N16,Long-term,Over 10 years to 15 years | 36Q3-41Q2,280.36835006,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O16,Long-term,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P16,Long-term,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B17,Short-term,immediate2,0.5769788299999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C17,Short-term,0-3 | 2026Q3,108.80281756000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D17,Short-term,4-6 | 2026Q4,38.64317882,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E17,Short-term,7-9 | 2027Q1,46.086766,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F17,Short-term,10-12 | 2027Q2,210.47493985,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G17,Short-term,13-18 | 27Q3-27Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H17,Short-term,19-24 | 28Q1-28Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I17,Short-term,≥2028Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J17,Short-term,3rd. year | 28Q3-29Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K17,Short-term,4th. year | 29Q3-30Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L17,Short-term,5th. year | 30Q3-31Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M17,Short-term,Over 5 years to 10 years | 31Q3-36Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N17,Short-term,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O17,Short-term,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P17,Short-term,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B18,Money market instruments,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C18,Money market instruments,0-3 | 2026Q3,44.811865579999996,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D18,Money market instruments,4-6 | 2026Q4,46.11383964,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E18,Money market instruments,7-9 | 2027Q1,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F18,Money market instruments,10-12 | 2027Q2,33.67,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G18,Money market instruments,13-18 | 27Q3-27Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H18,Money market instruments,19-24 | 28Q1-28Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I18,Money market instruments,≥2028Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J18,Money market instruments,3rd. year | 28Q3-29Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K18,Money market instruments,4th. year | 29Q3-30Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L18,Money market instruments,5th. year | 30Q3-31Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M18,Money market instruments,Over 5 years to 10 years | 31Q3-36Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N18,Money market instruments,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O18,Money market instruments,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P18,Money market instruments,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B19,Bonds and notes,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C19,Bonds and notes,0-3 | 2026Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D19,Bonds and notes,4-6 | 2026Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E19,Bonds and notes,7-9 | 2027Q1,14.61,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F19,Bonds and notes,10-12 | 2027Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G19,Bonds and notes,13-18 | 27Q3-27Q4,2.796,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H19,Bonds and notes,19-24 | 28Q1-28Q2,1.4547,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I19,Bonds and notes,≥2028Q3,1264.32052837,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J19,Bonds and notes,3rd. year | 28Q3-29Q2,181.05303066,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K19,Bonds and notes,4th. year | 29Q3-30Q2,5.79045212,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L19,Bonds and notes,5th. year | 30Q3-31Q2,307.11467641,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M19,Bonds and notes,Over 5 years to 10 years | 31Q3-36Q2,95.36236917999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N19,Bonds and notes,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O19,Bonds and notes,Over 15 years | ≥2041Q3,675,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P19,Bonds and notes,i.a. perpetual instruments 5,675,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B20,Deposits and other debt liabilities,immediate2,2633.5771494200003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C20,Deposits and other debt liabilities,0-3 | 2026Q3,686.11688122,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D20,Deposits and other debt liabilities,4-6 | 2026Q4,634.5620148499999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E20,Deposits and other debt liabilities,7-9 | 2027Q1,329.7697521,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F20,Deposits and other debt liabilities,10-12 | 2027Q2,323.86915733999996,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G20,Deposits and other debt liabilities,13-18 | 27Q3-27Q4,92.16398731,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H20,Deposits and other debt liabilities,19-24 | 28Q1-28Q2,86.5918322,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I20,Deposits and other debt liabilities,≥2028Q3,81.58003766,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J20,Deposits and other debt liabilities,3rd. year | 28Q3-29Q2,19.98095348,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K20,Deposits and other debt liabilities,4th. year | 29Q3-30Q2,18.689255850000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L20,Deposits and other debt liabilities,5th. year | 30Q3-31Q2,20.24669384,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M20,Deposits and other debt liabilities,Over 5 years to 10 years | 31Q3-36Q2,11.7338714,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N20,Deposits and other debt liabilities,Over 10 years to 15 years | 36Q3-41Q2,10.92926309,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O20,Deposits and other debt liabilities,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P20,Deposits and other debt liabilities,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B21,Interest,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C21,Interest,0-3 | 2026Q3,124.46132941999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D21,Interest,4-6 | 2026Q4,146.59229105,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E21,Interest,7-9 | 2027Q1,87.90984686000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F21,Interest,10-12 | 2027Q2,137.8426115,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G21,Interest,13-18 | 27Q3-27Q4,164.91473889000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H21,Interest,19-24 | 28Q1-28Q2,146.6934075,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I21,Interest,≥2028Q3,1368.7901525999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J21,Interest,3rd. year | 28Q3-29Q2,209.93985961,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K21,Interest,4th. year | 29Q3-30Q2,173.51912575,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L21,Interest,5th. year | 30Q3-31Q2,149.46114669,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M21,Interest,Over 5 years to 10 years | 31Q3-36Q2,463.83690578,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N21,Interest,Over 10 years to 15 years | 36Q3-41Q2,372.03311477,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O21,Interest,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P21,Interest,i.a. perpetual instruments 5,65.9205,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B22,Other Sectors,immediate2,150.11102577999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C22,Other Sectors,0-3 | 2026Q3,428.05145726999996,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D22,Other Sectors,4-6 | 2026Q4,379.37738865,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E22,Other Sectors,7-9 | 2027Q1,394.35557302,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F22,Other Sectors,10-12 | 2027Q2,331.7633609800001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G22,Other Sectors,13-18 | 27Q3-27Q4,219.06259622,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H22,Other Sectors,19-24 | 28Q1-28Q2,688.60513658,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I22,Other Sectors,≥2028Q3,2537.56905611,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J22,Other Sectors,3rd. year | 28Q3-29Q2,395.6235885,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K22,Other Sectors,4th. year | 29Q3-30Q2,599.79415547,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L22,Other Sectors,5th. year | 30Q3-31Q2,599.6547025,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M22,Other Sectors,Over 5 years to 10 years | 31Q3-36Q2,650.48078247,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N22,Other Sectors,Over 10 years to 15 years | 36Q3-41Q2,274.00029033,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O22,Other Sectors,Over 15 years | ≥2041Q3,18.01553684,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P22,Other Sectors,i.a. perpetual instruments 5,,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B23,Principal,immediate2,106.64539552,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C23,Principal,0-3 | 2026Q3,346.06888404999995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D23,Principal,4-6 | 2026Q4,315.44903532,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E23,Principal,7-9 | 2027Q1,309.64678148,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F23,Principal,10-12 | 2027Q2,270.60974811000006,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G23,Principal,13-18 | 27Q3-27Q4,97.58541674,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H23,Principal,19-24 | 28Q1-28Q2,605.03429414,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I23,Principal,≥2028Q3,1845.0684546700002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J23,Principal,3rd. year | 28Q3-29Q2,229.57278688,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K23,Principal,4th. year | 29Q3-30Q2,483.73104517999997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L23,Principal,5th. year | 30Q3-31Q2,528.19843767,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M23,Principal,Over 5 years to 10 years | 31Q3-36Q2,419.85226364000005,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N23,Principal,Over 10 years to 15 years | 36Q3-41Q2,175.82424316,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O23,Principal,Over 15 years | ≥2041Q3,7.88967814,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P23,Principal,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B24,Non-banking financial corporations,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C24,Non-banking financial corporations,0-3 | 2026Q3,3.0832195,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D24,Non-banking financial corporations,4-6 | 2026Q4,2.96990257,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E24,Non-banking financial corporations,7-9 | 2027Q1,4.9181915599999995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F24,Non-banking financial corporations,10-12 | 2027Q2,3.47648482,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G24,Non-banking financial corporations,13-18 | 27Q3-27Q4,11.48219494,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H24,Non-banking financial corporations,19-24 | 28Q1-28Q2,6.47609781,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I24,Non-banking financial corporations,≥2028Q3,14.01279381,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J24,Non-banking financial corporations,3rd. year | 28Q3-29Q2,8.25,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K24,Non-banking financial corporations,4th. year | 29Q3-30Q2,1.73,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L24,Non-banking financial corporations,5th. year | 30Q3-31Q2,1.875,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M24,Non-banking financial corporations,Over 5 years to 10 years | 31Q3-36Q2,2.1577938100000003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N24,Non-banking financial corporations,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O24,Non-banking financial corporations,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P24,Non-banking financial corporations,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B25,Nonfinancial corporations - long-term,immediate2,104.40096197,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C25,Nonfinancial corporations - long-term,0-3 | 2026Q3,44.29916979,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D25,Nonfinancial corporations - long-term,4-6 | 2026Q4,35.14558297,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E25,Nonfinancial corporations - long-term,7-9 | 2027Q1,43.728390129999994,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F25,Nonfinancial corporations - long-term,10-12 | 2027Q2,32.46641348,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G25,Nonfinancial corporations - long-term,13-18 | 27Q3-27Q4,86.1032218,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H25,Nonfinancial corporations - long-term,19-24 | 28Q1-28Q2,98.55819633,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I25,Nonfinancial corporations - long-term,≥2028Q3,1148.5556608600002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J25,Nonfinancial corporations - long-term,3rd. year | 28Q3-29Q2,221.32278688,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K25,Nonfinancial corporations - long-term,4th. year | 29Q3-30Q2,195.50104517999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L25,Nonfinancial corporations - long-term,5th. year | 30Q3-31Q2,130.32343767,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M25,Nonfinancial corporations - long-term,Over 5 years to 10 years | 31Q3-36Q2,417.69446983000006,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N25,Nonfinancial corporations - long-term,Over 10 years to 15 years | 36Q3-41Q2,175.82424316,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O25,Nonfinancial corporations - long-term,Over 15 years | ≥2041Q3,7.88967814,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P25,Nonfinancial corporations - long-term,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B26,Nonfinancial corporations - short-term,immediate2,2.2444335499999992,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C26,Nonfinancial corporations - short-term,0-3 | 2026Q3,0.019595,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D26,Nonfinancial corporations - short-term,4-6 | 2026Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E26,Nonfinancial corporations - short-term,7-9 | 2027Q1,5,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F26,Nonfinancial corporations - short-term,10-12 | 2027Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G26,Nonfinancial corporations - short-term,13-18 | 27Q3-27Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H26,Nonfinancial corporations - short-term,19-24 | 28Q1-28Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I26,Nonfinancial corporations - short-term,≥2028Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J26,Nonfinancial corporations - short-term,3rd. year | 28Q3-29Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K26,Nonfinancial corporations - short-term,4th. year | 29Q3-30Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L26,Nonfinancial corporations - short-term,5th. year | 30Q3-31Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M26,Nonfinancial corporations - short-term,Over 5 years to 10 years | 31Q3-36Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N26,Nonfinancial corporations - short-term,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O26,Nonfinancial corporations - short-term,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P26,Nonfinancial corporations - short-term,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B27,Nonfinancial corporations - debt securities,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C27,Nonfinancial corporations - debt securities,0-3 | 2026Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D27,Nonfinancial corporations - debt securities,4-6 | 2026Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E27,Nonfinancial corporations - debt securities,7-9 | 2027Q1,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F27,Nonfinancial corporations - debt securities,10-12 | 2027Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G27,Nonfinancial corporations - debt securities,13-18 | 27Q3-27Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H27,Nonfinancial corporations - debt securities,19-24 | 28Q1-28Q2,500,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I27,Nonfinancial corporations - debt securities,≥2028Q3,682.5,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J27,Nonfinancial corporations - debt securities,3rd. year | 28Q3-29Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K27,Nonfinancial corporations - debt securities,4th. year | 29Q3-30Q2,286.5,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L27,Nonfinancial corporations - debt securities,5th. year | 30Q3-31Q2,396,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M27,Nonfinancial corporations - debt securities,Over 5 years to 10 years | 31Q3-36Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N27,Nonfinancial corporations - debt securities,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O27,Nonfinancial corporations - debt securities,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P27,Nonfinancial corporations - debt securities,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B28,Nonfinancial corporations - trade credits,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C28,Nonfinancial corporations - trade credits,0-3 | 2026Q3,298.66689976,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D28,Nonfinancial corporations - trade credits,4-6 | 2026Q4,277.33354978,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E28,Nonfinancial corporations - trade credits,7-9 | 2027Q1,256.00019979,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F28,Nonfinancial corporations - trade credits,10-12 | 2027Q2,234.66684981000006,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G28,Nonfinancial corporations - trade credits,13-18 | 27Q3-27Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H28,Nonfinancial corporations - trade credits,19-24 | 28Q1-28Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I28,Nonfinancial corporations - trade credits,≥2028Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J28,Nonfinancial corporations - trade credits,3rd. year | 28Q3-29Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K28,Nonfinancial corporations - trade credits,4th. year | 29Q3-30Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L28,Nonfinancial corporations - trade credits,5th. year | 30Q3-31Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M28,Nonfinancial corporations - trade credits,Over 5 years to 10 years | 31Q3-36Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N28,Nonfinancial corporations - trade credits,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O28,Nonfinancial corporations - trade credits,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P28,Nonfinancial corporations - trade credits,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B29,Interest,immediate2,43.46563026,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C29,Interest,0-3 | 2026Q3,81.98257322,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D29,Interest,4-6 | 2026Q4,63.92835333000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E29,Interest,7-9 | 2027Q1,84.70879153999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F29,Interest,10-12 | 2027Q2,61.15361287,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G29,Interest,13-18 | 27Q3-27Q4,121.47717947999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H29,Interest,19-24 | 28Q1-28Q2,83.57084243999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I29,Interest,≥2028Q3,692.5006014400001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J29,Interest,3rd. year | 28Q3-29Q2,166.05080162000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K29,Interest,4th. year | 29Q3-30Q2,116.06311029,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L29,Interest,5th. year | 30Q3-31Q2,71.45626483,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M29,Interest,Over 5 years to 10 years | 31Q3-36Q2,230.62851883,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N29,Interest,Over 10 years to 15 years | 36Q3-41Q2,98.17604717,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O29,Interest,Over 15 years | ≥2041Q3,10.125858699999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P29,Interest,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B30,Non-banking financial corporations,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C30,Non-banking financial corporations,0-3 | 2026Q3,1.02232655,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D30,Non-banking financial corporations,4-6 | 2026Q4,0.67385088,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E30,Non-banking financial corporations,7-9 | 2027Q1,1.0014496,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F30,Non-banking financial corporations,10-12 | 2027Q2,0.62070802,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G30,Non-banking financial corporations,13-18 | 27Q3-27Q4,1.22391524,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H30,Non-banking financial corporations,19-24 | 28Q1-28Q2,0.8229101400000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I30,Non-banking financial corporations,≥2028Q3,1.5789676000000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J30,Non-banking financial corporations,3rd. year | 28Q3-29Q2,0.9438468299999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K30,Non-banking financial corporations,4th. year | 29Q3-30Q2,0.2488082,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L30,Non-banking financial corporations,5th. year | 30Q3-31Q2,0.18609375,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M30,Non-banking financial corporations,Over 5 years to 10 years | 31Q3-36Q2,0.20021882000000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N30,Non-banking financial corporations,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O30,Non-banking financial corporations,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P30,Non-banking financial corporations,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B31,Nonfinancial corporations - long-term,immediate2,42.881411789999994,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C31,Nonfinancial corporations - long-term,0-3 | 2026Q3,53.396809170000004,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D31,Nonfinancial corporations - long-term,4-6 | 2026Q4,53.254502450000004,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E31,Nonfinancial corporations - long-term,7-9 | 2027Q1,55.819904439999995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F31,Nonfinancial corporations - long-term,10-12 | 2027Q2,50.53290485,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G31,Nonfinancial corporations - long-term,13-18 | 27Q3-27Q4,82.68982674,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H31,Nonfinancial corporations - long-term,19-24 | 28Q1-28Q2,55.184494799999996,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I31,Nonfinancial corporations - long-term,≥2028Q3,568.53132134,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J31,Nonfinancial corporations - long-term,3rd. year | 28Q3-29Q2,99.98007979,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K31,Nonfinancial corporations - long-term,4th. year | 29Q3-30Q2,73.40086459,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L31,Nonfinancial corporations - long-term,5th. year | 30Q3-31Q2,56.420171079999996,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M31,Nonfinancial corporations - long-term,Over 5 years to 10 years | 31Q3-36Q2,230.42830001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N31,Nonfinancial corporations - long-term,Over 10 years to 15 years | 36Q3-41Q2,98.17604717,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O31,Nonfinancial corporations - long-term,Over 15 years | ≥2041Q3,10.125858699999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P31,Nonfinancial corporations - long-term,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B32,Nonfinancial corporations - short-term,immediate2,0.5842184699999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C32,Nonfinancial corporations - short-term,0-3 | 2026Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D32,Nonfinancial corporations - short-term,4-6 | 2026Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E32,Nonfinancial corporations - short-term,7-9 | 2027Q1,0.324,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F32,Nonfinancial corporations - short-term,10-12 | 2027Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G32,Nonfinancial corporations - short-term,13-18 | 27Q3-27Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H32,Nonfinancial corporations - short-term,19-24 | 28Q1-28Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I32,Nonfinancial corporations - short-term,≥2028Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J32,Nonfinancial corporations - short-term,3rd. year | 28Q3-29Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K32,Nonfinancial corporations - short-term,4th. year | 29Q3-30Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L32,Nonfinancial corporations - short-term,5th. year | 30Q3-31Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M32,Nonfinancial corporations - short-term,Over 5 years to 10 years | 31Q3-36Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N32,Nonfinancial corporations - short-term,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O32,Nonfinancial corporations - short-term,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P32,Nonfinancial corporations - short-term,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B33,Nonfinancial corporations -  debt securities,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C33,Nonfinancial corporations -  debt securities,0-3 | 2026Q3,27.5634375,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D33,Nonfinancial corporations -  debt securities,4-6 | 2026Q4,10,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E33,Nonfinancial corporations -  debt securities,7-9 | 2027Q1,27.5634375,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F33,Nonfinancial corporations -  debt securities,10-12 | 2027Q2,10,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G33,Nonfinancial corporations -  debt securities,13-18 | 27Q3-27Q4,37.5634375,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H33,Nonfinancial corporations -  debt securities,19-24 | 28Q1-28Q2,27.5634375,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I33,Nonfinancial corporations -  debt securities,≥2028Q3,122.3903125,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J33,Nonfinancial corporations -  debt securities,3rd. year | 28Q3-29Q2,65.126875,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K33,Nonfinancial corporations -  debt securities,4th. year | 29Q3-30Q2,42.4134375,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L33,Nonfinancial corporations -  debt securities,5th. year | 30Q3-31Q2,14.85,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M33,Nonfinancial corporations -  debt securities,Over 5 years to 10 years | 31Q3-36Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N33,Nonfinancial corporations -  debt securities,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O33,Nonfinancial corporations -  debt securities,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P33,Nonfinancial corporations -  debt securities,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B34,Direct investment: Intercompany lending4,immediate2,157.08962678,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C34,Direct investment: Intercompany lending4,0-3 | 2026Q3,109.08411269,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D34,Direct investment: Intercompany lending4,4-6 | 2026Q4,114.8989733,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E34,Direct investment: Intercompany lending4,7-9 | 2027Q1,92.51281519,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F34,Direct investment: Intercompany lending4,10-12 | 2027Q2,112.76097492,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G34,Direct investment: Intercompany lending4,13-18 | 27Q3-27Q4,106.59118634000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H34,Direct investment: Intercompany lending4,19-24 | 28Q1-28Q2,99.34046747,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I34,Direct investment: Intercompany lending4,≥2028Q3,2898.18784735,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J34,Direct investment: Intercompany lending4,3rd. year | 28Q3-29Q2,193.88276373999997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K34,Direct investment: Intercompany lending4,4th. year | 29Q3-30Q2,173.24278786,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L34,Direct investment: Intercompany lending4,5th. year | 30Q3-31Q2,164.46072823,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M34,Direct investment: Intercompany lending4,Over 5 years to 10 years | 31Q3-36Q2,856.33448193,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N34,Direct investment: Intercompany lending4,Over 10 years to 15 years | 36Q3-41Q2,1102.5371412900001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O34,Direct investment: Intercompany lending4,Over 15 years | ≥2041Q3,407.72994430000006,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P34,Direct investment: Intercompany lending4,i.a. perpetual instruments 5,,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B35,Principal,immediate2,106.53207149,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C35,Principal,0-3 | 2026Q3,88.60360996,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D35,Principal,4-6 | 2026Q4,81.16084128,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E35,Principal,7-9 | 2027Q1,75.20249944,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F35,Principal,10-12 | 2027Q2,81.10438185,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G35,Principal,13-18 | 27Q3-27Q4,62.87065425,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H35,Principal,19-24 | 28Q1-28Q2,58.35377852,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I35,Principal,≥2028Q3,2130.47723521,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J35,Principal,3rd. year | 28Q3-29Q2,114.52990362999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K35,Principal,4th. year | 29Q3-30Q2,103.46427953,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L35,Principal,5th. year | 30Q3-31Q2,100.74014367,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M35,Principal,Over 5 years to 10 years | 31Q3-36Q2,559.6834348,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N35,Principal,Over 10 years to 15 years | 36Q3-41Q2,923.0749066500001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O35,Principal,Over 15 years | ≥2041Q3,328.98456693,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P35,Principal,i.a. perpetual instruments 5,1.5203644200000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B36,Loans (long-term and short-term),immediate2,106.53207149,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C36,Loans (long-term and short-term),0-3 | 2026Q3,39.27085518,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D36,Loans (long-term and short-term),4-6 | 2026Q4,38.875622899999996,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E36,Loans (long-term and short-term),7-9 | 2027Q1,36.44104926,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F36,Loans (long-term and short-term),10-12 | 2027Q2,35.29539526999997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G36,Loans (long-term and short-term),13-18 | 27Q3-27Q4,62.87065425,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H36,Loans (long-term and short-term),19-24 | 28Q1-28Q2,58.35377852,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I36,Loans (long-term and short-term),≥2028Q3,2130.47723521,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J36,Loans (long-term and short-term),3rd. year | 28Q3-29Q2,114.52990362999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K36,Loans (long-term and short-term),4th. year | 29Q3-30Q2,103.46427953,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L36,Loans (long-term and short-term),5th. year | 30Q3-31Q2,100.74014367,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M36,Loans (long-term and short-term),Over 5 years to 10 years | 31Q3-36Q2,559.6834348,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N36,Loans (long-term and short-term),Over 10 years to 15 years | 36Q3-41Q2,923.0749066500001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O36,Loans (long-term and short-term),Over 15 years | ≥2041Q3,328.98456693,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P36,Loans (long-term and short-term),i.a. perpetual instruments 5,1.5203644200000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B37,Trade credits,immediate2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C37,Trade credits,0-3 | 2026Q3,49.33275478,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D37,Trade credits,4-6 | 2026Q4,42.28521838,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E37,Trade credits,7-9 | 2027Q1,38.76145018,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F37,Trade credits,10-12 | 2027Q2,45.808986580000024,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G37,Trade credits,13-18 | 27Q3-27Q4,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H37,Trade credits,19-24 | 28Q1-28Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I37,Trade credits,≥2028Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J37,Trade credits,3rd. year | 28Q3-29Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K37,Trade credits,4th. year | 29Q3-30Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L37,Trade credits,5th. year | 30Q3-31Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M37,Trade credits,Over 5 years to 10 years | 31Q3-36Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N37,Trade credits,Over 10 years to 15 years | 36Q3-41Q2,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O37,Trade credits,Over 15 years | ≥2041Q3,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P37,Trade credits,i.a. perpetual instruments 5,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B38,Interest,immediate2,50.55755529,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C38,Interest,0-3 | 2026Q3,20.48050273,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D38,Interest,4-6 | 2026Q4,33.73813202,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E38,Interest,7-9 | 2027Q1,17.31031575,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F38,Interest,10-12 | 2027Q2,31.65659307,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G38,Interest,13-18 | 27Q3-27Q4,43.72053209,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H38,Interest,19-24 | 28Q1-28Q2,40.98668895,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I38,Interest,≥2028Q3,767.71061214,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J38,Interest,3rd. year | 28Q3-29Q2,79.35286011,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K38,Interest,4th. year | 29Q3-30Q2,69.77850833,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L38,Interest,5th. year | 30Q3-31Q2,63.72058456,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M38,Interest,Over 5 years to 10 years | 31Q3-36Q2,296.65104713,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N38,Interest,Over 10 years to 15 years | 36Q3-41Q2,179.46223464,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O38,Interest,Over 15 years | ≥2041Q3,78.74537737,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P38,Interest,i.a. perpetual instruments 5,0.12543454,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B39,Total Debt Service Payments,immediate2,2978.06649572,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C39,Total Debt Service Payments,0-3 | 2026Q3,1880.9258189,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D39,Total Debt Service Payments,4-6 | 2026Q4,1856.32801169,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E39,Total Debt Service Payments,7-9 | 2027Q1,1407.35572045,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F39,Total Debt Service Payments,10-12 | 2027Q2,1569.33399088,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G39,Total Debt Service Payments,13-18 | 27Q3-27Q4,1520.6462844,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H39,Total Debt Service Payments,19-24 | 28Q1-28Q2,1930.8852723,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I39,Total Debt Service Payments,≥2028Q3,20978.576422020004,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J39,Total Debt Service Payments,3rd. year | 28Q3-29Q2,2501.18473747,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K39,Total Debt Service Payments,4th. year | 29Q3-30Q2,2221.8012942600003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L39,Total Debt Service Payments,5th. year | 30Q3-31Q2,2890.64808016,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M39,Total Debt Service Payments,Over 5 years to 10 years | 31Q3-36Q2,5994.4877752600005,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N39,Total Debt Service Payments,Over 10 years to 15 years | 36Q3-41Q2,4421.576864250001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O39,Total Debt Service Payments,Over 15 years | ≥2041Q3,2948.8776706199997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P39,Total Debt Service Payments,i.a. perpetual instruments 5,,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B40,Principal,immediate2,2847.80967287,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C40,Principal,0-3 | 2026Q3,1562.7730309800002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D40,Principal,4-6 | 2026Q4,1548.2793822999997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E40,Principal,7-9 | 2027Q1,1126.9546435799998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F40,Principal,10-12 | 2027Q2,1277.05111986,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G40,Principal,13-18 | 27Q3-27Q4,1043.58677868,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H40,Principal,19-24 | 28Q1-28Q2,1515.7421505000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I40,Principal,≥2028Q3,16006.064732269999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J40,Principal,3rd. year | 28Q3-29Q2,1770.76484994,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K40,Principal,4th. year | 29Q3-30Q2,1603.7279154900002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L40,Principal,5th. year | 30Q3-31Q2,2363.66115902,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M40,Principal,Over 5 years to 10 years | 31Q3-36Q2,4170.44277311,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N40,Principal,Over 10 years to 15 years | 36Q3-41Q2,3368.0628331600005,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O40,Principal,Over 15 years | ≥2041Q3,2729.40520155,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P40,Principal,i.a. perpetual instruments 5,1145.21734184,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,B41,Interest,immediate2,130.25682285000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,C41,Interest,0-3 | 2026Q3,318.15278792000004,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,D41,Interest,4-6 | 2026Q4,308.04862939000003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,E41,Interest,7-9 | 2027Q1,280.40107687,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,F41,Interest,10-12 | 2027Q2,292.28287102,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,G41,Interest,13-18 | 27Q3-27Q4,477.05950572000006,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,H41,Interest,19-24 | 28Q1-28Q2,415.1431218,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,I41,Interest,≥2028Q3,4972.51168975,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,J41,Interest,3rd. year | 28Q3-29Q2,730.4198875300001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,K41,Interest,4th. year | 29Q3-30Q2,618.0733787700001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,L41,Interest,5th. year | 30Q3-31Q2,526.98692114,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,M41,Interest,Over 5 years to 10 years | 31Q3-36Q2,1824.0450021500003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,N41,Interest,Over 10 years to 15 years | 36Q3-41Q2,1053.51403109,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,O41,Interest,Over 15 years | ≥2041Q3,219.47246907,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Service,P41,Interest,i.a. perpetual instruments 5,79.22089511,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B6,Principal3,immediate2 | 36444.70922,211.07192,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C6,Principal3,0-3 | 203885.61294999998,118287.33099999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D6,Principal3,4-6 | 202752.36297,144480.44196,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E6,Principal3,7-9 | 227089.56228999997,141947.45455,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F6,Principal3,10-12 | 195460.70378000004,138855.47383000003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G6,Principal3,13-18 | 394699.01229999994,257630.134,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H6,Principal3,19-24 | 410046.81236,275299.29006,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I6,Principal3,3rd. year | 780685.31211,522456.19549,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J6,Principal3,4th. year | 805171.02397,561583.14514,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K6,Principal3,5th. year | 1185103.2994900001,956577.12,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L6,Principal3,Over 5 years to 10 years | 3454437.36915,2687383.64159,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M6,Principal3,Over 10 years to 15 years | 2315833.90186,1977866.0702,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N6,Principal3,Over 15 years | 1379435.2120599998,1248833.9790599998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B7,Interest3,immediate2 | 36444.70922,36233.6373,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C7,Interest3,0-3 | 203885.61294999998,85598.28195,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D7,Interest3,4-6 | 202752.36297,58271.92101,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E7,Interest3,7-9 | 227089.56228999997,85142.10773999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F7,Interest3,10-12 | 195460.70378000004,56605.22995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G7,Interest3,13-18 | 394699.01229999994,137068.87829999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H7,Interest3,19-24 | 410046.81236,134747.52229999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I7,Interest3,3rd. year | 780685.31211,258229.11662000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J7,Interest3,4th. year | 805171.02397,243587.87883,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K7,Interest3,5th. year | 1185103.2994900001,228526.17949,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L7,Interest3,Over 5 years to 10 years | 3454437.36915,767053.72756,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M7,Interest3,Over 10 years to 15 years | 2315833.90186,337967.83165999997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N7,Interest3,Over 15 years | 1379435.2120599998,130601.233,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B8,Monetary Authorities,immediate2 | 36444.70922,267.00569,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C8,Monetary Authorities,0-3 | 203885.61294999998,5959.44268,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D8,Monetary Authorities,4-6 | 202752.36297,43882.38064,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E8,Monetary Authorities,7-9 | 227089.56228999997,5647.15921,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F8,Monetary Authorities,10-12 | 195460.70378000004,43401.47015,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G8,Monetary Authorities,13-18 | 394699.01229999994,44571.81696,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H8,Monetary Authorities,19-24 | 410046.81236,40448.042610000004,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I8,Monetary Authorities,3rd. year | 780685.31211,69283.23957,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J8,Monetary Authorities,4th. year | 805171.02397,53999.71357,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K8,Monetary Authorities,5th. year | 1185103.2994900001,40379.15503,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L8,Monetary Authorities,Over 5 years to 10 years | 3454437.36915,65874.80285000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M8,Monetary Authorities,Over 10 years to 15 years | 2315833.90186,65874.80285000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N8,Monetary Authorities,Over 15 years | 1379435.2120599998,468696.97741999995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B9,Principal,immediate2 | 36444.70922,267.00569,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C9,Principal,0-3 | 203885.61294999998,329.34208,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D9,Principal,4-6 | 202752.36297,38364.44866,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E9,Principal,7-9 | 227089.56228999997,317.14423,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F9,Principal,10-12 | 195460.70378000004,38376.64652,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G9,Principal,13-18 | 394699.01229999994,34693.64,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H9,Principal,19-24 | 410046.81236,31303.382,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I9,Principal,3rd. year | 780685.31211,52435.99,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J9,Principal,4th. year | 805171.02397,38874.958,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K9,Principal,5th. year | 1185103.2994900001,26556.409460000003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L9,Principal,Over 5 years to 10 years | 3454437.36915,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M9,Principal,Over 10 years to 15 years | 2315833.90186,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N9,Principal,Over 15 years | 1379435.2120599998,468696.97741999995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B10,Interest,immediate2 | 36444.70922,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C10,Interest,0-3 | 203885.61294999998,5630.1006,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D10,Interest,4-6 | 202752.36297,5517.931979999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E10,Interest,7-9 | 227089.56228999997,5330.01498,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F10,Interest,10-12 | 195460.70378000004,5024.82363,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G10,Interest,13-18 | 394699.01229999994,9878.17696,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H10,Interest,19-24 | 410046.81236,9144.660609999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I10,Interest,3rd. year | 780685.31211,16847.24957,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J10,Interest,4th. year | 805171.02397,15124.755570000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K10,Interest,5th. year | 1185103.2994900001,13822.745570000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L10,Interest,Over 5 years to 10 years | 3454437.36915,65874.80285000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M10,Interest,Over 10 years to 15 years | 2315833.90186,65874.80285000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N10,Interest,Over 15 years | 1379435.2120599998,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B11,Publicly-Guaranteed  Debt,immediate2 | 36444.70922,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C11,Publicly-Guaranteed  Debt,0-3 | 203885.61294999998,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D11,Publicly-Guaranteed  Debt,4-6 | 202752.36297,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E11,Publicly-Guaranteed  Debt,7-9 | 227089.56228999997,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F11,Publicly-Guaranteed  Debt,10-12 | 195460.70378000004,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G11,Publicly-Guaranteed  Debt,13-18 | 394699.01229999994,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H11,Publicly-Guaranteed  Debt,19-24 | 410046.81236,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I11,Publicly-Guaranteed  Debt,3rd. year | 780685.31211,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J11,Publicly-Guaranteed  Debt,4th. year | 805171.02397,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K11,Publicly-Guaranteed  Debt,5th. year | 1185103.2994900001,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L11,Publicly-Guaranteed  Debt,Over 5 years to 10 years | 3454437.36915,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M11,Publicly-Guaranteed  Debt,Over 10 years to 15 years | 2315833.90186,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N11,Publicly-Guaranteed  Debt,Over 15 years | 1379435.2120599998,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B12,Principal,immediate2 | 36444.70922,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C12,Principal,0-3 | 203885.61294999998,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D12,Principal,4-6 | 202752.36297,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E12,Principal,7-9 | 227089.56228999997,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F12,Principal,10-12 | 195460.70378000004,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G12,Principal,13-18 | 394699.01229999994,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H12,Principal,19-24 | 410046.81236,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I12,Principal,3rd. year | 780685.31211,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J12,Principal,4th. year | 805171.02397,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K12,Principal,5th. year | 1185103.2994900001,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L12,Principal,Over 5 years to 10 years | 3454437.36915,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M12,Principal,Over 10 years to 15 years | 2315833.90186,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N12,Principal,Over 15 years | 1379435.2120599998,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B13,Interest,immediate2 | 36444.70922,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C13,Interest,0-3 | 203885.61294999998,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D13,Interest,4-6 | 202752.36297,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E13,Interest,7-9 | 227089.56228999997,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F13,Interest,10-12 | 195460.70378000004,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G13,Interest,13-18 | 394699.01229999994,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H13,Interest,19-24 | 410046.81236,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I13,Interest,3rd. year | 780685.31211,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J13,Interest,4th. year | 805171.02397,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K13,Interest,5th. year | 1185103.2994900001,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L13,Interest,Over 5 years to 10 years | 3454437.36915,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M13,Interest,Over 10 years to 15 years | 2315833.90186,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N13,Interest,Over 15 years | 1379435.2120599998,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B14,Public corporation,immediate2 | 36444.70922,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C14,Public corporation,0-3 | 203885.61294999998,17450.320209999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D14,Public corporation,4-6 | 202752.36297,27513.853300000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E14,Public corporation,7-9 | 227089.56228999997,16101.939269999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F14,Public corporation,10-12 | 195460.70378000004,25331.6862,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G14,Public corporation,13-18 | 394699.01229999994,41008.24452,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H14,Public corporation,19-24 | 410046.81236,540582.86358,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I14,Public corporation,3rd. year | 780685.31211,59889.58433,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J14,Public corporation,4th. year | 805171.02397,58188.060549999995,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K14,Public corporation,5th. year | 1185103.2994900001,66876.6012,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L14,Public corporation,Over 5 years to 10 years | 3454437.36915,237374.5404,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M14,Public corporation,Over 10 years to 15 years | 2315833.90186,607384.1551,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N14,Public corporation,Over 15 years | 1379435.2120599998,195552.5532,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B15,Principal,immediate2 | 36444.70922,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C15,Principal,0-3 | 203885.61294999998,11799.7488,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D15,Principal,4-6 | 202752.36297,2090.753,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E15,Principal,7-9 | 227089.56228999997,11799.7488,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F15,Principal,10-12 | 195460.70378000004,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G15,Principal,13-18 | 394699.01229999994,11799.7488,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H15,Principal,19-24 | 410046.81236,511799.7488,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I15,Principal,3rd. year | 780685.31211,23599.4976,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J15,Principal,4th. year | 805171.02397,23599.4976,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K15,Principal,5th. year | 1185103.2994900001,33791.36261,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L15,Principal,Over 5 years to 10 years | 3454437.36915,85735.915,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M15,Principal,Over 10 years to 15 years | 2315833.90186,525797.917,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N15,Principal,Over 15 years | 1379435.2120599998,161733.619,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B16,Interest,immediate2 | 36444.70922,0,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C16,Interest,0-3 | 203885.61294999998,5650.57141,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D16,Interest,4-6 | 202752.36297,25423.100300000002,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E16,Interest,7-9 | 227089.56228999997,4302.19047,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F16,Interest,10-12 | 195460.70378000004,25331.6862,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G16,Interest,13-18 | 394699.01229999994,29208.49572,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H16,Interest,19-24 | 410046.81236,28783.11478,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I16,Interest,3rd. year | 780685.31211,36290.08673,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J16,Interest,4th. year | 805171.02397,34588.56295,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K16,Interest,5th. year | 1185103.2994900001,33085.23859,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L16,Interest,Over 5 years to 10 years | 3454437.36915,151638.6254,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M16,Interest,Over 10 years to 15 years | 2315833.90186,81586.2381,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N16,Interest,Over 15 years | 1379435.2120599998,33818.93419999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B17,Total Public and Publicly-Guaranteed Debt Service Payments,immediate2 | 36444.70922,36711.71491,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C17,Total Public and Publicly-Guaranteed Debt Service Payments,0-3 | 203885.61294999998,227295.37584,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D17,Total Public and Publicly-Guaranteed Debt Service Payments,4-6 | 202752.36297,274148.59690999996,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E17,Total Public and Publicly-Guaranteed Debt Service Payments,7-9 | 227089.56228999997,248838.66077,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F17,Total Public and Publicly-Guaranteed Debt Service Payments,10-12 | 195460.70378000004,264193.86013000004,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G17,Total Public and Publicly-Guaranteed Debt Service Payments,13-18 | 394699.01229999994,480279.07378,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H17,Total Public and Publicly-Guaranteed Debt Service Payments,19-24 | 410046.81236,991077.7185499999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I17,Total Public and Publicly-Guaranteed Debt Service Payments,3rd. year | 780685.31211,909858.13601,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J17,Total Public and Publicly-Guaranteed Debt Service Payments,4th. year | 805171.02397,917358.79809,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K17,Total Public and Publicly-Guaranteed Debt Service Payments,5th. year | 1185103.2994900001,1292359.05572,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L17,Total Public and Publicly-Guaranteed Debt Service Payments,Over 5 years to 10 years | 3454437.36915,3757686.7124,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M17,Total Public and Publicly-Guaranteed Debt Service Payments,Over 10 years to 15 years | 2315833.90186,2989092.85981,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N17,Total Public and Publicly-Guaranteed Debt Service Payments,Over 15 years | 1379435.2120599998,2043684.7426799997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B18,Principal,immediate2 | 36444.70922,478.07761000000005,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C18,Principal,0-3 | 203885.61294999998,130416.42188,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D18,Principal,4-6 | 202752.36297,184935.64362,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E18,Principal,7-9 | 227089.56228999997,154064.34758,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F18,Principal,10-12 | 195460.70378000004,177232.12035000004,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G18,Principal,13-18 | 394699.01229999994,304123.5228,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H18,Principal,19-24 | 410046.81236,818402.42086,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I18,Principal,3rd. year | 780685.31211,598491.6830900001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J18,Principal,4th. year | 805171.02397,624057.60074,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K18,Principal,5th. year | 1185103.2994900001,1016924.89207,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L18,Principal,Over 5 years to 10 years | 3454437.36915,2773119.55659,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M18,Principal,Over 10 years to 15 years | 2315833.90186,2503663.9872,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N18,Principal,Over 15 years | 1379435.2120599998,1879264.5754799997,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,B19,Interest,immediate2 | 36444.70922,36233.6373,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,C19,Interest,0-3 | 203885.61294999998,96878.95396000001,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,D19,Interest,4-6 | 202752.36297,89212.95329,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,E19,Interest,7-9 | 227089.56228999997,94774.31318999999,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,F19,Interest,10-12 | 195460.70378000004,86961.73978,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,G19,Interest,13-18 | 394699.01229999994,176155.55098,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,H19,Interest,19-24 | 410046.81236,172675.29768999998,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,I19,Interest,3rd. year | 780685.31211,311366.45292,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,J19,Interest,4th. year | 805171.02397,293301.19735000003,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,K19,Interest,5th. year | 1185103.2994900001,275434.16365,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,L19,Interest,Over 5 years to 10 years | 3454437.36915,984567.15581,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,M19,Interest,Over 10 years to 15 years | 2315833.90186,485428.87261,contractual schedule at reference date; not realized future payment
+2026-06-30,debt_schedule,ED-Public,N19,Interest,Over 15 years | 1379435.2120599998,164420.16719999997,contractual schedule at reference date; not realized future payment

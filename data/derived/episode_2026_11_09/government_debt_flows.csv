@@ -1,0 +1,3 @@
+month,category,opening_usdm,closing_usdm,reported_difference_usdm,drawings_usdm,principal_paid_usdm,interest_paid_usdm,source_id,source_table,source_row
+2026-09,External Public Debt in USD,9068.408099999999,8926.2837,-142.12439999999998,56.0182,41.7889,19.5155,mof_debt,1,4
+2026-09,External Government Debt in USD,8805.1737,8664.0307,-141.1431,56.0182,41.7889,19.5155,mof_debt,1,5

@@ -18,6 +18,6 @@ Use `research/data_requirements.json` for acquisition priorities. An accessible 
 
 Do not infer causal effects from contemporaneous exchange-rate/intervention correlations. Preserve results that contradict the motivating hypothesis. Economic accounting, causal estimates, and conditional model calculations must remain distinguishable.
 
-The current authorized stage is organization and data requirements. Do not write or format a manuscript or run a new empirical study during this stage. `manuscript/STRUCTURE.md` specifies the eventual academic argument. Keep programming instructions, repository commentary and project-management language out of the eventual main paper; place those in `replication/` or `docs/`.
+The current authorized stage is execution of the committed data-acquisition roadmap: acquire and validate actual observations, preserve reproducibility, and commit completed outputs with explicit requirement status and blockers. Do not write or format a manuscript or claim a causal estimate before the protocol's identification gates pass. `manuscript/STRUCTURE.md` specifies the eventual academic argument. Keep programming instructions, repository commentary and project-management language out of the eventual main paper; place those in `replication/` or `docs/`.
 
 Before committing structural changes, run `python replication/check_repository.py`. Check preservation, local documentation links, study identity and the archived numerical tests. Do not silently reset source locks or regenerate historical reports in place.

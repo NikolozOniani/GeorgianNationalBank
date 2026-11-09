@@ -1,0 +1,163 @@
+date,direction,value_usdm,source_id,sheet,source_cell
+2020-01-31,Export,267.8634123949876,trade_country,Export_country 2015-2026,BJ4
+2020-02-29,Export,262.6523279807901,trade_country,Export_country 2015-2026,BK4
+2020-03-31,Export,249.47747452252085,trade_country,Export_country 2015-2026,BL4
+2020-04-30,Export,222.4637296365368,trade_country,Export_country 2015-2026,BM4
+2020-05-31,Export,234.42183885582327,trade_country,Export_country 2015-2026,BN4
+2020-06-30,Export,268.4649910718412,trade_country,Export_country 2015-2026,BO4
+2020-07-31,Export,274.55938150138104,trade_country,Export_country 2015-2026,BP4
+2020-08-31,Export,293.2404163127774,trade_country,Export_country 2015-2026,BQ4
+2020-09-30,Export,330.8376037973566,trade_country,Export_country 2015-2026,BR4
+2020-10-31,Export,312.92094837728735,trade_country,Export_country 2015-2026,BS4
+2020-11-30,Export,301.1184014878068,trade_country,Export_country 2015-2026,BT4
+2020-12-31,Export,322.67703147686564,trade_country,Export_country 2015-2026,BU4
+2021-01-31,Export,224.4666687322613,trade_country,Export_country 2015-2026,BV4
+2021-02-28,Export,267.678000499476,trade_country,Export_country 2015-2026,BW4
+2021-03-31,Export,326.08717008023507,trade_country,Export_country 2015-2026,BX4
+2021-04-30,Export,377.6869534862979,trade_country,Export_country 2015-2026,BY4
+2021-05-31,Export,340.0050183605884,trade_country,Export_country 2015-2026,BZ4
+2021-06-30,Export,350.5973135658121,trade_country,Export_country 2015-2026,CA4
+2021-07-31,Export,386.3080361005178,trade_country,Export_country 2015-2026,CB4
+2021-08-31,Export,335.15869204036056,trade_country,Export_country 2015-2026,CC4
+2021-09-30,Export,373.70662400650946,trade_country,Export_country 2015-2026,CD4
+2021-10-31,Export,410.8685046385297,trade_country,Export_country 2015-2026,CE4
+2021-11-30,Export,430.3852887904563,trade_country,Export_country 2015-2026,CF4
+2021-12-31,Export,419.5081467315116,trade_country,Export_country 2015-2026,CG4
+2022-01-31,Export,331.45652790070676,trade_country,Export_country 2015-2026,CH4
+2022-02-28,Export,429.2237194061263,trade_country,Export_country 2015-2026,CI4
+2022-03-31,Export,411.5735748224392,trade_country,Export_country 2015-2026,CJ4
+2022-04-30,Export,415.1740593852663,trade_country,Export_country 2015-2026,CK4
+2022-05-31,Export,521.3009712092419,trade_country,Export_country 2015-2026,CL4
+2022-06-30,Export,448.76714749225334,trade_country,Export_country 2015-2026,CM4
+2022-07-31,Export,533.1143774448759,trade_country,Export_country 2015-2026,CN4
+2022-08-31,Export,473.0880911088261,trade_country,Export_country 2015-2026,CO4
+2022-09-30,Export,523.5954094537644,trade_country,Export_country 2015-2026,CP4
+2022-10-31,Export,448.75302180809507,trade_country,Export_country 2015-2026,CQ4
+2022-11-30,Export,490.66913756253143,trade_country,Export_country 2015-2026,CR4
+2022-12-31,Export,555.7861791028786,trade_country,Export_country 2015-2026,CS4
+2023-01-31,Export,458.99437998064747,trade_country,Export_country 2015-2026,CT4
+2023-02-28,Export,455.7671802569503,trade_country,Export_country 2015-2026,CU4
+2023-03-31,Export,546.6862697972629,trade_country,Export_country 2015-2026,CV4
+2023-04-30,Export,500.1112542927227,trade_country,Export_country 2015-2026,CW4
+2023-05-31,Export,541.9927701658291,trade_country,Export_country 2015-2026,CX4
+2023-06-30,Export,549.9964908140319,trade_country,Export_country 2015-2026,CY4
+2023-07-31,Export,526.9085011143658,trade_country,Export_country 2015-2026,CZ4
+2023-08-31,Export,493.1841687229634,trade_country,Export_country 2015-2026,DA4
+2023-09-30,Export,525.5067958207705,trade_country,Export_country 2015-2026,DB4
+2023-10-31,Export,490.61052552723044,trade_country,Export_country 2015-2026,DC4
+2023-11-30,Export,481.7535454885191,trade_country,Export_country 2015-2026,DD4
+2023-12-31,Export,514.3677385675418,trade_country,Export_country 2015-2026,DE4
+2024-01-31,Export,338.74702901602967,trade_country,Export_country 2015-2026,DF4
+2024-02-29,Export,464.70891524482766,trade_country,Export_country 2015-2026,DG4
+2024-03-31,Export,522.8519293103086,trade_country,Export_country 2015-2026,DH4
+2024-04-30,Export,437.31127243131397,trade_country,Export_country 2015-2026,DI4
+2024-05-31,Export,501.5946577188942,trade_country,Export_country 2015-2026,DJ4
+2024-06-30,Export,579.9562309100739,trade_country,Export_country 2015-2026,DK4
+2024-07-31,Export,685.1896375118342,trade_country,Export_country 2015-2026,DL4
+2024-08-31,Export,640.9681393640294,trade_country,Export_country 2015-2026,DM4
+2024-09-30,Export,616.2334657987042,trade_country,Export_country 2015-2026,DN4
+2024-10-31,Export,681.9768883619911,trade_country,Export_country 2015-2026,DO4
+2024-11-30,Export,542.9678657799649,trade_country,Export_country 2015-2026,DP4
+2024-12-31,Export,549.3762197595494,trade_country,Export_country 2015-2026,DQ4
+2025-01-31,Export,397.48348780559763,trade_country,Export_country 2015-2026,DR4
+2025-02-28,Export,431.52293696763826,trade_country,Export_country 2015-2026,DS4
+2025-03-31,Export,562.3842871617663,trade_country,Export_country 2015-2026,DT4
+2025-04-30,Export,617.1268600111584,trade_country,Export_country 2015-2026,DU4
+2025-05-31,Export,580.0852568998585,trade_country,Export_country 2015-2026,DV4
+2025-06-30,Export,640.3952935594416,trade_country,Export_country 2015-2026,DW4
+2025-07-31,Export,610.4776171817551,trade_country,Export_country 2015-2026,DX4
+2025-08-01,Export,603.1477969229068,trade_country,Export_country 2015-2026,DY4
+2025-09-30,Export,703.2701812600429,trade_country,Export_country 2015-2026,DZ4
+2025-10-31,Export,684.5980153598127,trade_country,Export_country 2015-2026,EA4
+2025-11-30,Export,782.4119344770139,trade_country,Export_country 2015-2026,EB4
+2025-12-31,Export,674.9013599672929,trade_country,Export_country 2015-2026,EC4
+2026-01-31,Export,480.3304244396527,trade_country,Export_country 2015-2026,ED4
+2026-02-28,Export,546.1912671409412,trade_country,Export_country 2015-2026,EE4
+2026-03-31,Export,697.0938813091282,trade_country,Export_country 2015-2026,EF4
+2026-04-30,Export,714.0514995778306,trade_country,Export_country 2015-2026,EG4
+2026-05-31,Export,667.7523645883199,trade_country,Export_country 2015-2026,EH4
+2026-06-30,Export,770.8370013141734,trade_country,Export_country 2015-2026,EI4
+2026-07-31,Export,793.8983693423678,trade_country,Export_country 2015-2026,EJ4
+2026-08-31,Export,751.5804301974665,trade_country,Export_country 2015-2026,EK4
+2026-09-30,Export,731.4818994469678,trade_country,Export_country 2015-2026,EL4
+2020-01-31,Import ,644.9879593475138,trade_country,Import _country 2015-2026,BJ4
+2020-02-29,Import ,704.417129908558,trade_country,Import _country 2015-2026,BK4
+2020-03-31,Import ,670.7869986099035,trade_country,Import _country 2015-2026,BL4
+2020-04-30,Import ,478.20350889758663,trade_country,Import _country 2015-2026,BM4
+2020-05-31,Import ,529.3244843083048,trade_country,Import _country 2015-2026,BN4
+2020-06-30,Import ,608.9622659471086,trade_country,Import _country 2015-2026,BO4
+2020-07-31,Import ,727.2350524532501,trade_country,Import _country 2015-2026,BP4
+2020-08-31,Import ,664.8899269986817,trade_country,Import _country 2015-2026,BQ4
+2020-09-30,Import ,750.2481254378828,trade_country,Import _country 2015-2026,BR4
+2020-10-31,Import ,726.4812596970975,trade_country,Import _country 2015-2026,BS4
+2020-11-30,Import ,722.0073966417986,trade_country,Import _country 2015-2026,BT4
+2020-12-31,Import ,821.1325152613593,trade_country,Import _country 2015-2026,BU4
+2021-01-31,Import ,561.7477142265018,trade_country,Import _country 2015-2026,BV4
+2021-02-28,Import ,648.8024951826436,trade_country,Import _country 2015-2026,BW4
+2021-03-31,Import ,775.0195656672109,trade_country,Import _country 2015-2026,BX4
+2021-04-30,Import ,756.2942202481053,trade_country,Import _country 2015-2026,BY4
+2021-05-31,Import ,770.2474875116526,trade_country,Import _country 2015-2026,BZ4
+2021-06-30,Import ,863.7523113532204,trade_country,Import _country 2015-2026,CA4
+2021-07-31,Import ,882.1216260197968,trade_country,Import _country 2015-2026,CB4
+2021-08-31,Import ,868.6441591251995,trade_country,Import _country 2015-2026,CC4
+2021-09-01,Import ,952.4126798667103,trade_country,Import _country 2015-2026,CD4
+2021-10-31,Import ,936.2028948514703,trade_country,Import _country 2015-2026,CE4
+2021-11-30,Import ,1033.2183590057084,trade_country,Import _country 2015-2026,CF4
+2021-12-31,Import ,1050.5778068804952,trade_country,Import _country 2015-2026,CG4
+2022-01-31,Import ,774.1660942068072,trade_country,Import _country 2015-2026,CH4
+2022-02-28,Import ,1019.2468291839932,trade_country,Import _country 2015-2026,CI4
+2022-03-31,Import ,926.964074546189,trade_country,Import _country 2015-2026,CJ4
+2022-04-30,Import ,986.0008613012099,trade_country,Import _country 2015-2026,CK4
+2022-05-31,Import ,1180.4839987647092,trade_country,Import _country 2015-2026,CL4
+2022-06-30,Import ,1105.6582513380029,trade_country,Import _country 2015-2026,CM4
+2022-07-31,Import ,1172.1270133119524,trade_country,Import _country 2015-2026,CN4
+2022-08-31,Import ,1257.6748284035189,trade_country,Import _country 2015-2026,CO4
+2022-09-30,Import ,1132.2515310310196,trade_country,Import _country 2015-2026,CP4
+2022-10-31,Import ,1204.155979202472,trade_country,Import _country 2015-2026,CQ4
+2022-11-30,Import ,1311.1134016920294,trade_country,Import _country 2015-2026,CR4
+2022-12-31,Import ,1469.8710098621598,trade_country,Import _country 2015-2026,CS4
+2023-01-31,Import ,1115.8827396372744,trade_country,Import _country 2015-2026,CT4
+2023-02-28,Import ,1068.241393827068,trade_country,Import _country 2015-2026,CU4
+2023-03-31,Import ,1378.1124538402958,trade_country,Import _country 2015-2026,CV4
+2023-04-30,Import ,1224.9100455025302,trade_country,Import _country 2015-2026,CW4
+2023-05-31,Import ,1331.228109227499,trade_country,Import _country 2015-2026,CX4
+2023-06-30,Import ,1343.580728146539,trade_country,Import _country 2015-2026,CY4
+2023-07-01,Import ,1325.5144709432427,trade_country,Import _country 2015-2026,CZ4
+2023-08-31,Import ,1411.909545537635,trade_country,Import _country 2015-2026,DA4
+2023-09-30,Import ,1382.9336005353407,trade_country,Import _country 2015-2026,DB4
+2023-10-31,Import ,1361.0489891354991,trade_country,Import _country 2015-2026,DC4
+2023-11-30,Import ,1298.7047495960262,trade_country,Import _country 2015-2026,DD4
+2023-12-31,Import ,1373.2033005852354,trade_country,Import _country 2015-2026,DE4
+2024-01-31,Import ,1104.4683433672767,trade_country,Import _country 2015-2026,DF4
+2024-02-29,Import ,1184.3272878319794,trade_country,Import _country 2015-2026,DG4
+2024-03-31,Import ,1230.7144561068592,trade_country,Import _country 2015-2026,DH4
+2024-04-30,Import ,1455.3703787682434,trade_country,Import _country 2015-2026,DI4
+2024-05-31,Import ,1416.4502274526174,trade_country,Import _country 2015-2026,DJ4
+2024-06-30,Import ,1363.0858182909321,trade_country,Import _country 2015-2026,DK4
+2024-07-31,Import ,1570.3858956969384,trade_country,Import _country 2015-2026,DL4
+2024-08-31,Import ,1457.958297439817,trade_country,Import _country 2015-2026,DM4
+2024-09-30,Import ,1446.9007916276614,trade_country,Import _country 2015-2026,DN4
+2024-10-31,Import ,1507.760556562129,trade_country,Import _country 2015-2026,DO4
+2024-11-30,Import ,1478.554912546414,trade_country,Import _country 2015-2026,DP4
+2024-12-31,Import ,1700.8578800193877,trade_country,Import _country 2015-2026,DQ4
+2025-01-31,Import ,1704.4754299185474,trade_country,Import _country 2015-2026,DR4
+2025-02-28,Import ,1234.1066805587775,trade_country,Import _country 2015-2026,DS4
+2025-03-31,Import ,1521.030386951252,trade_country,Import _country 2015-2026,DT4
+2025-04-30,Import ,1526.341503567476,trade_country,Import _country 2015-2026,DU4
+2025-05-31,Import ,1487.976951172316,trade_country,Import _country 2015-2026,DV4
+2025-06-30,Import ,1512.6189522296872,trade_country,Import _country 2015-2026,DW4
+2025-07-31,Import ,1609.317534418901,trade_country,Import _country 2015-2026,DX4
+2025-08-31,Import ,1497.4839436669556,trade_country,Import _country 2015-2026,DY4
+2025-09-30,Import ,1565.7560199765726,trade_country,Import _country 2015-2026,DZ4
+2025-10-31,Import ,1560.691963030215,trade_country,Import _country 2015-2026,EA4
+2025-11-30,Import ,1518.5139439767152,trade_country,Import _country 2015-2026,EB4
+2025-12-31,Import ,1910.1999977192995,trade_country,Import _country 2015-2026,EC4
+2026-01-31,Import ,1204.1760305227642,trade_country,Import _country 2015-2026,ED4
+2026-02-28,Import ,1410.7780456256671,trade_country,Import _country 2015-2026,EE4
+2026-03-31,Import ,1673.1122305448127,trade_country,Import _country 2015-2026,EF4
+2026-04-30,Import ,1563.0034317506954,trade_country,Import _country 2015-2026,EG4
+2026-05-31,Import ,1655.943720202062,trade_country,Import _country 2015-2026,EH4
+2026-06-30,Import ,1706.5714470766904,trade_country,Import _country 2015-2026,EI4
+2026-07-31,Import ,1769.8116483126282,trade_country,Import _country 2015-2026,EJ4
+2026-08-31,Import ,1592.7590002075988,trade_country,Import _country 2015-2026,EK4
+2026-09-30,Import ,1805.8834985545222,trade_country,Import _country 2015-2026,EL4

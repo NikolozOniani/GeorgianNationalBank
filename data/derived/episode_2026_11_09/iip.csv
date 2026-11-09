@@ -1,0 +1,261 @@
+date,series_row,label,value,source_value_status,source_id,sheet,source_cell
+2020-03-31,4,Net International Investment Position,-22848.39322435,reported,iip,IIP-1 (BPM6),CE4
+2020-03-31,5,Assets,10563.549823370002,reported,iip,IIP-1 (BPM6),CE5
+2020-03-31,6,Direct investment,2927.2063463100008,reported,iip,IIP-1 (BPM6),CE6
+2020-03-31,30,Portfolio investment,543.62525985,reported,iip,IIP-1 (BPM6),CE30
+2020-03-31,73,Other investment,3669.805159280001,reported,iip,IIP-1 (BPM6),CE73
+2020-03-31,167,Reserve assets,3400.504200699999,reported,iip,IIP-1 (BPM6),CE167
+2020-03-31,186,Liabilities,33411.94304772,reported,iip,IIP-1 (BPM6),CE186
+2020-03-31,187,Direct investment,18176.663764099998,reported,iip,IIP-1 (BPM6),CE187
+2020-03-31,211,Portfolio investment,3093.4238085699994,reported,iip,IIP-1 (BPM6),CE211
+2020-03-31,254,Other investment,12117.329426010003,reported,iip,IIP-1 (BPM6),CE254
+2020-06-30,4,Net International Investment Position,-23942.883970829993,reported,iip,IIP-1 (BPM6),CF4
+2020-06-30,5,Assets,10824.046263520002,reported,iip,IIP-1 (BPM6),CF5
+2020-06-30,6,Direct investment,3055.8858602700006,reported,iip,IIP-1 (BPM6),CF6
+2020-06-30,30,Portfolio investment,601.1673603099999,reported,iip,IIP-1 (BPM6),CF30
+2020-06-30,73,Other investment,3536.908260250001,reported,iip,IIP-1 (BPM6),CF73
+2020-06-30,167,Reserve assets,3616.0722162399993,reported,iip,IIP-1 (BPM6),CF167
+2020-06-30,186,Liabilities,34766.930234349995,reported,iip,IIP-1 (BPM6),CF186
+2020-06-30,187,Direct investment,18964.346457699998,reported,iip,IIP-1 (BPM6),CF187
+2020-06-30,211,Portfolio investment,2930.8382113999996,reported,iip,IIP-1 (BPM6),CF211
+2020-06-30,254,Other investment,12852.056608830002,reported,iip,IIP-1 (BPM6),CF254
+2020-09-30,4,Net International Investment Position,-24220.846808620005,reported,iip,IIP-1 (BPM6),CG4
+2020-09-30,5,Assets,11303.55564355,reported,iip,IIP-1 (BPM6),CG5
+2020-09-30,6,Direct investment,3153.2500085000006,reported,iip,IIP-1 (BPM6),CG6
+2020-09-30,30,Portfolio investment,566.2958044399999,reported,iip,IIP-1 (BPM6),CG30
+2020-09-30,73,Other investment,3808.218623240001,reported,iip,IIP-1 (BPM6),CG73
+2020-09-30,167,Reserve assets,3764.6325308699993,reported,iip,IIP-1 (BPM6),CG167
+2020-09-30,186,Liabilities,35524.402452170005,reported,iip,IIP-1 (BPM6),CG186
+2020-09-30,187,Direct investment,18633.444291699998,reported,iip,IIP-1 (BPM6),CG187
+2020-09-30,211,Portfolio investment,3227.6554629499997,reported,iip,IIP-1 (BPM6),CG211
+2020-09-30,254,Other investment,13624.222054920003,reported,iip,IIP-1 (BPM6),CG254
+2020-12-31,4,Net International Investment Position,-25217.941963679998,reported,iip,IIP-1 (BPM6),CH4
+2020-12-31,5,Assets,11178.08366937,reported,iip,IIP-1 (BPM6),CH5
+2020-12-31,6,Direct investment,2993.467800700001,reported,iip,IIP-1 (BPM6),CH6
+2020-12-31,30,Portfolio investment,584.75845551,reported,iip,IIP-1 (BPM6),CH30
+2020-12-31,73,Other investment,3669.289243270001,reported,iip,IIP-1 (BPM6),CH73
+2020-12-31,167,Reserve assets,3910.7535652599986,reported,iip,IIP-1 (BPM6),CH167
+2020-12-31,186,Liabilities,36396.02563305,reported,iip,IIP-1 (BPM6),CH186
+2020-12-31,187,Direct investment,18769.463788099998,reported,iip,IIP-1 (BPM6),CH187
+2020-12-31,211,Portfolio investment,3278.4181250499996,reported,iip,IIP-1 (BPM6),CH211
+2020-12-31,254,Other investment,14271.809177650002,reported,iip,IIP-1 (BPM6),CH254
+2021-03-31,4,Net International Investment Position,-24396.511746379998,reported,iip,IIP-1 (BPM6),CI4
+2021-03-31,5,Assets,11357.251948030002,reported,iip,IIP-1 (BPM6),CI5
+2021-03-31,6,Direct investment,3020.817627800001,reported,iip,IIP-1 (BPM6),CI6
+2021-03-31,30,Portfolio investment,528.0483374999999,reported,iip,IIP-1 (BPM6),CI30
+2021-03-31,73,Other investment,3696.0032455000005,reported,iip,IIP-1 (BPM6),CI73
+2021-03-31,167,Reserve assets,4101.59373576,reported,iip,IIP-1 (BPM6),CI167
+2021-03-31,186,Liabilities,35753.76369441,reported,iip,IIP-1 (BPM6),CI186
+2021-03-31,187,Direct investment,17822.3544242,reported,iip,IIP-1 (BPM6),CI187
+2021-03-31,211,Portfolio investment,3308.3618303799994,reported,iip,IIP-1 (BPM6),CI211
+2021-03-31,254,Other investment,14568.373890740006,reported,iip,IIP-1 (BPM6),CI254
+2021-06-30,4,Net International Investment Position,-25681.32172258,reported,iip,IIP-1 (BPM6),CJ4
+2021-06-30,5,Assets,11002.104869530001,reported,iip,IIP-1 (BPM6),CJ5
+2021-06-30,6,Direct investment,3075.1892359500007,reported,iip,IIP-1 (BPM6),CJ6
+2021-06-30,30,Portfolio investment,555.5891077299999,reported,iip,IIP-1 (BPM6),CJ30
+2021-06-30,73,Other investment,3445.7331858900006,reported,iip,IIP-1 (BPM6),CJ73
+2021-06-30,167,Reserve assets,3918.57121128,reported,iip,IIP-1 (BPM6),CJ167
+2021-06-30,186,Liabilities,36683.42659211,reported,iip,IIP-1 (BPM6),CJ186
+2021-06-30,187,Direct investment,18777.152324,reported,iip,IIP-1 (BPM6),CJ187
+2021-06-30,211,Portfolio investment,3047.4148771399996,reported,iip,IIP-1 (BPM6),CJ211
+2021-06-30,254,Other investment,14838.672592040004,reported,iip,IIP-1 (BPM6),CJ254
+2021-09-30,4,Net International Investment Position,-26169.810396245004,reported,iip,IIP-1 (BPM6),CK4
+2021-09-30,5,Assets,11030.450455,reported,iip,IIP-1 (BPM6),CK5
+2021-09-30,6,Direct investment,2991.84583044,reported,iip,IIP-1 (BPM6),CK6
+2021-09-30,30,Portfolio investment,671.8312828799999,reported,iip,IIP-1 (BPM6),CK30
+2021-09-30,73,Other investment,3269.4043154700007,reported,iip,IIP-1 (BPM6),CK73
+2021-09-30,167,Reserve assets,4077.1800598099994,reported,iip,IIP-1 (BPM6),CK167
+2021-09-30,186,Liabilities,37200.260851245,reported,iip,IIP-1 (BPM6),CK186
+2021-09-30,187,Direct investment,19175.218364599998,reported,iip,IIP-1 (BPM6),CK187
+2021-09-30,211,Portfolio investment,3018.4568040199993,reported,iip,IIP-1 (BPM6),CK211
+2021-09-30,254,Other investment,14998.746518455007,reported,iip,IIP-1 (BPM6),CK254
+2021-12-31,4,Net International Investment Position,-26730.83995227,reported,iip,IIP-1 (BPM6),CL4
+2021-12-31,5,Assets,11494.40970458,reported,iip,IIP-1 (BPM6),CL5
+2021-12-31,6,Direct investment,3005.24110806,reported,iip,IIP-1 (BPM6),CL6
+2021-12-31,30,Portfolio investment,651.0307772399999,reported,iip,IIP-1 (BPM6),CL30
+2021-12-31,73,Other investment,3530.6182379800007,reported,iip,IIP-1 (BPM6),CL73
+2021-12-31,167,Reserve assets,4272.54395794,reported,iip,IIP-1 (BPM6),CL167
+2021-12-31,186,Liabilities,38225.24965685,reported,iip,IIP-1 (BPM6),CL186
+2021-12-31,187,Direct investment,19624.289666999997,reported,iip,IIP-1 (BPM6),CL187
+2021-12-31,211,Portfolio investment,3064.575257239999,reported,iip,IIP-1 (BPM6),CL211
+2021-12-31,254,Other investment,15534.256432000007,reported,iip,IIP-1 (BPM6),CL254
+2022-03-31,4,Net International Investment Position,-26595.836378319997,reported,iip,IIP-1 (BPM6),CM4
+2022-03-31,5,Assets,11667.7899619,reported,iip,IIP-1 (BPM6),CM5
+2022-03-31,6,Direct investment,3086.086532,reported,iip,IIP-1 (BPM6),CM6
+2022-03-31,30,Portfolio investment,672.7866419199999,reported,iip,IIP-1 (BPM6),CM30
+2022-03-31,73,Other investment,3854.8876129500004,reported,iip,IIP-1 (BPM6),CM73
+2022-03-31,167,Reserve assets,4030.6336387799997,reported,iip,IIP-1 (BPM6),CM167
+2022-03-31,186,Liabilities,38263.62634022,reported,iip,IIP-1 (BPM6),CM186
+2022-03-31,187,Direct investment,19599.054888599996,reported,iip,IIP-1 (BPM6),CM187
+2022-03-31,211,Portfolio investment,2920.8037514299995,reported,iip,IIP-1 (BPM6),CM211
+2022-03-31,254,Other investment,15718.404875640004,reported,iip,IIP-1 (BPM6),CM254
+2022-06-30,4,Net International Investment Position,-27010.328325469993,reported,iip,IIP-1 (BPM6),CN4
+2022-06-30,5,Assets,12302.73665746,reported,iip,IIP-1 (BPM6),CN5
+2022-06-30,6,Direct investment,3082.88566278,reported,iip,IIP-1 (BPM6),CN6
+2022-06-30,30,Portfolio investment,938.0894631899998,reported,iip,IIP-1 (BPM6),CN30
+2022-06-30,73,Other investment,4334.95965847,reported,iip,IIP-1 (BPM6),CN73
+2022-06-30,167,Reserve assets,3922.41111399,reported,iip,IIP-1 (BPM6),CN167
+2022-06-30,186,Liabilities,39313.064982929995,reported,iip,IIP-1 (BPM6),CN186
+2022-06-30,187,Direct investment,20295.491325499992,reported,iip,IIP-1 (BPM6),CN187
+2022-06-30,211,Portfolio investment,2837.099973839999,reported,iip,IIP-1 (BPM6),CN211
+2022-06-30,254,Other investment,16110.778239800004,reported,iip,IIP-1 (BPM6),CN254
+2022-09-30,4,Net International Investment Position,-26538.251916659996,reported,iip,IIP-1 (BPM6),CO4
+2022-09-30,5,Assets,13693.78646615,reported,iip,IIP-1 (BPM6),CO5
+2022-09-30,6,Direct investment,3057.36598324,reported,iip,IIP-1 (BPM6),CO6
+2022-09-30,30,Portfolio investment,1657.1189282300002,reported,iip,IIP-1 (BPM6),CO30
+2022-09-30,73,Other investment,4647.57652559,reported,iip,IIP-1 (BPM6),CO73
+2022-09-30,167,Reserve assets,4313.12102805,reported,iip,IIP-1 (BPM6),CO167
+2022-09-30,186,Liabilities,40232.038382809995,reported,iip,IIP-1 (BPM6),CO186
+2022-09-30,187,Direct investment,21447.005448799995,reported,iip,IIP-1 (BPM6),CO187
+2022-09-30,211,Portfolio investment,2367.4090815799987,reported,iip,IIP-1 (BPM6),CO211
+2022-09-30,254,Other investment,16359.014562070004,reported,iip,IIP-1 (BPM6),CO254
+2022-12-31,4,Net International Investment Position,-28535.164753549994,reported,iip,IIP-1 (BPM6),CP4
+2022-12-31,5,Assets,14523.593506260002,reported,iip,IIP-1 (BPM6),CP5
+2022-12-31,6,Direct investment,3316.44010525,reported,iip,IIP-1 (BPM6),CP6
+2022-12-31,30,Portfolio investment,2013.0852665300001,reported,iip,IIP-1 (BPM6),CP30
+2022-12-31,73,Other investment,4284.16111025,reported,iip,IIP-1 (BPM6),CP73
+2022-12-31,167,Reserve assets,4901.569753060001,reported,iip,IIP-1 (BPM6),CP167
+2022-12-31,186,Liabilities,43058.75825981,reported,iip,IIP-1 (BPM6),CP186
+2022-12-31,187,Direct investment,22705.497131999993,reported,iip,IIP-1 (BPM6),CP187
+2022-12-31,211,Portfolio investment,2398.7043355299993,reported,iip,IIP-1 (BPM6),CP211
+2022-12-31,254,Other investment,17942.061305330004,reported,iip,IIP-1 (BPM6),CP254
+2023-03-31,4,Net International Investment Position,-29704.44061130999,reported,iip,IIP-1 (BPM6),CQ4
+2023-03-31,5,Assets,15023.94552829,reported,iip,IIP-1 (BPM6),CQ5
+2023-03-31,6,Direct investment,3487.8934858700004,reported,iip,IIP-1 (BPM6),CQ6
+2023-03-31,30,Portfolio investment,2316.9166838300002,reported,iip,IIP-1 (BPM6),CQ30
+2023-03-31,73,Other investment,4198.09472944,reported,iip,IIP-1 (BPM6),CQ73
+2023-03-31,167,Reserve assets,5003.8244943400005,reported,iip,IIP-1 (BPM6),CQ167
+2023-03-31,186,Liabilities,44728.38613959999,reported,iip,IIP-1 (BPM6),CQ186
+2023-03-31,187,Direct investment,24042.21286119999,reported,iip,IIP-1 (BPM6),CQ187
+2023-03-31,211,Portfolio investment,2416.7941397699988,reported,iip,IIP-1 (BPM6),CQ211
+2023-03-31,254,Other investment,18241.329176930005,reported,iip,IIP-1 (BPM6),CQ254
+2023-06-30,4,Net International Investment Position,-29998.723611149988,reported,iip,IIP-1 (BPM6),CR4
+2023-06-30,5,Assets,15366.838402820002,reported,iip,IIP-1 (BPM6),CR5
+2023-06-30,6,Direct investment,3521.93190556,reported,iip,IIP-1 (BPM6),CR6
+2023-06-30,30,Portfolio investment,2373.09479456,reported,iip,IIP-1 (BPM6),CR30
+2023-06-30,73,Other investment,4394.66896258,reported,iip,IIP-1 (BPM6),CR73
+2023-06-30,167,Reserve assets,5066.747611630001,reported,iip,IIP-1 (BPM6),CR167
+2023-06-30,186,Liabilities,45365.56201396999,reported,iip,IIP-1 (BPM6),CR186
+2023-06-30,187,Direct investment,24427.82381109999,reported,iip,IIP-1 (BPM6),CR187
+2023-06-30,211,Portfolio investment,2440.6218294799987,reported,iip,IIP-1 (BPM6),CR211
+2023-06-30,254,Other investment,18477.910111650006,reported,iip,IIP-1 (BPM6),CR254
+2023-09-30,4,Net International Investment Position,-29677.369190359994,reported,iip,IIP-1 (BPM6),CS4
+2023-09-30,5,Assets,15826.105708760002,reported,iip,IIP-1 (BPM6),CS5
+2023-09-30,6,Direct investment,3604.89655793,reported,iip,IIP-1 (BPM6),CS6
+2023-09-30,30,Portfolio investment,2605.6632543100004,reported,iip,IIP-1 (BPM6),CS30
+2023-09-30,73,Other investment,4323.30015069,reported,iip,IIP-1 (BPM6),CS73
+2023-09-30,167,Reserve assets,5273.627482860002,reported,iip,IIP-1 (BPM6),CS167
+2023-09-30,186,Liabilities,45503.474899119996,reported,iip,IIP-1 (BPM6),CS186
+2023-09-30,187,Direct investment,24912.20253729999,reported,iip,IIP-1 (BPM6),CS187
+2023-09-30,211,Portfolio investment,2068.804052959999,reported,iip,IIP-1 (BPM6),CS211
+2023-09-30,254,Other investment,18481.70722300001,reported,iip,IIP-1 (BPM6),CS254
+2023-12-31,4,Net International Investment Position,-30328.48737256999,reported,iip,IIP-1 (BPM6),CT4
+2023-12-31,5,Assets,16362.773058310002,reported,iip,IIP-1 (BPM6),CT5
+2023-12-31,6,Direct investment,3811.23976935,reported,iip,IIP-1 (BPM6),CT6
+2023-12-31,30,Portfolio investment,2646.6446873500004,reported,iip,IIP-1 (BPM6),CT30
+2023-12-31,73,Other investment,4876.47293008,reported,iip,IIP-1 (BPM6),CT73
+2023-12-31,167,Reserve assets,5009.601813330001,reported,iip,IIP-1 (BPM6),CT167
+2023-12-31,186,Liabilities,46691.26043087999,reported,iip,IIP-1 (BPM6),CT186
+2023-12-31,187,Direct investment,25135.305968999986,reported,iip,IIP-1 (BPM6),CT187
+2023-12-31,211,Portfolio investment,2079.857145899999,reported,iip,IIP-1 (BPM6),CT211
+2023-12-31,254,Other investment,19460.522150280005,reported,iip,IIP-1 (BPM6),CT254
+2024-03-31,4,Net International Investment Position,-30400.01571641999,reported,iip,IIP-1 (BPM6),CU4
+2024-03-31,5,Assets,16330.675839410002,reported,iip,IIP-1 (BPM6),CU5
+2024-03-31,6,Direct investment,3858.8758305899996,reported,iip,IIP-1 (BPM6),CU6
+2024-03-31,30,Portfolio investment,3001.6021352600005,reported,iip,IIP-1 (BPM6),CU30
+2024-03-31,73,Other investment,4685.99859041,reported,iip,IIP-1 (BPM6),CU73
+2024-03-31,167,Reserve assets,4776.889548450001,reported,iip,IIP-1 (BPM6),CU167
+2024-03-31,186,Liabilities,46730.691555829995,reported,iip,IIP-1 (BPM6),CU186
+2024-03-31,187,Direct investment,25103.736891199987,reported,iip,IIP-1 (BPM6),CU187
+2024-03-31,211,Portfolio investment,2112.0649005799987,reported,iip,IIP-1 (BPM6),CU211
+2024-03-31,254,Other investment,19498.142666950007,reported,iip,IIP-1 (BPM6),CU254
+2024-06-30,4,Net International Investment Position,-29439.889707419992,reported,iip,IIP-1 (BPM6),CV4
+2024-06-30,5,Assets,16770.82142313,reported,iip,IIP-1 (BPM6),CV5
+2024-06-30,6,Direct investment,3934.4653655399993,reported,iip,IIP-1 (BPM6),CV6
+2024-06-30,30,Portfolio investment,3194.9450476800002,reported,iip,IIP-1 (BPM6),CV30
+2024-06-30,73,Other investment,5052.06767621,reported,iip,IIP-1 (BPM6),CV73
+2024-06-30,167,Reserve assets,4580.946516890001,reported,iip,IIP-1 (BPM6),CV167
+2024-06-30,186,Liabilities,46210.71113054999,reported,iip,IIP-1 (BPM6),CV186
+2024-06-30,187,Direct investment,24257.19714669999,reported,iip,IIP-1 (BPM6),CV187
+2024-06-30,211,Portfolio investment,2249.782714749999,reported,iip,IIP-1 (BPM6),CV211
+2024-06-30,254,Other investment,19671.370676090006,reported,iip,IIP-1 (BPM6),CV254
+2024-09-30,4,Net International Investment Position,-29810.65038009999,reported,iip,IIP-1 (BPM6),CW4
+2024-09-30,5,Assets,18078.37697072,reported,iip,IIP-1 (BPM6),CW5
+2024-09-30,6,Direct investment,4149.58411688,reported,iip,IIP-1 (BPM6),CW6
+2024-09-30,30,Portfolio investment,3226.57422634,reported,iip,IIP-1 (BPM6),CW30
+2024-09-30,73,Other investment,5939.06530947,reported,iip,IIP-1 (BPM6),CW73
+2024-09-30,167,Reserve assets,4712.391514360001,reported,iip,IIP-1 (BPM6),CW167
+2024-09-30,186,Liabilities,47889.02735081999,reported,iip,IIP-1 (BPM6),CW186
+2024-09-30,187,Direct investment,24904.99799349999,reported,iip,IIP-1 (BPM6),CW187
+2024-09-30,211,Portfolio investment,2674.732459179999,reported,iip,IIP-1 (BPM6),CW211
+2024-09-30,254,Other investment,20305.460960740005,reported,iip,IIP-1 (BPM6),CW254
+2024-12-31,4,Net International Investment Position,-29939.343034189988,reported,iip,IIP-1 (BPM6),CX4
+2024-12-31,5,Assets,17771.11101616,reported,iip,IIP-1 (BPM6),CX5
+2024-12-31,6,Direct investment,4174.529513519999,reported,iip,IIP-1 (BPM6),CX6
+2024-12-31,30,Portfolio investment,4206.39256437,reported,iip,IIP-1 (BPM6),CX30
+2024-12-31,73,Other investment,4904.10845188,reported,iip,IIP-1 (BPM6),CX73
+2024-12-31,167,Reserve assets,4448.55817698,reported,iip,IIP-1 (BPM6),CX167
+2024-12-31,186,Liabilities,47710.45405034999,reported,iip,IIP-1 (BPM6),CX186
+2024-12-31,187,Direct investment,25063.53457469999,reported,iip,IIP-1 (BPM6),CX187
+2024-12-31,211,Portfolio investment,2434.656642709999,reported,iip,IIP-1 (BPM6),CX211
+2024-12-31,254,Other investment,20086.688279660004,reported,iip,IIP-1 (BPM6),CX254
+2025-03-31,4,Net International Investment Position,-31626.565578039994,reported,iip,IIP-1 (BPM6),CY4
+2025-03-31,5,Assets,17718.70322544,reported,iip,IIP-1 (BPM6),CY5
+2025-03-31,6,Direct investment,4240.159900459998,reported,iip,IIP-1 (BPM6),CY6
+2025-03-31,30,Portfolio investment,4175.7996787600005,reported,iip,IIP-1 (BPM6),CY30
+2025-03-31,73,Other investment,4978.00945377,reported,iip,IIP-1 (BPM6),CY73
+2025-03-31,167,Reserve assets,4310.785477900001,reported,iip,IIP-1 (BPM6),CY167
+2025-03-31,186,Liabilities,49345.268803479994,reported,iip,IIP-1 (BPM6),CY186
+2025-03-31,187,Direct investment,26315.06369449999,reported,iip,IIP-1 (BPM6),CY187
+2025-03-31,211,Portfolio investment,2471.528047129999,reported,iip,IIP-1 (BPM6),CY211
+2025-03-31,254,Other investment,20540.292037630006,reported,iip,IIP-1 (BPM6),CY254
+2025-06-30,4,Net International Investment Position,-32844.26107534999,reported,iip,IIP-1 (BPM6),CZ4
+2025-06-30,5,Assets,18660.75225177,reported,iip,IIP-1 (BPM6),CZ5
+2025-06-30,6,Direct investment,4479.586993469999,reported,iip,IIP-1 (BPM6),CZ6
+2025-06-30,30,Portfolio investment,4149.60292379,reported,iip,IIP-1 (BPM6),CZ30
+2025-06-30,73,Other investment,5330.55061712,reported,iip,IIP-1 (BPM6),CZ73
+2025-06-30,167,Reserve assets,4688.4436314,reported,iip,IIP-1 (BPM6),CZ167
+2025-06-30,186,Liabilities,51505.01332711999,reported,iip,IIP-1 (BPM6),CZ186
+2025-06-30,187,Direct investment,27571.423874299988,reported,iip,IIP-1 (BPM6),CZ187
+2025-06-30,211,Portfolio investment,2544.525481309999,reported,iip,IIP-1 (BPM6),CZ211
+2025-06-30,254,Other investment,21380.722532780004,reported,iip,IIP-1 (BPM6),CZ254
+2025-09-30,4,Net International Investment Position,-32409.43261963999,reported,iip,IIP-1 (BPM6),DA4
+2025-09-30,5,Assets,20372.13833834,reported,iip,IIP-1 (BPM6),DA5
+2025-09-30,6,Direct investment,4574.018404859999,reported,iip,IIP-1 (BPM6),DA6
+2025-09-30,30,Portfolio investment,4625.2133075599995,reported,iip,IIP-1 (BPM6),DA30
+2025-09-30,73,Other investment,5739.712989070001,reported,iip,IIP-1 (BPM6),DA73
+2025-09-30,167,Reserve assets,5427.125326,reported,iip,IIP-1 (BPM6),DA167
+2025-09-30,186,Liabilities,52781.57095797999,reported,iip,IIP-1 (BPM6),DA186
+2025-09-30,187,Direct investment,28138.63849739999,reported,iip,IIP-1 (BPM6),DA187
+2025-09-30,211,Portfolio investment,2886.2408710799987,reported,iip,IIP-1 (BPM6),DA211
+2025-09-30,254,Other investment,21754.760500120003,reported,iip,IIP-1 (BPM6),DA254
+2025-12-31,4,Net International Investment Position,-32262.91602052998,reported,iip,IIP-1 (BPM6),DB4
+2025-12-31,5,Assets,20549.72604502,reported,iip,IIP-1 (BPM6),DB5
+2025-12-31,6,Direct investment,4647.852929429998,reported,iip,IIP-1 (BPM6),DB6
+2025-12-31,30,Portfolio investment,4857.66622173,reported,iip,IIP-1 (BPM6),DB30
+2025-12-31,73,Other investment,4882.52763523,reported,iip,IIP-1 (BPM6),DB73
+2025-12-31,167,Reserve assets,6159.2767188200005,reported,iip,IIP-1 (BPM6),DB167
+2025-12-31,186,Liabilities,52812.64206554998,reported,iip,IIP-1 (BPM6),DB186
+2025-12-31,187,Direct investment,28165.509054199985,reported,iip,IIP-1 (BPM6),DB187
+2025-12-31,211,Portfolio investment,2968.7410128999986,reported,iip,IIP-1 (BPM6),DB211
+2025-12-31,254,Other investment,21675.288888850002,reported,iip,IIP-1 (BPM6),DB254
+2026-03-31,4,Net International Investment Position,-32166.81660593,reported,iip,IIP-1 (BPM6),DC4
+2026-03-31,5,Assets,21104.41153184,reported,iip,IIP-1 (BPM6),DC5
+2026-03-31,6,Direct investment,4715.548531239999,reported,iip,IIP-1 (BPM6),DC6
+2026-03-31,30,Portfolio investment,4646.03249342,reported,iip,IIP-1 (BPM6),DC30
+2026-03-31,73,Other investment,5413.30728678,reported,iip,IIP-1 (BPM6),DC73
+2026-03-31,167,Reserve assets,6316.585447990001,reported,iip,IIP-1 (BPM6),DC167
+2026-03-31,186,Liabilities,53271.22813777,reported,iip,IIP-1 (BPM6),DC186
+2026-03-31,187,Direct investment,28296.092189699986,reported,iip,IIP-1 (BPM6),DC187
+2026-03-31,211,Portfolio investment,3142.2835453699986,reported,iip,IIP-1 (BPM6),DC211
+2026-03-31,254,Other investment,21825.58918315001,reported,iip,IIP-1 (BPM6),DC254
+2026-06-30,4,Net International Investment Position,-32433.403587919987,reported,iip,IIP-1 (BPM6),DD4
+2026-06-30,5,Assets,22447.71699989,reported,iip,IIP-1 (BPM6),DD5
+2026-06-30,6,Direct investment,4837.057553499999,reported,iip,IIP-1 (BPM6),DD6
+2026-06-30,30,Portfolio investment,5127.96458647,reported,iip,IIP-1 (BPM6),DD30
+2026-06-30,73,Other investment,5357.63409113,reported,iip,IIP-1 (BPM6),DD73
+2026-06-30,167,Reserve assets,7122.913046600001,reported,iip,IIP-1 (BPM6),DD167
+2026-06-30,186,Liabilities,54881.120587809986,reported,iip,IIP-1 (BPM6),DD186
+2026-06-30,187,Direct investment,30001.39977569999,reported,iip,IIP-1 (BPM6),DD187
+2026-06-30,211,Portfolio investment,3601.9972810799986,reported,iip,IIP-1 (BPM6),DD211
+2026-06-30,254,Other investment,21277.155108840005,reported,iip,IIP-1 (BPM6),DD254
