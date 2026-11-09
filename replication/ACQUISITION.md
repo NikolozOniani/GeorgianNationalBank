@@ -24,11 +24,11 @@ python src/plot_episode.py
 
 ## Manual large-file handoff
 
-Per the author's instruction, no new large-file downloads or uploads are attempted. Files acquired before that instruction remain locally available. The acquisition code refuses known files above 1 MB before requesting their contents and bounds unknown responses. It does not silently refresh a cached source.
+The acquisition code refuses unknown large downloads before requesting their contents and does not silently refresh a cached source.
 
-All original raw files remain outside this commit. Two generated files above 1 MB also await manual commit: `data/derived/episode_2026_11_09/reserve_liquidity_cells.csv` and `data/derived/episode_2026_11_09/money_transfers_country.csv`. Their exact hashes, source paths and sizes appear in [manual artifacts](../data/manual_artifacts.json). The compact reported R1 cells and transfer-country sums are committed, so current accounting validation does not depend on transferring the larger files. Omitted R1 cells retain their blank status in the catalogue; absence never means zero.
+The full generated outputs `data/derived/episode_2026_11_09/reserve_liquidity_cells.csv` and `data/derived/episode_2026_11_09/money_transfers_country.csv` are committed with the acquisition results. Their hashes, source paths and sizes appear in [manual artifacts](../data/manual_artifacts.json). Omitted R1 cells retain their blank status in the catalogue; absence never means zero.
 
-Please manually commit the two generated CSVs and supply the source files listed in the manifest at their recorded local paths (or use a versioned release for permitted source-data artifacts). Keep original bytes. The 2025 annual report PDF can be supplied locally for verification without redistributing the full publication. `git add -f` is needed for deliberately ignored paths. No source-file transfer has been represented as completed by this commit.
+Original raw source files remain outside the commit. Supply them at their recorded manifest paths, or use a versioned release for permitted source-data artifacts, to repeat the extraction from original workbooks. Keep original bytes. The 2025 annual report PDF can be supplied locally for verification without redistributing the full publication.
 
 Small missing assets may be retrieved explicitly with `python src/acquire_episode.py --ids SOURCE_ID`. Existing large files are hash-checked locally without downloading again. Full source replication is pending manual availability on a fresh clone; output-level accounting and tests are already reproducible.
 
