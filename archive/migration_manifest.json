@@ -1,0 +1,1174 @@
+{
+  "baseline_commit": "46fdde7dd8cb673378154c099b72e8c40060b684",
+  "policy": "All numerical data, provenance and analytical code retained; retired prose and renderers recoverable from baseline Git history.",
+  "files": [
+    {
+      "original_path": ".gitattributes",
+      "current_path": ".gitattributes",
+      "disposition": "root_configuration",
+      "sha256": "c9a39bfaa992ed700af88e3bf25113c4ef307b421bdbcd8a62b5a6b974612ec1",
+      "bytes": 119,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/.gitattributes"
+    },
+    {
+      "original_path": ".gitignore",
+      "current_path": ".gitignore",
+      "disposition": "root_configuration",
+      "sha256": "009251623f9755468143efd2c417b02bb12e5b7ad7322b04eafc43c857c7ec4b",
+      "bytes": 74,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/.gitignore"
+    },
+    {
+      "original_path": "RAWDATA",
+      "current_path": "archive/legacy/RAWDATA",
+      "disposition": "archived_unchanged",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "bytes": 1,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/RAWDATA"
+    },
+    {
+      "original_path": "README.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "698d614dee51117e0a5d8d960197eecf85ec6d99567fe3c98c3eb6e22dc8ef28",
+      "bytes": 5799,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/README.md"
+    },
+    {
+      "original_path": "figures/pilot2017_partial_exposure.png",
+      "current_path": "archive/legacy/figures/pilot2017_partial_exposure.png",
+      "disposition": "archived_unchanged",
+      "sha256": "b5eafa4f14b261c870f19ee7b1b4f47e0581f46ffb612784d6af330eac1c5e07",
+      "bytes": 66713,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/figures/pilot2017_partial_exposure.png"
+    },
+    {
+      "original_path": "output/pdf/Georgia_Household_Credit_Peer_Review.pdf",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "99090e4b8e44ce64b2660d84b2e83ed6e2efc7d7250afc7ac69c9d783ab638b2",
+      "bytes": 438626,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/output/pdf/Georgia_Household_Credit_Peer_Review.pdf"
+    },
+    {
+      "original_path": "output/pdf/Oniani_Monetary_Sovereignty_Georgia.pdf",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "9a815da75a97a31813d730ba352040acc0c21ecb9cdecc24bafc0489d2ba7fc2",
+      "bytes": 330739,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/output/pdf/Oniani_Monetary_Sovereignty_Georgia.pdf"
+    },
+    {
+      "original_path": "phase1/Georgia_Phase1_Package.zip",
+      "current_path": "archive/legacy/phase1/Georgia_Phase1_Package.zip",
+      "disposition": "archived_unchanged",
+      "sha256": "6e359894a4aea4782a5d5932065bcc3adbf3b216bd6452a46a8cd596b2e8a3ef",
+      "bytes": 20096,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/phase1/Georgia_Phase1_Package.zip"
+    },
+    {
+      "original_path": "phase1/Phase1_Research_Assessment.md",
+      "current_path": "archive/legacy/phase1/Phase1_Research_Assessment.md",
+      "disposition": "archived_unchanged",
+      "sha256": "4280ad315e40fe4112f8a83fa8ba2bbfb29e1810cc68d704df831f7f715d1e65",
+      "bytes": 39373,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/phase1/Phase1_Research_Assessment.md"
+    },
+    {
+      "original_path": "phase1/SHA256SUMS.json",
+      "current_path": "archive/legacy/phase1/SHA256SUMS.json",
+      "disposition": "archived_unchanged",
+      "sha256": "d2eecdcf78eaa844ceaf577b698c3a3170c29ba27fb1e0f16390ca86a686f033",
+      "bytes": 454,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/phase1/SHA256SUMS.json"
+    },
+    {
+      "original_path": "phase1/access_checks.json",
+      "current_path": "archive/legacy/phase1/access_checks.json",
+      "disposition": "archived_unchanged",
+      "sha256": "ece4de3baf95fcfda2e61b870bc70c6c5b5c9327e9d4f6ef8e582535564f96b0",
+      "bytes": 3501,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/phase1/access_checks.json"
+    },
+    {
+      "original_path": "phase1/audit_log.md",
+      "current_path": "archive/legacy/phase1/audit_log.md",
+      "disposition": "archived_unchanged",
+      "sha256": "2d119cfce5a276e91a8ebae16ee89905c39491dedd8b2cd8dfc8f09284f426ba",
+      "bytes": 1590,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/phase1/audit_log.md"
+    },
+    {
+      "original_path": "phase1/references.bib",
+      "current_path": "archive/legacy/phase1/references.bib",
+      "disposition": "archived_unchanged",
+      "sha256": "a0ad654d5c611adf22793dca59644cbc5058ea8beae882f838348849019d693f",
+      "bytes": 5662,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/phase1/references.bib"
+    },
+    {
+      "original_path": "pyproject.toml",
+      "current_path": "archive/legacy/pyproject.toml",
+      "disposition": "archived_unchanged",
+      "sha256": "03e0210b70769e571cc00d1bd1b200265b817052731beacc993cab2ddcb2f2cf",
+      "bytes": 234,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/pyproject.toml"
+    },
+    {
+      "original_path": "reports/NBG_Policy_Dataset_and_IMF_Benchmark.md",
+      "current_path": "archive/legacy/reports/NBG_Policy_Dataset_and_IMF_Benchmark.md",
+      "disposition": "archived_unchanged",
+      "sha256": "cf4909bf5e117fd76379daf0e6d0bf95a451ad8bf7f5959ac9a3027d5df302e8",
+      "bytes": 8088,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/NBG_Policy_Dataset_and_IMF_Benchmark.md"
+    },
+    {
+      "original_path": "reports/Phase2_Validation_Report.md",
+      "current_path": "archive/legacy/reports/Phase2_Validation_Report.md",
+      "disposition": "archived_unchanged",
+      "sha256": "90958ea292ae989354a5cc17b101c889342798bd419e520977d9d8e02c1d1639",
+      "bytes": 6353,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/Phase2_Validation_Report.md"
+    },
+    {
+      "original_path": "reports/Pilot2017_Methods_and_Results.md",
+      "current_path": "archive/legacy/reports/Pilot2017_Methods_and_Results.md",
+      "disposition": "archived_unchanged",
+      "sha256": "505b3ebc7137993abfdb8960152c3cba557e644034127fa4ec706335aa797a61",
+      "bytes": 7612,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/Pilot2017_Methods_and_Results.md"
+    },
+    {
+      "original_path": "reports/accountability/Dossier.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "b312665804bec4682139d2515c7d643d275fb07b651b4dc53d40604d3121be46",
+      "bytes": 16101,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/Dossier.md"
+    },
+    {
+      "original_path": "reports/accountability/Fact_check.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "52c8a9b1655d0f1f905e43161b968f8677faef006ddd5b99a5f83a4693a20b15",
+      "bytes": 14016,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/Fact_check.md"
+    },
+    {
+      "original_path": "reports/accountability/Illustrations.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "44a3f3760152ac1da7dce057cebd3aa6f8a2a9ee6bd6e2d43691751f69b82f99",
+      "bytes": 2732,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/Illustrations.md"
+    },
+    {
+      "original_path": "reports/accountability/README.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "9dc3bcd750f5910a6e2bea4a96df545a8bf11a41d550a87256de383fc4136e16",
+      "bytes": 5110,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/README.md"
+    },
+    {
+      "original_path": "reports/accountability/Reforms.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "5542fcc8a271115564620090b22d09262866d3b2fc338af3417109b7894ba8d0",
+      "bytes": 7303,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/Reforms.md"
+    },
+    {
+      "original_path": "reports/accountability/Scoreboard.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "820ead3b81ef7728a3a61f75377ab012d1fd2bb415fa9c353e6e7dc3f7806e9d",
+      "bytes": 6369,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/Scoreboard.md"
+    },
+    {
+      "original_path": "reports/accountability/Speech_ka.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "8294bea4c9c2b3f24f940fed6f113c7c38fa34689f79ee788492300478c54bc1",
+      "bytes": 35815,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/Speech_ka.md"
+    },
+    {
+      "original_path": "reports/accountability/cpi_illustration.csv",
+      "current_path": "archive/legacy/reports/accountability/cpi_illustration.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "e6d4f50ca404f867c12116cab556d97fd44a91ded5c6d7403f1df613ac7176e8",
+      "bytes": 2740,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/cpi_illustration.csv"
+    },
+    {
+      "original_path": "reports/accountability/evidence_ledger.csv",
+      "current_path": "archive/legacy/reports/accountability/evidence_ledger.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "2fa93e52da827b4ea841175b1093a610537d9e61b73f02c95d02fef75633e191",
+      "bytes": 15151,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/evidence_ledger.csv"
+    },
+    {
+      "original_path": "reports/accountability/evidence_ledger.json",
+      "current_path": "archive/legacy/reports/accountability/evidence_ledger.json",
+      "disposition": "archived_unchanged",
+      "sha256": "94c2156dc4da76940c6987b77cf41c5326b3044c627df34ea6fb9e5c6b420be8",
+      "bytes": 24972,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/evidence_ledger.json"
+    },
+    {
+      "original_path": "reports/accountability/inputs.lock.json",
+      "current_path": "archive/legacy/reports/accountability/inputs.lock.json",
+      "disposition": "archived_unchanged",
+      "sha256": "8c49077ee78e4f2623eea2b2870e54a226f854446c5df78995c2a89922a97a4c",
+      "bytes": 635,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/inputs.lock.json"
+    },
+    {
+      "original_path": "reports/accountability/national_cpi.svg",
+      "current_path": "archive/legacy/reports/accountability/national_cpi.svg",
+      "disposition": "archived_unchanged",
+      "sha256": "87327cd4119d40eb2bee30d8f9d81de739f185ee8cca80ba72f2c0ca5b6de31b",
+      "bytes": 1941,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/national_cpi.svg"
+    },
+    {
+      "original_path": "reports/accountability/parent_files.lock.json",
+      "current_path": "archive/legacy/reports/accountability/parent_files.lock.json",
+      "disposition": "archived_unchanged",
+      "sha256": "f73ad9ee772c4f3f01ea0ead0eeb9521cf7a751a7f9ebe78efa339fc502ae964",
+      "bytes": 4481,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/parent_files.lock.json"
+    },
+    {
+      "original_path": "reports/accountability/source_register.json",
+      "current_path": "archive/legacy/reports/accountability/source_register.json",
+      "disposition": "archived_unchanged",
+      "sha256": "2bb2a47b5ad4f39df703ebdfbcd5670181a70676ba469ea1b0e3e94384b67429",
+      "bytes": 11458,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/source_register.json"
+    },
+    {
+      "original_path": "reports/accountability/source_retrieval.json",
+      "current_path": "archive/legacy/reports/accountability/source_retrieval.json",
+      "disposition": "archived_unchanged",
+      "sha256": "748a2fda64af840dd28be618d28b359dc0dda04272cdae0e2756729cade094ac",
+      "bytes": 6760,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/source_retrieval.json"
+    },
+    {
+      "original_path": "reports/accountability/sources.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "5670c5704c12bc02fbfcb9b59e50c3fef9edea1f1b2052cbbeca86b77a0f2692",
+      "bytes": 6722,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/sources.md"
+    },
+    {
+      "original_path": "reports/accountability/test_results.txt",
+      "current_path": "archive/legacy/reports/accountability/test_results.txt",
+      "disposition": "archived_unchanged",
+      "sha256": "c9c4277612986ded90ff9d52d6e6be24015ac1144774b7d6a51cab6bf1bf8f5d",
+      "bytes": 2038,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/test_results.txt"
+    },
+    {
+      "original_path": "reports/accountability/validation.json",
+      "current_path": "archive/legacy/reports/accountability/validation.json",
+      "disposition": "archived_unchanged",
+      "sha256": "4c20b3708092ee7ee0472508d42ba5e95d9fb17e6528cdeaf3c37d4baa939614",
+      "bytes": 760,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/accountability/validation.json"
+    },
+    {
+      "original_path": "reports/crosswalk_2017_v1.csv",
+      "current_path": "archive/legacy/reports/crosswalk_2017_v1.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "06e3bd85ad1417ce075a45ed309385bcf347643e3b58aeedbb8ddb03c35ae96a",
+      "bytes": 1124,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/crosswalk_2017_v1.csv"
+    },
+    {
+      "original_path": "reports/household_profiles.json",
+      "current_path": "archive/legacy/reports/household_profiles.json",
+      "disposition": "archived_unchanged",
+      "sha256": "352f8fbf59ae0e93cf69a26109fc28f2bdfa69ac1fa8b750dc0310939a09f6b4",
+      "bytes": 34814,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/household_profiles.json"
+    },
+    {
+      "original_path": "reports/nbg_auction_events_verified.csv",
+      "current_path": "archive/legacy/reports/nbg_auction_events_verified.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "eadb0e89acbc921924ca5f71028f6bb441ae0c9fb7ffc380d5a4322be91397c1",
+      "bytes": 341,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/nbg_auction_events_verified.csv"
+    },
+    {
+      "original_path": "reports/nbg_external_quarterly_2020_2024.csv",
+      "current_path": "archive/legacy/reports/nbg_external_quarterly_2020_2024.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "a168c574051f8e384a842f241dde01073f2cf2c13558ed319aba5433cb4d885c",
+      "bytes": 961,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/nbg_external_quarterly_2020_2024.csv"
+    },
+    {
+      "original_path": "reports/nbg_fx_annual_benchmarks.csv",
+      "current_path": "archive/legacy/reports/nbg_fx_annual_benchmarks.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "e8a6c380be241657f3a0a7e329e710c55f20e9b55ab41db883c842f52bfb0750",
+      "bytes": 1085,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/nbg_fx_annual_benchmarks.csv"
+    },
+    {
+      "original_path": "reports/nbg_policy_decisions_2008_onward.csv",
+      "current_path": "archive/legacy/reports/nbg_policy_decisions_2008_onward.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "f0192751c1b04e5cd618106544d5b7932af15727de0e60019ff32d7083b5a42b",
+      "bytes": 4782,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/nbg_policy_decisions_2008_onward.csv"
+    },
+    {
+      "original_path": "reports/nbg_policy_monthly_2020_2024.csv",
+      "current_path": "archive/legacy/reports/nbg_policy_monthly_2020_2024.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "a94f23cd90a2b33707dfe33ba84cd2055c858c367f0ef4b2594f0dcf8f92dfdf",
+      "bytes": 15204,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/nbg_policy_monthly_2020_2024.csv"
+    },
+    {
+      "original_path": "reports/nbg_series_dictionary.csv",
+      "current_path": "archive/legacy/reports/nbg_series_dictionary.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "74d119033f8efdc5f7ad8045cd542d3c9da8c63c3c8e743d5e12c11d77d3f3ef",
+      "bytes": 5315,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/nbg_series_dictionary.csv"
+    },
+    {
+      "original_path": "reports/nbg_source_manifest.json",
+      "current_path": "archive/legacy/reports/nbg_source_manifest.json",
+      "disposition": "archived_unchanged",
+      "sha256": "ea680b942a3e5fd5e1538d92cf9e9a68f4136bd65544ccc3b9b0486a4b1f8c12",
+      "bytes": 27295,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/nbg_source_manifest.json"
+    },
+    {
+      "original_path": "reports/nbg_tibr_daily_2020_2024.csv",
+      "current_path": "archive/legacy/reports/nbg_tibr_daily_2020_2024.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "feeb2962b98e82715c75e008d5f732e8bf3950131e63f12b2357a04ae36a8d35",
+      "bytes": 93227,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/nbg_tibr_daily_2020_2024.csv"
+    },
+    {
+      "original_path": "reports/paper/Paper.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "069d1a76965b9f5c8c20a7be163badd43132cde58a0506d1e8a57713f43a84c8",
+      "bytes": 32911,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/Paper.md"
+    },
+    {
+      "original_path": "reports/paper/README.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "51e60bd170eb90dfb33c3921c82201ce860054d8be07f4bad282529d6187e4da",
+      "bytes": 3170,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/README.md"
+    },
+    {
+      "original_path": "reports/paper/accounting_checks.csv",
+      "current_path": "archive/legacy/reports/paper/accounting_checks.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "d0ab8f676b5e603ad8c6324d686767d21ce6f3624afd1f9a4251bb1c5b17d6db",
+      "bytes": 360,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/accounting_checks.csv"
+    },
+    {
+      "original_path": "reports/paper/annual_accounts.csv",
+      "current_path": "archive/legacy/reports/paper/annual_accounts.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "f6996181510da95ac435c6316f9cb55e52e4fe31ccb2bb4967709401a7ed5873",
+      "bytes": 36356,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/annual_accounts.csv"
+    },
+    {
+      "original_path": "reports/paper/annual_results.csv",
+      "current_path": "archive/legacy/reports/paper/annual_results.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "8c876d790042dfbc9bad5fb482a97862b793b80491cb02c5625832492a7e7ac0",
+      "bytes": 474,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/annual_results.csv"
+    },
+    {
+      "original_path": "reports/paper/document_checks.json",
+      "current_path": "archive/legacy/reports/paper/document_checks.json",
+      "disposition": "archived_unchanged",
+      "sha256": "42dea68dfd785b1361f02e5b98d1f35951757c96264b62724f78c3e3968c8f5a",
+      "bytes": 809,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/document_checks.json"
+    },
+    {
+      "original_path": "reports/paper/figures/operation_accounts.png",
+      "current_path": "archive/legacy/reports/paper/figures/operation_accounts.png",
+      "disposition": "archived_unchanged",
+      "sha256": "93d6d171832956ab1b506ce739227562a9cd750bf10390062f247dd5cf70943d",
+      "bytes": 66311,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/figures/operation_accounts.png"
+    },
+    {
+      "original_path": "reports/paper/input_hashes.json",
+      "current_path": "archive/legacy/reports/paper/input_hashes.json",
+      "disposition": "archived_unchanged",
+      "sha256": "7bf8ff8fd42dd9797235808d116995e927bfeb6f3dac730d0e841df8c89dd1b3",
+      "bytes": 456,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/input_hashes.json"
+    },
+    {
+      "original_path": "reports/paper/reserve_bridges.csv",
+      "current_path": "archive/legacy/reports/paper/reserve_bridges.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "155dfd220c973a095746c58f339ab4151f5487d2212ac06d266f387bba37629c",
+      "bytes": 443,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/reserve_bridges.csv"
+    },
+    {
+      "original_path": "reports/paper/reserve_channel_sensitivity.csv",
+      "current_path": "archive/legacy/reports/paper/reserve_channel_sensitivity.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "96cdfa94d9bebd65e98f6fbb956a92ab1082217cabc05eca90c26a551a818ded",
+      "bytes": 5409,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/reserve_channel_sensitivity.csv"
+    },
+    {
+      "original_path": "reports/paper/reserve_target_arithmetic.csv",
+      "current_path": "archive/legacy/reports/paper/reserve_target_arithmetic.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "0302766b4b41e527e14017a3009d134714fd023ec61ab7c355636053a002052c",
+      "bytes": 665,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/reserve_target_arithmetic.csv"
+    },
+    {
+      "original_path": "reports/paper/sources.json",
+      "current_path": "archive/legacy/reports/paper/sources.json",
+      "disposition": "archived_unchanged",
+      "sha256": "1ea5cca372c09fe107e86c297d064b97da8f368da67967b601ba689658cfdfda",
+      "bytes": 1047,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/sources.json"
+    },
+    {
+      "original_path": "reports/paper/tests.log",
+      "current_path": "archive/legacy/reports/paper/tests.log",
+      "disposition": "archived_unchanged",
+      "sha256": "b310362433f31673d4d897bfb41f37ea78b99f6c63e32f96d1db2b9dfa82928d",
+      "bytes": 3604,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/tests.log"
+    },
+    {
+      "original_path": "reports/paper/validation_report.json",
+      "current_path": "archive/legacy/reports/paper/validation_report.json",
+      "disposition": "archived_unchanged",
+      "sha256": "583114513b23c9d62c7ad3886fd1601e194393633fb0b651c55d19532b6673bf",
+      "bytes": 966,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/paper/validation_report.json"
+    },
+    {
+      "original_path": "reports/peer_review/Data_Request_Draft.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "b7a2eb874b5e4353ab37b6cab0b21d1f855af11d2ff426cd60f20669302c7d22",
+      "bytes": 3462,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/Data_Request_Draft.md"
+    },
+    {
+      "original_path": "reports/peer_review/Manuscript.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "a74580ef67a31036801aba8d7e7d4c4592e15ade3bc3460fce4f72f88d73c5d6",
+      "bytes": 26512,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/Manuscript.md"
+    },
+    {
+      "original_path": "reports/peer_review/README.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "0c6bcd94e958df7a700cbc04f06d300240926aafc5fbd6c44a03849670c3c786",
+      "bytes": 5586,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/README.md"
+    },
+    {
+      "original_path": "reports/peer_review/Reviewer_Brief.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "ec35551dcaf76c436c6312a30d3f39982066f8305b6db20dc1eb84ca8b06c39b",
+      "bytes": 5611,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/Reviewer_Brief.md"
+    },
+    {
+      "original_path": "reports/peer_review/Sources.md",
+      "current_path": "archive/legacy/reports/peer_review/Sources.md",
+      "disposition": "archived_unchanged",
+      "sha256": "69b68f33dd9f04b1a3a330a972ecc5322ec151082ddbcdae062baabe9bbde0a0",
+      "bytes": 8450,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/Sources.md"
+    },
+    {
+      "original_path": "reports/peer_review/Summary_ka.md",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "badca42f5e1ce6b1308f2a35714da38fd609c1dab798b3638325574e996bf4e8",
+      "bytes": 11462,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/Summary_ka.md"
+    },
+    {
+      "original_path": "reports/peer_review/acquisition_log.json",
+      "current_path": "archive/legacy/reports/peer_review/acquisition_log.json",
+      "disposition": "archived_unchanged",
+      "sha256": "7df1f380d2e85e32297c0c69a34ea8db38616a8b278e7413fce0928141007455",
+      "bytes": 5863,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/acquisition_log.json"
+    },
+    {
+      "original_path": "reports/peer_review/alternative_reference_9pct.csv",
+      "current_path": "archive/legacy/reports/peer_review/alternative_reference_9pct.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "37fcabd5768e19bae01db67d36121e6e87bb53fc2aa6ad4fd5ee05faefb7d874",
+      "bytes": 8952,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/alternative_reference_9pct.csv"
+    },
+    {
+      "original_path": "reports/peer_review/analysis_inputs.lock.json",
+      "current_path": "archive/legacy/reports/peer_review/analysis_inputs.lock.json",
+      "disposition": "archived_unchanged",
+      "sha256": "df8b7e1bc2cf8a0892e99c73ceddc1a0e506ba43a42e5d275f54e0431327f748",
+      "bytes": 243,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/analysis_inputs.lock.json"
+    },
+    {
+      "original_path": "reports/peer_review/claim_ledger.csv",
+      "current_path": "archive/legacy/reports/peer_review/claim_ledger.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "3da0c7b041b983f3bed3ee59e0746e4d70f92d42c6856b98a0408728bcd7ae0f",
+      "bytes": 38681,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/claim_ledger.csv"
+    },
+    {
+      "original_path": "reports/peer_review/coverage.csv",
+      "current_path": "archive/legacy/reports/peer_review/coverage.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "a9f25f6656ca7f123157eceb7c66f20cfefebc2b52946602387dc28b27be38e2",
+      "bytes": 2623,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/coverage.csv"
+    },
+    {
+      "original_path": "reports/peer_review/credit_monthly_2020_2024.csv",
+      "current_path": "archive/legacy/reports/peer_review/credit_monthly_2020_2024.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "1d4af426ae3fb79f7a2b99d07832c2520c2adbbb710b5afb8108eeb3cd5999d0",
+      "bytes": 22320,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/credit_monthly_2020_2024.csv"
+    },
+    {
+      "original_path": "reports/peer_review/credit_observations.csv",
+      "current_path": "archive/legacy/reports/peer_review/credit_observations.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "6deb869beb480e1f3d01483ae5b99201287f4fa178cc22f2273bdb37903742ba",
+      "bytes": 438628,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/credit_observations.csv"
+    },
+    {
+      "original_path": "reports/peer_review/extraction_validation.json",
+      "current_path": "archive/legacy/reports/peer_review/extraction_validation.json",
+      "disposition": "archived_unchanged",
+      "sha256": "039f91f95736f92feabb2ac4afd748ab9012530c9c4664b4a4207f07df4196c3",
+      "bytes": 142,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/extraction_validation.json"
+    },
+    {
+      "original_path": "reports/peer_review/figures/indexed_contract.png",
+      "current_path": "archive/legacy/reports/peer_review/figures/indexed_contract.png",
+      "disposition": "archived_unchanged",
+      "sha256": "79e64bedf5ba39e99e056f8d54b1a387e2dc577ccc947b1f5b3c0fc909164631",
+      "bytes": 93249,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/figures/indexed_contract.png"
+    },
+    {
+      "original_path": "reports/peer_review/figures/observed_rates.png",
+      "current_path": "archive/legacy/reports/peer_review/figures/observed_rates.png",
+      "disposition": "archived_unchanged",
+      "sha256": "c742dd771e147f6787d635733b78a71d30eaf06a03d75fee8fad035c833be05b",
+      "bytes": 178617,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/figures/observed_rates.png"
+    },
+    {
+      "original_path": "reports/peer_review/figures/reset_sensitivity.png",
+      "current_path": "archive/legacy/reports/peer_review/figures/reset_sensitivity.png",
+      "disposition": "archived_unchanged",
+      "sha256": "470eca7f1388d000338a104372d1b364b6c37e2cdefb2409282185e9042907d9",
+      "bytes": 75756,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/figures/reset_sensitivity.png"
+    },
+    {
+      "original_path": "reports/peer_review/indexed_contract_monthly.csv",
+      "current_path": "archive/legacy/reports/peer_review/indexed_contract_monthly.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "427310ef68a22040974a6141d8790a211361653158c8ab56844297044cf833db",
+      "bytes": 8921,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/indexed_contract_monthly.csv"
+    },
+    {
+      "original_path": "reports/peer_review/reconciliation.csv",
+      "current_path": "archive/legacy/reports/peer_review/reconciliation.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "1cdf97bbce5e043def3ee87a5c686117629fcc6d3d348bf8fa40c4226bb31a21",
+      "bytes": 23436,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/reconciliation.csv"
+    },
+    {
+      "original_path": "reports/peer_review/results.json",
+      "current_path": "archive/legacy/reports/peer_review/results.json",
+      "disposition": "archived_unchanged",
+      "sha256": "efcde93b9eecf4e653e0db3b4e99d3f89355273308625b4c641ab444f2d5cdb7",
+      "bytes": 2942,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/results.json"
+    },
+    {
+      "original_path": "reports/peer_review/series_dictionary.csv",
+      "current_path": "archive/legacy/reports/peer_review/series_dictionary.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "8aa7812283dd83cbee98d89f8df6c189fed7ff64b36d0ef675f46f79dc2bb6b7",
+      "bytes": 10368,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/series_dictionary.csv"
+    },
+    {
+      "original_path": "reports/peer_review/sources.json",
+      "current_path": "archive/legacy/reports/peer_review/sources.json",
+      "disposition": "archived_unchanged",
+      "sha256": "0cb4e7b8b68097618e883a9f78108a790794c1edcd203e3094e2a56486ac657a",
+      "bytes": 4972,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/sources.json"
+    },
+    {
+      "original_path": "reports/peer_review/table1_observed.csv",
+      "current_path": "archive/legacy/reports/peer_review/table1_observed.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "54a8c62085eb7b6fabfb407dc1b87acd455638da2b8068f7f770027d89d27445",
+      "bytes": 1937,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/table1_observed.csv"
+    },
+    {
+      "original_path": "reports/peer_review/table2_standardized_new_loan.csv",
+      "current_path": "archive/legacy/reports/peer_review/table2_standardized_new_loan.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "740c44588de371946acfd97d38da2d7ab8f2f7a44129a76dfd5c373456e40a44",
+      "bytes": 3471,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/table2_standardized_new_loan.csv"
+    },
+    {
+      "original_path": "reports/peer_review/table3_reset_sensitivity.csv",
+      "current_path": "archive/legacy/reports/peer_review/table3_reset_sensitivity.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "e933a9d9ece86e3679915e2d2d0b8591d7b2ce0fcab86af22ca1639d69465cea",
+      "bytes": 19810,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/table3_reset_sensitivity.csv"
+    },
+    {
+      "original_path": "reports/peer_review/table4_conditional_income_exposure.csv",
+      "current_path": "archive/legacy/reports/peer_review/table4_conditional_income_exposure.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "ad1186a001a291eb7e3e92c101c64a97a5a4cef775a5da50350aa5db3d0a4468",
+      "bytes": 503,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/table4_conditional_income_exposure.csv"
+    },
+    {
+      "original_path": "reports/peer_review/tests.log",
+      "current_path": "archive/legacy/reports/peer_review/tests.log",
+      "disposition": "archived_unchanged",
+      "sha256": "98a3924cba6d99eafb1168f1dca79368526eb6262979582a478139ec3fc6b728",
+      "bytes": 3604,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/tests.log"
+    },
+    {
+      "original_path": "reports/peer_review/validation_report.json",
+      "current_path": "archive/legacy/reports/peer_review/validation_report.json",
+      "disposition": "archived_unchanged",
+      "sha256": "8e4c9bf64565ee2ebe5de86c99060282c4d734e0eb3de9e4e9068564b0eb49b8",
+      "bytes": 2591,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/validation_report.json"
+    },
+    {
+      "original_path": "reports/peer_review/workbook_notes.json",
+      "current_path": "archive/legacy/reports/peer_review/workbook_notes.json",
+      "disposition": "archived_unchanged",
+      "sha256": "d4bd53cc438a40a72f18efb9643add2adef173ab6aa1f8c30073ab57d870d108",
+      "bytes": 16165,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/peer_review/workbook_notes.json"
+    },
+    {
+      "original_path": "reports/pilot2017_exposure.csv",
+      "current_path": "archive/legacy/reports/pilot2017_exposure.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "c7e02421a5eea4146a932c048805e0c2aea7a470b1234d34b446fd3c15657a6f",
+      "bytes": 2536,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/pilot2017_exposure.csv"
+    },
+    {
+      "original_path": "reports/pilot2017_validation.json",
+      "current_path": "archive/legacy/reports/pilot2017_validation.json",
+      "disposition": "archived_unchanged",
+      "sha256": "ed9d92bca17faf269c97ecfa315a9fd0020119ab7e33cb5d14a72fe282e39403",
+      "bytes": 2549,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/pilot2017_validation.json"
+    },
+    {
+      "original_path": "reports/recovery_audit_2026-11-08.md",
+      "current_path": "archive/legacy/reports/recovery_audit_2026-11-08.md",
+      "disposition": "archived_unchanged",
+      "sha256": "afce98e6acc6f61a67396c39baa8b0a162b76b0cef74d9ca2f8966646cb75063",
+      "bytes": 2336,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/recovery_audit_2026-11-08.md"
+    },
+    {
+      "original_path": "reports/release_assets.json",
+      "current_path": "archive/legacy/reports/release_assets.json",
+      "disposition": "archived_unchanged",
+      "sha256": "ca3e981496c6e76dbb889b4e2e9115f4d65d6b82a15462b2916e9254a8960874",
+      "bytes": 4246,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/release_assets.json"
+    },
+    {
+      "original_path": "reports/release_household_profiles.json",
+      "current_path": "archive/legacy/reports/release_household_profiles.json",
+      "disposition": "archived_unchanged",
+      "sha256": "4bbaa4640a49f8a506f9ab98b8bf42d663cd74b5c2b891e9ff7f9031287a9f33",
+      "bytes": 59643,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/release_household_profiles.json"
+    },
+    {
+      "original_path": "reports/release_integrity.json",
+      "current_path": "archive/legacy/reports/release_integrity.json",
+      "disposition": "archived_unchanged",
+      "sha256": "55b4850b9cc264fd8e054fe4a32b1d773ed7de0d950354084e36f30758021a62",
+      "bytes": 2685,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/release_integrity.json"
+    },
+    {
+      "original_path": "reports/release_validation_summary.json",
+      "current_path": "archive/legacy/reports/release_validation_summary.json",
+      "disposition": "archived_unchanged",
+      "sha256": "f7d5d9d6b858fb6d7dfe0e6a1f8e016b1d71c3152fe51b8e5c93c371f6ccd4a8",
+      "bytes": 5537,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/release_validation_summary.json"
+    },
+    {
+      "original_path": "reports/reserve_foundations/Findings.md",
+      "current_path": "archive/legacy/reports/reserve_foundations/Findings.md",
+      "disposition": "archived_unchanged",
+      "sha256": "e1202aca8d790cfd1a63d45d51f5f32b7a7e713b42ff973e8e958547736ef601",
+      "bytes": 7539,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/Findings.md"
+    },
+    {
+      "original_path": "reports/reserve_foundations/README.md",
+      "current_path": "archive/legacy/reports/reserve_foundations/README.md",
+      "disposition": "archived_unchanged",
+      "sha256": "8af8d8d2effdd8fd7395c70f73578f97a20fe35500ff941d8583423c191238cb",
+      "bytes": 1409,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/README.md"
+    },
+    {
+      "original_path": "reports/reserve_foundations/ara_components.csv",
+      "current_path": "archive/legacy/reports/reserve_foundations/ara_components.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "db48a5947e1ea739e90e633e959c6284c4fe3a98dab7da1acef821921d4479bb",
+      "bytes": 17205,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/ara_components.csv"
+    },
+    {
+      "original_path": "reports/reserve_foundations/ara_contributions.csv",
+      "current_path": "archive/legacy/reports/reserve_foundations/ara_contributions.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "2e2b46ae99e1ceabc453a398e44bfd341f30cab211a91c9caddac6f788fb97d7",
+      "bytes": 1375,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/ara_contributions.csv"
+    },
+    {
+      "original_path": "reports/reserve_foundations/ara_reconstruction.csv",
+      "current_path": "archive/legacy/reports/reserve_foundations/ara_reconstruction.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "4a6d28204063d60747948bbf23a6a3a970003ae1a4df9bedd4e8f83a3ae02a89",
+      "bytes": 1543,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/ara_reconstruction.csv"
+    },
+    {
+      "original_path": "reports/reserve_foundations/comparative_column_checks.csv",
+      "current_path": "archive/legacy/reports/reserve_foundations/comparative_column_checks.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "81e0518e0b2e5a060174570cf9936a9dd084f3cc5f05d6b2ae93337f80bace46",
+      "bytes": 547,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/comparative_column_checks.csv"
+    },
+    {
+      "original_path": "reports/reserve_foundations/historical_interest.csv",
+      "current_path": "archive/legacy/reports/reserve_foundations/historical_interest.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "13307c945d35547353163be21c369c38428ab8de540318a5fcfb46d7e86ad85a",
+      "bytes": 1108,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/historical_interest.csv"
+    },
+    {
+      "original_path": "reports/reserve_foundations/inputs.lock.json",
+      "current_path": "archive/legacy/reports/reserve_foundations/inputs.lock.json",
+      "disposition": "archived_unchanged",
+      "sha256": "151b92ebbd64661b3e1b5476037748c803722cdd246b29945fd56748356dbef0",
+      "bytes": 286,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/inputs.lock.json"
+    },
+    {
+      "original_path": "reports/reserve_foundations/interest_observations.csv",
+      "current_path": "archive/legacy/reports/reserve_foundations/interest_observations.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "1d766696db9cbaf4db87fa8d2dfc7895a3c6f4a9aa729fe6d601ffd3ef3594ee",
+      "bytes": 16688,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/interest_observations.csv"
+    },
+    {
+      "original_path": "reports/reserve_foundations/replication_check.json",
+      "current_path": "archive/legacy/reports/reserve_foundations/replication_check.json",
+      "disposition": "archived_unchanged",
+      "sha256": "4125588218900da076ab6f7febd3f0b8fba18f84346d0da4c3a9deaf1637fb04",
+      "bytes": 357,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/replication_check.json"
+    },
+    {
+      "original_path": "reports/reserve_foundations/reserve_level_scenarios.csv",
+      "current_path": "archive/legacy/reports/reserve_foundations/reserve_level_scenarios.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "84e23b93889aa13120af727daacac3ecca1fef7f6c546891e3486943957f709b",
+      "bytes": 4060,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/reserve_level_scenarios.csv"
+    },
+    {
+      "original_path": "reports/reserve_foundations/sources.json",
+      "current_path": "archive/legacy/reports/reserve_foundations/sources.json",
+      "disposition": "archived_unchanged",
+      "sha256": "35cc620a7b32bb07ab936a1082b972df45d79db08d125e616f33b274a16ec911",
+      "bytes": 2555,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/sources.json"
+    },
+    {
+      "original_path": "reports/reserve_foundations/tests.log",
+      "current_path": "archive/legacy/reports/reserve_foundations/tests.log",
+      "disposition": "archived_unchanged",
+      "sha256": "a9c7c9426d6f6f2c3462ea4939b1627bf15b084486acd688f0ef507ba08d3d98",
+      "bytes": 4156,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/tests.log"
+    },
+    {
+      "original_path": "reports/reserve_foundations/validation.json",
+      "current_path": "archive/legacy/reports/reserve_foundations/validation.json",
+      "disposition": "archived_unchanged",
+      "sha256": "58304f0670a9ea43530528cf3318debb983a0c257afef5d41011cc1499f6e395",
+      "bytes": 801,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/validation.json"
+    },
+    {
+      "original_path": "reports/reserve_foundations/vintage_ratios.csv",
+      "current_path": "archive/legacy/reports/reserve_foundations/vintage_ratios.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "bc1876682684599518ee744aae533952b1278ed65212d4279abe4cbcc4725e31",
+      "bytes": 527,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_foundations/vintage_ratios.csv"
+    },
+    {
+      "original_path": "reports/reserve_readiness/Assessment_and_Design.md",
+      "current_path": "archive/legacy/reports/reserve_readiness/Assessment_and_Design.md",
+      "disposition": "archived_unchanged",
+      "sha256": "4c01a618c44c4fc66877d71ddff1ed6755a0c92e9f06bbe5037c1fc75a9c6d72",
+      "bytes": 20718,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_readiness/Assessment_and_Design.md"
+    },
+    {
+      "original_path": "reports/reserve_readiness/audit_results.json",
+      "current_path": "archive/legacy/reports/reserve_readiness/audit_results.json",
+      "disposition": "archived_unchanged",
+      "sha256": "6e8c19fdc39b0b0bac5ef277bc92d6c474fd538e9fdf3e65d5e5e41a0a10d70a",
+      "bytes": 1425,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_readiness/audit_results.json"
+    },
+    {
+      "original_path": "reports/reserve_readiness/monthly_coverage.csv",
+      "current_path": "archive/legacy/reports/reserve_readiness/monthly_coverage.csv",
+      "disposition": "archived_unchanged",
+      "sha256": "24178a808debe6c3e76965859d23d0e97d920182e2677cb9b2511ff1bd13aaa1",
+      "bytes": 853,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/reserve_readiness/monthly_coverage.csv"
+    },
+    {
+      "original_path": "reports/source_manifest.json",
+      "current_path": "archive/legacy/reports/source_manifest.json",
+      "disposition": "archived_unchanged",
+      "sha256": "ceccead69b8478923a43bb32c876110a53e78edc06a899738beab6987a6bd435",
+      "bytes": 4036,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/reports/source_manifest.json"
+    },
+    {
+      "original_path": "requirements-peer-review.lock",
+      "current_path": "archive/legacy/requirements-peer-review.lock",
+      "disposition": "archived_unchanged",
+      "sha256": "b035d7b04942263e9f61c2412843a23e3f9934eeda87e9476d78ec859ac19e9e",
+      "bytes": 228,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/requirements-peer-review.lock"
+    },
+    {
+      "original_path": "requirements.lock",
+      "current_path": "archive/legacy/requirements.lock",
+      "disposition": "archived_unchanged",
+      "sha256": "c54d3f829a2d03144c9ec889e2735741f2cddfaa4d760afd6a494a9b017535ec",
+      "bytes": 167,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/requirements.lock"
+    },
+    {
+      "original_path": "src/accountability_scenarios.py",
+      "current_path": "archive/legacy/src/accountability_scenarios.py",
+      "disposition": "archived_unchanged",
+      "sha256": "152a4fb4f4635673f0ae4f46ba15bd5bff85cadfe516b3fe50f986f8f067a943",
+      "bytes": 11990,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/accountability_scenarios.py"
+    },
+    {
+      "original_path": "src/accountability_sources.py",
+      "current_path": "archive/legacy/src/accountability_sources.py",
+      "disposition": "archived_unchanged",
+      "sha256": "c5140d4b624848d2867168f9300a3bc37bd6053131a9bd7d68ea128a4e88dd08",
+      "bytes": 7324,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/accountability_sources.py"
+    },
+    {
+      "original_path": "src/acquire.py",
+      "current_path": "archive/legacy/src/acquire.py",
+      "disposition": "archived_unchanged",
+      "sha256": "9d4db33319032843a80719c7ec2c34debfe561876458522b2f8265aa4966276f",
+      "bytes": 1808,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/acquire.py"
+    },
+    {
+      "original_path": "src/credit_acquire.py",
+      "current_path": "archive/legacy/src/credit_acquire.py",
+      "disposition": "archived_unchanged",
+      "sha256": "95aa1921e3b35861107df72871864abd269db4d8c4b85c44c43688914ec89dd8",
+      "bytes": 2860,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/credit_acquire.py"
+    },
+    {
+      "original_path": "src/credit_analysis.py",
+      "current_path": "archive/legacy/src/credit_analysis.py",
+      "disposition": "archived_unchanged",
+      "sha256": "be5806112fd27de68ee0f61743f22ea64162ebdd70d602173b666bc3fb9bbb15",
+      "bytes": 7798,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/credit_analysis.py"
+    },
+    {
+      "original_path": "src/credit_extract.py",
+      "current_path": "archive/legacy/src/credit_extract.py",
+      "disposition": "archived_unchanged",
+      "sha256": "46c8331c6e34b1b675790dc423e9b122b0df5ec581222106cd00c5b69fba38d6",
+      "bytes": 9600,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/credit_extract.py"
+    },
+    {
+      "original_path": "src/credit_figures.py",
+      "current_path": "archive/legacy/src/credit_figures.py",
+      "disposition": "archived_unchanged",
+      "sha256": "2decfadc958f466365e068a82bfd3ff0e9c8d76bcb7e874341a6d3756c9630df",
+      "bytes": 4206,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/credit_figures.py"
+    },
+    {
+      "original_path": "src/credit_pdf.py",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "565abb7727d2756eb974f81534f6fd88a30a6d8a214e0bedc3206496a3f6061e",
+      "bytes": 10481,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/credit_pdf.py"
+    },
+    {
+      "original_path": "src/credit_review_metadata.py",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "80868358891ab00164d6b3ba6cb86ad651b57a23ef9d47fab059863e1025adef",
+      "bytes": 10580,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/credit_review_metadata.py"
+    },
+    {
+      "original_path": "src/nbg_policy.py",
+      "current_path": "archive/legacy/src/nbg_policy.py",
+      "disposition": "archived_unchanged",
+      "sha256": "cb1e8a993d1ddad7642bb1020a674487c1ff4fed4dc12c7a98f47c989650bcd9",
+      "bytes": 16030,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/nbg_policy.py"
+    },
+    {
+      "original_path": "src/paper_analysis.py",
+      "current_path": "archive/legacy/src/paper_analysis.py",
+      "disposition": "archived_unchanged",
+      "sha256": "2a709bd54f082641d89804f49eb4057cfc4d1070bcf2014443c34ec7fd80a1ec",
+      "bytes": 10460,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/paper_analysis.py"
+    },
+    {
+      "original_path": "src/paper_figures.py",
+      "current_path": "archive/legacy/src/paper_figures.py",
+      "disposition": "archived_unchanged",
+      "sha256": "f79b298e90c9076b28dab843de315304e74d3fc98153aa4bb8083cde8a31acfe",
+      "bytes": 1610,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/paper_figures.py"
+    },
+    {
+      "original_path": "src/paper_pdf.py",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "69dca79c1185d6a1407c3909710d27c2d63d1c74657052138f009a71a3ff3505",
+      "bytes": 2108,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/paper_pdf.py"
+    },
+    {
+      "original_path": "src/pilot2017.py",
+      "current_path": "archive/legacy/src/pilot2017.py",
+      "disposition": "archived_unchanged",
+      "sha256": "833d93575f8429ed2db5907aead14bd48e43542022ef9c4432133396e1ef306d",
+      "bytes": 9989,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/pilot2017.py"
+    },
+    {
+      "original_path": "src/profile_households.py",
+      "current_path": "archive/legacy/src/profile_households.py",
+      "disposition": "archived_unchanged",
+      "sha256": "887871f065e043df41e5ffeb89ea6251c371323bc0d3ef2a1cc320f4d9425a75",
+      "bytes": 1048,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/profile_households.py"
+    },
+    {
+      "original_path": "src/profile_release.py",
+      "current_path": "archive/legacy/src/profile_release.py",
+      "disposition": "archived_unchanged",
+      "sha256": "eaccf73471b14d1cefaa9101faa1eef0417217251d8063c644a9e1cf180384cf",
+      "bytes": 1165,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/profile_release.py"
+    },
+    {
+      "original_path": "src/release_download.py",
+      "current_path": "archive/legacy/src/release_download.py",
+      "disposition": "archived_unchanged",
+      "sha256": "6d0d4ce675d8d636961b54f2fae14fba25fffa12d003c438d0dd272f6204ace9",
+      "bytes": 2680,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/release_download.py"
+    },
+    {
+      "original_path": "src/release_validation.py",
+      "current_path": "archive/legacy/src/release_validation.py",
+      "disposition": "archived_unchanged",
+      "sha256": "ea0f68c17353d6faad54e8e3662248d8640f683a8c2e99082abf83022fe5deb9",
+      "bytes": 1713,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/release_validation.py"
+    },
+    {
+      "original_path": "src/reserve_foundations.py",
+      "current_path": "archive/legacy/src/reserve_foundations.py",
+      "disposition": "archived_unchanged",
+      "sha256": "62f6207a9cd48b73eeb225c8b00778a85b6aea14addbcc7e0b0941b30184f9dc",
+      "bytes": 10839,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/reserve_foundations.py"
+    },
+    {
+      "original_path": "src/reserve_readiness_audit.py",
+      "current_path": "archive/legacy/src/reserve_readiness_audit.py",
+      "disposition": "archived_unchanged",
+      "sha256": "fbd0abaea818b3e5b9b28a15ff011160ebffa00f553312029aa51827a5da193f",
+      "bytes": 3630,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/reserve_readiness_audit.py"
+    },
+    {
+      "original_path": "src/validate_accountability.py",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "f09cc988cd15f59086feb1f7a4caf0996bca164b7db37713e9c6a760100955e9",
+      "bytes": 2387,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/validate_accountability.py"
+    },
+    {
+      "original_path": "src/validate_credit.py",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "c69011dccb6c0e2f3a50a5637788d8e37ec0510ef7a7e55bb0190d996bd92d1d",
+      "bytes": 4767,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/validate_credit.py"
+    },
+    {
+      "original_path": "src/validate_paper.py",
+      "current_path": null,
+      "disposition": "git_history_only",
+      "sha256": "c79e1a41c732cafc74ccfa3421a87acbca91d77b803e668af9d568fe8dd58870",
+      "bytes": 1979,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/validate_paper.py"
+    },
+    {
+      "original_path": "src/validation.py",
+      "current_path": "archive/legacy/src/validation.py",
+      "disposition": "archived_unchanged",
+      "sha256": "1cfbf9f9263af54c416082417ad327cb6bef6a3c8f811ed9b975e57d475ed168",
+      "bytes": 1769,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/src/validation.py"
+    },
+    {
+      "original_path": "tests/test_accountability.py",
+      "current_path": "archive/legacy/tests/test_accountability.py",
+      "disposition": "archived_unchanged",
+      "sha256": "9cb815faebd7702c1d6e2bcf02572bf4ce6ef5af7035bff97c630da6f2dcb4c1",
+      "bytes": 3642,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/tests/test_accountability.py"
+    },
+    {
+      "original_path": "tests/test_credit.py",
+      "current_path": "archive/legacy/tests/test_credit.py",
+      "disposition": "archived_unchanged",
+      "sha256": "e6e136e970700738ec095eddc96245e9293e07606bd34b503e0b366d8f34670a",
+      "bytes": 4050,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/tests/test_credit.py"
+    },
+    {
+      "original_path": "tests/test_nbg_policy_outputs.py",
+      "current_path": "archive/legacy/tests/test_nbg_policy_outputs.py",
+      "disposition": "archived_unchanged",
+      "sha256": "c164e4fb3e729a70bc688b59b34eb7a9a4a81135b520b40f14ad383dc379e460",
+      "bytes": 2687,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/tests/test_nbg_policy_outputs.py"
+    },
+    {
+      "original_path": "tests/test_paper.py",
+      "current_path": "archive/legacy/tests/test_paper.py",
+      "disposition": "archived_unchanged",
+      "sha256": "38e7e58fe5156cc928cc929432b6209c0b4a40e3b0c457209f980b6355861d31",
+      "bytes": 2587,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/tests/test_paper.py"
+    },
+    {
+      "original_path": "tests/test_reserve_foundations.py",
+      "current_path": "archive/legacy/tests/test_reserve_foundations.py",
+      "disposition": "archived_unchanged",
+      "sha256": "a85b1eef0aeab7b0e957125eff4ee914396bda232a1c20ca4e00e5697716cfb5",
+      "bytes": 1820,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/tests/test_reserve_foundations.py"
+    },
+    {
+      "original_path": "tests/test_validation.py",
+      "current_path": "archive/legacy/tests/test_validation.py",
+      "disposition": "archived_unchanged",
+      "sha256": "0aefaabf97764003d54a0ecc3a7f573bf3c7aa5fdbf1cdbfb5731e4df40b51ff",
+      "bytes": 1422,
+      "historical_url": "https://github.com/NikolozOniani/GeorgianNationalBank/blob/46fdde7dd8cb673378154c099b72e8c40060b684/tests/test_validation.py"
+    }
+  ]
+}

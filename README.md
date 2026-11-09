@@ -1,46 +1,47 @@
-# Georgia monetary policy and household welfare: Phase 1
+# The Economics of Reserve Accumulation in Georgia: An Independent Assessment of Costs, Benefits, and Optimal Reserve Adequacy
 
-## Reserve empirical foundations — 9 November 2026
+**Author: Nikoloz Oniani**
 
-The [quantitative findings](reports/reserve_foundations/Findings.md) add an independent weighted reconstruction from published Georgian ARA components, explicit bank-adjustment discrepancies, and audited 2020–2024 interest and FX balance-sheet accounts. [Replication instructions and data](reports/reserve_foundations/README.md) distinguish historical observations, forecasts, source vintages and conditional financing scenarios. Later realized ARA component vectors remain an explicit acquisition gap; no optimal reserve level is claimed.
+**Research question:** Did the National Bank of Georgia's large-scale foreign-currency purchases prevent the Georgian lari from appreciating, and were the resulting economic costs justified by the benefits of reserve accumulation?
 
-## Reserve-adequacy research design — current direction
+**Scope:** One intervention episode, one economic counterfactual, and its consequences.
 
-For Nikoloz Oniani's proposed study, **The Economics of Reserve Accumulation in Georgia: An Independent Assessment of Costs, Benefits, and Optimal Reserve Adequacy**, start with the [evidence assessment and empirical design](reports/reserve_readiness/Assessment_and_Design.md). It audits the existing calculations, identifies missing inputs and sets separate accounting, ARA and model-replication gates. The existing drafts below are preserved; they do not establish an optimal reserve level. Reproduce the new read-only audit with `python src/reserve_readiness_audit.py`.
+This is one academic economics project. The [research protocol](research/PROTOCOL.md) is authoritative. It studies the 2025–2026 reserve-accumulation purchase episode against a specified no-purchases counterfactual. Exact execution boundaries and the last jointly observed period must be established before estimation. The year 2026 is incomplete at the source-review cutoff of 8 November 2026.
 
-## Academic paper — Nikoloz Oniani
+## Read the project
 
-The [integrated working paper](reports/paper/Paper.md), [formatted PDF](output/pdf/Oniani_Monetary_Sovereignty_Georgia.pdf), and [replication guide](reports/paper/README.md) combine household financing exposure, central-bank operation costs and revenues, monetary creation, reserve accounting, and an independent algebraic and quantitative audit of Cangul and Abel (2026). The results challenge both gross-cost claims against NBG and unjustified precision in reserve targets. They do not identify a net causal welfare effect. All earlier research remains available below.
+| Document | Purpose |
+|---|---|
+| [Research protocol](research/PROTOCOL.md) | Fixed question, treatment, counterfactual, estimands, admissible inference and decision gates |
+| [Data requirements and acquisition order](research/DATA_REQUIREMENTS.md) | What exists, what is missing, public access versus requests, and what each gap prevents |
+| [Machine-readable requirements](research/data_requirements.json) | Variables, units, frequencies, periods, sources, validation and priority for each dataset |
+| [Primary-source register](research/SOURCES.md) | Exact source locations and the level of access actually checked |
+| [NBG request specification](research/NBG_REQUEST_SPECIFICATION.md) | Precisely defined missing records and confidentiality-preserving alternatives; not sent |
+| [Existing evidence catalogue](evidence/README.md) | Reusable historical measurements and their limitations |
+| [Manuscript structure](manuscript/STRUCTURE.md) | One eventual paper, with an economic argument and evidence requirements; no new draft |
+| [Replication instructions](replication/README.md) | Separate technical documentation and integrity checks |
 
-## Credit-channel peer-review draft — 8 November 2026
+## Evidence status
 
-The [review packet](reports/peer_review/README.md) provides a [formatted study](output/pdf/Georgia_Household_Credit_Peer_Review.pdf), [manuscript](reports/peer_review/Manuscript.md), [Georgian summary](reports/peer_review/Summary_ka.md), and [reviewer brief](reports/peer_review/Reviewer_Brief.md). It adds 46 verified household credit/deposit series for 2020–2024, observed rate comparisons, and explicitly conditional loan-payment calculations. It does not claim an identified national welfare loss. Reproduce the numerical results offline with `python src/credit_analysis.py`; validate with `python src/validate_credit.py`.
+The verified supporting data include a 60-month 2020–2024 policy/reserve panel, two annual intervention benchmarks, five years of audited interest accounts, and an arithmetic reconstruction of the IMF's published 2022–2023 ARA components. They establish useful accounting foundations. They do not supply a verified 2025–2026 intervention event series or identify the exchange rate without purchases.
 
-## Public accountability investigation — 8 November 2026
+The immediate priorities are executed purchase/sale records and market prices; the intervention decision rule and concurrent FX flows; then matched reserve-financing accounts and usable-reserve needs. The [data assessment](research/DATA_REQUIREMENTS.md) states precisely which conclusions require which evidence. No optimum or net economic loss is assumed.
 
-The complete [accountability edition](reports/accountability/README.md) contains the [evidence dossier](reports/accountability/Dossier.md), [Georgian public speech](reports/accountability/Speech_ka.md), [claim-by-claim opposition briefing](reports/accountability/Fact_check.md), [scoreboard](reports/accountability/Scoreboard.md), [quantitative illustrations](reports/accountability/Illustrations.md), and [reform agenda](reports/accountability/Reforms.md). It investigates costs, benefits and disclosure without claiming an identified net NBG-caused household loss. All previous research below is preserved.
+## Repository boundaries
 
-Reproduce the new calculations **offline, without downloading the household data again**: `python src/accountability_scenarios.py`. Run `python src/validate_accountability.py` for calculations, preservation checks, all tests and the speech-length check. Supplemental current official sources can be refreshed separately with `python src/accountability_sources.py`; review any changed source vintage before revising claims.
+- `research/`: the single protocol, data-acquisition specifications and primary-source register.
+- `evidence/`: an index of reusable observations and calculations; original files remain in one preserved location.
+- `manuscript/`: the eventual paper's structure only. Economic methods belong in the paper; software and project administration belong in `replication/` and `docs/`.
+- `replication/` and `tests/`: current checks and instructions.
+- `archive/legacy/`: preserved historical data, provenance, analytical code and supporting reports. Earlier directions have no authority over this study.
+- `docs/`: the reorganization record.
 
-## NBG policy data, 2020–2024
+Superseded manuscripts, speeches and their publishing scripts have been removed from the checked-out project and remain recoverable from Git history. Numerical evidence and analytical code have been retained unchanged. The [archive register](archive/README.md) records every original file's disposition and hash. The GEOSTAT release is unchanged and belongs to the historical archive, not the active research agenda.
 
-The [monthly policy panel](reports/nbg_policy_monthly_2020_2024.csv), [source manifest](reports/nbg_source_manifest.json), [series dictionary](reports/nbg_series_dictionary.csv), and [IMF benchmark and identification memorandum](reports/NBG_Policy_Dataset_and_IMF_Benchmark.md) record observed policy-rate, reserve, exchange-rate, interbank-rate, CPI and quarterly external data. Intervention transaction fields remain blank where no complete series was verified. Reproduce with `python src/nbg_policy.py` after installing `requirements.lock`; tests are `python -m unittest discover -s tests -v`. Raw provider files remain ignored.
-
-The Phase 1 assessment, eight requested components, literature review, go/no-go decisions and Phase 2 handoff are in [`phase1/Phase1_Research_Assessment.md`](phase1/Phase1_Research_Assessment.md). The bibliography is in `phase1/references.bib`; `phase1/access_checks.json` and `phase1/audit_log.md` document source access and limitations. The complete downloadable package is [`phase1/Georgia_Phase1_Package.zip`](phase1/Georgia_Phase1_Package.zip).
-
-Status: Phase 2 recovery audit completed. Eleven of thirteen GEOSTAT release assets pass hash and structural checks; the 2020 and 2023 release ZIPs are hash-matched but structurally malformed and are excluded. Descriptive household-price analysis may proceed on validated years. Causal NBG intervention identification remains a separate unresolved track.
-## Phase 2 validation checkpoint
-
-See [the 2017 pilot report](reports/Pilot2017_Methods_and_Results.md), [the validation checkpoint](reports/Phase2_Validation_Report.md), and [the interruption-recovery audit](reports/recovery_audit_2026-11-08.md). Raw provider data are not distributed. The pilot calculates only a matched-category fixed-basket contribution; 59.1% of weighted consumption is unmatched.
-
-Reproduce with CPython 3.12:
+Run the offline integrity and numerical tests with:
 
 ```sh
-python -m venv .venv
-. .venv/bin/activate
-pip install -r requirements.lock
-python src/release_download.py
-python src/release_validation.py
-python src/pilot2017.py
-python -m unittest discover -s tests -v
+python replication/check_repository.py
 ```
+
+See [the reorganization record](docs/REORGANIZATION.md) for preservation and verification details.

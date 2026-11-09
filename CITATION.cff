@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite this research project using the study title and author below. This repository does not yet contain a completed paper under this title."
+title: "The Economics of Reserve Accumulation in Georgia: An Independent Assessment of Costs, Benefits, and Optimal Reserve Adequacy"
+authors:
+  - family-names: Oniani
+    given-names: Nikoloz
+repository-code: "https://github.com/NikolozOniani/GeorgianNationalBank"

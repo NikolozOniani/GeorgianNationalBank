@@ -1,0 +1,11 @@
+{
+  "baseline_tests_passed": 33,
+  "retired": [
+    {
+      "id": "test_accountability.AccountabilityTests.test_speech_claims_have_briefing_and_partial_coverage_survives",
+      "reason": "Editorial checks require withdrawn speech and briefing. Their source remains in Git history; the numerical partial-coverage assertions are retained in tests/test_project_structure.py."
+    }
+  ],
+  "remaining_legacy_tests_expected": 32,
+  "analytical_test_source_files": "Preserved byte-for-byte; retirement is implemented only in the current runner."
+}
