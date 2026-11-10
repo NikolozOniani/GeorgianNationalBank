@@ -1,0 +1,13 @@
+series,year,value,units,source_id,pdf_page,anchor,status
+government_fx_expenditure,2025,1600,USD million,annual2025,48,1.6 billion,approximate; debt service plus other FX expenditure
+government_fx_loans_grants,2025,329.3,USD million,annual2025,48,329.3 million,approximate; deposited at NBG
+reserve_management_revenue,2025,421.9,GEL million,annual2025,48,421.9 million,narrative total; not identical to audited interest category
+gold_quantity,2025,229478,troy ounces,annual2025,262,"229,478",reported rounded physical quantity
+gold_quantity,2024,229478,troy ounces,annual2025,262,"229,478",reported rounded physical quantity
+gold_price,2025,4367.8,USD per troy ounce,annual2025,262,"4,367.80",reported year-end price
+gold_price,2024,2610.85,USD per troy ounce,annual2025,262,"2,610.85",reported year-end price
+gold_value,2025,1002.314,USD million,annual2025,262,"1,002,314",audited year-end holding value; original USD thousands
+gold_value,2024,599.133,USD million,annual2025,262,"599,133",audited year-end holding value; original USD thousands
+gold_unrealized_gain,2025,1019.691,GEL million,annual2025,262,"1,019,691",audited annual unrealized gain; not USD reserve-flow valuation
+policy_loans,2025,6167.078,GEL million,annual2025,262,"6,167,078",audited policy loans; excludes separately classified derivative assets
+policy_loans,2024,7003.577,GEL million,annual2025,262,"7,003,577",audited policy loans; excludes separately classified derivative assets

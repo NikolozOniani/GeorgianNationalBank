@@ -1,0 +1,771 @@
+date,series_row,label,value_gelm,source_id,sheet,source_cell
+2024-12-31,4,Net foreign assets,-61.28,depository_survey,DCS,DG4
+2024-12-31,5,Claims on nonresidents,26623.053,depository_survey,DCS,DG5
+2024-12-31,6,less: Liabilities to nonresidents,26684.334,depository_survey,DCS,DG6
+2024-12-31,7,Domestic claims,67199.173,depository_survey,DCS,DG7
+2024-12-31,8,Net claims on central government,4774.925,depository_survey,DCS,DG8
+2024-12-31,9,Claims on central government,9136.581,depository_survey,DCS,DG9
+2024-12-31,10,less: Liabilities to central government,4361.656,depository_survey,DCS,DG10
+2024-12-31,11,Claims on other sectors,62424.248,depository_survey,DCS,DG11
+2024-12-31,12,Other financial corporations,1451.818,depository_survey,DCS,DG12
+2024-12-31,13,State and local government,0.296,depository_survey,DCS,DG13
+2024-12-31,14,Public nonfinancial corporations,50.5,depository_survey,DCS,DG14
+2024-12-31,15,Other nonfinancial corporations,28637.083,depository_survey,DCS,DG15
+2024-12-31,16,Other resident sectors,32284.551,depository_survey,DCS,DG16
+2024-12-31,17,Broad money liabilities,49467.603,depository_survey,DCS,DG17
+2024-12-31,18,Currency outside depository corporations,5429.308,depository_survey,DCS,DG18
+2024-12-31,19,Transferable deposits,24098.903,depository_survey,DCS,DG19
+2024-12-31,20,Other financial corporations,1224.775,depository_survey,DCS,DG20
+2024-12-31,21,State and local government,0,depository_survey,DCS,DG21
+2024-12-31,22,Public nonfinancial corporations,1532.578,depository_survey,DCS,DG22
+2024-12-31,23,Other nonfinancial corporations,11474.988,depository_survey,DCS,DG23
+2024-12-31,24,Other resident sectors,9866.563,depository_survey,DCS,DG24
+2024-12-31,25,Other deposits,19939.391,depository_survey,DCS,DG25
+2024-12-31,26,Other financial corporations,4397.068,depository_survey,DCS,DG26
+2024-12-31,27,State and local government,0,depository_survey,DCS,DG27
+2024-12-31,28,Public nonfinancial corporations,611.544,depository_survey,DCS,DG28
+2024-12-31,29,Other nonfinancial corporations,1763.592,depository_survey,DCS,DG29
+2024-12-31,30,Other resident sectors,13167.187,depository_survey,DCS,DG30
+2024-12-31,31,Deposits excluded from broad money,631.435,depository_survey,DCS,DG31
+2024-12-31,32,Securities other than shares,213.231,depository_survey,DCS,DG32
+2024-12-31,33,Loans,592.287,depository_survey,DCS,DG33
+2024-12-31,34,Financial derivatives,6.815,depository_survey,DCS,DG34
+2024-12-31,35,"Insurance, pension, and standardized guarantee schemes",179.582,depository_survey,DCS,DG35
+2024-12-31,36,Trade credit and advances,16.781,depository_survey,DCS,DG36
+2024-12-31,37,Shares and other equity,18107.561,depository_survey,DCS,DG37
+2024-12-31,38,Other items (net),-2077.401,depository_survey,DCS,DG38
+2025-01-31,4,Net foreign assets,-805.823,depository_survey,DCS,DH4
+2025-01-31,5,Claims on nonresidents,26325.784,depository_survey,DCS,DH5
+2025-01-31,6,less: Liabilities to nonresidents,27131.607,depository_survey,DCS,DH6
+2025-01-31,7,Domestic claims,68037.25,depository_survey,DCS,DH7
+2025-01-31,8,Net claims on central government,4959.406,depository_survey,DCS,DH8
+2025-01-31,9,Claims on central government,9224.562,depository_survey,DCS,DH9
+2025-01-31,10,less: Liabilities to central government,4265.156,depository_survey,DCS,DH10
+2025-01-31,11,Claims on other sectors,63077.844,depository_survey,DCS,DH11
+2025-01-31,12,Other financial corporations,1458.512,depository_survey,DCS,DH12
+2025-01-31,13,State and local government,0.3,depository_survey,DCS,DH13
+2025-01-31,14,Public nonfinancial corporations,52.286,depository_survey,DCS,DH14
+2025-01-31,15,Other nonfinancial corporations,28935.479,depository_survey,DCS,DH15
+2025-01-31,16,Other resident sectors,32631.267,depository_survey,DCS,DH16
+2025-01-31,17,Broad money liabilities,49181.415,depository_survey,DCS,DH17
+2025-01-31,18,Currency outside depository corporations,5257.597,depository_survey,DCS,DH18
+2025-01-31,19,Transferable deposits,23704.511,depository_survey,DCS,DH19
+2025-01-31,20,Other financial corporations,1250.912,depository_survey,DCS,DH20
+2025-01-31,21,State and local government,0,depository_survey,DCS,DH21
+2025-01-31,22,Public nonfinancial corporations,1429.755,depository_survey,DCS,DH22
+2025-01-31,23,Other nonfinancial corporations,11465.342,depository_survey,DCS,DH23
+2025-01-31,24,Other resident sectors,9558.503,depository_survey,DCS,DH24
+2025-01-31,25,Other deposits,20219.307,depository_survey,DCS,DH25
+2025-01-31,26,Other financial corporations,4489.036,depository_survey,DCS,DH26
+2025-01-31,27,State and local government,0,depository_survey,DCS,DH27
+2025-01-31,28,Public nonfinancial corporations,625.445,depository_survey,DCS,DH28
+2025-01-31,29,Other nonfinancial corporations,1717.276,depository_survey,DCS,DH29
+2025-01-31,30,Other resident sectors,13387.549,depository_survey,DCS,DH30
+2025-01-31,31,Deposits excluded from broad money,658.079,depository_survey,DCS,DH31
+2025-01-31,32,Securities other than shares,219.424,depository_survey,DCS,DH32
+2025-01-31,33,Loans,637.121,depository_survey,DCS,DH33
+2025-01-31,34,Financial derivatives,16.732,depository_survey,DCS,DH34
+2025-01-31,35,"Insurance, pension, and standardized guarantee schemes",172.333,depository_survey,DCS,DH35
+2025-01-31,36,Trade credit and advances,7.936,depository_survey,DCS,DH36
+2025-01-31,37,Shares and other equity,18515.61,depository_survey,DCS,DH37
+2025-01-31,38,Other items (net),-2177.223,depository_survey,DCS,DH38
+2025-02-28,4,Net foreign assets,-1300.131,depository_survey,DCS,DI4
+2025-02-28,5,Claims on nonresidents,25936.885,depository_survey,DCS,DI5
+2025-02-28,6,less: Liabilities to nonresidents,27237.016,depository_survey,DCS,DI6
+2025-02-28,7,Domestic claims,68251.932,depository_survey,DCS,DI7
+2025-02-28,8,Net claims on central government,5378.752,depository_survey,DCS,DI8
+2025-02-28,9,Claims on central government,9359.632,depository_survey,DCS,DI9
+2025-02-28,10,less: Liabilities to central government,3980.881,depository_survey,DCS,DI10
+2025-02-28,11,Claims on other sectors,62873.181,depository_survey,DCS,DI11
+2025-02-28,12,Other financial corporations,1363.63,depository_survey,DCS,DI12
+2025-02-28,13,State and local government,0.303,depository_survey,DCS,DI13
+2025-02-28,14,Public nonfinancial corporations,54.636,depository_survey,DCS,DI14
+2025-02-28,15,Other nonfinancial corporations,28721.362,depository_survey,DCS,DI15
+2025-02-28,16,Other resident sectors,32733.25,depository_survey,DCS,DI16
+2025-02-28,17,Broad money liabilities,48674.366,depository_survey,DCS,DI17
+2025-02-28,18,Currency outside depository corporations,5234.548,depository_survey,DCS,DI18
+2025-02-28,19,Transferable deposits,23010.662,depository_survey,DCS,DI19
+2025-02-28,20,Other financial corporations,1028.257,depository_survey,DCS,DI20
+2025-02-28,21,State and local government,0,depository_survey,DCS,DI21
+2025-02-28,22,Public nonfinancial corporations,1373.098,depository_survey,DCS,DI22
+2025-02-28,23,Other nonfinancial corporations,11142.886,depository_survey,DCS,DI23
+2025-02-28,24,Other resident sectors,9466.421,depository_survey,DCS,DI24
+2025-02-28,25,Other deposits,20429.156,depository_survey,DCS,DI25
+2025-02-28,26,Other financial corporations,4669.984,depository_survey,DCS,DI26
+2025-02-28,27,State and local government,0,depository_survey,DCS,DI27
+2025-02-28,28,Public nonfinancial corporations,618.896,depository_survey,DCS,DI28
+2025-02-28,29,Other nonfinancial corporations,1669.033,depository_survey,DCS,DI29
+2025-02-28,30,Other resident sectors,13471.243,depository_survey,DCS,DI30
+2025-02-28,31,Deposits excluded from broad money,624.212,depository_survey,DCS,DI31
+2025-02-28,32,Securities other than shares,214.074,depository_survey,DCS,DI32
+2025-02-28,33,Loans,625.04,depository_survey,DCS,DI33
+2025-02-28,34,Financial derivatives,2.537,depository_survey,DCS,DI34
+2025-02-28,35,"Insurance, pension, and standardized guarantee schemes",122.241,depository_survey,DCS,DI35
+2025-02-28,36,Trade credit and advances,8.148,depository_survey,DCS,DI36
+2025-02-28,37,Shares and other equity,18161.381,depository_survey,DCS,DI37
+2025-02-28,38,Other items (net),-1480.197,depository_survey,DCS,DI38
+2025-03-31,4,Net foreign assets,-1848.568,depository_survey,DCS,DJ4
+2025-03-31,5,Claims on nonresidents,25214.653,depository_survey,DCS,DJ5
+2025-03-31,6,less: Liabilities to nonresidents,27063.221,depository_survey,DCS,DJ6
+2025-03-31,7,Domestic claims,69083.907,depository_survey,DCS,DJ7
+2025-03-31,8,Net claims on central government,5367.502,depository_survey,DCS,DJ8
+2025-03-31,9,Claims on central government,9606.518,depository_survey,DCS,DJ9
+2025-03-31,10,less: Liabilities to central government,4239.016,depository_survey,DCS,DJ10
+2025-03-31,11,Claims on other sectors,63716.405,depository_survey,DCS,DJ11
+2025-03-31,12,Other financial corporations,1391.862,depository_survey,DCS,DJ12
+2025-03-31,13,State and local government,0.305,depository_survey,DCS,DJ13
+2025-03-31,14,Public nonfinancial corporations,56.527,depository_survey,DCS,DJ14
+2025-03-31,15,Other nonfinancial corporations,29122.926,depository_survey,DCS,DJ15
+2025-03-31,16,Other resident sectors,33144.785,depository_survey,DCS,DJ16
+2025-03-31,17,Broad money liabilities,48875.389,depository_survey,DCS,DJ17
+2025-03-31,18,Currency outside depository corporations,5218.548,depository_survey,DCS,DJ18
+2025-03-31,19,Transferable deposits,23331.967,depository_survey,DCS,DJ19
+2025-03-31,20,Other financial corporations,1052.068,depository_survey,DCS,DJ20
+2025-03-31,21,State and local government,0,depository_survey,DCS,DJ21
+2025-03-31,22,Public nonfinancial corporations,1405.595,depository_survey,DCS,DJ22
+2025-03-31,23,Other nonfinancial corporations,11472.75,depository_survey,DCS,DJ23
+2025-03-31,24,Other resident sectors,9401.554,depository_survey,DCS,DJ24
+2025-03-31,25,Other deposits,20324.875,depository_survey,DCS,DJ25
+2025-03-31,26,Other financial corporations,4651.026,depository_survey,DCS,DJ26
+2025-03-31,27,State and local government,0,depository_survey,DCS,DJ27
+2025-03-31,28,Public nonfinancial corporations,528.619,depository_survey,DCS,DJ28
+2025-03-31,29,Other nonfinancial corporations,1680.914,depository_survey,DCS,DJ29
+2025-03-31,30,Other resident sectors,13464.315,depository_survey,DCS,DJ30
+2025-03-31,31,Deposits excluded from broad money,607.766,depository_survey,DCS,DJ31
+2025-03-31,32,Securities other than shares,215.834,depository_survey,DCS,DJ32
+2025-03-31,33,Loans,625.291,depository_survey,DCS,DJ33
+2025-03-31,34,Financial derivatives,0.116,depository_survey,DCS,DJ34
+2025-03-31,35,"Insurance, pension, and standardized guarantee schemes",99.529,depository_survey,DCS,DJ35
+2025-03-31,36,Trade credit and advances,8.526,depository_survey,DCS,DJ36
+2025-03-31,37,Shares and other equity,18616.129,depository_survey,DCS,DJ37
+2025-03-31,38,Other items (net),-1813.241,depository_survey,DCS,DJ38
+2025-04-30,4,Net foreign assets,-1511.82,depository_survey,DCS,DK4
+2025-04-30,5,Claims on nonresidents,25562.062,depository_survey,DCS,DK5
+2025-04-30,6,less: Liabilities to nonresidents,27073.882,depository_survey,DCS,DK6
+2025-04-30,7,Domestic claims,69918.581,depository_survey,DCS,DK7
+2025-04-30,8,Net claims on central government,5479.719,depository_survey,DCS,DK8
+2025-04-30,9,Claims on central government,9706.373,depository_survey,DCS,DK9
+2025-04-30,10,less: Liabilities to central government,4226.654,depository_survey,DCS,DK10
+2025-04-30,11,Claims on other sectors,64438.862,depository_survey,DCS,DK11
+2025-04-30,12,Other financial corporations,1420.174,depository_survey,DCS,DK12
+2025-04-30,13,State and local government,0.186,depository_survey,DCS,DK13
+2025-04-30,14,Public nonfinancial corporations,60.225,depository_survey,DCS,DK14
+2025-04-30,15,Other nonfinancial corporations,29349.218,depository_survey,DCS,DK15
+2025-04-30,16,Other resident sectors,33609.059,depository_survey,DCS,DK16
+2025-04-30,17,Broad money liabilities,49226.701,depository_survey,DCS,DK17
+2025-04-30,18,Currency outside depository corporations,5360.355,depository_survey,DCS,DK18
+2025-04-30,19,Transferable deposits,23179.222,depository_survey,DCS,DK19
+2025-04-30,20,Other financial corporations,1194.579,depository_survey,DCS,DK20
+2025-04-30,21,State and local government,0,depository_survey,DCS,DK21
+2025-04-30,22,Public nonfinancial corporations,1168.438,depository_survey,DCS,DK22
+2025-04-30,23,Other nonfinancial corporations,11193.711,depository_survey,DCS,DK23
+2025-04-30,24,Other resident sectors,9622.494,depository_survey,DCS,DK24
+2025-04-30,25,Other deposits,20687.124,depository_survey,DCS,DK25
+2025-04-30,26,Other financial corporations,4754.336,depository_survey,DCS,DK26
+2025-04-30,27,State and local government,0,depository_survey,DCS,DK27
+2025-04-30,28,Public nonfinancial corporations,564.826,depository_survey,DCS,DK28
+2025-04-30,29,Other nonfinancial corporations,1684.687,depository_survey,DCS,DK29
+2025-04-30,30,Other resident sectors,13683.275,depository_survey,DCS,DK30
+2025-04-30,31,Deposits excluded from broad money,594.74,depository_survey,DCS,DK31
+2025-04-30,32,Securities other than shares,213.823,depository_survey,DCS,DK32
+2025-04-30,33,Loans,634.121,depository_survey,DCS,DK33
+2025-04-30,34,Financial derivatives,0.762,depository_survey,DCS,DK34
+2025-04-30,35,"Insurance, pension, and standardized guarantee schemes",96.255,depository_survey,DCS,DK35
+2025-04-30,36,Trade credit and advances,8.66,depository_survey,DCS,DK36
+2025-04-30,37,Shares and other equity,18371.902,depository_survey,DCS,DK37
+2025-04-30,38,Other items (net),-740.203,depository_survey,DCS,DK38
+2025-05-31,4,Net foreign assets,-1579.131,depository_survey,DCS,DL4
+2025-05-31,5,Claims on nonresidents,25397.173,depository_survey,DCS,DL5
+2025-05-31,6,less: Liabilities to nonresidents,26976.304,depository_survey,DCS,DL6
+2025-05-31,7,Domestic claims,69371.537,depository_survey,DCS,DL7
+2025-05-31,8,Net claims on central government,4626.562,depository_survey,DCS,DL8
+2025-05-31,9,Claims on central government,9396.755,depository_survey,DCS,DL9
+2025-05-31,10,less: Liabilities to central government,4770.193,depository_survey,DCS,DL10
+2025-05-31,11,Claims on other sectors,64744.975,depository_survey,DCS,DL11
+2025-05-31,12,Other financial corporations,1435.265,depository_survey,DCS,DL12
+2025-05-31,13,State and local government,0.178,depository_survey,DCS,DL13
+2025-05-31,14,Public nonfinancial corporations,62.933,depository_survey,DCS,DL14
+2025-05-31,15,Other nonfinancial corporations,29202.852,depository_survey,DCS,DL15
+2025-05-31,16,Other resident sectors,34043.747,depository_survey,DCS,DL16
+2025-05-31,17,Broad money liabilities,49045.997,depository_survey,DCS,DL17
+2025-05-31,18,Currency outside depository corporations,5472.513,depository_survey,DCS,DL18
+2025-05-31,19,Transferable deposits,22529.808,depository_survey,DCS,DL19
+2025-05-31,20,Other financial corporations,1050.077,depository_survey,DCS,DL20
+2025-05-31,21,State and local government,0,depository_survey,DCS,DL21
+2025-05-31,22,Public nonfinancial corporations,1073.744,depository_survey,DCS,DL22
+2025-05-31,23,Other nonfinancial corporations,10982.117,depository_survey,DCS,DL23
+2025-05-31,24,Other resident sectors,9423.869,depository_survey,DCS,DL24
+2025-05-31,25,Other deposits,21043.676,depository_survey,DCS,DL25
+2025-05-31,26,Other financial corporations,4933.388,depository_survey,DCS,DL26
+2025-05-31,27,State and local government,0,depository_survey,DCS,DL27
+2025-05-31,28,Public nonfinancial corporations,499.896,depository_survey,DCS,DL28
+2025-05-31,29,Other nonfinancial corporations,1772.473,depository_survey,DCS,DL29
+2025-05-31,30,Other resident sectors,13837.919,depository_survey,DCS,DL30
+2025-05-31,31,Deposits excluded from broad money,557.441,depository_survey,DCS,DL31
+2025-05-31,32,Securities other than shares,172.291,depository_survey,DCS,DL32
+2025-05-31,33,Loans,652.999,depository_survey,DCS,DL33
+2025-05-31,34,Financial derivatives,0.948,depository_survey,DCS,DL34
+2025-05-31,35,"Insurance, pension, and standardized guarantee schemes",96.335,depository_survey,DCS,DL35
+2025-05-31,36,Trade credit and advances,7.646,depository_survey,DCS,DL36
+2025-05-31,37,Shares and other equity,18441.272,depository_survey,DCS,DL37
+2025-05-31,38,Other items (net),-1182.524,depository_survey,DCS,DL38
+2025-06-30,4,Net foreign assets,-1568.671,depository_survey,DCS,DM4
+2025-06-30,5,Claims on nonresidents,26433.647,depository_survey,DCS,DM5
+2025-06-30,6,less: Liabilities to nonresidents,28002.318,depository_survey,DCS,DM6
+2025-06-30,7,Domestic claims,71475.784,depository_survey,DCS,DM7
+2025-06-30,8,Net claims on central government,4662.644,depository_survey,DCS,DM8
+2025-06-30,9,Claims on central government,9601.856,depository_survey,DCS,DM9
+2025-06-30,10,less: Liabilities to central government,4939.212,depository_survey,DCS,DM10
+2025-06-30,11,Claims on other sectors,66813.14,depository_survey,DCS,DM11
+2025-06-30,12,Other financial corporations,1473.47,depository_survey,DCS,DM12
+2025-06-30,13,State and local government,0.178,depository_survey,DCS,DM13
+2025-06-30,14,Public nonfinancial corporations,62.315,depository_survey,DCS,DM14
+2025-06-30,15,Other nonfinancial corporations,30082.646,depository_survey,DCS,DM15
+2025-06-30,16,Other resident sectors,35194.532,depository_survey,DCS,DM16
+2025-06-30,17,Broad money liabilities,50355.288,depository_survey,DCS,DM17
+2025-06-30,18,Currency outside depository corporations,5593.031,depository_survey,DCS,DM18
+2025-06-30,19,Transferable deposits,23726.591,depository_survey,DCS,DM19
+2025-06-30,20,Other financial corporations,1145.91,depository_survey,DCS,DM20
+2025-06-30,21,State and local government,0,depository_survey,DCS,DM21
+2025-06-30,22,Public nonfinancial corporations,1154.27,depository_survey,DCS,DM22
+2025-06-30,23,Other nonfinancial corporations,11674.308,depository_survey,DCS,DM23
+2025-06-30,24,Other resident sectors,9752.104,depository_survey,DCS,DM24
+2025-06-30,25,Other deposits,21035.666,depository_survey,DCS,DM25
+2025-06-30,26,Other financial corporations,4956.127,depository_survey,DCS,DM26
+2025-06-30,27,State and local government,0,depository_survey,DCS,DM27
+2025-06-30,28,Public nonfinancial corporations,375.19,depository_survey,DCS,DM28
+2025-06-30,29,Other nonfinancial corporations,1764.143,depository_survey,DCS,DM29
+2025-06-30,30,Other resident sectors,13940.205,depository_survey,DCS,DM30
+2025-06-30,31,Deposits excluded from broad money,955.632,depository_survey,DCS,DM31
+2025-06-30,32,Securities other than shares,202.56,depository_survey,DCS,DM32
+2025-06-30,33,Loans,654.664,depository_survey,DCS,DM33
+2025-06-30,34,Financial derivatives,1.349,depository_survey,DCS,DM34
+2025-06-30,35,"Insurance, pension, and standardized guarantee schemes",115.817,depository_survey,DCS,DM35
+2025-06-30,36,Trade credit and advances,9.041,depository_survey,DCS,DM36
+2025-06-30,37,Shares and other equity,18809.481,depository_survey,DCS,DM37
+2025-06-30,38,Other items (net),-1196.719,depository_survey,DCS,DM38
+2025-07-31,4,Net foreign assets,-1174.158,depository_survey,DCS,DN4
+2025-07-31,5,Claims on nonresidents,27338.77,depository_survey,DCS,DN5
+2025-07-31,6,less: Liabilities to nonresidents,28512.928,depository_survey,DCS,DN6
+2025-07-31,7,Domestic claims,71460.714,depository_survey,DCS,DN7
+2025-07-31,8,Net claims on central government,4689.509,depository_survey,DCS,DN8
+2025-07-31,9,Claims on central government,9530.771,depository_survey,DCS,DN9
+2025-07-31,10,less: Liabilities to central government,4841.262,depository_survey,DCS,DN10
+2025-07-31,11,Claims on other sectors,66771.206,depository_survey,DCS,DN11
+2025-07-31,12,Other financial corporations,1523.288,depository_survey,DCS,DN12
+2025-07-31,13,State and local government,0.178,depository_survey,DCS,DN13
+2025-07-31,14,Public nonfinancial corporations,54.46,depository_survey,DCS,DN14
+2025-07-31,15,Other nonfinancial corporations,29678.247,depository_survey,DCS,DN15
+2025-07-31,16,Other resident sectors,35515.033,depository_survey,DCS,DN16
+2025-07-31,17,Broad money liabilities,51446.321,depository_survey,DCS,DN17
+2025-07-31,18,Currency outside depository corporations,5811.445,depository_survey,DCS,DN18
+2025-07-31,19,Transferable deposits,24191.424,depository_survey,DCS,DN19
+2025-07-31,20,Other financial corporations,1289.035,depository_survey,DCS,DN20
+2025-07-31,21,State and local government,0,depository_survey,DCS,DN21
+2025-07-31,22,Public nonfinancial corporations,1235.016,depository_survey,DCS,DN22
+2025-07-31,23,Other nonfinancial corporations,11687.312,depository_survey,DCS,DN23
+2025-07-31,24,Other resident sectors,9980.062,depository_survey,DCS,DN24
+2025-07-31,25,Other deposits,21443.452,depository_survey,DCS,DN25
+2025-07-31,26,Other financial corporations,5110.593,depository_survey,DCS,DN26
+2025-07-31,27,State and local government,0,depository_survey,DCS,DN27
+2025-07-31,28,Public nonfinancial corporations,448.92,depository_survey,DCS,DN28
+2025-07-31,29,Other nonfinancial corporations,1713.283,depository_survey,DCS,DN29
+2025-07-31,30,Other resident sectors,14170.656,depository_survey,DCS,DN30
+2025-07-31,31,Deposits excluded from broad money,958.94,depository_survey,DCS,DN31
+2025-07-31,32,Securities other than shares,249.074,depository_survey,DCS,DN32
+2025-07-31,33,Loans,652.813,depository_survey,DCS,DN33
+2025-07-31,34,Financial derivatives,1.381,depository_survey,DCS,DN34
+2025-07-31,35,"Insurance, pension, and standardized guarantee schemes",121.192,depository_survey,DCS,DN35
+2025-07-31,36,Trade credit and advances,8.074,depository_survey,DCS,DN36
+2025-07-31,37,Shares and other equity,19119.021,depository_survey,DCS,DN37
+2025-07-31,38,Other items (net),-2270.26,depository_survey,DCS,DN38
+2025-08-31,4,Net foreign assets,130.55,depository_survey,DCS,DO4
+2025-08-31,5,Claims on nonresidents,28729.867,depository_survey,DCS,DO5
+2025-08-31,6,less: Liabilities to nonresidents,28599.317,depository_survey,DCS,DO6
+2025-08-31,7,Domestic claims,71896.2,depository_survey,DCS,DO7
+2025-08-31,8,Net claims on central government,4607.275,depository_survey,DCS,DO8
+2025-08-31,9,Claims on central government,9622.877,depository_survey,DCS,DO9
+2025-08-31,10,less: Liabilities to central government,5015.602,depository_survey,DCS,DO10
+2025-08-31,11,Claims on other sectors,67288.925,depository_survey,DCS,DO11
+2025-08-31,12,Other financial corporations,1523.96,depository_survey,DCS,DO12
+2025-08-31,13,State and local government,0.178,depository_survey,DCS,DO13
+2025-08-31,14,Public nonfinancial corporations,42.794,depository_survey,DCS,DO14
+2025-08-31,15,Other nonfinancial corporations,29812.592,depository_survey,DCS,DO15
+2025-08-31,16,Other resident sectors,35909.402,depository_survey,DCS,DO16
+2025-08-31,17,Broad money liabilities,52608.535,depository_survey,DCS,DO17
+2025-08-31,18,Currency outside depository corporations,5978.649,depository_survey,DCS,DO18
+2025-08-31,19,Transferable deposits,24794.038,depository_survey,DCS,DO19
+2025-08-31,20,Other financial corporations,1434.482,depository_survey,DCS,DO20
+2025-08-31,21,State and local government,0,depository_survey,DCS,DO21
+2025-08-31,22,Public nonfinancial corporations,1189.996,depository_survey,DCS,DO22
+2025-08-31,23,Other nonfinancial corporations,12199.51,depository_survey,DCS,DO23
+2025-08-31,24,Other resident sectors,9970.05,depository_survey,DCS,DO24
+2025-08-31,25,Other deposits,21835.847,depository_survey,DCS,DO25
+2025-08-31,26,Other financial corporations,5234.087,depository_survey,DCS,DO26
+2025-08-31,27,State and local government,0,depository_survey,DCS,DO27
+2025-08-31,28,Public nonfinancial corporations,439.133,depository_survey,DCS,DO28
+2025-08-31,29,Other nonfinancial corporations,1978.864,depository_survey,DCS,DO29
+2025-08-31,30,Other resident sectors,14183.763,depository_survey,DCS,DO30
+2025-08-31,31,Deposits excluded from broad money,962.173,depository_survey,DCS,DO31
+2025-08-31,32,Securities other than shares,256.513,depository_survey,DCS,DO32
+2025-08-31,33,Loans,662.077,depository_survey,DCS,DO33
+2025-08-31,34,Financial derivatives,1.452,depository_survey,DCS,DO34
+2025-08-31,35,"Insurance, pension, and standardized guarantee schemes",129.067,depository_survey,DCS,DO35
+2025-08-31,36,Trade credit and advances,7.665,depository_survey,DCS,DO36
+2025-08-31,37,Shares and other equity,19037.543,depository_survey,DCS,DO37
+2025-08-31,38,Other items (net),-1638.274,depository_survey,DCS,DO38
+2025-09-30,4,Net foreign assets,1679.256,depository_survey,DCS,DP4
+2025-09-30,5,Claims on nonresidents,30530.58,depository_survey,DCS,DP5
+2025-09-30,6,less: Liabilities to nonresidents,28851.324,depository_survey,DCS,DP6
+2025-09-30,7,Domestic claims,72345.404,depository_survey,DCS,DP7
+2025-09-30,8,Net claims on central government,4228.457,depository_survey,DCS,DP8
+2025-09-30,9,Claims on central government,9737.348,depository_survey,DCS,DP9
+2025-09-30,10,less: Liabilities to central government,5508.891,depository_survey,DCS,DP10
+2025-09-30,11,Claims on other sectors,68116.947,depository_survey,DCS,DP11
+2025-09-30,12,Other financial corporations,1498.712,depository_survey,DCS,DP12
+2025-09-30,13,State and local government,0.178,depository_survey,DCS,DP13
+2025-09-30,14,Public nonfinancial corporations,37.117,depository_survey,DCS,DP14
+2025-09-30,15,Other nonfinancial corporations,30142.736,depository_survey,DCS,DP15
+2025-09-30,16,Other resident sectors,36438.204,depository_survey,DCS,DP16
+2025-09-30,17,Broad money liabilities,54211.735,depository_survey,DCS,DP17
+2025-09-30,18,Currency outside depository corporations,5917.23,depository_survey,DCS,DP18
+2025-09-30,19,Transferable deposits,25955.993,depository_survey,DCS,DP19
+2025-09-30,20,Other financial corporations,1406.693,depository_survey,DCS,DP20
+2025-09-30,21,State and local government,0,depository_survey,DCS,DP21
+2025-09-30,22,Public nonfinancial corporations,1339.231,depository_survey,DCS,DP22
+2025-09-30,23,Other nonfinancial corporations,13074.763,depository_survey,DCS,DP23
+2025-09-30,24,Other resident sectors,10135.306,depository_survey,DCS,DP24
+2025-09-30,25,Other deposits,22338.513,depository_survey,DCS,DP25
+2025-09-30,26,Other financial corporations,5309.49,depository_survey,DCS,DP26
+2025-09-30,27,State and local government,0,depository_survey,DCS,DP27
+2025-09-30,28,Public nonfinancial corporations,439.297,depository_survey,DCS,DP28
+2025-09-30,29,Other nonfinancial corporations,2287.649,depository_survey,DCS,DP29
+2025-09-30,30,Other resident sectors,14302.076,depository_survey,DCS,DP30
+2025-09-30,31,Deposits excluded from broad money,1058.956,depository_survey,DCS,DP31
+2025-09-30,32,Securities other than shares,261.193,depository_survey,DCS,DP32
+2025-09-30,33,Loans,682.749,depository_survey,DCS,DP33
+2025-09-30,34,Financial derivatives,0.834,depository_survey,DCS,DP34
+2025-09-30,35,"Insurance, pension, and standardized guarantee schemes",150.86,depository_survey,DCS,DP35
+2025-09-30,36,Trade credit and advances,7.926,depository_survey,DCS,DP36
+2025-09-30,37,Shares and other equity,19672.708,depository_survey,DCS,DP37
+2025-09-30,38,Other items (net),-2022.301,depository_survey,DCS,DP38
+2025-10-31,4,Net foreign assets,1231.207,depository_survey,DCS,DQ4
+2025-10-31,5,Claims on nonresidents,30111.431,depository_survey,DCS,DQ5
+2025-10-31,6,less: Liabilities to nonresidents,28880.224,depository_survey,DCS,DQ6
+2025-10-31,7,Domestic claims,72857.918,depository_survey,DCS,DQ7
+2025-10-31,8,Net claims on central government,4332.23,depository_survey,DCS,DQ8
+2025-10-31,9,Claims on central government,10103.469,depository_survey,DCS,DQ9
+2025-10-31,10,less: Liabilities to central government,5771.238,depository_survey,DCS,DQ10
+2025-10-31,11,Claims on other sectors,68525.688,depository_survey,DCS,DQ11
+2025-10-31,12,Other financial corporations,1492.951,depository_survey,DCS,DQ12
+2025-10-31,13,State and local government,0,depository_survey,DCS,DQ13
+2025-10-31,14,Public nonfinancial corporations,34.352,depository_survey,DCS,DQ14
+2025-10-31,15,Other nonfinancial corporations,30182.605,depository_survey,DCS,DQ15
+2025-10-31,16,Other resident sectors,36815.781,depository_survey,DCS,DQ16
+2025-10-31,17,Broad money liabilities,54137.529,depository_survey,DCS,DQ17
+2025-10-31,18,Currency outside depository corporations,5954.769,depository_survey,DCS,DQ18
+2025-10-31,19,Transferable deposits,25382.755,depository_survey,DCS,DQ19
+2025-10-31,20,Other financial corporations,1350.026,depository_survey,DCS,DQ20
+2025-10-31,21,State and local government,0,depository_survey,DCS,DQ21
+2025-10-31,22,Public nonfinancial corporations,1376.681,depository_survey,DCS,DQ22
+2025-10-31,23,Other nonfinancial corporations,12382.191,depository_survey,DCS,DQ23
+2025-10-31,24,Other resident sectors,10273.857,depository_survey,DCS,DQ24
+2025-10-31,25,Other deposits,22800.005,depository_survey,DCS,DQ25
+2025-10-31,26,Other financial corporations,5306.904,depository_survey,DCS,DQ26
+2025-10-31,27,State and local government,0,depository_survey,DCS,DQ27
+2025-10-31,28,Public nonfinancial corporations,394.04,depository_survey,DCS,DQ28
+2025-10-31,29,Other nonfinancial corporations,2646.57,depository_survey,DCS,DQ29
+2025-10-31,30,Other resident sectors,14452.491,depository_survey,DCS,DQ30
+2025-10-31,31,Deposits excluded from broad money,994.364,depository_survey,DCS,DQ31
+2025-10-31,32,Securities other than shares,285.511,depository_survey,DCS,DQ32
+2025-10-31,33,Loans,707.808,depository_survey,DCS,DQ33
+2025-10-31,34,Financial derivatives,0.463,depository_survey,DCS,DQ34
+2025-10-31,35,"Insurance, pension, and standardized guarantee schemes",155.721,depository_survey,DCS,DQ35
+2025-10-31,36,Trade credit and advances,7.622,depository_survey,DCS,DQ36
+2025-10-31,37,Shares and other equity,20153.974,depository_survey,DCS,DQ37
+2025-10-31,38,Other items (net),-2353.867,depository_survey,DCS,DQ38
+2025-11-30,4,Net foreign assets,1195.17,depository_survey,DCS,DR4
+2025-11-30,5,Claims on nonresidents,30064.41,depository_survey,DCS,DR5
+2025-11-30,6,less: Liabilities to nonresidents,28869.24,depository_survey,DCS,DR6
+2025-11-30,7,Domestic claims,73667.936,depository_survey,DCS,DR7
+2025-11-30,8,Net claims on central government,4236.418,depository_survey,DCS,DR8
+2025-11-30,9,Claims on central government,10182.615,depository_survey,DCS,DR9
+2025-11-30,10,less: Liabilities to central government,5946.197,depository_survey,DCS,DR10
+2025-11-30,11,Claims on other sectors,69431.518,depository_survey,DCS,DR11
+2025-11-30,12,Other financial corporations,1540.835,depository_survey,DCS,DR12
+2025-11-30,13,State and local government,0,depository_survey,DCS,DR13
+2025-11-30,14,Public nonfinancial corporations,154.673,depository_survey,DCS,DR14
+2025-11-30,15,Other nonfinancial corporations,30526.364,depository_survey,DCS,DR15
+2025-11-30,16,Other resident sectors,37209.645,depository_survey,DCS,DR16
+2025-11-30,17,Broad money liabilities,54279.998,depository_survey,DCS,DR17
+2025-11-30,18,Currency outside depository corporations,5924.844,depository_survey,DCS,DR18
+2025-11-30,19,Transferable deposits,25451.122,depository_survey,DCS,DR19
+2025-11-30,20,Other financial corporations,1361.899,depository_survey,DCS,DR20
+2025-11-30,21,State and local government,0,depository_survey,DCS,DR21
+2025-11-30,22,Public nonfinancial corporations,1408.052,depository_survey,DCS,DR22
+2025-11-30,23,Other nonfinancial corporations,12585.444,depository_survey,DCS,DR23
+2025-11-30,24,Other resident sectors,10095.728,depository_survey,DCS,DR24
+2025-11-30,25,Other deposits,22904.032,depository_survey,DCS,DR25
+2025-11-30,26,Other financial corporations,5393.593,depository_survey,DCS,DR26
+2025-11-30,27,State and local government,0,depository_survey,DCS,DR27
+2025-11-30,28,Public nonfinancial corporations,357.473,depository_survey,DCS,DR28
+2025-11-30,29,Other nonfinancial corporations,2484.187,depository_survey,DCS,DR29
+2025-11-30,30,Other resident sectors,14668.779,depository_survey,DCS,DR30
+2025-11-30,31,Deposits excluded from broad money,1099.383,depository_survey,DCS,DR31
+2025-11-30,32,Securities other than shares,298.1,depository_survey,DCS,DR32
+2025-11-30,33,Loans,711.551,depository_survey,DCS,DR33
+2025-11-30,34,Financial derivatives,0.128,depository_survey,DCS,DR34
+2025-11-30,35,"Insurance, pension, and standardized guarantee schemes",167.757,depository_survey,DCS,DR35
+2025-11-30,36,Trade credit and advances,17.247,depository_survey,DCS,DR36
+2025-11-30,37,Shares and other equity,20295.605,depository_survey,DCS,DR37
+2025-11-30,38,Other items (net),-2006.663,depository_survey,DCS,DR38
+2025-12-31,4,Net foreign assets,1034.89,depository_survey,DCS,DS4
+2025-12-31,5,Claims on nonresidents,30129.487,depository_survey,DCS,DS5
+2025-12-31,6,less: Liabilities to nonresidents,29094.598,depository_survey,DCS,DS6
+2025-12-31,7,Domestic claims,76761.907,depository_survey,DCS,DS7
+2025-12-31,8,Net claims on central government,5353.518,depository_survey,DCS,DS8
+2025-12-31,9,Claims on central government,10204.056,depository_survey,DCS,DS9
+2025-12-31,10,less: Liabilities to central government,4850.538,depository_survey,DCS,DS10
+2025-12-31,11,Claims on other sectors,71408.389,depository_survey,DCS,DS11
+2025-12-31,12,Other financial corporations,1612.389,depository_survey,DCS,DS12
+2025-12-31,13,State and local government,0,depository_survey,DCS,DS13
+2025-12-31,14,Public nonfinancial corporations,155.163,depository_survey,DCS,DS14
+2025-12-31,15,Other nonfinancial corporations,31739.642,depository_survey,DCS,DS15
+2025-12-31,16,Other resident sectors,37901.194,depository_survey,DCS,DS16
+2025-12-31,17,Broad money liabilities,57680.224,depository_survey,DCS,DS17
+2025-12-31,18,Currency outside depository corporations,6091.58,depository_survey,DCS,DS18
+2025-12-31,19,Transferable deposits,27496.879,depository_survey,DCS,DS19
+2025-12-31,20,Other financial corporations,1317.741,depository_survey,DCS,DS20
+2025-12-31,21,State and local government,0,depository_survey,DCS,DS21
+2025-12-31,22,Public nonfinancial corporations,1885.555,depository_survey,DCS,DS22
+2025-12-31,23,Other nonfinancial corporations,13472.591,depository_survey,DCS,DS23
+2025-12-31,24,Other resident sectors,10820.993,depository_survey,DCS,DS24
+2025-12-31,25,Other deposits,24091.764,depository_survey,DCS,DS25
+2025-12-31,26,Other financial corporations,5588.101,depository_survey,DCS,DS26
+2025-12-31,27,State and local government,0,depository_survey,DCS,DS27
+2025-12-31,28,Public nonfinancial corporations,651.046,depository_survey,DCS,DS28
+2025-12-31,29,Other nonfinancial corporations,2651.11,depository_survey,DCS,DS29
+2025-12-31,30,Other resident sectors,15201.506,depository_survey,DCS,DS30
+2025-12-31,31,Deposits excluded from broad money,920.709,depository_survey,DCS,DS31
+2025-12-31,32,Securities other than shares,308.452,depository_survey,DCS,DS32
+2025-12-31,33,Loans,715.546,depository_survey,DCS,DS33
+2025-12-31,34,Financial derivatives,0.077,depository_survey,DCS,DS34
+2025-12-31,35,"Insurance, pension, and standardized guarantee schemes",190.642,depository_survey,DCS,DS35
+2025-12-31,36,Trade credit and advances,29.774,depository_survey,DCS,DS36
+2025-12-31,37,Shares and other equity,20792.662,depository_survey,DCS,DS37
+2025-12-31,38,Other items (net),-2841.289,depository_survey,DCS,DS38
+2026-01-31,4,Net foreign assets,1370.803,depository_survey,DCS,DT4
+2026-01-31,5,Claims on nonresidents,30898.704,depository_survey,DCS,DT5
+2026-01-31,6,less: Liabilities to nonresidents,29527.902,depository_survey,DCS,DT6
+2026-01-31,7,Domestic claims,75919.02,depository_survey,DCS,DT7
+2026-01-31,8,Net claims on central government,4937.628,depository_survey,DCS,DT8
+2026-01-31,9,Claims on central government,9891.043,depository_survey,DCS,DT9
+2026-01-31,10,less: Liabilities to central government,4953.415,depository_survey,DCS,DT10
+2026-01-31,11,Claims on other sectors,70981.392,depository_survey,DCS,DT11
+2026-01-31,12,Other financial corporations,1555.784,depository_survey,DCS,DT12
+2026-01-31,13,State and local government,0,depository_survey,DCS,DT13
+2026-01-31,14,Public nonfinancial corporations,42.266,depository_survey,DCS,DT14
+2026-01-31,15,Other nonfinancial corporations,31291.574,depository_survey,DCS,DT15
+2026-01-31,16,Other resident sectors,38091.767,depository_survey,DCS,DT16
+2026-01-31,17,Broad money liabilities,56342.72,depository_survey,DCS,DT17
+2026-01-31,18,Currency outside depository corporations,5839.095,depository_survey,DCS,DT18
+2026-01-31,19,Transferable deposits,26339.041,depository_survey,DCS,DT19
+2026-01-31,20,Other financial corporations,1436.941,depository_survey,DCS,DT20
+2026-01-31,21,State and local government,0,depository_survey,DCS,DT21
+2026-01-31,22,Public nonfinancial corporations,1821.814,depository_survey,DCS,DT22
+2026-01-31,23,Other nonfinancial corporations,12821.663,depository_survey,DCS,DT23
+2026-01-31,24,Other resident sectors,10258.622,depository_survey,DCS,DT24
+2026-01-31,25,Other deposits,24164.584,depository_survey,DCS,DT25
+2026-01-31,26,Other financial corporations,5521.733,depository_survey,DCS,DT26
+2026-01-31,27,State and local government,0,depository_survey,DCS,DT27
+2026-01-31,28,Public nonfinancial corporations,621.146,depository_survey,DCS,DT28
+2026-01-31,29,Other nonfinancial corporations,2705.882,depository_survey,DCS,DT29
+2026-01-31,30,Other resident sectors,15315.823,depository_survey,DCS,DT30
+2026-01-31,31,Deposits excluded from broad money,952.046,depository_survey,DCS,DT31
+2026-01-31,32,Securities other than shares,310.506,depository_survey,DCS,DT32
+2026-01-31,33,Loans,710.635,depository_survey,DCS,DT33
+2026-01-31,34,Financial derivatives,0.183,depository_survey,DCS,DT34
+2026-01-31,35,"Insurance, pension, and standardized guarantee schemes",162.954,depository_survey,DCS,DT35
+2026-01-31,36,Trade credit and advances,29.203,depository_survey,DCS,DT36
+2026-01-31,37,Shares and other equity,21513.47,depository_survey,DCS,DT37
+2026-01-31,38,Other items (net),-2731.893,depository_survey,DCS,DT38
+2026-02-28,4,Net foreign assets,1544.111,depository_survey,DCS,DU4
+2026-02-28,5,Claims on nonresidents,30912.901,depository_survey,DCS,DU5
+2026-02-28,6,less: Liabilities to nonresidents,29368.79,depository_survey,DCS,DU6
+2026-02-28,7,Domestic claims,76489.101,depository_survey,DCS,DU7
+2026-02-28,8,Net claims on central government,4927.405,depository_survey,DCS,DU8
+2026-02-28,9,Claims on central government,10023.436,depository_survey,DCS,DU9
+2026-02-28,10,less: Liabilities to central government,5096.031,depository_survey,DCS,DU10
+2026-02-28,11,Claims on other sectors,71561.696,depository_survey,DCS,DU11
+2026-02-28,12,Other financial corporations,1546.189,depository_survey,DCS,DU12
+2026-02-28,13,State and local government,0,depository_survey,DCS,DU13
+2026-02-28,14,Public nonfinancial corporations,41.845,depository_survey,DCS,DU14
+2026-02-28,15,Other nonfinancial corporations,31549.589,depository_survey,DCS,DU15
+2026-02-28,16,Other resident sectors,38424.074,depository_survey,DCS,DU16
+2026-02-28,17,Broad money liabilities,56632.511,depository_survey,DCS,DU17
+2026-02-28,18,Currency outside depository corporations,5811.281,depository_survey,DCS,DU18
+2026-02-28,19,Transferable deposits,26204.959,depository_survey,DCS,DU19
+2026-02-28,20,Other financial corporations,1320.802,depository_survey,DCS,DU20
+2026-02-28,21,State and local government,0,depository_survey,DCS,DU21
+2026-02-28,22,Public nonfinancial corporations,1788.847,depository_survey,DCS,DU22
+2026-02-28,23,Other nonfinancial corporations,12489.046,depository_survey,DCS,DU23
+2026-02-28,24,Other resident sectors,10606.264,depository_survey,DCS,DU24
+2026-02-28,25,Other deposits,24616.271,depository_survey,DCS,DU25
+2026-02-28,26,Other financial corporations,5752.624,depository_survey,DCS,DU26
+2026-02-28,27,State and local government,0,depository_survey,DCS,DU27
+2026-02-28,28,Public nonfinancial corporations,640.835,depository_survey,DCS,DU28
+2026-02-28,29,Other nonfinancial corporations,2869.594,depository_survey,DCS,DU29
+2026-02-28,30,Other resident sectors,15353.218,depository_survey,DCS,DU30
+2026-02-28,31,Deposits excluded from broad money,918.802,depository_survey,DCS,DU31
+2026-02-28,32,Securities other than shares,306.33,depository_survey,DCS,DU32
+2026-02-28,33,Loans,704.368,depository_survey,DCS,DU33
+2026-02-28,34,Financial derivatives,0.503,depository_survey,DCS,DU34
+2026-02-28,35,"Insurance, pension, and standardized guarantee schemes",129.868,depository_survey,DCS,DU35
+2026-02-28,36,Trade credit and advances,29.122,depository_survey,DCS,DU36
+2026-02-28,37,Shares and other equity,21574.68,depository_survey,DCS,DU37
+2026-02-28,38,Other items (net),-2262.973,depository_survey,DCS,DU38
+2026-03-31,4,Net foreign assets,1140.918,depository_survey,DCS,DV4
+2026-03-31,5,Claims on nonresidents,30946.685,depository_survey,DCS,DV5
+2026-03-31,6,less: Liabilities to nonresidents,29805.767,depository_survey,DCS,DV6
+2026-03-31,7,Domestic claims,77772.65,depository_survey,DCS,DV7
+2026-03-31,8,Net claims on central government,4554.588,depository_survey,DCS,DV8
+2026-03-31,9,Claims on central government,10154.037,depository_survey,DCS,DV9
+2026-03-31,10,less: Liabilities to central government,5599.449,depository_survey,DCS,DV10
+2026-03-31,11,Claims on other sectors,73218.062,depository_survey,DCS,DV11
+2026-03-31,12,Other financial corporations,1532.429,depository_survey,DCS,DV12
+2026-03-31,13,State and local government,0,depository_survey,DCS,DV13
+2026-03-31,14,Public nonfinancial corporations,44.11,depository_survey,DCS,DV14
+2026-03-31,15,Other nonfinancial corporations,32544.864,depository_survey,DCS,DV15
+2026-03-31,16,Other resident sectors,39096.66,depository_survey,DCS,DV16
+2026-03-31,17,Broad money liabilities,57592.916,depository_survey,DCS,DV17
+2026-03-31,18,Currency outside depository corporations,5835.849,depository_survey,DCS,DV18
+2026-03-31,19,Transferable deposits,27017.997,depository_survey,DCS,DV19
+2026-03-31,20,Other financial corporations,1285.622,depository_survey,DCS,DV20
+2026-03-31,21,State and local government,0,depository_survey,DCS,DV21
+2026-03-31,22,Public nonfinancial corporations,1750.661,depository_survey,DCS,DV22
+2026-03-31,23,Other nonfinancial corporations,13317.804,depository_survey,DCS,DV23
+2026-03-31,24,Other resident sectors,10663.91,depository_survey,DCS,DV24
+2026-03-31,25,Other deposits,24739.07,depository_survey,DCS,DV25
+2026-03-31,26,Other financial corporations,5914.246,depository_survey,DCS,DV26
+2026-03-31,27,State and local government,0,depository_survey,DCS,DV27
+2026-03-31,28,Public nonfinancial corporations,747.05,depository_survey,DCS,DV28
+2026-03-31,29,Other nonfinancial corporations,2622.361,depository_survey,DCS,DV29
+2026-03-31,30,Other resident sectors,15455.413,depository_survey,DCS,DV30
+2026-03-31,31,Deposits excluded from broad money,913.576,depository_survey,DCS,DV31
+2026-03-31,32,Securities other than shares,308.391,depository_survey,DCS,DV32
+2026-03-31,33,Loans,706.598,depository_survey,DCS,DV33
+2026-03-31,34,Financial derivatives,1.212,depository_survey,DCS,DV34
+2026-03-31,35,"Insurance, pension, and standardized guarantee schemes",87.755,depository_survey,DCS,DV35
+2026-03-31,36,Trade credit and advances,14.591,depository_survey,DCS,DV36
+2026-03-31,37,Shares and other equity,21650.045,depository_survey,DCS,DV37
+2026-03-31,38,Other items (net),-2361.516,depository_survey,DCS,DV38
+2026-04-30,4,Net foreign assets,759.02,depository_survey,DCS,DW4
+2026-04-30,5,Claims on nonresidents,31646.671,depository_survey,DCS,DW5
+2026-04-30,6,less: Liabilities to nonresidents,30887.651,depository_survey,DCS,DW6
+2026-04-30,7,Domestic claims,78414.757,depository_survey,DCS,DW7
+2026-04-30,8,Net claims on central government,4656.019,depository_survey,DCS,DW8
+2026-04-30,9,Claims on central government,10208.466,depository_survey,DCS,DW9
+2026-04-30,10,less: Liabilities to central government,5552.446,depository_survey,DCS,DW10
+2026-04-30,11,Claims on other sectors,73758.738,depository_survey,DCS,DW11
+2026-04-30,12,Other financial corporations,1505.608,depository_survey,DCS,DW12
+2026-04-30,13,State and local government,0,depository_survey,DCS,DW13
+2026-04-30,14,Public nonfinancial corporations,47.571,depository_survey,DCS,DW14
+2026-04-30,15,Other nonfinancial corporations,32649.931,depository_survey,DCS,DW15
+2026-04-30,16,Other resident sectors,39555.628,depository_survey,DCS,DW16
+2026-04-30,17,Broad money liabilities,57703.957,depository_survey,DCS,DW17
+2026-04-30,18,Currency outside depository corporations,5922.582,depository_survey,DCS,DW18
+2026-04-30,19,Transferable deposits,26854.475,depository_survey,DCS,DW19
+2026-04-30,20,Other financial corporations,1416.201,depository_survey,DCS,DW20
+2026-04-30,21,State and local government,0,depository_survey,DCS,DW21
+2026-04-30,22,Public nonfinancial corporations,1562.054,depository_survey,DCS,DW22
+2026-04-30,23,Other nonfinancial corporations,12849.367,depository_survey,DCS,DW23
+2026-04-30,24,Other resident sectors,11026.852,depository_survey,DCS,DW24
+2026-04-30,25,Other deposits,24926.9,depository_survey,DCS,DW25
+2026-04-30,26,Other financial corporations,6369.518,depository_survey,DCS,DW26
+2026-04-30,27,State and local government,0,depository_survey,DCS,DW27
+2026-04-30,28,Public nonfinancial corporations,723.551,depository_survey,DCS,DW28
+2026-04-30,29,Other nonfinancial corporations,2248.708,depository_survey,DCS,DW29
+2026-04-30,30,Other resident sectors,15585.123,depository_survey,DCS,DW30
+2026-04-30,31,Deposits excluded from broad money,957.396,depository_survey,DCS,DW31
+2026-04-30,32,Securities other than shares,345.366,depository_survey,DCS,DW32
+2026-04-30,33,Loans,706.298,depository_survey,DCS,DW33
+2026-04-30,34,Financial derivatives,0.772,depository_survey,DCS,DW34
+2026-04-30,35,"Insurance, pension, and standardized guarantee schemes",90.763,depository_survey,DCS,DW35
+2026-04-30,36,Trade credit and advances,15.094,depository_survey,DCS,DW36
+2026-04-30,37,Shares and other equity,22401.108,depository_survey,DCS,DW37
+2026-04-30,38,Other items (net),-3046.978,depository_survey,DCS,DW38
+2026-05-31,4,Net foreign assets,1470.2,depository_survey,DCS,DX4
+2026-05-31,5,Claims on nonresidents,33062.934,depository_survey,DCS,DX5
+2026-05-31,6,less: Liabilities to nonresidents,31592.734,depository_survey,DCS,DX6
+2026-05-31,7,Domestic claims,78169.71,depository_survey,DCS,DX7
+2026-05-31,8,Net claims on central government,3783.55,depository_survey,DCS,DX8
+2026-05-31,9,Claims on central government,10263.984,depository_survey,DCS,DX9
+2026-05-31,10,less: Liabilities to central government,6480.435,depository_survey,DCS,DX10
+2026-05-31,11,Claims on other sectors,74386.16,depository_survey,DCS,DX11
+2026-05-31,12,Other financial corporations,1527.85,depository_survey,DCS,DX12
+2026-05-31,13,State and local government,0,depository_survey,DCS,DX13
+2026-05-31,14,Public nonfinancial corporations,57.648,depository_survey,DCS,DX14
+2026-05-31,15,Other nonfinancial corporations,32762.167,depository_survey,DCS,DX15
+2026-05-31,16,Other resident sectors,40038.495,depository_survey,DCS,DX16
+2026-05-31,17,Broad money liabilities,58294.759,depository_survey,DCS,DX17
+2026-05-31,18,Currency outside depository corporations,6080.574,depository_survey,DCS,DX18
+2026-05-31,19,Transferable deposits,26962.448,depository_survey,DCS,DX19
+2026-05-31,20,Other financial corporations,1426.138,depository_survey,DCS,DX20
+2026-05-31,21,State and local government,0,depository_survey,DCS,DX21
+2026-05-31,22,Public nonfinancial corporations,1516.766,depository_survey,DCS,DX22
+2026-05-31,23,Other nonfinancial corporations,13051.436,depository_survey,DCS,DX23
+2026-05-31,24,Other resident sectors,10968.108,depository_survey,DCS,DX24
+2026-05-31,25,Other deposits,25251.737,depository_survey,DCS,DX25
+2026-05-31,26,Other financial corporations,6435.299,depository_survey,DCS,DX26
+2026-05-31,27,State and local government,0,depository_survey,DCS,DX27
+2026-05-31,28,Public nonfinancial corporations,836.36,depository_survey,DCS,DX28
+2026-05-31,29,Other nonfinancial corporations,2289.759,depository_survey,DCS,DX29
+2026-05-31,30,Other resident sectors,15690.32,depository_survey,DCS,DX30
+2026-05-31,31,Deposits excluded from broad money,1012.651,depository_survey,DCS,DX31
+2026-05-31,32,Securities other than shares,349.128,depository_survey,DCS,DX32
+2026-05-31,33,Loans,709.749,depository_survey,DCS,DX33
+2026-05-31,34,Financial derivatives,1.337,depository_survey,DCS,DX34
+2026-05-31,35,"Insurance, pension, and standardized guarantee schemes",94.39,depository_survey,DCS,DX35
+2026-05-31,36,Trade credit and advances,10.302,depository_survey,DCS,DX36
+2026-05-31,37,Shares and other equity,21763.12,depository_survey,DCS,DX37
+2026-05-31,38,Other items (net),-2595.526,depository_survey,DCS,DX38
+2026-06-30,4,Net foreign assets,1554.098,depository_survey,DCS,DY4
+2026-06-30,5,Claims on nonresidents,33228.644,depository_survey,DCS,DY5
+2026-06-30,6,less: Liabilities to nonresidents,31674.546,depository_survey,DCS,DY6
+2026-06-30,7,Domestic claims,79598.318,depository_survey,DCS,DY7
+2026-06-30,8,Net claims on central government,3938.449,depository_survey,DCS,DY8
+2026-06-30,9,Claims on central government,10266.054,depository_survey,DCS,DY9
+2026-06-30,10,less: Liabilities to central government,6327.605,depository_survey,DCS,DY10
+2026-06-30,11,Claims on other sectors,75659.869,depository_survey,DCS,DY11
+2026-06-30,12,Other financial corporations,1670.778,depository_survey,DCS,DY12
+2026-06-30,13,State and local government,0,depository_survey,DCS,DY13
+2026-06-30,14,Public nonfinancial corporations,62.032,depository_survey,DCS,DY14
+2026-06-30,15,Other nonfinancial corporations,33193.421,depository_survey,DCS,DY15
+2026-06-30,16,Other resident sectors,40733.638,depository_survey,DCS,DY16
+2026-06-30,17,Broad money liabilities,59928.231,depository_survey,DCS,DY17
+2026-06-30,18,Currency outside depository corporations,6132.427,depository_survey,DCS,DY18
+2026-06-30,19,Transferable deposits,28357.612,depository_survey,DCS,DY19
+2026-06-30,20,Other financial corporations,1919.706,depository_survey,DCS,DY20
+2026-06-30,21,State and local government,0,depository_survey,DCS,DY21
+2026-06-30,22,Public nonfinancial corporations,1772.345,depository_survey,DCS,DY22
+2026-06-30,23,Other nonfinancial corporations,13271.109,depository_survey,DCS,DY23
+2026-06-30,24,Other resident sectors,11394.452,depository_survey,DCS,DY24
+2026-06-30,25,Other deposits,25438.192,depository_survey,DCS,DY25
+2026-06-30,26,Other financial corporations,6594.906,depository_survey,DCS,DY26
+2026-06-30,27,State and local government,0,depository_survey,DCS,DY27
+2026-06-30,28,Public nonfinancial corporations,588.315,depository_survey,DCS,DY28
+2026-06-30,29,Other nonfinancial corporations,2364.266,depository_survey,DCS,DY29
+2026-06-30,30,Other resident sectors,15890.704,depository_survey,DCS,DY30
+2026-06-30,31,Deposits excluded from broad money,1450.42,depository_survey,DCS,DY31
+2026-06-30,32,Securities other than shares,350.984,depository_survey,DCS,DY32
+2026-06-30,33,Loans,724.787,depository_survey,DCS,DY33
+2026-06-30,34,Financial derivatives,1.785,depository_survey,DCS,DY34
+2026-06-30,35,"Insurance, pension, and standardized guarantee schemes",115.524,depository_survey,DCS,DY35
+2026-06-30,36,Trade credit and advances,13.251,depository_survey,DCS,DY36
+2026-06-30,37,Shares and other equity,21619.896,depository_survey,DCS,DY37
+2026-06-30,38,Other items (net),-3052.461,depository_survey,DCS,DY38
+2026-07-31,4,Net foreign assets,2164.792,depository_survey,DCS,DZ4
+2026-07-31,5,Claims on nonresidents,34480.011,depository_survey,DCS,DZ5
+2026-07-31,6,less: Liabilities to nonresidents,32315.219,depository_survey,DCS,DZ6
+2026-07-31,7,Domestic claims,79354.698,depository_survey,DCS,DZ7
+2026-07-31,8,Net claims on central government,3593.93,depository_survey,DCS,DZ8
+2026-07-31,9,Claims on central government,9923.473,depository_survey,DCS,DZ9
+2026-07-31,10,less: Liabilities to central government,6329.543,depository_survey,DCS,DZ10
+2026-07-31,11,Claims on other sectors,75760.767,depository_survey,DCS,DZ11
+2026-07-31,12,Other financial corporations,1606.034,depository_survey,DCS,DZ12
+2026-07-31,13,State and local government,0,depository_survey,DCS,DZ13
+2026-07-31,14,Public nonfinancial corporations,63.488,depository_survey,DCS,DZ14
+2026-07-31,15,Other nonfinancial corporations,32813.956,depository_survey,DCS,DZ15
+2026-07-31,16,Other resident sectors,41277.289,depository_survey,DCS,DZ16
+2026-07-31,17,Broad money liabilities,60463.635,depository_survey,DCS,DZ17
+2026-07-31,18,Currency outside depository corporations,6381.625,depository_survey,DCS,DZ18
+2026-07-31,19,Transferable deposits,28160.552,depository_survey,DCS,DZ19
+2026-07-31,20,Other financial corporations,1652.783,depository_survey,DCS,DZ20
+2026-07-31,21,State and local government,0,depository_survey,DCS,DZ21
+2026-07-31,22,Public nonfinancial corporations,1868.513,depository_survey,DCS,DZ22
+2026-07-31,23,Other nonfinancial corporations,13024.371,depository_survey,DCS,DZ23
+2026-07-31,24,Other resident sectors,11614.885,depository_survey,DCS,DZ24
+2026-07-31,25,Other deposits,25921.457,depository_survey,DCS,DZ25
+2026-07-31,26,Other financial corporations,6889.941,depository_survey,DCS,DZ26
+2026-07-31,27,State and local government,0,depository_survey,DCS,DZ27
+2026-07-31,28,Public nonfinancial corporations,592.128,depository_survey,DCS,DZ28
+2026-07-31,29,Other nonfinancial corporations,2370.721,depository_survey,DCS,DZ29
+2026-07-31,30,Other resident sectors,16068.668,depository_survey,DCS,DZ30
+2026-07-31,31,Deposits excluded from broad money,1483.564,depository_survey,DCS,DZ31
+2026-07-31,32,Securities other than shares,353.218,depository_survey,DCS,DZ32
+2026-07-31,33,Loans,719.715,depository_survey,DCS,DZ33
+2026-07-31,34,Financial derivatives,1.417,depository_survey,DCS,DZ34
+2026-07-31,35,"Insurance, pension, and standardized guarantee schemes",120.272,depository_survey,DCS,DZ35
+2026-07-31,36,Trade credit and advances,17.278,depository_survey,DCS,DZ36
+2026-07-31,37,Shares and other equity,21942.239,depository_survey,DCS,DZ37
+2026-07-31,38,Other items (net),-3581.848,depository_survey,DCS,DZ38
+2026-08-31,4,Net foreign assets,4207.109,depository_survey,DCS,EA4
+2026-08-31,5,Claims on nonresidents,36674.194,depository_survey,DCS,EA5
+2026-08-31,6,less: Liabilities to nonresidents,32467.085,depository_survey,DCS,EA6
+2026-08-31,7,Domestic claims,79531.971,depository_survey,DCS,EA7
+2026-08-31,8,Net claims on central government,2954.713,depository_survey,DCS,EA8
+2026-08-31,9,Claims on central government,9571.973,depository_survey,DCS,EA9
+2026-08-31,10,less: Liabilities to central government,6617.259,depository_survey,DCS,EA10
+2026-08-31,11,Claims on other sectors,76577.258,depository_survey,DCS,EA11
+2026-08-31,12,Other financial corporations,1605.44,depository_survey,DCS,EA12
+2026-08-31,13,State and local government,0,depository_survey,DCS,EA13
+2026-08-31,14,Public nonfinancial corporations,70.127,depository_survey,DCS,EA14
+2026-08-31,15,Other nonfinancial corporations,33105.349,depository_survey,DCS,EA15
+2026-08-31,16,Other resident sectors,41796.342,depository_survey,DCS,EA16
+2026-08-31,17,Broad money liabilities,61813.649,depository_survey,DCS,EA17
+2026-08-31,18,Currency outside depository corporations,6445.095,depository_survey,DCS,EA18
+2026-08-31,19,Transferable deposits,29140.796,depository_survey,DCS,EA19
+2026-08-31,20,Other financial corporations,1713.128,depository_survey,DCS,EA20
+2026-08-31,21,State and local government,0,depository_survey,DCS,EA21
+2026-08-31,22,Public nonfinancial corporations,1851.721,depository_survey,DCS,EA22
+2026-08-31,23,Other nonfinancial corporations,13806.195,depository_survey,DCS,EA23
+2026-08-31,24,Other resident sectors,11769.752,depository_survey,DCS,EA24
+2026-08-31,25,Other deposits,26227.758,depository_survey,DCS,EA25
+2026-08-31,26,Other financial corporations,6865.766,depository_survey,DCS,EA26
+2026-08-31,27,State and local government,0,depository_survey,DCS,EA27
+2026-08-31,28,Public nonfinancial corporations,611.705,depository_survey,DCS,EA28
+2026-08-31,29,Other nonfinancial corporations,2295.798,depository_survey,DCS,EA29
+2026-08-31,30,Other resident sectors,16454.488,depository_survey,DCS,EA30
+2026-08-31,31,Deposits excluded from broad money,1466.986,depository_survey,DCS,EA31
+2026-08-31,32,Securities other than shares,356.025,depository_survey,DCS,EA32
+2026-08-31,33,Loans,718.077,depository_survey,DCS,EA33
+2026-08-31,34,Financial derivatives,1.216,depository_survey,DCS,EA34
+2026-08-31,35,"Insurance, pension, and standardized guarantee schemes",132.18,depository_survey,DCS,EA35
+2026-08-31,36,Trade credit and advances,19.684,depository_survey,DCS,EA36
+2026-08-31,37,Shares and other equity,22154.999,depository_survey,DCS,EA37
+2026-08-31,38,Other items (net),-2923.735,depository_survey,DCS,EA38
+2026-09-30,4,Net foreign assets,3740.366,depository_survey,DCS,EB4
+2026-09-30,5,Claims on nonresidents,36439.361,depository_survey,DCS,EB5
+2026-09-30,6,less: Liabilities to nonresidents,32698.995,depository_survey,DCS,EB6
+2026-09-30,7,Domestic claims,80837.341,depository_survey,DCS,EB7
+2026-09-30,8,Net claims on central government,2709.618,depository_survey,DCS,EB8
+2026-09-30,9,Claims on central government,9460.914,depository_survey,DCS,EB9
+2026-09-30,10,less: Liabilities to central government,6751.296,depository_survey,DCS,EB10
+2026-09-30,11,Claims on other sectors,78127.722,depository_survey,DCS,EB11
+2026-09-30,12,Other financial corporations,1644.06,depository_survey,DCS,EB12
+2026-09-30,13,State and local government,0,depository_survey,DCS,EB13
+2026-09-30,14,Public nonfinancial corporations,52.076,depository_survey,DCS,EB14
+2026-09-30,15,Other nonfinancial corporations,33923.335,depository_survey,DCS,EB15
+2026-09-30,16,Other resident sectors,42508.251,depository_survey,DCS,EB16
+2026-09-30,17,Broad money liabilities,63216.919,depository_survey,DCS,EB17
+2026-09-30,18,Currency outside depository corporations,6340.402,depository_survey,DCS,EB18
+2026-09-30,19,Transferable deposits,30288.704,depository_survey,DCS,EB19
+2026-09-30,20,Other financial corporations,1665.046,depository_survey,DCS,EB20
+2026-09-30,21,State and local government,0,depository_survey,DCS,EB21
+2026-09-30,22,Public nonfinancial corporations,1894.592,depository_survey,DCS,EB22
+2026-09-30,23,Other nonfinancial corporations,14737.43,depository_survey,DCS,EB23
+2026-09-30,24,Other resident sectors,11991.636,depository_survey,DCS,EB24
+2026-09-30,25,Other deposits,26587.813,depository_survey,DCS,EB25
+2026-09-30,26,Other financial corporations,7070.576,depository_survey,DCS,EB26
+2026-09-30,27,State and local government,0,depository_survey,DCS,EB27
+2026-09-30,28,Public nonfinancial corporations,552.655,depository_survey,DCS,EB28
+2026-09-30,29,Other nonfinancial corporations,2383.099,depository_survey,DCS,EB29
+2026-09-30,30,Other resident sectors,16581.483,depository_survey,DCS,EB30
+2026-09-30,31,Deposits excluded from broad money,1496.661,depository_survey,DCS,EB31
+2026-09-30,32,Securities other than shares,358.264,depository_survey,DCS,EB32
+2026-09-30,33,Loans,737.332,depository_survey,DCS,EB33
+2026-09-30,34,Financial derivatives,1.537,depository_survey,DCS,EB34
+2026-09-30,35,"Insurance, pension, and standardized guarantee schemes",156.794,depository_survey,DCS,EB35
+2026-09-30,36,Trade credit and advances,23.521,depository_survey,DCS,EB36
+2026-09-30,37,Shares and other equity,22071.907,depository_survey,DCS,EB37
+2026-09-30,38,Other items (net),-3485.227,depository_survey,DCS,EB38

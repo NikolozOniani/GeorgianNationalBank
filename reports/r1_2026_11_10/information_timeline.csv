@@ -1,0 +1,8 @@
+reference_start,reference_end,event_type,source_id,source_locator,finding,limitation
+2020,,rule introduction,monetary_manual_2021,PDF p13 paragraph 52,Historical BMatch rule triggered by exchange-rate movement; threshold and episode version not supplied,"year only, no invented day"
+2023,,operating description,instruments_2023,PDF p14,Auctions mainly 15:45–16:00; BMatch during business hours; T+1 stated for auction settlement,"historical operational guidance, not observed execution times"
+2025-03,2025-12,annual narrative reference period,annual2025,PDF p47,Annual report places rule-based BMatch accumulation from March through year end,actual first execution date and report first publication unknown
+2025-01,2025-07,period disclosed on 2025-08-25,purchase_disclosure_aug2025,"dated article, monthly bullet list",Jan–Feb no net purchases; March onward positive monthly net purchases,"observed article date, not proven first disclosure of each earlier month"
+2026-02-06,,disclosure,purchases_2025,dated article,Reports full-year 2025 net purchases; announces January release on February 25,announcement of future release is not observed execution or proof release occurred
+2026-09-07,,disclosure,reserves_aug2026,dated article,August reserve release includes January–July intervention benchmark,intervention and reserve reference months differ
+2026-11-09,,retrieval vintage,fx_market,manifest timestamp,Snapshot contains monthly observations through September 2026,retrieval date is not historical information availability

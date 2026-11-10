@@ -1,0 +1,89 @@
+[
+  {
+    "id": "dated_auction_vs_monthly",
+    "status": "qualified; not repaired",
+    "details": [
+      {
+        "month": "2021-09",
+        "event_minus_monthly_usdm": -60.0
+      },
+      {
+        "month": "2021-10",
+        "event_minus_monthly_usdm": 60.0
+      },
+      {
+        "month": "2022-08",
+        "event_minus_monthly_usdm": -32.305
+      },
+      {
+        "month": "2022-09",
+        "event_minus_monthly_usdm": 32.305
+      }
+    ],
+    "action": "Do not force trade-date sums to match settlement-period tables. September 30 2021 and August 31 2022 events match adjacent-month differences; exact frequency convention requires confirmation."
+  },
+  {
+    "id": "money_market_security_total",
+    "status": "qualified; not repaired",
+    "details": [
+      {
+        "date": "2026-07-30",
+        "reported_total_gelm": 1454.154462,
+        "components_gelm": 11485.978000000001,
+        "residual_gelm": -10031.823538
+      }
+    ],
+    "action": "Quarantine the reported government-security total on 2026-07-30; retain original. No replacement total is treated as an observation."
+  },
+  {
+    "id": "transfer_workbook_overlap",
+    "status": "qualified; not repaired",
+    "details": {
+      "overlap_observations": 138,
+      "max_residual_usdm": 0.0020000000000095497,
+      "recovered_2024_months": 12
+    },
+    "action": "Small cross-file discrepancies retained; by-country workbook used because it has 2024 and reconciles to its country components. Not evidence that the alternative table is intentionally wrong."
+  },
+  {
+    "id": "2023_annual_net",
+    "status": "unresolved definition/revision difference",
+    "details": "Current monthly net 1279.25 versus annual 1278.7 USDm; nonauction 1446.0 versus 1445.5; auction sales 166.75 versus 166.8",
+    "action": "Preserve both; no forced proportional allocation"
+  },
+  {
+    "id": "fx_total_2026_02",
+    "status": "quarantined aggregate",
+    "details": "Bank-sell total minus reported components = -522.66170405 USDm",
+    "action": "Exclude this aggregate from validated turnover; retain other observations and source components"
+  },
+  {
+    "id": "gross_BMatch",
+    "status": "unavailable at required granularity",
+    "details": "Monthly net known; gross daily sides, prices and timestamps not retrieved",
+    "action": "Use accounting lower bounds only; request existing anonymized execution extract"
+  },
+  {
+    "id": "gold_valuation_scope",
+    "status": "endpoint price bridge only",
+    "details": "Equal year-end gold quantity; USD value change and GEL unrealized gain observed",
+    "action": "Do not equate endpoint USD change to fully identified BOP gold valuation without gold transactions"
+  },
+  {
+    "id": "government_2025",
+    "status": "partial approximate disclosure",
+    "details": "Approximate annual inflow/outflow newly extracted; no monthly conversion ledger",
+    "action": "Report approximate residual, not measured investment income"
+  },
+  {
+    "id": "first_disclosure",
+    "status": "incomplete",
+    "details": "Dated August 2025 and February/September 2026 releases do not identify every first release",
+    "action": "No synthetic historical information dates"
+  },
+  {
+    "id": "gold_source_overlap_2024",
+    "difference_usdm": "-0.4019502000001",
+    "status": "unresolved valuation convention/vintage difference"
+  }
+]

@@ -1,0 +1,287 @@
+date,series_row,label,value_gelm,source_id,sheet,source_cell
+2024-12-31,4,Claims on central government: securities,1912.257,central_bank,Positions,DG4
+2024-12-31,5,Government Bond for NBG,41.01,central_bank,Positions,DG5
+2024-12-31,6,Government Bonds,154.47,central_bank,Positions,DG6
+2024-12-31,7,Treasury Notes,1716.777,central_bank,Positions,DG7
+2024-12-31,8,Treasury Bills,0,central_bank,Positions,DG8
+2024-12-31,9,Claims on banks,7006.097,central_bank,Positions,DG9
+2024-12-31,10,Refinancing loans,4456.31,central_bank,Positions,DG10
+2024-12-31,11,One-month open market operations,752.305,central_bank,Positions,DG11
+2024-12-31,12,Overnight loans,1794.962,central_bank,Positions,DG12
+2024-12-31,13,Other claims,2.52,central_bank,Positions,DG13
+2024-12-31,14,"Monetary base, other obligations to banks",713.454,central_bank,Positions,DG14
+2024-12-31,15,Among them: correspondent accounts in national currency*,436.629,central_bank,Positions,DG15
+2024-12-31,16,Correspondent accounts in foreign currency,17.835,central_bank,Positions,DG16
+2025-01-31,4,Claims on central government: securities,1879.081,central_bank,Positions,DH4
+2025-01-31,5,Government Bond for NBG,41.01,central_bank,Positions,DH5
+2025-01-31,6,Government Bonds,155.086,central_bank,Positions,DH6
+2025-01-31,7,Treasury Notes,1682.986,central_bank,Positions,DH7
+2025-01-31,8,Treasury Bills,0,central_bank,Positions,DH8
+2025-01-31,9,Claims on banks,6700.149,central_bank,Positions,DH9
+2025-01-31,10,Refinancing loans,4501.994,central_bank,Positions,DH10
+2025-01-31,11,One-month open market operations,752.808,central_bank,Positions,DH11
+2025-01-31,12,Overnight loans,1445.346,central_bank,Positions,DH12
+2025-01-31,13,Other claims,0,central_bank,Positions,DH13
+2025-01-31,14,"Monetary base, other obligations to banks",1104.151,central_bank,Positions,DH14
+2025-01-31,15,Among them: correspondent accounts in national currency*,742.664,central_bank,Positions,DH15
+2025-01-31,16,Correspondent accounts in foreign currency,303.209,central_bank,Positions,DH16
+2025-02-28,4,Claims on central government: securities,1795.303,central_bank,Positions,DI4
+2025-02-28,5,Government Bond for NBG,41.01,central_bank,Positions,DI5
+2025-02-28,6,Government Bonds,156.258,central_bank,Positions,DI6
+2025-02-28,7,Treasury Notes,1598.035,central_bank,Positions,DI7
+2025-02-28,8,Treasury Bills,0,central_bank,Positions,DI8
+2025-02-28,9,Claims on banks,7440.495,central_bank,Positions,DI9
+2025-02-28,10,Refinancing loans,4702.154,central_bank,Positions,DI10
+2025-02-28,11,One-month open market operations,853.142,central_bank,Positions,DI11
+2025-02-28,12,Overnight loans,1883.451,central_bank,Positions,DI12
+2025-02-28,13,Other claims,1.747,central_bank,Positions,DI13
+2025-02-28,14,"Monetary base, other obligations to banks",772.026,central_bank,Positions,DI14
+2025-02-28,15,Among them: correspondent accounts in national currency*,670.193,central_bank,Positions,DI15
+2025-02-28,16,Correspondent accounts in foreign currency,39.653,central_bank,Positions,DI16
+2025-03-31,4,Claims on central government: securities,1794.478,central_bank,Positions,DJ4
+2025-03-31,5,Government Bond for NBG,0.019,central_bank,Positions,DJ5
+2025-03-31,6,Government Bonds,196.424,central_bank,Positions,DJ6
+2025-03-31,7,Treasury Notes,1598.035,central_bank,Positions,DJ7
+2025-03-31,8,Treasury Bills,0,central_bank,Positions,DJ8
+2025-03-31,9,Claims on banks,8215.396,central_bank,Positions,DJ9
+2025-03-31,10,Refinancing loans,5005.667,central_bank,Positions,DJ10
+2025-03-31,11,One-month open market operations,1506.535,central_bank,Positions,DJ11
+2025-03-31,12,Overnight loans,1700.408,central_bank,Positions,DJ12
+2025-03-31,13,Other claims,2.786,central_bank,Positions,DJ13
+2025-03-31,14,"Monetary base, other obligations to banks",1497.921,central_bank,Positions,DJ14
+2025-03-31,15,Among them: correspondent accounts in national currency*,1244.172,central_bank,Positions,DJ15
+2025-03-31,16,Correspondent accounts in foreign currency,23.282,central_bank,Positions,DJ16
+2025-04-30,4,Claims on central government: securities,1787.717,central_bank,Positions,DK4
+2025-04-30,5,Government Bond for NBG,0.019,central_bank,Positions,DK5
+2025-04-30,6,Government Bonds,185.938,central_bank,Positions,DK6
+2025-04-30,7,Treasury Notes,1601.76,central_bank,Positions,DK7
+2025-04-30,8,Treasury Bills,0,central_bank,Positions,DK8
+2025-04-30,9,Claims on banks,7474.173,central_bank,Positions,DK9
+2025-04-30,10,Refinancing loans,5548.607,central_bank,Positions,DK10
+2025-04-30,11,One-month open market operations,1921.61,central_bank,Positions,DK11
+2025-04-30,12,Overnight loans,0,central_bank,Positions,DK12
+2025-04-30,13,Other claims,3.956,central_bank,Positions,DK13
+2025-04-30,14,"Monetary base, other obligations to banks",929.686,central_bank,Positions,DK14
+2025-04-30,15,Among them: correspondent accounts in national currency*,782.06,central_bank,Positions,DK15
+2025-04-30,16,Correspondent accounts in foreign currency,31.95,central_bank,Positions,DK16
+2025-05-31,4,Claims on central government: securities,1525.547,central_bank,Positions,DL4
+2025-05-31,5,Government Bond for NBG,0,central_bank,Positions,DL5
+2025-05-31,6,Government Bonds,186.071,central_bank,Positions,DL6
+2025-05-31,7,Treasury Notes,1339.476,central_bank,Positions,DL7
+2025-05-31,8,Treasury Bills,0,central_bank,Positions,DL8
+2025-05-31,9,Claims on banks,7270.325,central_bank,Positions,DL9
+2025-05-31,10,Refinancing loans,4503.989,central_bank,Positions,DL10
+2025-05-31,11,One-month open market operations,2010.665,central_bank,Positions,DL11
+2025-05-31,12,Overnight loans,750.36,central_bank,Positions,DL12
+2025-05-31,13,Other claims,5.312,central_bank,Positions,DL13
+2025-05-31,14,"Monetary base, other obligations to banks",1271.442,central_bank,Positions,DL14
+2025-05-31,15,Among them: correspondent accounts in national currency*,1120.098,central_bank,Positions,DL15
+2025-05-31,16,Correspondent accounts in foreign currency,29.036,central_bank,Positions,DL16
+2025-06-30,4,Claims on central government: securities,1515.346,central_bank,Positions,DM4
+2025-06-30,5,Government Bond for NBG,0,central_bank,Positions,DM5
+2025-06-30,6,Government Bonds,170.817,central_bank,Positions,DM6
+2025-06-30,7,Treasury Notes,1344.53,central_bank,Positions,DM7
+2025-06-30,8,Treasury Bills,0,central_bank,Positions,DM8
+2025-06-30,9,Claims on banks,6368.213,central_bank,Positions,DM9
+2025-06-30,10,Refinancing loans,4319.735,central_bank,Positions,DM10
+2025-06-30,11,One-month open market operations,2011.544,central_bank,Positions,DM11
+2025-06-30,12,Overnight loans,35.008,central_bank,Positions,DM12
+2025-06-30,13,Other claims,1.926,central_bank,Positions,DM13
+2025-06-30,14,"Monetary base, other obligations to banks",683.852,central_bank,Positions,DM14
+2025-06-30,15,Among them: correspondent accounts in national currency*,533.291,central_bank,Positions,DM15
+2025-06-30,16,Correspondent accounts in foreign currency,15.51,central_bank,Positions,DM16
+2025-07-31,4,Claims on central government: securities,1484.352,central_bank,Positions,DN4
+2025-07-31,5,Government Bond for NBG,0,central_bank,Positions,DN5
+2025-07-31,6,Government Bonds,172.103,central_bank,Positions,DN6
+2025-07-31,7,Treasury Notes,1312.249,central_bank,Positions,DN7
+2025-07-31,8,Treasury Bills,0,central_bank,Positions,DN8
+2025-07-31,9,Claims on banks,6015.666,central_bank,Positions,DN9
+2025-07-31,10,Refinancing loans,3950.866,central_bank,Positions,DN10
+2025-07-31,11,One-month open market operations,2000.441,central_bank,Positions,DN11
+2025-07-31,12,Overnight loans,60.014,central_bank,Positions,DN12
+2025-07-31,13,Other claims,4.344,central_bank,Positions,DN13
+2025-07-31,14,"Monetary base, other obligations to banks",1242.954,central_bank,Positions,DN14
+2025-07-31,15,Among them: correspondent accounts in national currency*,1065.605,central_bank,Positions,DN15
+2025-07-31,16,Correspondent accounts in foreign currency,41.862,central_bank,Positions,DN16
+2025-08-31,4,Claims on central government: securities,1494.648,central_bank,Positions,DO4
+2025-08-31,5,Government Bond for NBG,0,central_bank,Positions,DO5
+2025-08-31,6,Government Bonds,173.345,central_bank,Positions,DO6
+2025-08-31,7,Treasury Notes,1321.304,central_bank,Positions,DO7
+2025-08-31,8,Treasury Bills,0,central_bank,Positions,DO8
+2025-08-31,9,Claims on banks,5809.385,central_bank,Positions,DO9
+2025-08-31,10,Refinancing loans,3802.508,central_bank,Positions,DO10
+2025-08-31,11,One-month open market operations,2001.323,central_bank,Positions,DO11
+2025-08-31,12,Overnight loans,0,central_bank,Positions,DO12
+2025-08-31,13,Other claims,5.554,central_bank,Positions,DO13
+2025-08-31,14,"Monetary base, other obligations to banks",1020.239,central_bank,Positions,DO14
+2025-08-31,15,Among them: correspondent accounts in national currency*,894.601,central_bank,Positions,DO15
+2025-08-31,16,Correspondent accounts in foreign currency,33.978,central_bank,Positions,DO16
+2025-09-30,4,Claims on central government: securities,1493.823,central_bank,Positions,DP4
+2025-09-30,5,Government Bond for NBG,0,central_bank,Positions,DP5
+2025-09-30,6,Government Bonds,160.783,central_bank,Positions,DP6
+2025-09-30,7,Treasury Notes,1333.039,central_bank,Positions,DP7
+2025-09-30,8,Treasury Bills,0,central_bank,Positions,DP8
+2025-09-30,9,Claims on banks,5748.969,central_bank,Positions,DP9
+2025-09-30,10,Refinancing loans,3664.839,central_bank,Positions,DP10
+2025-09-30,11,One-month open market operations,2002.646,central_bank,Positions,DP11
+2025-09-30,12,Overnight loans,80.164,central_bank,Positions,DP12
+2025-09-30,13,Other claims,1.32,central_bank,Positions,DP13
+2025-09-30,14,"Monetary base, other obligations to banks",1317.419,central_bank,Positions,DP14
+2025-09-30,15,Among them: correspondent accounts in national currency*,1214.834,central_bank,Positions,DP15
+2025-09-30,16,Correspondent accounts in foreign currency,26.218,central_bank,Positions,DP16
+2025-10-31,4,Claims on central government: securities,1488.864,central_bank,Positions,DQ4
+2025-10-31,5,Government Bond for NBG,0,central_bank,Positions,DQ5
+2025-10-31,6,Government Bonds,162.044,central_bank,Positions,DQ6
+2025-10-31,7,Treasury Notes,1326.82,central_bank,Positions,DQ7
+2025-10-31,8,Treasury Bills,0,central_bank,Positions,DQ8
+2025-10-31,9,Claims on banks,5506.84,central_bank,Positions,DQ9
+2025-10-31,10,Refinancing loans,3501.535,central_bank,Positions,DQ10
+2025-10-31,11,One-month open market operations,2003.967,central_bank,Positions,DQ11
+2025-10-31,12,Overnight loans,0.334,central_bank,Positions,DQ12
+2025-10-31,13,Other claims,1.004,central_bank,Positions,DQ13
+2025-10-31,14,"Monetary base, other obligations to banks",1067.907,central_bank,Positions,DQ14
+2025-10-31,15,Among them: correspondent accounts in national currency*,891.093,central_bank,Positions,DQ15
+2025-10-31,16,Correspondent accounts in foreign currency,24.509,central_bank,Positions,DQ16
+2025-11-30,4,Claims on central government: securities,1496.081,central_bank,Positions,DR4
+2025-11-30,5,Government Bond for NBG,0,central_bank,Positions,DR5
+2025-11-30,6,Government Bonds,163.201,central_bank,Positions,DR6
+2025-11-30,7,Treasury Notes,1332.881,central_bank,Positions,DR7
+2025-11-30,8,Treasury Bills,0,central_bank,Positions,DR8
+2025-11-30,9,Claims on banks,5129.023,central_bank,Positions,DR9
+2025-11-30,10,Refinancing loans,3122.736,central_bank,Positions,DR10
+2025-11-30,11,One-month open market operations,2004.843,central_bank,Positions,DR11
+2025-11-30,12,Overnight loans,0,central_bank,Positions,DR12
+2025-11-30,13,Other claims,1.444,central_bank,Positions,DR13
+2025-11-30,14,"Monetary base, other obligations to banks",1232.839,central_bank,Positions,DR14
+2025-11-30,15,Among them: correspondent accounts in national currency*,885.705,central_bank,Positions,DR15
+2025-11-30,16,Correspondent accounts in foreign currency,19.46,central_bank,Positions,DR16
+2025-12-31,4,Claims on central government: securities,1496.259,central_bank,Positions,DS4
+2025-12-31,5,Government Bond for NBG,0,central_bank,Positions,DS5
+2025-12-31,6,Government Bonds,153.021,central_bank,Positions,DS6
+2025-12-31,7,Treasury Notes,1343.238,central_bank,Positions,DS7
+2025-12-31,8,Treasury Bills,0,central_bank,Positions,DS8
+2025-12-31,9,Claims on banks,6170.561,central_bank,Positions,DS9
+2025-12-31,10,Refinancing loans,4160.913,central_bank,Positions,DS10
+2025-12-31,11,One-month open market operations,2006.165,central_bank,Positions,DS11
+2025-12-31,12,Overnight loans,0,central_bank,Positions,DS12
+2025-12-31,13,Other claims,3.483,central_bank,Positions,DS13
+2025-12-31,14,"Monetary base, other obligations to banks",1753.481,central_bank,Positions,DS14
+2025-12-31,15,Among them: correspondent accounts in national currency*,914.501,central_bank,Positions,DS15
+2025-12-31,16,Correspondent accounts in foreign currency,6.749,central_bank,Positions,DS16
+2026-01-31,4,Claims on central government: securities,1326.942,central_bank,Positions,DT4
+2026-01-31,5,Government Bond for NBG,0,central_bank,Positions,DT5
+2026-01-31,6,Government Bonds,154.035,central_bank,Positions,DT6
+2026-01-31,7,Treasury Notes,1172.907,central_bank,Positions,DT7
+2026-01-31,8,Treasury Bills,0,central_bank,Positions,DT8
+2026-01-31,9,Claims on banks,4841.308,central_bank,Positions,DT9
+2026-01-31,10,Refinancing loans,2401.584,central_bank,Positions,DT10
+2026-01-31,11,One-month open market operations,2007.477,central_bank,Positions,DT11
+2026-01-31,12,Overnight loans,430.206,central_bank,Positions,DT12
+2026-01-31,13,Other claims,2.041,central_bank,Positions,DT13
+2026-01-31,14,"Monetary base, other obligations to banks",1686.646,central_bank,Positions,DT14
+2026-01-31,15,Among them: correspondent accounts in national currency*,1443.232,central_bank,Positions,DT15
+2026-01-31,16,Correspondent accounts in foreign currency,15.245,central_bank,Positions,DT16
+2026-02-28,4,Claims on central government: securities,1340.03,central_bank,Positions,DU4
+2026-02-28,5,Government Bond for NBG,0,central_bank,Positions,DU5
+2026-02-28,6,Government Bonds,154.617,central_bank,Positions,DU6
+2026-02-28,7,Treasury Notes,1185.413,central_bank,Positions,DU7
+2026-02-28,8,Treasury Bills,0,central_bank,Positions,DU8
+2026-02-28,9,Claims on banks,3441.856,central_bank,Positions,DU9
+2026-02-28,10,Refinancing loans,1931.27,central_bank,Positions,DU10
+2026-02-28,11,One-month open market operations,1505.612,central_bank,Positions,DU11
+2026-02-28,12,Overnight loans,0,central_bank,Positions,DU12
+2026-02-28,13,Other claims,4.975,central_bank,Positions,DU13
+2026-02-28,14,"Monetary base, other obligations to banks",1477.627,central_bank,Positions,DU14
+2026-02-28,15,Among them: correspondent accounts in national currency*,1270.964,central_bank,Positions,DU15
+2026-02-28,16,Correspondent accounts in foreign currency,10.398,central_bank,Positions,DU16
+2026-03-31,4,Claims on central government: securities,1341.708,central_bank,Positions,DV4
+2026-03-31,5,Government Bond for NBG,0,central_bank,Positions,DV5
+2026-03-31,6,Government Bonds,144.037,central_bank,Positions,DV6
+2026-03-31,7,Treasury Notes,1197.671,central_bank,Positions,DV7
+2026-03-31,8,Treasury Bills,0,central_bank,Positions,DV8
+2026-03-31,9,Claims on banks,3725.638,central_bank,Positions,DV9
+2026-03-31,10,Refinancing loans,2217.922,central_bank,Positions,DV10
+2026-03-31,11,One-month open market operations,1506.6,central_bank,Positions,DV11
+2026-03-31,12,Overnight loans,0,central_bank,Positions,DV12
+2026-03-31,13,Other claims,1.116,central_bank,Positions,DV13
+2026-03-31,14,"Monetary base, other obligations to banks",990.335,central_bank,Positions,DV14
+2026-03-31,15,Among them: correspondent accounts in national currency*,879.381,central_bank,Positions,DV15
+2026-03-31,16,Correspondent accounts in foreign currency,9.971,central_bank,Positions,DV16
+2026-04-30,4,Claims on central government: securities,1334.765,central_bank,Positions,DW4
+2026-04-30,5,Government Bond for NBG,0,central_bank,Positions,DW5
+2026-04-30,6,Government Bonds,145.023,central_bank,Positions,DW6
+2026-04-30,7,Treasury Notes,1189.742,central_bank,Positions,DW7
+2026-04-30,8,Treasury Bills,0,central_bank,Positions,DW8
+2026-04-30,9,Claims on banks,3578.059,central_bank,Positions,DW9
+2026-04-30,10,Refinancing loans,2000.439,central_bank,Positions,DW10
+2026-04-30,11,One-month open market operations,1507.603,central_bank,Positions,DW11
+2026-04-30,12,Overnight loans,70.017,central_bank,Positions,DW12
+2026-04-30,13,Other claims,0,central_bank,Positions,DW13
+2026-04-30,14,"Monetary base, other obligations to banks",1346.779,central_bank,Positions,DW14
+2026-04-30,15,Among them: correspondent accounts in national currency*,1072.742,central_bank,Positions,DW15
+2026-04-30,16,Correspondent accounts in foreign currency,15.723,central_bank,Positions,DW16
+2026-05-31,4,Claims on central government: securities,1338.76,central_bank,Positions,DX4
+2026-05-31,5,Government Bond for NBG,0,central_bank,Positions,DX5
+2026-05-31,6,Government Bonds,146.102,central_bank,Positions,DX6
+2026-05-31,7,Treasury Notes,1192.659,central_bank,Positions,DX7
+2026-05-31,8,Treasury Bills,0,central_bank,Positions,DX8
+2026-05-31,9,Claims on banks,2008.719,central_bank,Positions,DX9
+2026-05-31,10,Refinancing loans,500.456,central_bank,Positions,DX10
+2026-05-31,11,One-month open market operations,1508.262,central_bank,Positions,DX11
+2026-05-31,12,Overnight loans,0,central_bank,Positions,DX12
+2026-05-31,13,Other claims,0,central_bank,Positions,DX13
+2026-05-31,14,"Monetary base, other obligations to banks",1184.539,central_bank,Positions,DX14
+2026-05-31,15,Among them: correspondent accounts in national currency*,887.203,central_bank,Positions,DX15
+2026-05-31,16,Correspondent accounts in foreign currency,16.752,central_bank,Positions,DX16
+2026-06-30,4,Claims on central government: securities,1334.916,central_bank,Positions,DY4
+2026-06-30,5,Government Bond for NBG,0,central_bank,Positions,DY5
+2026-06-30,6,Government Bonds,131.686,central_bank,Positions,DY6
+2026-06-30,7,Treasury Notes,1203.229,central_bank,Positions,DY7
+2026-06-30,8,Treasury Bills,0,central_bank,Positions,DY8
+2026-06-30,9,Claims on banks,901.216,central_bank,Positions,DY9
+2026-06-30,10,Refinancing loans,395.543,central_bank,Positions,DY10
+2026-06-30,11,One-month open market operations,503.11,central_bank,Positions,DY11
+2026-06-30,12,Overnight loans,1,central_bank,Positions,DY12
+2026-06-30,13,Other claims,1.563,central_bank,Positions,DY13
+2026-06-30,14,"Monetary base, other obligations to banks",1894.718,central_bank,Positions,DY14
+2026-06-30,15,Among them: correspondent accounts in national currency*,225.817,central_bank,Positions,DY15
+2026-06-30,16,Correspondent accounts in foreign currency,13.692,central_bank,Positions,DY16
+2026-07-31,4,Claims on central government: securities,1306.676,central_bank,Positions,DZ4
+2026-07-31,5,Government Bond for NBG,0,central_bank,Positions,DZ5
+2026-07-31,6,Government Bonds,132.745,central_bank,Positions,DZ6
+2026-07-31,7,Treasury Notes,1173.931,central_bank,Positions,DZ7
+2026-07-31,8,Treasury Bills,0,central_bank,Positions,DZ8
+2026-07-31,9,Claims on banks,453.301,central_bank,Positions,DZ9
+2026-07-31,10,Refinancing loans,300.14,central_bank,Positions,DZ10
+2026-07-31,11,One-month open market operations,0,central_bank,Positions,DZ11
+2026-07-31,12,Overnight loans,151.037,central_bank,Positions,DZ12
+2026-07-31,13,Other claims,2.124,central_bank,Positions,DZ13
+2026-07-31,14,"Monetary base, other obligations to banks",2196.368,central_bank,Positions,DZ14
+2026-07-31,15,Among them: correspondent accounts in national currency*,1744.429,central_bank,Positions,DZ15
+2026-07-31,16,Correspondent accounts in foreign currency,5.951,central_bank,Positions,DZ16
+2026-08-31,4,Claims on central government: securities,133.776,central_bank,Positions,EA4
+2026-08-31,5,Government Bond for NBG,0,central_bank,Positions,EA5
+2026-08-31,6,Government Bonds,133.776,central_bank,Positions,EA6
+2026-08-31,7,Treasury Notes,0,central_bank,Positions,EA7
+2026-08-31,8,Treasury Bills,0,central_bank,Positions,EA8
+2026-08-31,9,Claims on banks,382.917,central_bank,Positions,EA9
+2026-08-31,10,Refinancing loans,300.351,central_bank,Positions,EA10
+2026-08-31,11,One-month open market operations,0,central_bank,Positions,EA11
+2026-08-31,12,Overnight loans,80.02,central_bank,Positions,EA12
+2026-08-31,13,Other claims,2.547,central_bank,Positions,EA13
+2026-08-31,14,"Monetary base, other obligations to banks",1820.256,central_bank,Positions,EA14
+2026-08-31,15,Among them: correspondent accounts in national currency*,1597.364,central_bank,Positions,EA15
+2026-08-31,16,Correspondent accounts in foreign currency,11.239,central_bank,Positions,EA16
+2026-09-30,4,Claims on central government: securities,121.667,central_bank,Positions,EB4
+2026-09-30,5,Government Bond for NBG,0,central_bank,Positions,EB5
+2026-09-30,6,Government Bonds,121.667,central_bank,Positions,EB6
+2026-09-30,7,Treasury Notes,0,central_bank,Positions,EB7
+2026-09-30,8,Treasury Bills,0,central_bank,Positions,EB8
+2026-09-30,9,Claims on banks,290.41,central_bank,Positions,EB9
+2026-09-30,10,Refinancing loans,250.4,central_bank,Positions,EB10
+2026-09-30,11,One-month open market operations,0,central_bank,Positions,EB11
+2026-09-30,12,Overnight loans,40.01,central_bank,Positions,EB12
+2026-09-30,13,Other claims,0,central_bank,Positions,EB13
+2026-09-30,14,"Monetary base, other obligations to banks",1935.045,central_bank,Positions,EB14
+2026-09-30,15,Among them: correspondent accounts in national currency*,1708.551,central_bank,Positions,EB15
+2026-09-30,16,Correspondent accounts in foreign currency,22.14,central_bank,Positions,EB16

@@ -1,5 +1,7 @@
 # Roadmap execution status — 9 November 2026
 
+**Subsequent R1 update, 10 November 2026:** see [R1 status](R1_STATUS.md) and [accounting outputs](../reports/r1_2026_11_10/README.md). DCS and Treasury detailed extraction, monthly liquidity counterparts, audited gold/CD observations and approximate government-flow entries are now completed subdeliverables. Full D01–D10 and G1 remain partial. The table below preserves the original acquisition vintage rather than silently rewriting its history.
+
 The [protocol](PROTOCOL.md), [completion roadmap](ROADMAP.md) and [R0 registration](R0_REGISTRATION.md) govern the study. This is the 9 November acquisition status of the 8 November specification, not a replacement research design. “Partial” means a specified subdeliverable is complete but the full requirement is not.
 
 | ID / priority | Completed evidence | Unresolved requirement and next action |

@@ -1,0 +1,5 @@
+period,dated_event_net_usdm,published_month_net_usdm,difference_usdm,status,candidate_boundary_trade,source_ids
+2021-09,-60,0,-60,consistent with T+1 crossing month; settlement not observed,2021-09-30,fx_auctions;fx_market;monetary_manual_2021 paragraph 50
+2021-10,0,-60,60,consistent with T+1 crossing month; settlement not observed,2021-09-30,fx_auctions;fx_market;monetary_manual_2021 paragraph 50
+2022-08,29.390,61.695,-32.305,consistent with T+1 crossing month; settlement not observed,2022-08-31,fx_auctions;fx_market;monetary_manual_2021 paragraph 50
+2022-09,-13.6,-45.905,32.305,consistent with T+1 crossing month; settlement not observed,2022-08-31,fx_auctions;fx_market;monetary_manual_2021 paragraph 50

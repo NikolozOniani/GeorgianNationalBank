@@ -1,0 +1,22 @@
+period,net_market_purchases_usdm,gross_market_purchases_lower_bound_usdm,gross_market_sales_lower_bound_usdm,gross_market_purchases_upper_bound_usdm,gross_market_sales_upper_bound_usdm,interpretation,source_id
+2025-01,0,0,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-02,0,0,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-03,101.7,101.7,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-04,266.4,266.4,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-05,245.4,245.4,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-06,265.95,265.95,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-07,416.9,416.9,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-08,199.6,199.6,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-09,100,100,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-10,167.37,167.37,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-11,308.23,308.23,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2025-12,360.95,360.95,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2026-01,86.55,86.55,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2026-02,429.3,429.3,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2026-03,-16.2,0,16.2,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2026-04,333.3,333.3,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2026-05,632.85,632.85,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2026-06,612.58,612.58,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2026-07,488.2,488.2,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2026-08,555.57,555.57,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market
+2026-09,248.5,248.5,0,,,"P-S=N; P,S>=0. Lower bounds only; zero net does not imply zero gross.",fx_market

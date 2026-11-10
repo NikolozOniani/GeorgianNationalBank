@@ -1,0 +1,3 @@
+year,audited_gold_usdm,statistical_gold_usdm,difference_usdm,reconciled_within_rounding,source_ids,interpretation
+2024,599.133,598.7310497999999,-0.4019502000001,False,annual2025 p262;reserve_assets,Keep source valuations separate; unexplained difference not allocated to transactions
+2025,1002.314,1002.3140084,0.0000084,True,annual2025 p262;reserve_assets,Keep source valuations separate; unexplained difference not allocated to transactions

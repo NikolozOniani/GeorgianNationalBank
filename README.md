@@ -15,6 +15,7 @@ This is one academic economics project. The [research protocol](research/PROTOCO
 | [Research protocol](research/PROTOCOL.md) | Fixed question, treatment, counterfactual, estimands, admissible inference and decision gates |
 | [Authoritative completion roadmap](research/ROADMAP.md) | Independent evidence assessment; ordered stages, dependencies, original quantitative findings and completion criteria |
 | [R0 registration](research/R0_REGISTRATION.md) and [verification](reports/r0_2026_11_10/README.md) | Frozen experiment, timing, economic accounts, admissible methods, open decisions and reproducibility evidence |
+| [R1 accounting findings](reports/r1_2026_11_10/README.md) and [requirement status](research/R1_STATUS.md) | Transaction, reserve and liquidity ledgers; gross-flow bounds, partial 2025 bridge and unresolved G1 evidence |
 | [Data requirements and acquisition order](research/DATA_REQUIREMENTS.md) | What exists, what is missing, public access versus requests, and what each gap prevents |
 | [Machine-readable requirements](research/data_requirements.json) | Variables, units, frequencies, periods, sources, validation and priority for each dataset |
 | [Primary-source register](research/SOURCES.md) | Exact source locations and the level of access actually checked |
@@ -29,7 +30,7 @@ The [9 November acquisition results](reports/acquisition_2026_11_09/README.md) n
 
 The verified supporting data include a 60-month 2020–2024 policy/reserve panel, two annual intervention benchmarks, five years of audited interest accounts, and an arithmetic reconstruction of the IMF's published 2022–2023 ARA components. They establish useful accounting foundations. They do not supply a verified 2025–2026 intervention event series or identify the exchange rate without purchases.
 
-The [completion roadmap](research/ROADMAP.md) is the authoritative sequence from the existing evidence to the final paper. It distinguishes episode measurement, counterfactual identification, household consequences, marginal reserve costs and insurance benefits. R0 now registers the experiment and verifies reproduction of existing outputs; no new observations, causal estimates or manuscript text are added. The data specifications remain supporting acquisition records. No optimum or net economic loss is assumed.
+The [completion roadmap](research/ROADMAP.md) is the authoritative sequence from the existing evidence to the final paper. It distinguishes episode measurement, counterfactual identification, household consequences, marginal reserve costs and insurance benefits. R0 registers the experiment and verifies reproduction. R1 adds 17 accounting tables, three official source documents, additional extraction from existing workbooks/audited accounts and an explicit discrepancy register. The registered window has USD 5,803.15 million net purchases; this does not identify gross purchases or their exchange-rate effect. Full G1 remains open because gross executions, applicable rule parameters and a complete stock-flow decomposition are missing. See [R1 replication](replication/R1.md). No causal estimates, manuscript text, optimum or net economic loss are claimed.
 
 ## Repository boundaries
 

@@ -12,9 +12,11 @@
 
 **Execution update, 10 November 2026:** R0 is complete as a design/access and local-reproduction checkpoint. See the [registration](R0_REGISTRATION.md) and [verification record](../reports/r0_2026_11_10/README.md). Exact program/execution boundaries and G1–G5 remain open; the R0 checkpoint does not certify causal identification or permanent remote access to old raw vintages. The assessment below retains its original review context.
 
+**R1 execution update, 10 November 2026:** the [accounting report](../reports/r1_2026_11_10/README.md) commits the public-data ledger checkpoint, including gross-flow lower bounds, native-frequency reserve/liquidity bridges, additional audited observations and quantified discrepancies. [R1 status](R1_STATUS.md) records D01–D10 progress and remaining records. Full G1 is **partial**, not passed; missing gross executions and complete accounting components still constrain the counterfactual. Three source documents were acquired; no causal estimation or manuscript drafting was performed.
+
 This is the authoritative sequence for completing the research. The [protocol](PROTOCOL.md) continues to govern definitions and admissible claims; this roadmap governs stages, dependencies and acceptance. The [18 data requirements](data_requirements.json), [acquisition status](ACQUISITION_STATUS.md), [source register](SOURCES.md) and [request specification](NBG_REQUEST_SPECIFICATION.md) are subordinate implementation records. Older assessments remain historical evidence, not competing work plans. The [manuscript structure](../manuscript/STRUCTURE.md) remains the eventual presentation outline.
 
-This revision reviews existing material and commits planning documents only. No additional research data were acquired, no new empirical estimates were produced, and no manuscript was drafted. Future stages below are requirements, not claims of completion or authorization to contact data holders.
+The original 9 November review committed planning documents only. Execution updates above describe subsequent work; the review assessment below retains its original evidence vintage. Future stages are requirements, not claims of completion or authorization to contact data holders.
 
 ## 1. Independent assessment
 
@@ -55,7 +57,7 @@ Stages are complete only when their acceptance evidence is committed and indepen
 | Stage | Purpose and principal deliverable | Dependencies | Current position / protocol gate |
 |---|---|---|---|
 | R0 | Freeze definitions, review findings, provenance and analysis design | This roadmap and existing protocol | Complete: registered design and open-decision gates; 57-source local audit and isolated-checkout reproduction; independent external reproduction remains R7 |
-| R1 | Reconcile episode transactions, stocks, government flows and operating regime | R0; D01–D10 | Net accounting partly complete; full G1 open |
+| R1 | Reconcile episode transactions, stocks, government flows and operating regime | R0; D01–D10 | Public accounting checkpoint committed: 17 tables, rule/timing and discrepancy records; full G1 partial, see R1 status |
 | R2 | Reconstruct ARA/usable liquidity and reproduce the IMF benchmark | R0; D13–D15, D18; R1 reserve definitions | Historical arithmetic complete; current reconstruction and model replication open; G4 input |
 | R3 | Identify or constrain the no-purchases exchange-rate and balance-sheet paths | R1; D01–D07, D09–D10; registered design | No validated identifying variation or implemented episode model; G2 open |
 | R4 | Match marginal reserve income, financing and exposures across paths | R1; D08–D12; R3 for the realized counterfactual comparison | Category accounts complete; marginal attribution open; G3 |
@@ -83,6 +85,8 @@ Specify an economic causal diagram/information timeline separating predetermined
 **Acceptance:** the treatment, comparison, timing, horizons and accounts are unambiguous; every active source has a recoverable provenance/access route; fresh-environment checks distinguish absent raw evidence from verified evidence; all historical evidence remains intact. R0 does not require pretending that remaining economic unknowns are resolved.
 
 ### R1 — Establish what NBG actually did and how the balance sheet changed
+
+**Execution evidence:** [R1 numerical report](../reports/r1_2026_11_10/README.md), [requirement status](R1_STATUS.md), [public-access checks](R1_PUBLIC_ACCESS.md) and [unsent follow-up records](R1_RECORDS_REQUEST.md). The original acceptance conditions below are unchanged.
 
 **Work.** Complete D01–D10 in priority order. Link executed gross purchases and sales by instrument/currency to order, trade, settlement and disclosure times; preserve options/swaps separately. Obtain rule versions, thresholds, caps, overrides and the information available before orders. Match government conversions, debt settlements, private FX flows, quotations and market depth on appropriate clocks. Latest revised vintages can serve retrospective accounting but cannot represent real-time expectations without release evidence.
 

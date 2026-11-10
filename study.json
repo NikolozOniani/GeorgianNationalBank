@@ -14,5 +14,7 @@
   "source_review_cutoff": "2026-11-08",
   "acquisition_window": ["2025-01-01", "2026-12-31"],
   "episode_status": "Administrative evaluation window registered in R0; exact first execution/program boundaries remain an R1 gate. September 2026 is the last acquired intervention month, not a proven program end. Different accounting series have earlier cutoffs.",
-  "stage": "R0 completed: retrospective design registration, provenance/concordance and claim records, reproducibility repairs and isolated-checkout verification; R1-R7 economic evidence gates remain open"
+  "stage": "R0 complete; R1 public accounting checkpoint committed with transaction, information, reserve and liquidity ledgers. Full G1 partial: gross executions, applicable rule parameters and complete reserve components remain unresolved. Later economic evidence gates remain open.",
+  "r1_status": "research/R1_STATUS.md",
+  "r1_results": "reports/r1_2026_11_10/README.md"
 }

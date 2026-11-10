@@ -1,0 +1,7 @@
+period,reserve_change_usdm,market_net_purchases_usdm,bop_reserve_transactions_usdm,other_transactions_residual_usdm,valuation_other_volume_revision_residual_usdm,government_transactions_usdm,reserve_income_usdm,identified_fx_valuation_usdm,source_ids,status
+2025Q1,-137.765822018409,101.7,-283.4637977,-385.1637977,145.697975681591,,,,reserve_assets;bop_bpm6;fx_market,Stock and transaction bridge; residual components unidentified
+2025Q2,377.658159259248,777.75,272.7390789,-505.0109211,104.919080359248,,,,reserve_assets;bop_bpm6;fx_market,Stock and transaction bridge; residual components unidentified
+2025Q3,738.680396527896,716.5,616.35384248,-100.14615752,122.326554047896,,,,reserve_assets;bop_bpm6;fx_market,Stock and transaction bridge; residual components unidentified
+2025Q4,732.151307142844,836.55,602.1378270900001,-234.4121729099999,130.0134800528439,,,,reserve_assets;bop_bpm6;fx_market,Stock and transaction bridge; residual components unidentified
+2026Q1,157.308708941408,499.65,147.54614132999995,-352.10385867000005,9.76256761140805,,,,reserve_assets;bop_bpm6;fx_market,Stock and transaction bridge; residual components unidentified
+2026Q2,806.314363264031,1578.73,969.32575715,-609.40424285,-163.011393885969,,,,reserve_assets;bop_bpm6;fx_market,Stock and transaction bridge; residual components unidentified

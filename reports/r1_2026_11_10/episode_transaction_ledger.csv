@@ -1,0 +1,106 @@
+period,instrument,measure,value_usdm,currency,observation_type,order_time,trade_date,settlement_date,first_disclosure_date,execution_price,source_id,source_locator,status
+2025-01,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D117,reported monthly field; not an execution event
+2025-01,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C117,reported monthly field; not an execution event
+2025-01,nonauction,net_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D117; sign reversed,observed net only; gross directions unknown
+2025-01,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C117,reported monthly field; not an execution event
+2025-01,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E117,reported monthly field; not an execution event
+2025-02,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D118,reported monthly field; not an execution event
+2025-02,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C118,reported monthly field; not an execution event
+2025-02,nonauction,net_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D118; sign reversed,observed net only; gross directions unknown
+2025-02,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C118,reported monthly field; not an execution event
+2025-02,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E118,reported monthly field; not an execution event
+2025-03,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D119,reported monthly field; not an execution event
+2025-03,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C119,reported monthly field; not an execution event
+2025-03,nonauction,net_purchase,101.7,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D119; sign reversed,observed net only; gross directions unknown
+2025-03,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C119,reported monthly field; not an execution event
+2025-03,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E119,reported monthly field; not an execution event
+2025-04,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D120,reported monthly field; not an execution event
+2025-04,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C120,reported monthly field; not an execution event
+2025-04,nonauction,net_purchase,266.4,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D120; sign reversed,observed net only; gross directions unknown
+2025-04,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C120,reported monthly field; not an execution event
+2025-04,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E120,reported monthly field; not an execution event
+2025-05,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D121,reported monthly field; not an execution event
+2025-05,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C121,reported monthly field; not an execution event
+2025-05,nonauction,net_purchase,245.4,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D121; sign reversed,observed net only; gross directions unknown
+2025-05,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C121,reported monthly field; not an execution event
+2025-05,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E121,reported monthly field; not an execution event
+2025-06,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D122,reported monthly field; not an execution event
+2025-06,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C122,reported monthly field; not an execution event
+2025-06,nonauction,net_purchase,265.95,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D122; sign reversed,observed net only; gross directions unknown
+2025-06,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C122,reported monthly field; not an execution event
+2025-06,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E122,reported monthly field; not an execution event
+2025-07,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D123,reported monthly field; not an execution event
+2025-07,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C123,reported monthly field; not an execution event
+2025-07,nonauction,net_purchase,416.9,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D123; sign reversed,observed net only; gross directions unknown
+2025-07,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C123,reported monthly field; not an execution event
+2025-07,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E123,reported monthly field; not an execution event
+2025-08,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D124,reported monthly field; not an execution event
+2025-08,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C124,reported monthly field; not an execution event
+2025-08,nonauction,net_purchase,199.6,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D124; sign reversed,observed net only; gross directions unknown
+2025-08,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C124,reported monthly field; not an execution event
+2025-08,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E124,reported monthly field; not an execution event
+2025-09,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D125,reported monthly field; not an execution event
+2025-09,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C125,reported monthly field; not an execution event
+2025-09,nonauction,net_purchase,100,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D125; sign reversed,observed net only; gross directions unknown
+2025-09,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C125,reported monthly field; not an execution event
+2025-09,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E125,reported monthly field; not an execution event
+2025-10,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D126,reported monthly field; not an execution event
+2025-10,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C126,reported monthly field; not an execution event
+2025-10,nonauction,net_purchase,167.37,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D126; sign reversed,observed net only; gross directions unknown
+2025-10,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C126,reported monthly field; not an execution event
+2025-10,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E126,reported monthly field; not an execution event
+2025-11,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D127,reported monthly field; not an execution event
+2025-11,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C127,reported monthly field; not an execution event
+2025-11,nonauction,net_purchase,308.23,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D127; sign reversed,observed net only; gross directions unknown
+2025-11,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C127,reported monthly field; not an execution event
+2025-11,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E127,reported monthly field; not an execution event
+2025-12,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D128,reported monthly field; not an execution event
+2025-12,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C128,reported monthly field; not an execution event
+2025-12,nonauction,net_purchase,360.95,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D128; sign reversed,observed net only; gross directions unknown
+2025-12,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C128,reported monthly field; not an execution event
+2025-12,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E128,reported monthly field; not an execution event
+2026-01,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D129,reported monthly field; not an execution event
+2026-01,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C129,reported monthly field; not an execution event
+2026-01,nonauction,net_purchase,86.55,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D129; sign reversed,observed net only; gross directions unknown
+2026-01,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C129,reported monthly field; not an execution event
+2026-01,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E129,reported monthly field; not an execution event
+2026-02,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D130,reported monthly field; not an execution event
+2026-02,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C130,reported monthly field; not an execution event
+2026-02,nonauction,net_purchase,429.3,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D130; sign reversed,observed net only; gross directions unknown
+2026-02,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C130,reported monthly field; not an execution event
+2026-02,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E130,reported monthly field; not an execution event
+2026-03,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D131,reported monthly field; not an execution event
+2026-03,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C131,reported monthly field; not an execution event
+2026-03,nonauction,net_purchase,-16.2,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D131; sign reversed,observed net only; gross directions unknown
+2026-03,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C131,reported monthly field; not an execution event
+2026-03,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E131,reported monthly field; not an execution event
+2026-04,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D132,reported monthly field; not an execution event
+2026-04,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C132,reported monthly field; not an execution event
+2026-04,nonauction,net_purchase,333.3,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D132; sign reversed,observed net only; gross directions unknown
+2026-04,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C132,reported monthly field; not an execution event
+2026-04,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E132,reported monthly field; not an execution event
+2026-05,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D133,reported monthly field; not an execution event
+2026-05,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C133,reported monthly field; not an execution event
+2026-05,nonauction,net_purchase,632.85,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D133; sign reversed,observed net only; gross directions unknown
+2026-05,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C133,reported monthly field; not an execution event
+2026-05,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E133,reported monthly field; not an execution event
+2026-06,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D134,reported monthly field; not an execution event
+2026-06,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C134,reported monthly field; not an execution event
+2026-06,nonauction,net_purchase,612.58,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D134; sign reversed,observed net only; gross directions unknown
+2026-06,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C134,reported monthly field; not an execution event
+2026-06,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E134,reported monthly field; not an execution event
+2026-07,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D135,reported monthly field; not an execution event
+2026-07,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C135,reported monthly field; not an execution event
+2026-07,nonauction,net_purchase,488.2,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D135; sign reversed,observed net only; gross directions unknown
+2026-07,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C135,reported monthly field; not an execution event
+2026-07,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E135,reported monthly field; not an execution event
+2026-08,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D136,reported monthly field; not an execution event
+2026-08,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C136,reported monthly field; not an execution event
+2026-08,nonauction,net_purchase,555.57,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D136; sign reversed,observed net only; gross directions unknown
+2026-08,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C136,reported monthly field; not an execution event
+2026-08,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E136,reported monthly field; not an execution event
+2026-09,auction,gross_purchase,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !D137,reported monthly field; not an execution event
+2026-09,auction,gross_sale,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !C137,reported monthly field; not an execution event
+2026-09,nonauction,net_purchase,248.5,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Buy-eng !D137; sign reversed,observed net only; gross directions unknown
+2026-09,option,exercised_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !C137,reported monthly field; not an execution event
+2026-09,swap,reported_amount,0,USD,disclosed monthly aggregate,,,,,,fx_market,USD_Sell-eng !E137,reported monthly field; not an execution event

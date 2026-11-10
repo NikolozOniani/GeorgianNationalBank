@@ -1,0 +1,121 @@
+[
+  {
+    "file": "episode_transaction_ledger.csv",
+    "rows": 105,
+    "sha256": "84de0b497b0aaf8c7300d944c56d1cc0efb27800746121fa170c90acc5bf28ae",
+    "definition": "Native monthly disclosures; no synthetic execution dates",
+    "units": "USD million"
+  },
+  {
+    "file": "gross_flow_accounting_bounds.csv",
+    "rows": 21,
+    "sha256": "1196eaa02eb7074eeaa23c778ac5f192b987e8ae8cc52ddb6ae51e07878a232c",
+    "definition": "Accounting lower bounds, not observed gross transactions or causal bounds",
+    "units": "USD million"
+  },
+  {
+    "file": "episode_totals.csv",
+    "rows": 3,
+    "sha256": "279f3fce1f4e8913818bba405665fbd98bc047ac1f7aaeaaef121603d049ab6d",
+    "definition": "Monthly net totals and sums of monthly gross lower bounds; no finite upper bounds",
+    "units": "USD million"
+  },
+  {
+    "file": "auction_timing_reconciliation.csv",
+    "rows": 4,
+    "sha256": "ccb2050190bcea221656c3d77aa202aa00a057c7a4aa93ce67a798c8d9927c52",
+    "definition": "Original trade-date sums retained; no unobserved settlement-date reassignment",
+    "units": "USD million"
+  },
+  {
+    "file": "central_bank_positions.csv",
+    "rows": 286,
+    "sha256": "92f3978b4ffe51a78d1b539e266c35beadf03cd96be066c9efbe3a587c244c89",
+    "definition": "End-month positions include accruals/FX conversion; not transaction flows. DCS includes microbanks from Jan 2025.",
+    "units": "GEL million"
+  },
+  {
+    "file": "depository_survey.csv",
+    "rows": 770,
+    "sha256": "b1e6c3c2b0b797e86410579369d9125caa7900b9c110fa5dea41640467bd1806",
+    "definition": "End-month positions include accruals/FX conversion; not transaction flows. DCS includes microbanks from Jan 2025.",
+    "units": "GEL million"
+  },
+  {
+    "file": "liquidity_counterparts.csv",
+    "rows": 22,
+    "sha256": "adae41fe8cf95c5c1d48b1a81193401f4d9cc548bcdd21f6b1ac117630beaacf",
+    "definition": "Complete signed accounting counterparts of the monetary base, plus instrument breakdown",
+    "units": "GEL million, end month"
+  },
+  {
+    "file": "liquidity_changes.csv",
+    "rows": 21,
+    "sha256": "c28cf14234149762d220cbaf8520a34efcdccff73c54c728801c6795a9ef1b0a",
+    "definition": "Changes of signed counterpart stocks; not transactions or attribution",
+    "units": "GEL million per month"
+  },
+  {
+    "file": "reserve_flow_bridge.csv",
+    "rows": 6,
+    "sha256": "ea7edbdfc0ffff14b1816d943f83eeb08cb2744c4726ea56dba48817dda91829",
+    "definition": "Native quarterly bridge; no monthly BOP interpolation",
+    "units": "USD million"
+  },
+  {
+    "file": "monthly_reserve_bridge.csv",
+    "rows": 21,
+    "sha256": "7f594137396ef57be9ae03ee9a62d316eac5cd9dc4c1ad6428c115c26d29279b",
+    "definition": "Monthly stock change versus observed net market purchases; omitted components remain null",
+    "units": "USD million"
+  },
+  {
+    "file": "annual_report_observations.csv",
+    "rows": 12,
+    "sha256": "27bf9acb0c081467ab795d36d1522f778bbc3c3f09025ff6aa743dc1829a9190",
+    "definition": "Additional observations extracted from pinned annual report, approximate values marked",
+    "units": "Mixed units as labeled"
+  },
+  {
+    "file": "gold_source_concordance.csv",
+    "rows": 2,
+    "sha256": "0272f5ec8699297be6d6e3581687372c7b93f850f32f19683e421609d58fa600",
+    "definition": "Audited and statistical gold valuations retained separately",
+    "units": "USD million"
+  },
+  {
+    "file": "annual_2025_refined_bridge.csv",
+    "rows": 12,
+    "sha256": "2ef5c980ce2a10137a90f1180702ff0efd2ca5b12a08a836d1859710778ae671",
+    "definition": "Precise stock/transaction bridge plus separately approximate government and gold endpoint components; not a fully reconciled flow account",
+    "units": "USD million"
+  },
+  {
+    "file": "cd_financing_reconciliation.csv",
+    "rows": 2,
+    "sha256": "1744f849564ec8fc0ba5f394f950e59366642c439f05a2a239694f129936ccd5",
+    "definition": "Audited stock/cash/accrual bridge; no marginal reserve cost attribution",
+    "units": "GEL million"
+  },
+  {
+    "file": "treasury_operations.csv",
+    "rows": 126,
+    "sha256": "69441eb3c4101165197f5c1dd4a7077404659f7ab7ff49c7ecc926987942c5cc",
+    "definition": "Native value dates; current note sheet includes switch issuance; not net government cash flow",
+    "units": "GEL amounts; annual percent discount rates (bills) or yields (notes), labeled separately"
+  },
+  {
+    "file": "information_timeline.csv",
+    "rows": 7,
+    "sha256": "62e14e5bc9d133d25e637d102d1b9ebcd9cd84b0d91720d59a77ac59cca3d216",
+    "definition": "Dated disclosures, reference periods and historical operational rules; actual order/trade/settlement remains unknown",
+    "units": "Dates or explicitly year/month-only intervals"
+  },
+  {
+    "file": "rule_and_definition_register.csv",
+    "rows": 8,
+    "sha256": "cca6aa4d779d0aedbca513cec98b674f069da538b0d06680bea4e6c1864cb1e5",
+    "definition": "Source-backed methodological descriptions, not confirmed complete episode rule calibration",
+    "units": "Text"
+  }
+]

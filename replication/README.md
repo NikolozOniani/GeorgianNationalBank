@@ -15,7 +15,7 @@ The first command verifies all archived file hashes, the authoritative study ide
 
 For a machine-readable verification record, append `--report replication/local-results/repository_validation.json`. Preserve dated historical verification records. The record reports exactly which tests were retired and what was reproduced; a historical test log is not represented as a fresh validation run.
 
-The pre-reorganization baseline passed 33 tests. One mixed speech/editorial test was retired because the speech and briefing were withdrawn; its numerical partial-coverage assertions have a current replacement. The 32 remaining archived tests retain their original source bytes. The current suite now has 20 tests, including structure, acquisition safety, definitions and R0 source/output failure checks. See the [R0 checkpoint](../reports/r0_2026_11_10/README.md) and [episode reproduction instructions](ACQUISITION.md) for the separate original-source extraction test.
+The pre-reorganization baseline passed 33 tests. One mixed speech/editorial test was retired because the speech and briefing were withdrawn; its numerical partial-coverage assertions have a current replacement. The 32 remaining archived tests retain their original source bytes. The current suite now has 26 tests, including structure, acquisition safety, definitions, R0 source/output failure checks and R1 accounting/measurement regressions. See the [R0 checkpoint](../reports/r0_2026_11_10/README.md), [episode reproduction instructions](ACQUISITION.md) and [R1 reproduction instructions](R1.md) for separate original-source extraction tests.
 
 ## Existing numerical work
 

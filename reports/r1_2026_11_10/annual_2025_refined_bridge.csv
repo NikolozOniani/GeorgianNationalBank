@@ -1,0 +1,13 @@
+component,value_usdm,interpretation,source_ids
+reserve_change,1710.724040911579,measured stock difference,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+market_net_purchases,2432.50,observed net market flow,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+bop_transactions,1207.7669507700002,observed BOP reserve asset transactions,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+government_inflows_approx,329.3,approximate narrative government loans/grants,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+government_outflows_approx,-1600,approximate narrative government debt service and other FX expenditure,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+remaining_transaction_residual_approx,45.9669507700002,about USD 46 million; precision limited by approximate government outflows; income/other/revisions unresolved,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+all_nontransaction_residual,502.9570901415788,valuation/other volume/revision composite,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+gold_holding_value_change,403.181,endpoint value change with unchanged reported gold quantity; not proof of no intrayear trading,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+gold_constant_quantity_price_component,403.1813721,endpoint quantity times USD price difference; mechanical price bridge,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+statistical_gold_value_change,403.5829586000001,statistical reserve component change; 2024 audited comparison differs,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+nontransaction_residual_less_audited_gold_change,99.7760901415788,cross-definition diagnostic only; do not call this a reconciled valuation component,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"
+nontransaction_residual_less_statistical_gold_change,99.3741315415787,same-statistical-series conditional remainder; full gold valuation still requires transactions,"annual2025 pp47-48,262;reserve_assets;bop_bpm6;fx_market"

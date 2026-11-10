@@ -1,0 +1,9 @@
+item,source_id,locator,observed_description,remaining_gap
+BMatch trigger,monetary_manual_2021,p13 paragraph 52,Exchange-rate fluctuation beyond a predetermined mark,"Numerical threshold, lookback, order size, caps, overrides and 2025–2026 version unavailable"
+BMatch matching,bmatch_statement,2022 statement,Orders matched by available price; this describes counterparty matching,Does not identify the timing/size assignment rule or exogenous variation
+Options trigger,monetary_manual_2021,p13 paragraph 51,Separate option exercise rule refers to previous 20-day average,Do not transfer this rule to BMatch; instrument activity requires its own observations
+Auction notice and settlement,monetary_manual_2021,p13 paragraph 50,Prior notice to banks and next-business-day settlement,Does not establish actual historical settlement dates or holidays
+Government FX route,fx_rules,Foreign exchange auctions page,Government accounts at NBG can bypass market,Does not reveal transaction-level government conversions
+Official FX fixing,fx_method,methodology page,Weighted trading window ending 16:30; next-day valid rate,Not an intraday pre-intervention quote; exact trade data not retrieved
+CBS reporting,central_bank,"Notes rows4,7",Monthly publication schedule and end-month accrual/FX conversion,General schedule is not a historical release timestamp
+DCS definition break,depository_survey,DCS rows42–43,Institutional sector update September 2022; microbanks from January 2025,Do not interpret a composition change as economic flow

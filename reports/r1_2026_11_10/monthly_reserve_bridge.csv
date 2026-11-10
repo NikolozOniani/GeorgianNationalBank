@@ -1,0 +1,22 @@
+month,reserve_change_usdm,market_net_purchases_usdm,stock_change_less_purchases_usdm,bop_reserve_transactions_usdm,government_transactions_usdm,identified_valuation_usdm,status,source_ids
+2025-01,-12.762510602456,0,-12.762510602456,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-02,-201.780490502609,0,-201.780490502609,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-03,76.777179086656,101.7,-24.922820913344,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-04,207.609057279083,266.4,-58.790942720917,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-05,66.7172665441855,245.4,-178.6827334558145,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-06,103.3318354359795,265.95,-162.6181645640205,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-07,333.533840890890,416.9,-83.366159109110,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-08,181.628044778079,199.6,-17.971955221921,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-09,223.518510858927,100,123.518510858927,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-10,176.380835679796,167.37,9.010835679796,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-11,212.617292539558,308.23,-95.612707460442,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2025-12,343.153178923490,360.95,-17.796821076510,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2026-01,140.312414734050,86.55,53.762414734050,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2026-02,360.366441775944,429.3,-68.933558224056,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2026-03,-343.370147568586,-16.2,-327.170147568586,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2026-04,154.172728860799,333.3,-179.127271139201,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2026-05,536.292585531064,632.85,-96.557414468936,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2026-06,115.849048872168,612.58,-496.730951127832,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2026-07,404.561911267292,488.2,-83.638088732708,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2026-08,612.996864030816,555.57,57.426864030816,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market
+2026-09,26.461828243087,248.5,-222.038171756913,,,,Composite residual only; monthly BOP/government/valuation decomposition unavailable,reserve_assets;fx_market

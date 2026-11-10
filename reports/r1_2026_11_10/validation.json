@@ -1,0 +1,677 @@
+{
+  "baseline_commit": "92f05d27ab980c2f471e9ca24ab64c2884283860",
+  "checks": [
+    {
+      "check": "episode_month_count",
+      "passed": true,
+      "detail": 21
+    },
+    {
+      "check": "auction_month_discrepancies_retained",
+      "passed": true,
+      "detail": [
+        {
+          "period": "2021-09",
+          "dated_event_net_usdm": "-60",
+          "published_month_net_usdm": "0",
+          "difference_usdm": "-60",
+          "status": "consistent with T+1 crossing month; settlement not observed",
+          "candidate_boundary_trade": "2021-09-30",
+          "source_ids": "fx_auctions;fx_market;monetary_manual_2021 paragraph 50"
+        },
+        {
+          "period": "2021-10",
+          "dated_event_net_usdm": 0,
+          "published_month_net_usdm": "-60",
+          "difference_usdm": "60",
+          "status": "consistent with T+1 crossing month; settlement not observed",
+          "candidate_boundary_trade": "2021-09-30",
+          "source_ids": "fx_auctions;fx_market;monetary_manual_2021 paragraph 50"
+        },
+        {
+          "period": "2022-08",
+          "dated_event_net_usdm": "29.390",
+          "published_month_net_usdm": "61.695",
+          "difference_usdm": "-32.305",
+          "status": "consistent with T+1 crossing month; settlement not observed",
+          "candidate_boundary_trade": "2022-08-31",
+          "source_ids": "fx_auctions;fx_market;monetary_manual_2021 paragraph 50"
+        },
+        {
+          "period": "2022-09",
+          "dated_event_net_usdm": "-13.6",
+          "published_month_net_usdm": "-45.905",
+          "difference_usdm": "32.305",
+          "status": "consistent with T+1 crossing month; settlement not observed",
+          "candidate_boundary_trade": "2022-08-31",
+          "source_ids": "fx_auctions;fx_market;monetary_manual_2021 paragraph 50"
+        }
+      ]
+    },
+    {
+      "check": "position_bank_claims_2024-12-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2024-12-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2025-01-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-01-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "position_bank_claims_2025-02-28",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-02-28",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "position_bank_claims_2025-03-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-03-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2025-04-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-04-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2025-05-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-05-31",
+      "passed": true,
+      "detail": "-0.001"
+    },
+    {
+      "check": "position_bank_claims_2025-06-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-06-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2025-07-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-07-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "position_bank_claims_2025-08-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-08-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2025-09-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-09-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2025-10-31",
+      "passed": true,
+      "detail": "0.00"
+    },
+    {
+      "check": "position_instruments_2025-10-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2025-11-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-11-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2025-12-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2025-12-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2026-01-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2026-01-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2026-02-28",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2026-02-28",
+      "passed": true,
+      "detail": "-0.001"
+    },
+    {
+      "check": "position_bank_claims_2026-03-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2026-03-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2026-04-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2026-04-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2026-05-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2026-05-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "position_bank_claims_2026-06-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2026-06-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2026-07-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2026-07-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_bank_claims_2026-08-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "position_instruments_2026-08-31",
+      "passed": true,
+      "detail": "-0.001"
+    },
+    {
+      "check": "position_bank_claims_2026-09-30",
+      "passed": true,
+      "detail": "0.00"
+    },
+    {
+      "check": "position_instruments_2026-09-30",
+      "passed": true,
+      "detail": "0.00"
+    },
+    {
+      "check": "monetary_base_identity",
+      "passed": true,
+      "detail": "0.002"
+    },
+    {
+      "check": "DCS_broad_money_2024-12-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "DCS_NFA_2024-12-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "DCS_broad_money_2025-01-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2025-01-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-02-28",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2025-02-28",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-03-31",
+      "passed": true,
+      "detail": "-0.001"
+    },
+    {
+      "check": "DCS_NFA_2025-03-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-04-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2025-04-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-05-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2025-05-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-06-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2025-06-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-07-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2025-07-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-08-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "DCS_NFA_2025-08-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-09-30",
+      "passed": true,
+      "detail": "-0.001"
+    },
+    {
+      "check": "DCS_NFA_2025-09-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-10-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2025-10-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2025-11-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2025-11-30",
+      "passed": true,
+      "detail": "0.00"
+    },
+    {
+      "check": "DCS_broad_money_2025-12-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "DCS_NFA_2025-12-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "DCS_broad_money_2026-01-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2026-01-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "DCS_broad_money_2026-02-28",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2026-02-28",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2026-03-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2026-03-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2026-04-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2026-04-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2026-05-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2026-05-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2026-06-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2026-06-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2026-07-31",
+      "passed": true,
+      "detail": "0.001"
+    },
+    {
+      "check": "DCS_NFA_2026-07-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2026-08-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2026-08-31",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_broad_money_2026-09-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "DCS_NFA_2026-09-30",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "PDF_government_fx_expenditure_2025",
+      "passed": true,
+      "detail": "1.6 billion"
+    },
+    {
+      "check": "PDF_government_fx_loans_grants_2025",
+      "passed": true,
+      "detail": "329.3 million"
+    },
+    {
+      "check": "PDF_reserve_management_revenue_2025",
+      "passed": true,
+      "detail": "421.9 million"
+    },
+    {
+      "check": "PDF_gold_quantity_2025",
+      "passed": true,
+      "detail": "229,478"
+    },
+    {
+      "check": "PDF_gold_quantity_2024",
+      "passed": true,
+      "detail": "229,478"
+    },
+    {
+      "check": "PDF_gold_price_2025",
+      "passed": true,
+      "detail": "4,367.80"
+    },
+    {
+      "check": "PDF_gold_price_2024",
+      "passed": true,
+      "detail": "2,610.85"
+    },
+    {
+      "check": "PDF_gold_value_2025",
+      "passed": true,
+      "detail": "1,002,314"
+    },
+    {
+      "check": "PDF_gold_value_2024",
+      "passed": true,
+      "detail": "599,133"
+    },
+    {
+      "check": "PDF_gold_unrealized_gain_2025",
+      "passed": true,
+      "detail": "1,019,691"
+    },
+    {
+      "check": "PDF_policy_loans_2025",
+      "passed": true,
+      "detail": "6,167,078"
+    },
+    {
+      "check": "PDF_policy_loans_2024",
+      "passed": true,
+      "detail": "7,003,577"
+    },
+    {
+      "check": "gold_endpoint_price_bridge",
+      "passed": true,
+      "detail": "-0.0003721"
+    },
+    {
+      "check": "CD_PDF_2025_59,384",
+      "passed": true,
+      "detail": "59,384"
+    },
+    {
+      "check": "CD_PDF_2025_4,245",
+      "passed": true,
+      "detail": "4,245"
+    },
+    {
+      "check": "CD_PDF_2025_255,195",
+      "passed": true,
+      "detail": "255,195"
+    },
+    {
+      "check": "CD_PDF_2025_255,756",
+      "passed": true,
+      "detail": "255,756"
+    },
+    {
+      "check": "CD_PDF_2025_4,772",
+      "passed": true,
+      "detail": "4,772"
+    },
+    {
+      "check": "CD_PDF_2025_59,350",
+      "passed": true,
+      "detail": "59,350"
+    },
+    {
+      "check": "CD_stock_cash_accrual_2025",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "CD_PDF_2024_59,225",
+      "passed": true,
+      "detail": "59,225"
+    },
+    {
+      "check": "CD_PDF_2024_4,638",
+      "passed": true,
+      "detail": "4,638"
+    },
+    {
+      "check": "CD_PDF_2024_255,034",
+      "passed": true,
+      "detail": "255,034"
+    },
+    {
+      "check": "CD_PDF_2024_255,361",
+      "passed": true,
+      "detail": "255,361"
+    },
+    {
+      "check": "CD_PDF_2024_5,124",
+      "passed": true,
+      "detail": "5,124"
+    },
+    {
+      "check": "CD_PDF_2024_59,384",
+      "passed": true,
+      "detail": "59,384"
+    },
+    {
+      "check": "CD_stock_cash_accrual_2024",
+      "passed": true,
+      "detail": "0.000"
+    },
+    {
+      "check": "treasury_rate_units_and_order",
+      "passed": true,
+      "detail": "Percent, not decimal fractions; value precedes maturity"
+    },
+    {
+      "check": "treasury_native_record_count",
+      "passed": true,
+      "detail": 126
+    },
+    {
+      "check": "historical_rule_threshold_description",
+      "passed": true,
+      "detail": "Paragraph 52; numerical mark absent"
+    },
+    {
+      "check": "historical_auction_settlement",
+      "passed": true,
+      "detail": "Paragraph 50"
+    },
+    {
+      "check": "historical_instrument_window",
+      "passed": true,
+      "detail": "2023 PDF p14"
+    },
+    {
+      "check": "dated_purchase_disclosure",
+      "passed": true,
+      "detail": "2025-08-25 article"
+    }
+  ],
+  "all_computational_checks_passed": true,
+  "G1_status": "PARTIAL; gross execution and full stock-flow decomposition not recovered",
+  "causal_estimation_performed": false,
+  "registered_window": [
+    "2025-01",
+    "2026-09"
+  ],
+  "source_qualifications_remain": true,
+  "new_source_qualifications": [
+    {
+      "id": "gold_source_overlap_2024",
+      "difference_usdm": "-0.4019502000001",
+      "status": "unresolved valuation convention/vintage difference"
+    }
+  ]
+}
