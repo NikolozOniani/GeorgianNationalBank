@@ -1,0 +1,8 @@
+quantity,value,unit,scope
+spread_decrease_from_10_to_20_pct_gdp,50.031541769,basis points,p14 footnote unit check
+actual_end_2025_gir_to_gdp,16.166080387,percent,GIR statistical vintage / rounded GDP from 2026 Article IV p4
+implied_private_dollarization,58.501492914,percent,"p15 channel at observed reserve ratio, model output"
+implied_crisis_loss,12.925074646,percent of GDP,p15 conditional loss function
+isolated_marginal_loss_benefit,4.782424902,basis points of marginal carrying rate,conditional on p15 loss channel and common horizon
+p14_stationary_point_of_required_intercept,0.396561558,R/GDP,"p14, illustrative fixed loss=0.10, probability=0.10, k=0.0575"
+p14_two_root_threshold,635.518374388,basis points,"p14 same illustration, sum rho+s0 above threshold gives two positive roots"

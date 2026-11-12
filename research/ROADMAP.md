@@ -58,7 +58,7 @@ Stages are complete only when their acceptance evidence is committed and indepen
 |---|---|---|---|
 | R0 | Freeze definitions, review findings, provenance and analysis design | This roadmap and existing protocol | Complete: registered design and open-decision gates; 57-source local audit and isolated-checkout reproduction; independent external reproduction remains R7 |
 | R1 | Reconcile episode transactions, stocks, government flows and operating regime | R0; D01–D10 | Public accounting checkpoint committed: 17 tables, rule/timing and discrepancy records; full G1 partial, see R1 status |
-| R2 | Reconstruct ARA/usable liquidity and reproduce the IMF benchmark | R0; D13–D15, D18; R1 reserve definitions | Historical arithmetic complete; current reconstruction and model replication open; G4 input |
+| R2 | Reconstruct ARA/usable liquidity and reproduce the IMF benchmark | R0; D13–D15, D18; R1 reserve definitions | [Public component reconstruction and model audit](../reports/r2_2026_11_11/README.md) complete at documented precision. Official component match and target replication remain open |
 | R3 | Identify or constrain the no-purchases exchange-rate and balance-sheet paths | R1; D01–D07, D09–D10; registered design | No validated identifying variation or implemented episode model; G2 open |
 | R4 | Match marginal reserve income, financing and exposures across paths | R1; D08–D12; R3 for the realized counterfactual comparison | Category accounts complete; marginal attribution open; G3 |
 | R5 | Measure household and sector consequences of that same FX path | R0 exposure design; R3; D17 and the specific incidence inputs below | Historical pilot only; an input to G5, not a second study |
@@ -199,7 +199,7 @@ The empirical contribution must be economic, not just an inventory or an algebra
 
 ## 5. Missing evidence, priorities and exact next work
 
-Existing D/S/R identifiers below refer to the linked requirements, sources and request specification. “Request candidate” is an access route, not proof of nonpublication or confidentiality. No correspondence is sent by adopting this plan.
+Existing D/S/R identifiers below refer to the linked requirements, sources and request specification. “Request candidate” is an access route, not proof of nonpublication or confidentiality. The November 2026 public-evidence amendment supersedes earlier access routes throughout this plan. Request specifications identify missing fields for public-source review. Correspondence and private records are outside the active design.
 
 | Priority / requirement | Remaining variables, frequency and period | Existing source route / access status | First deliverable and decision unlocked |
 |---|---|---|---|
@@ -215,7 +215,7 @@ Existing D/S/R identifiers below refer to the linked requirements, sources and r
 
 1. Finish R0 registration and a field-level availability decision for gross BMatch/rule/quote inputs using the existing cache first. Assemble precise unsent request packages and record who holds each missing field. Do not postpone the identification decision while collecting low-value extra series.
 2. Complete R1's achievable public accounting and extraction from already acquired files, including outstanding depository/Treasury/annual-note detail. Mark request-dependent remainder and release valid measured components.
-3. In parallel with those evidence requests, finish the national ARA component bridge and IMF replication specification, and validate episode-relevant household exposures. No causal coefficient is required to complete these measurement tasks.
+3. Using the public evidence, finish the national ARA component bridge and IMF replication specification, and validate episode-relevant household exposures. No causal coefficient is required to complete these measurement tasks.
 4. Hold a written R3 design gate: select a defensible route or record why none identifies the effect. Only then estimate the policy counterfactual. Build R4/R6 accounts concurrently, without presuming its sign.
 5. Feed that same path into R5 and R7; quantify which uncertainty determines the result before expanding methods or adding data. Finish independent checks before R8 writing.
 

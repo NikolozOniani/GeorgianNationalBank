@@ -1,0 +1,7 @@
+quarter,sector,nbg_cell_range,nbg_usdm,qeds_usdm,qeds_minus_nbg_usdm,status
+2026Q2,government,ED-Service B7:F7,543.781773260,543.781773260,0.000000000,within USD 1
+2026Q2,central_bank,ED-Service B12:F12,77.654587180,77.654587180,0.000000000,within USD 1
+2026Q2,banks,ED-Service B15:F15,5960.408240650,5960.408240650,-0.000000000,within USD 1
+2026Q2,other_sectors,ED-Service B23:F23,1348.419844480,1348.873295940,0.453451460,unresolved source difference
+2026Q2,di,ED-Service B35:F35,432.603404020,432.603404020,0.000000000,within USD 1
+2026Q2,total,ED-Service B40:F40,8362.867849590,8363.321301050,0.453451460,unresolved source difference

@@ -1,0 +1,9 @@
+quarter,total_usdm,government_usdm,central_bank_usdm,banks_usdm,other_sectors_usdm,di_usdm,non_di_principal_usdm,supplementary_position_usdm,source,supplementary_status
+2020Q4,5238.160383710,871.971394210,5.918929350,1788.635041520,1788.626203220,783.008815410,4455.151568300,0.000000000,"QEDS SDDS Table 4, principal only",excluded: zero conflicts with positive principal or source missing
+2021Q4,3814.229337660,374.770450330,18.808642840,1701.345931700,1196.521651820,522.782660970,3291.446676690,0.000000000,"QEDS SDDS Table 4, principal only",excluded: zero conflicts with positive principal or source missing
+2022Q4,5537.283192640,415.299680420,33.005522240,3591.322379640,1097.574031360,400.081578980,5137.201613660,0.000000000,"QEDS SDDS Table 4, principal only",excluded: zero conflicts with positive principal or source missing
+2023Q4,6419.515562960,452.650808110,42.311835000,4248.711064760,1123.398224830,552.443630260,5867.071932700,0.000000000,"QEDS SDDS Table 4, principal only",excluded: zero conflicts with positive principal or source missing
+2024Q4,6836.038248800,473.667792760,68.964982440,4645.437330280,1200.975679760,446.992463560,6389.045785240,0.000000000,"QEDS SDDS Table 4, principal only",excluded: zero conflicts with positive principal or source missing
+2025Q4,7811.558937350,1006.516722370,79.528625550,5128.574478500,1221.792002650,375.147108280,7436.411829070,0.000000000,"QEDS SDDS Table 4, principal only",excluded: zero conflicts with positive principal or source missing
+2026Q1,7859.380152330,636.857920020,78.444968970,5462.107664980,1258.737501590,423.232096770,7436.148055560,0.000000000,"QEDS SDDS Table 4, principal only",excluded: zero conflicts with positive principal or source missing
+2026Q2,8363.321301050,543.781773260,77.654587180,5960.408240650,1348.873295940,432.603404020,7930.717897030,,"QEDS SDDS Table 4, principal only",excluded: zero conflicts with positive principal or source missing

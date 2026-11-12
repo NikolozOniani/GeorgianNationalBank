@@ -1,0 +1,580 @@
+{
+  "parent": "ea01402129e86dde7260fbfb5524db3e5ad5888d",
+  "input_sha256": {
+    "data/derived/r2_2026_11_11/qeds.csv": "b52f997c00f9b5a7ce0dbaaea5fa7b7ff5ffd7f43c0988103fa0dc1fa5659073",
+    "data/derived/r2_2026_11_11/bank_exposures.csv": "a03851ba2eb9d1c6ed78dcc2fa636eab824bd46362d4e6d3ae98ccf0d8219ad6",
+    "data/derived/episode_2026_11_09/reserve_stocks_monthly.csv": "e09a7fed1f48ea81be40deb9f0b882492582f130eadfa692855f98d15feedd64",
+    "data/derived/episode_2026_11_09/official_fx_daily.csv": "00f0f7af6e86cf4d26f75b5dad98d94181d02f3e9f53bb9150724e21f9234455",
+    "data/derived/episode_2026_11_09/money_aggregates_monthly.csv": "1b77a400b98c2729f951129e1b23b053a50426055139c3a3f93d71d086629171",
+    "reports/r1_2026_11_10/depository_survey.csv": "b1e6c3c2b0b797e86410579369d9125caa7900b9c110fa5dea41640467bd1806",
+    "data/derived/episode_2026_11_09/iip.csv": "112c4187adaa30f0be94e85f07cf1bf7967b1cdefa72c7def653734fccf263ab",
+    "data/derived/episode_2026_11_09/bop_bpm6.csv": "6cd1e852afdbdc46c806da57eecd0034035878237a4f346cd8308333caa98eba",
+    "data/derived/episode_2026_11_09/imf_ara_published.csv": "1be5c53200f19b7eaf3c03207abb51f9d67105968fd283c13016d954e845b00b",
+    "archive/legacy/reports/reserve_foundations/ara_reconstruction.csv": "4a6d28204063d60747948bbf23a6a3a970003ae1a4df9bedd4e8f83a3ae02a89",
+    "reports/acquisition_2026_11_09/ara_component_inputs.csv": "d627125f63d490e08bbc474f30f6640a7e2d259f55895a3fbfa7d1b1e4d22a57",
+    "data/derived/episode_2026_11_09/external_debt_payment_schedule.csv": "24272fab7726e28bbd4c91bd03a06c1d9d598872e4b92d6bbbb8a80c8bf7026e",
+    "data/derived/episode_2026_11_09/reserve_liquidity_cells.csv": "27111dd1c83071f480dd11c2fc7917df4ed965274ba2e2e64e628b36f0a1baa0"
+  },
+  "csv_sha256": {
+    "ara_components.csv": "3038c15f6a83c67abf39cabd727f836b581a71961174718daff6d94bb6344c20",
+    "ara_vintage_concordance.csv": "2fce6f412e916e9a6f5f0ae19fab29df0ba27e661505fd2766cf20596534fd6d",
+    "bank_buffer_sensitivity.csv": "c47ad98ab463c1780d3b66eb93fb1809ac8dc405ea87cd5064ca0f0fe30f42ad",
+    "historical_adjustment_check.csv": "61bf002dace9dd4dbe984da9ee6b500c555a225bf03494bdecf84e910cd5ea9e",
+    "liquidity_schedule.csv": "57f6c6100c7bd8c7b0cf4f4712a3b587d95039c2d31080f5490a8b72357cc75b",
+    "liquidity_stress.csv": "36395621da63fc3af08228279c3e7536d535e314d2e4a4f81fe9d80d529f1ac4",
+    "model_equation_checks.csv": "c788f6a1678b731fc866344d32bb98ea6d32373351f718918a10b07db4c8bce7",
+    "model_target_status.csv": "3f9f50dbe473c23b4badf9840403c4a5d4e719fd04d9c928fee852b4dee195b4",
+    "national_qeds_reconciliation.csv": "9783120ff742dbf9645eba401a9c27ea3c98b5ae4bed65ea585c32c16e1bfdcb",
+    "one_year_principal.csv": "d9ab6506886384a4490c72be98770bb0165d518401547407d255c3eb24942251"
+  },
+  "checks": [
+    {
+      "check": "QEDS sector sum 2020Q4",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Quarterly vs annual exports 2020Q4",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Overlap identity 2020Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2020Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Overlap identity 2020Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2020Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "QEDS sector sum 2021Q4",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Quarterly vs annual exports 2021Q4",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Overlap identity 2021Q4 m2",
+      "difference": 4.547473508864641e-13,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2021Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Overlap identity 2021Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2021Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "QEDS sector sum 2022Q4",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Quarterly vs annual exports 2022Q4",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Overlap identity 2022Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2022Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Overlap identity 2022Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2022Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "QEDS sector sum 2023Q4",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Quarterly vs annual exports 2023Q4",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Overlap identity 2023Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2023Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Overlap identity 2023Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2023Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "QEDS sector sum 2024Q4",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Quarterly vs annual exports 2024Q4",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Overlap identity 2024Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2024Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Overlap identity 2024Q4 m3",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2024Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "QEDS sector sum 2025Q4",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Quarterly vs annual exports 2025Q4",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Overlap identity 2025Q4 m2",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2025Q4 m2",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Overlap identity 2025Q4 m3",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Prior national money 2025Q4 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "QEDS sector sum 2026Q1",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Overlap identity 2026Q1 m2",
+      "difference": 1.8189894035458565e-12,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Overlap identity 2026Q1 m3",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "QEDS sector sum 2026Q2",
+      "difference": 1.8189894035458565e-12,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "June broad-money cross-source level",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Overlap identity 2026Q2 m3",
+      "difference": 0.0,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Sector differences explain total mismatch",
+      "difference": 6.821210263296962e-13,
+      "tolerance": 1e-06
+    },
+    {
+      "check": "Section II maturity columns 2024-12-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2024-12-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2024-12-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-01-31",
+      "difference": 1.1368683772161603e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-01-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-01-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-02-28",
+      "difference": 1.1368683772161603e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-02-28",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-02-28",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-03-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-03-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-03-31",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-04-30",
+      "difference": 2.2737367544323206e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-04-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-04-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-05-31",
+      "difference": 2.2737367544323206e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-05-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-05-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-06-30",
+      "difference": 2.2737367544323206e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-06-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-06-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-07-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-07-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-07-31",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-08-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-08-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-08-31",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-09-30",
+      "difference": 2.2737367544323206e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-09-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-09-30",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-10-31",
+      "difference": 2.2737367544323206e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-10-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-10-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-11-30",
+      "difference": 2.2737367544323206e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-11-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-11-30",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2025-12-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2025-12-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2025-12-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2026-01-31",
+      "difference": 1.1368683772161603e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2026-01-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2026-01-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2026-02-28",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2026-02-28",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2026-02-28",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2026-03-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2026-03-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2026-03-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2026-04-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2026-04-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2026-04-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2026-05-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2026-05-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2026-05-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2026-06-30",
+      "difference": 1.1368683772161603e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2026-06-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2026-06-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2026-07-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2026-07-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2026-07-31",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2026-08-31",
+      "difference": 1.1368683772161603e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2026-08-31",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2026-08-31",
+      "difference": 9.094947017729282e-13,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section II maturity columns 2026-09-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Section III maturity columns 2026-09-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    },
+    {
+      "check": "Reserve composition 2026-09-30",
+      "difference": 0.0,
+      "tolerance": 0.001
+    }
+  ],
+  "status": "passed",
+  "official_ratio_reproduced": false,
+  "optimal_target_reproduced": false
+}

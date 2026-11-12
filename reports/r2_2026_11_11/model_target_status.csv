@@ -1,0 +1,6 @@
+channel,reported,unit,independently_replicated_value,missing
+baseline,about 130,percent of ARA,,"Georgia debt exposure, baseline loss, premium, risk aversion, exact conversion"
+spread,about -8 at pi=.10,points of ARA relative to baseline,,"baseline cost intercept, loss and equation/domain selection"
+dollarization,about +18 at pi=.10,points of ARA per paper narrative,,"objective/FOC mapping, baseline intercepts, joint aggregation"
+FXI working liquidity,up to 10,percent of ARA,,"Georgia QIPF specification, innovations, paired paths, drawdown statistic and overlap"
+combined,145 to 150,percent of ARA,,"common normalization, joint channel implementation and overlap correction"

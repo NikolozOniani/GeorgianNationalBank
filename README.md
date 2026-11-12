@@ -50,3 +50,5 @@ python replication/check_repository.py
 ```
 
 See [the reorganization record](docs/REORGANIZATION.md) for preservation and verification details.
+
+[R2 reserve adequacy, liquidity and IMF benchmark results](reports/r2_2026_11_11/README.md)

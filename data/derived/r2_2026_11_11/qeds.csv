@@ -1,0 +1,913 @@
+source,series,quarter,value_usd,label,value_status,provider_update
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,1998Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,1998Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,1998Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,1998Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,1999Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,1999Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,1999Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,1999Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2000Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2000Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2000Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2000Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2001Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2001Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2001Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2001Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2002Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2002Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2002Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2002Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2003Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2003Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2003Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2003Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2004Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2004Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2004Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2004Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2005Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2005Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2005Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2005Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2006Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2006Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2006Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2006Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2007Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2007Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2007Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2007Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2008Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2008Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2008Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2008Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2009Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2009Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2009Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2009Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2010Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2010Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2010Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2010Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2011Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2011Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2011Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2011Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2012Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2012Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2012Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2012Q4,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2013Q1,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2013Q2,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2013Q3,,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2013Q4,1216840399.539999962,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2014Q1,1185493806.680000067,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2014Q2,1182739987.079999924,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2014Q3,1256176072.640000105,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2014Q4,1330232706.240000010,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2015Q1,1464749061.140000105,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2015Q2,1406855061.779999971,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2015Q3,1304986529.269999981,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2015Q4,1387717824.069999933,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2016Q1,1400574728.779999971,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2016Q2,1454858995.759999990,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2016Q3,1471299293.640000105,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2016Q4,1556047096.900000095,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2017Q1,1464052506.519999981,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2017Q2,1672217805.190000057,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2017Q3,1762346245,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2017Q4,1752521593.319999933,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2018Q1,1830998348.900000095,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2018Q2,1646177653.109999895,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2018Q3,1603341948.299999952,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2018Q4,1450549451.039999962,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2019Q1,1505170479.410000086,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2019Q2,1632891696.940000057,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2019Q3,1664789853.910000086,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2019Q4,1793635294.980000019,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2020Q1,1718670822.359999895,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2020Q2,1690429877.200000048,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2020Q3,1819933517.789999962,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2020Q4,1788635041.519999981,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2021Q1,2072666013.839999914,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2021Q2,2072666013.839999914,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2021Q3,1888377498.940000057,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2021Q4,1701345931.700000048,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2022Q1,2095218382.450000048,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2022Q2,2527243426.679999828,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2022Q3,3163771115.510000229,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2022Q4,3591322379.639999866,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2023Q1,3531109828.829999924,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2023Q2,4015468899.989999771,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2023Q3,4049337636.139999866,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2023Q4,4248711064.760000229,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2024Q1,4527324378.189999580,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2024Q2,4547586496.010000229,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2024Q3,4680913961.470000267,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2024Q4,4645437330.279999733,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2025Q1,4916237195.195799828,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2025Q2,5339934250.850000381,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2025Q3,5330710420.319999695,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2025Q4,5128574478.500000000,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2026Q1,5462107664.979999542,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_banks,DT.AMT.DECT.CD.CB.RM.US,2026Q2,5960408240.649999619,"Gross Ext. Debt Pos., Deposit-Taking Corp., exc. CB, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,1998Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,1998Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,1998Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,1998Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,1999Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,1999Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,1999Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,1999Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2000Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2000Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2000Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2000Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2001Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2001Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2001Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2001Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2002Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2002Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2002Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2002Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2003Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2003Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2003Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2003Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2004Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2004Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2004Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2004Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2005Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2005Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2005Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2005Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2006Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2006Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2006Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2006Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2007Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2007Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2007Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2007Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2008Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2008Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2008Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2008Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2009Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2009Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2009Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2009Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2010Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2010Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2010Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2010Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2011Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2011Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2011Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2011Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2012Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2012Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2012Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2012Q4,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2013Q1,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2013Q2,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2013Q3,,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2013Q4,71051010.640000001,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2014Q1,41699296.009999998,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2014Q2,33210016.430000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2014Q3,23879775.170000002,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2014Q4,22873270.280000001,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2015Q1,17972636.100000001,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2015Q2,18741992.820000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2015Q3,15943415.880000001,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2015Q4,13904840.130000001,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2016Q1,14607817.310000001,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2016Q2,10081590.830000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2016Q3,9817348.820000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2016Q4,6670534.530000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2017Q1,2614698.750000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2017Q2,2292068.050000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2017Q3,1433306.660000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2017Q4,528754.580000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2018Q1,666138.010000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2018Q2,937061.930000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2018Q3,1235177.030000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2018Q4,1284695.440000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2019Q1,9047489.189999999,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2019Q2,5807861.360000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2019Q3,2850567.280000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2019Q4,769784.620000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2020Q1,907522.230000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2020Q2,1449311.580000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2020Q3,1330167.390000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2020Q4,5918929.350000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2021Q1,5626743.620000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2021Q2,13486143.020000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2021Q3,13562435.830000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2021Q4,18808642.840000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2022Q1,18684513.969999999,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2022Q2,24552992.899999999,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2022Q3,23567745.079999998,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2022Q4,33005522.239999998,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2023Q1,35530621.570000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2023Q2,38568763.109999999,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2023Q3,37845355.930000000,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2023Q4,42311835,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2024Q1,40453400.460000001,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2024Q2,48817497.289999999,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2024Q3,50786684.789999999,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2024Q4,68964982.439999998,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2025Q1,66977917.979999997,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2025Q2,78224442.099999994,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2025Q3,77931772.620000005,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2025Q4,79528625.549999997,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2026Q1,78444968.969999999,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_central_bank,DT.AMT.DECT.CD.MA.RM.US,2026Q2,77654587.180000007,"Gross Ext. Debt Pos., Central Bank, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,1998Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,1998Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,1998Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,1998Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,1999Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,1999Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,1999Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,1999Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2000Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2000Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2000Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2000Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2001Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2001Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2001Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2001Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2002Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2002Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2002Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2002Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2003Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2003Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2003Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2003Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2004Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2004Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2004Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2004Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2005Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2005Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2005Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2005Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2006Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2006Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2006Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2006Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2007Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2007Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2007Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2007Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2008Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2008Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2008Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2008Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2009Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2009Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2009Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2009Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2010Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2010Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2010Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2010Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2011Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2011Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2011Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2011Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2012Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2012Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2012Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2012Q4,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2013Q1,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2013Q2,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2013Q3,,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2013Q4,889562825.970000029,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2014Q1,902608362.360000014,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2014Q2,774886302.649999976,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2014Q3,742206603.870000005,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2014Q4,742206603.870000005,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2015Q1,742206603.870000005,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2015Q2,636348283.230000019,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2015Q3,715381920.340000033,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2015Q4,731548442.340000033,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2016Q1,677268431.379999995,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2016Q2,703759194.860000014,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2016Q3,750847797.370000005,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2016Q4,742653743.419999957,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2017Q1,803493231.700000048,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2017Q2,742203840.980000019,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2017Q3,731532239.350000024,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2017Q4,652241286,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2018Q1,691773076.210000038,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2018Q2,652303321.899999976,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2018Q3,659738561.279999971,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2018Q4,803192742.159999967,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2019Q1,905833021.159999967,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2019Q2,721475583.169999957,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2019Q3,806984615.830000043,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2019Q4,766895173.730000019,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2020Q1,760528954.440000057,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2020Q2,757800186.409999967,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2020Q3,796048900.429999948,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2020Q4,783008815.409999967,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2021Q1,704465683.690000057,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2021Q2,678967557.429999948,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2021Q3,619492430.570000052,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2021Q4,522782660.970000029,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2022Q1,447826572.519999981,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2022Q2,440984298.529999971,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2022Q3,413217804.689999998,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2022Q4,400081578.980000019,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2023Q1,505406992.029999971,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2023Q2,549697570.929999948,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2023Q3,552443630.259999990,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2023Q4,552443630.259999990,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2024Q1,485215394.449999988,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2024Q2,509960156.589999974,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2024Q3,478183344.029999971,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2024Q4,446992463.560000002,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2025Q1,412555121.839999974,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2025Q2,392321776.870000005,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2025Q3,472031842.110000014,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2025Q4,375147108.279999971,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2026Q1,423232096.769999981,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_di,DT.AMT.DECT.CD.IL.RM.US,2026Q2,432603404.019999981,"Gross Ext. Debt Pos., DI: Intercom Lending, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,1998Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,1998Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,1998Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,1998Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,1999Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,1999Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,1999Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,1999Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2000Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2000Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2000Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2000Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2001Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2001Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2001Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2001Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2002Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2002Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2002Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2002Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2003Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2003Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2003Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2003Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2004Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2004Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2004Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2004Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2005Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2005Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2005Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2005Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2006Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2006Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2006Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2006Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2007Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2007Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2007Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2007Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2008Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2008Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2008Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2008Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2009Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2009Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2009Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2009Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2010Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2010Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2010Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2010Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2011Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2011Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2011Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2011Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2012Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2012Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2012Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2012Q4,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2013Q1,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2013Q2,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2013Q3,,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2013Q4,309482944.470000029,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2014Q1,322651791.470000029,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2014Q2,290831866.120000005,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2014Q3,248456900.990000010,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2014Q4,209176141.490000010,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2015Q1,159495445.879999995,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2015Q2,154767686.479999989,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2015Q3,153909761.960000008,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2015Q4,160603094.939999998,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2016Q1,162145324.780000001,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2016Q2,175088310.159999996,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2016Q3,182548520.129999995,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2016Q4,190423434.610000014,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2017Q1,233839778.409999996,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2017Q2,252777099.710000008,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2017Q3,284225911.259999990,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2017Q4,327102814.920000017,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2018Q1,342891995.769999981,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2018Q2,306155624.910335004,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2018Q3,307887930.389999986,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2018Q4,328299607.569999993,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2019Q1,341852078.790000021,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2019Q2,340887458.550000012,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2019Q3,315576036.160000026,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2019Q4,342834718.110000014,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2020Q1,363987790.170000017,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2020Q2,810981680.830000043,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2020Q3,833997923.610000014,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2020Q4,871971394.210000038,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2021Q1,887886373.950000048,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2021Q2,393602539.129999995,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2021Q3,328089045.449999988,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2021Q4,374770450.329999983,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2022Q1,426333821.079999983,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2022Q2,424234523.480000019,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2022Q3,409654097.149999976,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2022Q4,415299680.420000017,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2023Q1,387534987.649999976,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2023Q2,412667861.649999976,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2023Q3,414596751.550000012,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2023Q4,452650808.110000014,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2024Q1,471658913.889999986,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2024Q2,517647626.740000010,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2024Q3,523897033.819999993,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2024Q4,473667792.759999990,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2025Q1,474768913.519999981,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2025Q2,474768913.519999981,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2025Q3,474630600.110000014,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2025Q4,1006516722.370000005,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2026Q1,636857920.019999981,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_government,DT.AMT.DECT.CD.GG.RM.US,2026Q2,543781773.259999990,"Gross Ext. Debt Pos., General Government, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,1998Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,1998Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,1998Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,1998Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,1999Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,1999Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,1999Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,1999Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2000Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2000Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2000Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2000Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2001Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2001Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2001Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2001Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2002Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2002Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2002Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2002Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2003Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2003Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2003Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2003Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2004Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2004Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2004Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2004Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2005Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2005Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2005Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2005Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2006Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2006Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2006Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2006Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2007Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2007Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2007Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2007Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2008Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2008Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2008Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2008Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2009Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2009Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2009Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2009Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2010Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2010Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2010Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2010Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2011Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2011Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2011Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2011Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2012Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2012Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2012Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2012Q4,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2013Q1,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2013Q2,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2013Q3,,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2013Q4,1104698868.200000048,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2014Q1,1093359501,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2014Q2,1089902864.400000095,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2014Q3,1094970934.400000095,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2014Q4,1174244945.029999971,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2015Q1,1145736755.545799971,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2015Q2,1228187712.670000076,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2015Q3,1118107774.869999886,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2015Q4,1194883475.650000095,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2016Q1,1184722502.039999962,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2016Q2,1272937485.750000000,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2016Q3,1316597733.299999952,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2016Q4,1414604235.359999895,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2017Q1,1464189170.420000076,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2017Q2,1665914154,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2017Q3,1743894770.500000000,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2017Q4,1546124166.329999924,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2018Q1,1652872312.720000029,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2018Q2,1594678735.680000067,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2018Q3,818470797.740000010,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2018Q4,1102837046.690000057,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2019Q1,1105088883.839999914,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2019Q2,1126413692.859999895,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2019Q3,1247792569.640000105,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2019Q4,1411140227.220000029,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2020Q1,1371916544.549999952,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2020Q2,1672779025.789999962,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2020Q3,1838095737.349999905,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2020Q4,1788626203.220000029,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2021Q1,2113213712.069999933,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2021Q2,1961497562.430000067,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2021Q3,1649279910.930000067,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2021Q4,1196521651.819999933,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2022Q1,1262049841.400000095,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2022Q2,1187025459.809999943,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2022Q3,1196994416.440000057,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2022Q4,1097574031.359999895,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2023Q1,1510742004.309999943,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2023Q2,1391848572.589999914,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2023Q3,1065730082.320000052,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2023Q4,1123398224.829999924,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2024Q1,1184783489.609999895,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2024Q2,1239998012.460000038,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2024Q3,1156867550.900000095,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2024Q4,1200975679.759999990,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2025Q1,1180675216.539999962,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2025Q2,1176696448.660000086,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2025Q3,1146034547.579999924,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2025Q4,1221792002.650000095,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2026Q1,1258737501.589999914,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_other_sectors,DT.AMT.DECT.CD.OS.RM.US,2026Q2,1348873295.940000057,"Gross Ext. Debt Pos., Other Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,1998Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,1998Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,1998Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,1998Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,1999Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,1999Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,1999Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,1999Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2000Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2000Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2000Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2000Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2001Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2001Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2001Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2001Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2002Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2002Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2002Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2002Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2003Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2003Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2003Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2003Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2004Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2004Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2004Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2004Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2005Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2005Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2005Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2005Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2006Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2006Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2006Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2006Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2007Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2007Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2007Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2007Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2008Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2008Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2008Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2008Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2009Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2009Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2009Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2009Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2010Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2010Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2010Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2010Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2011Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2011Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2011Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2011Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2012Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2012Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2012Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2012Q4,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2013Q1,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2013Q2,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2013Q3,,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",missing,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2013Q4,3591636048.820000172,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2014Q1,3545812757.519999981,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2014Q2,3371571036.679999828,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2014Q3,3365690287.070000172,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2014Q4,3478733666.909999847,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2015Q1,3530160502.535799980,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2015Q2,3444900736.980000019,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2015Q3,3308329402.320000172,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2015Q4,3488657677.130000114,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2016Q1,3439318804.289999962,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2016Q2,3616725577.360000134,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2016Q3,3731110693.260000229,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2016Q4,3910399044.820000172,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2017Q1,3968189385.800000191,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2017Q2,4335404967.930000305,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2017Q3,4523432472.770000458,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2017Q4,4278518615.150000095,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2018Q1,4519201871.609999657,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2018Q2,4200252397.530330181,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2018Q3,3390674414.739999771,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2018Q4,3686163542.900000095,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2019Q1,3866991952.389999866,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2019Q2,3827476292.880000114,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2019Q3,4037993642.820000172,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2019Q4,4315275198.659999847,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2020Q1,4216011633.750000000,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2020Q2,4933440081.810000420,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2020Q3,5289406246.569999695,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2020Q4,5238160383.710000038,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2021Q1,5783858527.170000076,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2021Q2,5120219815.850000381,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2021Q3,4498801321.720000267,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2021Q4,3814229337.659999847,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2022Q1,4250113131.420000076,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2022Q2,4604040701.399999619,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2022Q3,5207205178.869999886,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2022Q4,5537283192.640000343,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2023Q1,5970324434.390000343,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2023Q2,6408251668.270000458,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2023Q3,6119953456.199999809,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2023Q4,6419515562.960000038,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2024Q1,6709435576.600000381,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2024Q2,6864009789.090000153,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2024Q3,6890648575.010000229,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2024Q4,6836038248.800000191,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2025Q1,7051214365.075799942,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2025Q2,7461945832,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2025Q3,7501339182.739999771,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2025Q4,7811558937.350000381,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2026Q1,7859380152.329999924,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_principal_total,DT.AMT.DECT.CD.RM.US,2026Q2,8363321301.050000191,"Gross Ext. Debt Pos., All Sectors, One year or less, All instruments, Principal, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,1998Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,1998Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,1998Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,1998Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,1999Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,1999Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,1999Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,1999Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2000Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2000Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2000Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2000Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2001Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2001Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2001Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2001Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2002Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2002Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2002Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2002Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2003Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2003Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2003Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2003Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2004Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2004Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2004Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2004Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2005Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2005Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2005Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2005Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2006Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2006Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2006Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2006Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2007Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2007Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2007Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2007Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2008Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2008Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2008Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2008Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2009Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2009Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2009Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2009Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2010Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2010Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2010Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2010Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2011Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2011Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2011Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2011Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2012Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2012Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2012Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2012Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2013Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2013Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2013Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2013Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2014Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2014Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2014Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2014Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2015Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2015Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2015Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2015Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2016Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2016Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2016Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2016Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2017Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2017Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2017Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2017Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2018Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2018Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2018Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2018Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2019Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2019Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2019Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2019Q4,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2020Q1,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2020Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2020Q3,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2020Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2021Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2021Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2021Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2021Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2022Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2022Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2022Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2022Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2023Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2023Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2023Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2023Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2024Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2024Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2024Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2024Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2025Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2025Q2,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2025Q3,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2025Q4,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2026Q1,0,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_di,DT.DOR.DECT.CD.IL.US,2026Q2,,"Gross Ext. Debt Pos., ST Rem., DI: Intercom Lending, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,1998Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,1998Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,1998Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,1998Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,1999Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,1999Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,1999Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,1999Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2000Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2000Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2000Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2000Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2001Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2001Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2001Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2001Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2002Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2002Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2002Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2002Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2003Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2003Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2003Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2003Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2004Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2004Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2004Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2004Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2005Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2005Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2005Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2005Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2006Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2006Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2006Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2006Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2007Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2007Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2007Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2007Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2008Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2008Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2008Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2008Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2009Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2009Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2009Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2009Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2010Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2010Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2010Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2010Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2011Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2011Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2011Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2011Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2012Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2012Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2012Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2012Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2013Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2013Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2013Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2013Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2014Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2014Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2014Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2014Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2015Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2015Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2015Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2015Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2016Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2016Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2016Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2016Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2017Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2017Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2017Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2017Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2018Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2018Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2018Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2018Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2019Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2019Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2019Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2019Q4,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2020Q1,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2020Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2020Q3,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2020Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2021Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2021Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2021Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2021Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2022Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2022Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2022Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2022Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2023Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2023Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2023Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2023Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2024Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2024Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2024Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2024Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2025Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2025Q2,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2025Q3,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2025Q4,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2026Q1,0,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",reported,2026-11-03
+qeds_remaining_total,DT.DOR.DSTC.CD.RM.AR.US,2026Q2,,"Gross Ext. Debt Pos., ST Rem., All Sectors, All maturities, All instruments, USD",missing,2026-11-03

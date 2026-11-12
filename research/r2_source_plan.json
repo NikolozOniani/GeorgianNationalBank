@@ -1,0 +1,76 @@
+[
+  {
+    "id": "qeds_remaining_total",
+    "format": "json",
+    "series": "DT.DOR.DSTC.CD.RM.AR.US",
+    "url": "https://api.worldbank.org/v2/country/GEO/indicator/DT.DOR.DSTC.CD.RM.AR.US?source=22&format=json&per_page=1000",
+    "scope": "Georgia, quarterly SDDS, USD. Retain missing observations."
+  },
+  {
+    "id": "qeds_remaining_di",
+    "format": "json",
+    "series": "DT.DOR.DECT.CD.IL.US",
+    "url": "https://api.worldbank.org/v2/country/GEO/indicator/DT.DOR.DECT.CD.IL.US?source=22&format=json&per_page=1000",
+    "scope": "Georgia, quarterly SDDS, USD. Retain missing observations."
+  },
+  {
+    "id": "qeds_principal_total",
+    "format": "json",
+    "series": "DT.AMT.DECT.CD.RM.US",
+    "url": "https://api.worldbank.org/v2/country/GEO/indicator/DT.AMT.DECT.CD.RM.US?source=22&format=json&per_page=1000",
+    "scope": "Georgia, quarterly SDDS, USD. Retain missing observations."
+  },
+  {
+    "id": "qeds_principal_di",
+    "format": "json",
+    "series": "DT.AMT.DECT.CD.IL.RM.US",
+    "url": "https://api.worldbank.org/v2/country/GEO/indicator/DT.AMT.DECT.CD.IL.RM.US?source=22&format=json&per_page=1000",
+    "scope": "Georgia, quarterly SDDS, USD. Retain missing observations."
+  },
+  {
+    "id": "qeds_series",
+    "format": "json",
+    "url": "https://api.worldbank.org/v2/indicator?source=22&format=json&per_page=5000",
+    "scope": "QEDS SDDS series definitions"
+  },
+  {
+    "id": "jr2006",
+    "format": "pdf",
+    "url": "https://www.imf.org/external/pubs/ft/wp/2006/wp06229.pdf",
+    "scope": "Jeanne and Rancière 2006, formula and published benchmark calibration"
+  },
+  {
+    "id": "ara_guidance",
+    "format": "pdf",
+    "url": "https://www.imf.org/external/np/pp/eng/2016/060316.pdf",
+    "scope": "ARA weights and methodology"
+  }
+  ,{
+    "id": "qeds_principal_government",
+    "format": "json",
+    "series": "DT.AMT.DECT.CD.GG.RM.US",
+    "url": "https://api.worldbank.org/v2/country/GEO/indicator/DT.AMT.DECT.CD.GG.RM.US?source=22&format=json&per_page=1000",
+    "scope": "Georgia, principal due in one year or less, USD, sector reconciliation"
+  },
+  {
+    "id": "qeds_principal_central_bank",
+    "format": "json",
+    "series": "DT.AMT.DECT.CD.MA.RM.US",
+    "url": "https://api.worldbank.org/v2/country/GEO/indicator/DT.AMT.DECT.CD.MA.RM.US?source=22&format=json&per_page=1000",
+    "scope": "Georgia, principal due in one year or less, USD, sector reconciliation"
+  },
+  {
+    "id": "qeds_principal_banks",
+    "format": "json",
+    "series": "DT.AMT.DECT.CD.CB.RM.US",
+    "url": "https://api.worldbank.org/v2/country/GEO/indicator/DT.AMT.DECT.CD.CB.RM.US?source=22&format=json&per_page=1000",
+    "scope": "Georgia, principal due in one year or less, USD, sector reconciliation"
+  },
+  {
+    "id": "qeds_principal_other_sectors",
+    "format": "json",
+    "series": "DT.AMT.DECT.CD.OS.RM.US",
+    "url": "https://api.worldbank.org/v2/country/GEO/indicator/DT.AMT.DECT.CD.OS.RM.US?source=22&format=json&per_page=1000",
+    "scope": "Georgia, principal due in one year or less, USD, sector reconciliation"
+  }
+]

@@ -1,0 +1,25 @@
+date,field,value_usdm,source,sheet,cell
+2020-12-31,bank_st_debt_security_assets,0,iip,IIP-1 (BPM6),CH48
+2020-12-31,bank_st_deposit_assets,1132.137362040,iip,IIP-1 (BPM6),CH80
+2020-12-31,bank_st_deposit_liabilities,1110.089236700,iip,IIP-1 (BPM6),CH261
+2021-12-31,bank_st_debt_security_assets,0,iip,IIP-1 (BPM6),CL48
+2021-12-31,bank_st_deposit_assets,962.532674130,iip,IIP-1 (BPM6),CL80
+2021-12-31,bank_st_deposit_liabilities,1316.307463790,iip,IIP-1 (BPM6),CL261
+2022-12-31,bank_st_debt_security_assets,0,iip,IIP-1 (BPM6),CP48
+2022-12-31,bank_st_deposit_assets,1889.392350430,iip,IIP-1 (BPM6),CP80
+2022-12-31,bank_st_deposit_liabilities,2778.111896040,iip,IIP-1 (BPM6),CP261
+2023-12-31,bank_st_debt_security_assets,99.801868870,iip,IIP-1 (BPM6),CT48
+2023-12-31,bank_st_deposit_assets,2122.373219080,iip,IIP-1 (BPM6),CT80
+2023-12-31,bank_st_deposit_liabilities,3141.002802210,iip,IIP-1 (BPM6),CT261
+2024-12-31,bank_st_debt_security_assets,1044.675527740,iip,IIP-1 (BPM6),CX48
+2024-12-31,bank_st_deposit_assets,1851.371298040,iip,IIP-1 (BPM6),CX80
+2024-12-31,bank_st_deposit_liabilities,3609.153946300,iip,IIP-1 (BPM6),CX261
+2025-12-31,bank_st_debt_security_assets,930.516643730,iip,IIP-1 (BPM6),DB48
+2025-12-31,bank_st_deposit_assets,1568.494772430,iip,IIP-1 (BPM6),DB80
+2025-12-31,bank_st_deposit_liabilities,3875.570201910,iip,IIP-1 (BPM6),DB261
+2026-03-31,bank_st_debt_security_assets,677.132137750,iip,IIP-1 (BPM6),DC48
+2026-03-31,bank_st_deposit_assets,1825.217173270,iip,IIP-1 (BPM6),DC80
+2026-03-31,bank_st_deposit_liabilities,4231.631416900,iip,IIP-1 (BPM6),DC261
+2026-06-30,bank_st_debt_security_assets,672.263314620,iip,IIP-1 (BPM6),DD48
+2026-06-30,bank_st_deposit_assets,2040.464852010,iip,IIP-1 (BPM6),DD80
+2026-06-30,bank_st_deposit_liabilities,4441.583336070,iip,IIP-1 (BPM6),DD261
