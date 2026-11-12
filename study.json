@@ -20,9 +20,10 @@
     "2026-12-31"
   ],
   "episode_status": "Administrative evaluation window registered in R0; exact first execution/program boundaries remain an R1 gate. September 2026 is the last acquired intervention month, not a proven program end. Different accounting series have earlier cutoffs.",
-  "stage": "R0 complete. R1 public accounting committed, G1 partial. R2 public reconstruction and equation audit complete at documented precision, G4 partial. Official component reconciliation and numerical target replication remain open. R3 public design audit completed. G2 unsatisfied for an estimated path and empirical bounds.",
+  "stage": "R0 complete. R1 public accounting committed, G1 partial. R2 public reconstruction and equation audit complete at documented precision, G4 partial. Official component reconciliation and numerical target replication remain open. R3 public design audit completed. G2 unsatisfied for an estimated path and empirical bounds. R4 accounts, CD accrual and conditional carry completed. G3 remains unsatisfied for marginal attribution.",
   "r1_status": "research/R1_STATUS.md",
   "r1_results": "reports/r1_2026_11_10/README.md",
   "r2_results": "reports/r2_2026_11_11/README.md",
-  "r3_results": "reports/r3_2026_11_12/README.md"
+  "r3_results": "reports/r3_2026_11_12/README.md",
+  "r4_results": "reports/r4_2026_11_12/README.md"
 }

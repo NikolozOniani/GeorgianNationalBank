@@ -1,0 +1,13 @@
+year,item,amount_gelm,eliminate_as,internal_transfer_or_position
+2024,government_interest,180.034,income at NBG and corresponding Treasury interest expense,True
+2024,government_fvoci,1871.247,domestic sovereign securities at NBG carrying value,True
+2024,government_amortised,41.01,amortised-cost government securities at NBG,True
+2024,government_deposits,1447.25,Treasury deposit claim against NBG,True
+2024,government_profit_payable,670.146,declared profit payable at year-end,True
+2024,profit_payment,302.877,cash distributed to Treasury in year,True
+2025,government_interest,137.465,income at NBG and corresponding Treasury interest expense,True
+2025,government_fvoci,1496.259,domestic sovereign securities at NBG carrying value,True
+2025,government_amortised,0.0,amortised-cost government securities at NBG,True
+2025,government_deposits,2073.057,Treasury deposit claim against NBG,True
+2025,government_profit_payable,571.507,declared profit payable at year-end,True
+2025,profit_payment,670.146,cash distributed to Treasury in year,True

@@ -1,0 +1,21 @@
+{
+  "incremental_episode_cost_gelm": null,
+  "inputs": {
+    "data/derived/episode_2026_11_09/annual_interest_accounts.csv": "6d47b9ce31617d8a2182cc463f6102c3a704f84e621c3e7be820d70a2b48adbe",
+    "data/derived/episode_2026_11_09/cd_auctions_events.csv": "a9e69a9a82ee0bdcc7be7489ca080cb2aa799a44b76e8b8e1b820cb29e51009a",
+    "data/derived/episode_2026_11_09/refinancing_events.csv": "66ca6aad19aa52d9bb25bbc3e8f6ec1e0ab4fb6ffe0f31f5f9645ffc9d7f0ff0",
+    "data/derived/episode_2026_11_09/sofr_daily.csv": "f694d3109a259028c021669b7545f5bc53a5b4e04dd7c7c8d5a8a7d6b90bdfbc",
+    "reports/acquisition_2026_11_09/monthly_policy_panel.csv": "e452cc5d02c4b95e64f7d61644673bee3b626955324c333cef386d5cd4725dd5",
+    "reports/r1_2026_11_10/cd_financing_reconciliation.csv": "1744f849564ec8fc0ba5f394f950e59366642c439f05a2a239694f129936ccd5",
+    "reports/r1_2026_11_10/liquidity_counterparts.csv": "adae41fe8cf95c5c1d48b1a81193401f4d9cc548bcdd21f6b1ac117630beaacf",
+    "reports/r2_2026_11_11/liquidity_schedule.csv": "57f6c6100c7bd8c7b0cf4f4712a3b587d95039c2d31080f5490a8b72357cc75b",
+    "research/r4_notes.csv": "4b6ee9b23bb1f028dd5b63f2429d3ebb57ac98cdc25fc84cb585f5ab6db341f1"
+  },
+  "sha256": {
+    "annual_accounts.csv": "b7fd285c529d09c78acc54ed7f3d88e15395f3e31a094f8080a994b657ae2aa6",
+    "cd_reconciliation.csv": "aa9cb396cc131e38e4d7f7fe5bc0800232f2dd00b937b5f8401b456cc3cb7b59",
+    "conditional_carry.csv": "2fb1d5f68c28db88fbd28e26a5b67b4c29228caed233b656f59ba703b201fc93",
+    "monthly_exposures.csv": "0b4ff092fe6054adad65d9851bddb9f97cd75a17163da719164e3b26a83ecebc",
+    "public_sector_eliminations.csv": "0a6c644931a34a50aa9f94dfd175255d6acefccffbbfc616e30406380e375374"
+  }
+}

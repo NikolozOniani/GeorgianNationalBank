@@ -1,0 +1,15 @@
+item,pdf_page,unit,y2025,y2024,source_fragment
+custody_settlement,260,GEL thousand,-1386,-1826,"Custodian and settlement fees (1,386) (1,826)"
+external_manager,260,GEL thousand,-1776,-1748,"Fees paid to external manager (1,776) (1,748)"
+cash_operations,260,GEL thousand,-170,-2298,"Cash operations (170) (2,298)"
+total_commission_expense,260,GEL thousand,-3332,-5872,"Total fee and commission expense (3,332) (5,872)"
+government_interest,274,GEL thousand,137465,180034,"- Government of Georgia 137,465 180,034"
+government_fvoci,274,GEL thousand,1496259,1871247,"Government of Georgia 13 1,496,259 1,496,259 1,871,247 1,871,247"
+government_amortised,274,GEL thousand,0,41010,"Government of Georgia 14 - - 41,010 41,010"
+government_deposits,274,GEL thousand,2073057,1447250,"Due to the Ministry of Finance 20 2,073,057 2,073,057 1,447,250 1,447,250"
+government_profit_payable,274,GEL thousand,571507,670146,"18 571,507 571,507 670,146 670,146"
+profit_payment,275,GEL thousand,670146,302877,"670,146 - - (670,146)"
+net_fx_assets,292,GEL thousand,8154955,3348369,"(18,564) 8,154,955"
+gel_obligatory_pct,271,percent,8,8,on GEL denominated obligatory reserves was 8.0% and 8.0%
+refi_low_pct,262,percent,8,8.188,8.0% - 8.05%
+refi_high_pct,262,percent,8.05,8.71,8.188% - 8.71%
