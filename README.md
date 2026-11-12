@@ -52,3 +52,5 @@ python replication/check_repository.py
 See [the reorganization record](docs/REORGANIZATION.md) for preservation and verification details.
 
 [R2 reserve adequacy, liquidity and IMF benchmark results](reports/r2_2026_11_11/README.md)
+
+[R3 no-purchases exchange-rate design decision](reports/r3_2026_11_12/README.md)
