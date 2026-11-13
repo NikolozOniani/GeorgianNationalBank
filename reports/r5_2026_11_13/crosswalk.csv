@@ -1,10 +1,10 @@
-cpi,label,survey,match
-11,Restaurants and hotels,diary_food,direct
-12,Miscellaneous goods and services,diary_soft_drinks,direct
-21,Alcoholic beverages,diary_alcohol,direct
-3,Clothing and footwear,tansacmeli,direct
-5,"Furnishings, household equipment and routine maintenance of the house",saojaxo,approximate
-6,Health,samedicino,direct
-4,"Housing, water, electricity, gas and other fuels",energia,approximate
-7,Transport,transporti,direct
-10,Education,ganatleba,direct
+cpi,cpi_level,sheet,source_row,label,survey,match
+11,3,Georgia,8,Food,diary_food,direct
+12,3,Georgia,9,Non-alcoholic beverages,diary_soft_drinks,direct
+21,3,Georgia,11,Alcoholic beverages,diary_alcohol,direct
+3,2,Georgia,13,Clothing and footwear,tansacmeli,direct
+5,2,Georgia,22,"Furnishings, household equipment and routine maintenance of the house",saojaxo,approximate
+6,2,Georgia,29,Health,samedicino,direct
+4,2,Georgia,16,"Housing, water, electricity, gas and other fuels",energia,approximate
+7,2,Georgia,33,Transport,transporti,direct
+10,2,Georgia,48,Education,ganatleba,direct

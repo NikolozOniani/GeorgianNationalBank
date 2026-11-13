@@ -1,0 +1,31 @@
+{
+  "independent_category_cells": 216,
+  "independent_diagnostic_fits": 27,
+  "independent_group_standard_errors": 72,
+  "additional_2025_publication_checks": {
+    "urban_monthly_expenditure_gel": {
+      "calculated": 2014.7206179,
+      "published": 2015
+    },
+    "rural_monthly_expenditure_gel": {
+      "calculated": 1799.2340974,
+      "published": 1799
+    },
+    "cash_consumption_pct_expenditure": {
+      "calculated": 69.3391284,
+      "published": 69.3
+    },
+    "food_beverage_tobacco_pct_cash_consumption": {
+      "calculated": 38.7000977,
+      "published": 38.7
+    }
+  },
+  "shared_diary_ids": 4099,
+  "sha256": {
+    "group_cpi.xlsx": "5b2df9ab880ff87e07e3329b35826c301f3c318f35aa1313041ad1b55946b6b7",
+    "official_fx_daily.csv": "00f0f7af6e86cf4d26f75b5dad98d94181d02f3e9f53bb9150724e21f9234455",
+    "broad_dollar_daily.csv": "f49cb70bf62701cc2493349f96817c427a859f64791c0c1ae366a175974446f6",
+    "2024.zip": "29f02b054c23eb4a0607f76b78f44212368e4fa2e83859d7a4f4adeb697f08a7",
+    "2025.zip": "b4a7d3d8306bcdd06e785a8bec676ec0a371fd02ffcc904bd02edf34ab7d368c"
+  }
+}

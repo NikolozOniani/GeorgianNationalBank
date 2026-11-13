@@ -11,6 +11,8 @@ import pandas as pd
 import openpyxl
 import pyreadstat
 
+from r5_cpi import SERIES, select_series
+
 ROOT = Path(__file__).resolve().parents[1]
 REPORT = ROOT / 'reports/r5_2026_11_13'
 LEGACY = ROOT / 'archive/legacy/reports'
@@ -45,11 +47,17 @@ def prices(path):
         if isinstance(value,int):
             year = value
         if year and rows[3][j] in months and 2020 <= year <= 2025:
-            indices[f'{year}-{1+months.index(rows[3][j]):02}'] = j
-    records = {int(r[1]):r for r in rows[4:] if isinstance(r[1],int)}
-    rates = pd.DataFrame({k:{t:records[k][j] for t,j in indices.items()} for k in GROUPS},dtype=float)/100
-    require(len(rates)==72 and rates.notna().all().all() and (rates>0).all().all(), 'CPI month coverage')
-    return rates, {k:records[k][2] for k in GROUPS}
+            key = f'{year}-{1+months.index(rows[3][j]):02}'
+            require(key not in indices, 'duplicate CPI month '+key)
+            indices[key] = j
+    records = select_series(rows[4:])
+    require(GROUPS.keys()==records.keys(), 'CPI and household crosswalk disagree')
+    rates = pd.DataFrame({k:{t:row[j] for t,j in indices.items()}
+                          for k,(_,row) in records.items()},dtype=float).sort_index()/100
+    expected=pd.period_range('2020-01','2025-12',freq='M').astype(str)
+    require(rates.index.equals(expected) and np.isfinite(rates).all().all()
+            and (rates>0).all().all(), 'CPI month coverage')
+    return rates, {k:number for k,(number,_) in records.items()}
 
 
 def household(raw, year, rates):
@@ -74,12 +82,13 @@ def household(raw, year, rates):
                 'Saxsrebi_Sul','MTlianixarjebi_',MIXED,'sxva','Arafuladi_moxm_','fuladixarjebi','samomxmXarjebi',
                 'Fuladisaxsrebi','ArafuladiMoxmareba'] + list(GROUPS.values())[3:]
     require(np.isfinite(d[required]).all().all() and (d[required]>=0).all().all(), 'missing/negative survey field')
-    require((d[['Weights',TOTAL,RANK]]>0).all().all() and d.index.notna().all(), 'nonpositive base')
+    require((d[['Weights',TOTAL,RANK,'Eq_Skale_0_6']]>0).all().all() and d.index.notna().all(), 'nonpositive base')
+    require(d.QuartNo.notna().all() and d.QuartNo.nunique()==4, 'missing quarter or wrong number of quarters')
     require(set(d.UrbanOrRural)=={1,2},'residence codes')
     t = pd.to_datetime(d.MonthYear).dt.strftime('%Y-%m')
     require(set(t)=={f'{year}-{i:02}' for i in range(1,13)},'survey months')
     require(not d.reset_index().duplicated(['DiaryID','QuartNo']).any(), 'repeated household within quarter')
-    require(items.UID.isin(d.index).all() and items[['ProductCode','Paid']].notna().all().all()
+    require(items.UID.isin(d.index).all() and np.isfinite(items[['ProductCode','Paid']]).all().all() and not items.duplicated(['UID','ProductCode']).any()
             and (items.Paid>=0).all() and (items.ProductCode%1==0).all(), 'invalid diary fields')
     items['prefix'] = items.ProductCode.astype(int)//1000
     for code in (11,12,21):
@@ -89,6 +98,7 @@ def household(raw, year, rates):
     require(d.mixed_remainder.min()>-1e-7,'diary exceeds mixed cash field')
     def identity(left,right):
         require(np.allclose(left,right,atol=1e-7,rtol=0),'accounting identity')
+    identity(d[RANK],d[TOTAL]/d.Eq_Skale_0_6)
     cash = [MIXED,'sxva']+list(GROUPS.values())[3:]
     identity(d[cash].sum(axis=1), d.samomxmXarjebi)
     identity(d.samomxmXarjebi+d.Arafuladi_moxm_,d[TOTAL])
@@ -148,7 +158,7 @@ def groups(d, year):
                      saving_025_survey_price_pct_total=.25*(1-weighted(g,'unmatched')/tot))
             result.append(row)
             for c,f in GROUPS.items():
-                cats.append(dict(year=year,group=name,level=label,cpi=c,survey_gel=weighted(g,f),
+                cats.append(dict(year=year,group=name,level=label,cpi=c,cpi_level=SERIES[c][0],survey_gel=weighted(g,f),
                                  dec_gel=weighted(g,'dec_'+f),share_pct=100*weighted(g,f)/tot))
     return result,cats
 
@@ -159,7 +169,7 @@ def checks(d,year):
         g=d if group=='all' else d[d.residence==group]
         val=weighted(g,field)
         out.append(dict(year=year,group=group,field=field,hies_gel=val,published_gel=published,gap_gel=val-published))
-        require(abs(val-published)<=.051,f'official discrepancy {year} {group} {field}: {val} vs {published}')
+        require(abs(val-published)<.05,f'official discrepancy {year} {group} {field}: {val} vs {published}')
     anchor('all','MTlianixarjebi_',1735.7 if year==2024 else 1936.3)
     anchor('all','Saxsrebi_Sul',1895.7 if year==2024 else 2131.5)
     if year==2024:
@@ -192,7 +202,7 @@ def diagnostics(rates):
             x=np.column_stack([np.ones(len(frame)),frame[['app','dep','dollar','lag_pi']],months])
             coef,_,rank,_=np.linalg.lstsq(x,frame.y,rcond=None)
             require(rank==x.shape[1], 'diagnostic rank')
-            out.append(dict(code=code,lag_months=lag,first=frame.index[0],last=frame.index[-1],n=len(frame),
+            out.append(dict(code=code,cpi_level=SERIES[code][0],lag_months=lag,first=frame.index[0],last=frame.index[-1],n=len(frame),
                             appreciation_months=sum(frame.app<0),depreciation_months=sum(frame.dep>0),
                             appreciation_slope=coef[1],depreciation_slope=coef[2]))
     return out
@@ -204,7 +214,7 @@ def main():
     parser.add_argument('--group-cpi',required=True,type=Path)
     parser.add_argument('--check',action='store_true')
     args=parser.parse_args()
-    rates,labels=prices(args.group_cpi)
+    rates,source_rows=prices(args.group_cpi)
     exposure=[]; categories=[]; anchors=[]; audit=[]
     for year in (2024,2025):
         d,meta=household(args.release_dir,year,rates)
@@ -215,7 +225,7 @@ def main():
         categories+=b
     outputs={'groups':exposure,'category_exposures':categories,'geostat_checks':anchors,
              'survey_validation':audit,'price_diagnostics':diagnostics(rates),
-             'crosswalk':[dict(cpi=k,label=labels[k],survey=v,match='approximate' if k in APPROX else 'direct') for k,v in GROUPS.items()]}
+             'crosswalk':[dict(cpi=k,cpi_level=SERIES[k][0],sheet='Georgia',source_row=source_rows[k],label=SERIES[k][1],survey=v,match='approximate' if k in APPROX else 'direct') for k,v in GROUPS.items()]}
     for name,data in outputs.items():
         content=pd.DataFrame(data).to_csv(index=False,float_format='%.8f').encode()
         path=REPORT/(name+'.csv')
