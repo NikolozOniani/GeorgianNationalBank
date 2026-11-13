@@ -56,3 +56,5 @@ See [the reorganization record](docs/REORGANIZATION.md) for preservation and ver
 [R3 no-purchases exchange-rate design decision](reports/r3_2026_11_12/README.md)
 
 [R4 reserve income, funding accounts and conditional carry](reports/r4_2026_11_12/README.md)
+
+[R5 household basket and foreign-transfer exposures](reports/r5_2026_11_13/README.md)

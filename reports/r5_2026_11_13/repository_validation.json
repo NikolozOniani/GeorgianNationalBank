@@ -1,0 +1,37 @@
+{
+  "baseline_commit": "46fdde7dd8cb673378154c099b72e8c40060b684",
+  "archive": {
+    "root_configuration": 2,
+    "archived_unchanged": 120,
+    "git_history_only": 24
+  },
+  "documentation": {
+    "requirements": 18,
+    "active_markdown_files_checked": 20,
+    "broken_local_links": 0
+  },
+  "current_tests": {
+    "returncode": 0,
+    "passed": 37,
+    "skipped": 0
+  },
+  "legacy_tests": {
+    "returncode": 0,
+    "passed": 32,
+    "skipped": 0
+  },
+  "retired_tests": [
+    {
+      "id": "test_accountability.AccountabilityTests.test_speech_claims_have_briefing_and_partial_coverage_survives",
+      "reason": "Editorial checks require withdrawn speech and briefing. Their source remains in Git history; the numerical partial-coverage assertions are retained in tests/test_project_structure.py."
+    }
+  ],
+  "archive_after_checks": {
+    "root_configuration": 2,
+    "archived_unchanged": 120,
+    "git_history_only": 24
+  },
+  "new_empirical_estimation": false,
+  "new_manuscript_written": false,
+  "status": "passed"
+}
