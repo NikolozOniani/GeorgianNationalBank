@@ -1,0 +1,28 @@
+[
+  {
+    "id": "adler2015",
+    "url": "https://www.imf.org/external/pubs/ft/wp/2015/wp15130.pdf",
+    "local_path": "data/raw/r3_reopen_2026_11_16/adler2015.pdf",
+    "retrieved_date_utc": "2026-11-16",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "gdp_wb",
+    "url": "https://api.worldbank.org/v2/country/GEO/indicator/NY.GDP.MKTP.CD?format=json&date=2020:2024&per_page=100",
+    "local_path": "data/raw/r3_reopen_2026_11_16/gdp_wb.json",
+    "retrieved_date_utc": "2026-11-16",
+    "status": "acquired",
+    "sha256": "f5a009ec0536b2c4a5755d91533fb5bc225590e861fe2bc62751e4d4b2efb306",
+    "bytes": 1122
+  },
+  {
+    "id": "adler2015_alternate",
+    "url": "https://www.imf.org/-/media/websites/imf/imported-full-text-pdf/external/pubs/ft/wp/2015/_wp15130.pdf",
+    "local_path": "data/raw/r3_reopen_2026_11_16/adler2015.pdf",
+    "retrieved_date_utc": "2026-11-16",
+    "status": "acquired",
+    "sha256": "b2cd240f1a439dc6771beadc6dfcc03423753b53fb11cef7b885a2daa76af921",
+    "bytes": 993465
+  }
+]

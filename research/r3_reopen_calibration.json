@@ -1,0 +1,94 @@
+[
+  {
+    "id": "A11_col1",
+    "source": "adler2015_alternate",
+    "pdf_page": 41,
+    "table": "A11",
+    "column": 1,
+    "rho": 0.976,
+    "b_gel_per_usd": [
+      1.694,
+      -0.113,
+      -0.005,
+      -0.137
+    ],
+    "source_b_appreciation": [
+      -1.694,
+      0.113,
+      0.005,
+      0.137
+    ],
+    "contemporaneous_se": 0.359,
+    "primary": false,
+    "classification": "external calibration; not Georgia estimates"
+  },
+  {
+    "id": "A11_col4",
+    "source": "adler2015_alternate",
+    "pdf_page": 41,
+    "table": "A11",
+    "column": 4,
+    "rho": 0.971,
+    "b_gel_per_usd": [
+      1.913,
+      -0.119,
+      0.026,
+      -0.154
+    ],
+    "source_b_appreciation": [
+      -1.913,
+      0.119,
+      -0.026,
+      0.154
+    ],
+    "contemporaneous_se": 0.534,
+    "primary": true,
+    "classification": "external calibration; not Georgia estimates"
+  },
+  {
+    "id": "A11_col7",
+    "source": "adler2015_alternate",
+    "pdf_page": 41,
+    "table": "A11",
+    "column": 7,
+    "rho": 0.974,
+    "b_gel_per_usd": [
+      1.868,
+      -0.115,
+      0.012,
+      -0.127
+    ],
+    "source_b_appreciation": [
+      -1.868,
+      0.115,
+      -0.012,
+      0.127
+    ],
+    "contemporaneous_se": 0.452,
+    "primary": false,
+    "classification": "external calibration; not Georgia estimates"
+  },
+  {
+    "id": "A11_col10",
+    "source": "adler2015_alternate",
+    "pdf_page": 41,
+    "table": "A11",
+    "column": 10,
+    "rho": 0.968,
+    "b_gel_per_usd": [
+      2.028,
+      -0.105,
+      0.049,
+      -0.128
+    ],
+    "source_b_appreciation": [
+      -2.028,
+      0.105,
+      -0.049,
+      0.128
+    ],
+    "contemporaneous_se": 0.653,
+    "primary": false,
+    "classification": "external calibration; not Georgia estimates"
+  }
+]
