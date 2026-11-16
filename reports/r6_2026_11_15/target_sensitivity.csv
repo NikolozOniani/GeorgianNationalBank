@@ -1,0 +1,5 @@
+money_definition,ara_usdm,target_ara_pct,current_gir_usdm,target_gir_usdm,additional_reserves_usdm,annual_cd_cost_usdm,required_hazard_reduction_pp_if_loss_10pct_gdp,classification
+M2,6369.798048689,145.0,6159.276627264,9236.207170599,3076.930543335,129.846468929,3.408043804,static unchanged-FX CD scenario; fixed ARA/GDP; not replicated IMF target or observed loss
+M2,6369.798048689,150.0,6159.276627264,9554.697073033,3395.420445769,143.286742811,3.760806898,static unchanged-FX CD scenario; fixed ARA/GDP; not replicated IMF target or observed loss
+M3,6792.38388606,145.0,6159.276627264,9848.956634787,3689.680007523,155.704496317,4.086732187,static unchanged-FX CD scenario; fixed ARA/GDP; not replicated IMF target or observed loss
+M3,6792.38388606,150.0,6159.276627264,10188.57582909,4029.299201826,170.036426317,4.462898329,static unchanged-FX CD scenario; fixed ARA/GDP; not replicated IMF target or observed loss

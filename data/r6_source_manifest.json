@@ -1,0 +1,28 @@
+[
+  {
+    "id": "mof_feb2026",
+    "url": "https://mof.ge/files/download/%E1%83%9B%E1%83%97%E1%83%90%E1%83%95%E1%83%A0%E1%83%9D%E1%83%91%E1%83%98%E1%83%A1%20%E1%83%95%E1%83%90%E1%83%9A%E1%83%98%E1%83%A1%20%E1%83%A7%E1%83%9D%E1%83%95%E1%83%94%E1%83%9A%E1%83%97%E1%83%95%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98%20%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%98%20%20%E1%83%97%E1%83%94%E1%83%91%E1%83%94%E1%83%A0%E1%83%95%E1%83%90%E1%83%9A%E1%83%98.pdf/5fa2c4d8-f0de-4e3e-ae50-4f1845f47124",
+    "local_path": "data/raw/r6_2026_11_15/mof_feb2026.pdf",
+    "sha256": "be94b96cb8823ae4d37d4da795e73814ef6c02c0a01823528bf42ae3ac2970f3",
+    "bytes": 1519359,
+    "retrieved_date_utc": "2026-11-15",
+    "document_date": "February 2026",
+    "publication_day": null,
+    "scope": "PDF physical pages 5 and 6, printed pages 3 and 4; 2021 and 2026 Eurobond original issuance terms",
+    "status": "acquired; extracted terms checked against source",
+    "rights": "Publicly accessible official MoF statistical report; raw PDF cached outside Git; only factual observations committed"
+  },
+  {
+    "id": "mof_2026_offering",
+    "url": "https://mof.ge/files/download/%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A1%20%E1%83%94%E1%83%95%E1%83%A0%E1%83%9D%E1%83%9D%E1%83%91%E1%83%9A%E1%83%98%E1%83%92%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98%20%20%20%E1%83%A8%E1%83%94%E1%83%97%E1%83%90%E1%83%95%E1%83%90%E1%83%96%E1%83%94%E1%83%91%E1%83%98%E1%83%A1%20%E1%83%9E%E1%83%98%E1%83%A0%E1%83%9D%E1%83%91%E1%83%94%E1%83%91%E1%83%98%E1%83%A1%20%E1%83%93%E1%83%9D%E1%83%99%E1%83%A3%E1%83%9B%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98.pdf/484a187c-7dd5-4b50-b8fe-f33940dc7ca1",
+    "local_path": "data/raw/r6_2026_11_15/mof_2026_offering.pdf",
+    "sha256": "49120df263ccd7b360fe214732d2432ab5c752beed1fe8e7f51cbcbf142a922c",
+    "bytes": 1561558,
+    "retrieved_date_utc": "2026-11-15",
+    "document_date": "January 2026",
+    "publication_day": null,
+    "scope": "Interest frequency and dates only; public MoF offering terms",
+    "status": "acquired",
+    "rights": "Raw offering circular not redistributed; factual terms only"
+  }
+]

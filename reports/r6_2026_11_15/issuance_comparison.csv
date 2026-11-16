@@ -1,0 +1,5 @@
+variable,value_2021,value_2026,change,classification
+yield_pct,2.875,5.375,2.5,different pricing dates; no reserve attribution
+benchmark_yield_pct,0.801,3.856,3.055,different pricing dates; no reserve attribution
+spread_bps,207.4,151.9,-55.5,different pricing dates; no reserve attribution
+coupon_pct,2.75,5.125,2.375,different pricing dates; no reserve attribution

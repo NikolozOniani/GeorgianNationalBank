@@ -1,0 +1,136 @@
+mechanism,gel_per_usd_change_pct,terminal_cost_usdm,assumed_resource_cost_share,crisis_loss_gdp_share,hurdle_usdm,required_annual_hazard_reduction_pp,feasible_under_assumed_10pct_hazard,classification
+unremunerated GEL balances,-5.0,1.393157895,0,0.05,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,-5.0,1.393157895,0.5,0.05,0.696578947,0.036565824,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,-5.0,1.393157895,1,0.05,1.393157895,0.073131648,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,-5.0,1.393157895,0,0.1,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,-5.0,1.393157895,0.5,0.1,0.696578947,0.018282912,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,-5.0,1.393157895,1,0.1,1.393157895,0.036565824,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,-5.0,1.393157895,0,0.2,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,-5.0,1.393157895,0.5,0.2,0.696578947,0.009141456,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,-5.0,1.393157895,1,0.2,1.393157895,0.018282912,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,0.0,-3.87,0,0.05,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,0.0,-3.87,0.5,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,0.0,-3.87,1,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,0.0,-3.87,0,0.1,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,0.0,-3.87,0.5,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,0.0,-3.87,1,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,0.0,-3.87,0,0.2,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,0.0,-3.87,0.5,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,0.0,-3.87,1,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,5.0,-8.631904762,0,0.05,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,5.0,-8.631904762,0.5,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,5.0,-8.631904762,1,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,5.0,-8.631904762,0,0.1,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,5.0,-8.631904762,0.5,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,5.0,-8.631904762,1,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,5.0,-8.631904762,0,0.2,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,5.0,-8.631904762,0.5,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+unremunerated GEL balances,5.0,-8.631904762,1,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,-5.0,9.814210526,0,0.05,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,-5.0,9.814210526,0.5,0.05,4.907105263,0.257590827,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,-5.0,9.814210526,1,0.05,9.814210526,0.515181655,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,-5.0,9.814210526,0,0.1,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,-5.0,9.814210526,0.5,0.1,4.907105263,0.128795414,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,-5.0,9.814210526,1,0.1,9.814210526,0.257590827,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,-5.0,9.814210526,0,0.2,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,-5.0,9.814210526,0.5,0.2,4.907105263,0.064397707,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,-5.0,9.814210526,1,0.2,9.814210526,0.128795414,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,0.0,4.13,0,0.05,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,0.0,4.13,0.5,0.05,2.065,0.10839895,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,0.0,4.13,1,0.05,4.13,0.2167979,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,0.0,4.13,0,0.1,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,0.0,4.13,0.5,0.1,2.065,0.054199475,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,0.0,4.13,1,0.1,4.13,0.10839895,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,0.0,4.13,0,0.2,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,0.0,4.13,0.5,0.2,2.065,0.027099738,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,0.0,4.13,1,0.2,4.13,0.054199475,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,5.0,-1.012857143,0,0.05,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,5.0,-1.012857143,0.5,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,5.0,-1.012857143,1,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,5.0,-1.012857143,0,0.1,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,5.0,-1.012857143,0.5,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,5.0,-1.012857143,1,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,5.0,-1.012857143,0,0.2,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,5.0,-1.012857143,0.5,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+GEL obligatory reserves,5.0,-1.012857143,1,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,-5.0,9.908947368,0,0.05,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,-5.0,9.908947368,0.5,0.05,4.954473684,0.260077359,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,-5.0,9.908947368,1,0.05,9.908947368,0.520154718,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,-5.0,9.908947368,0,0.1,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,-5.0,9.908947368,0.5,0.1,4.954473684,0.130038679,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,-5.0,9.908947368,1,0.1,9.908947368,0.260077359,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,-5.0,9.908947368,0,0.2,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,-5.0,9.908947368,0.5,0.2,4.954473684,0.06501934,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,-5.0,9.908947368,1,0.2,9.908947368,0.130038679,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,0.0,4.22,0,0.05,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,0.0,4.22,0.5,0.05,2.11,0.110761155,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,0.0,4.22,1,0.05,4.22,0.22152231,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,0.0,4.22,0,0.1,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,0.0,4.22,0.5,0.1,2.11,0.055380577,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,0.0,4.22,1,0.1,4.22,0.110761155,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,0.0,4.22,0,0.2,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,0.0,4.22,0.5,0.2,2.11,0.027690289,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,0.0,4.22,1,0.2,4.22,0.055380577,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,5.0,-0.927142857,0,0.05,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,5.0,-0.927142857,0.5,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,5.0,-0.927142857,1,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,5.0,-0.927142857,0,0.1,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,5.0,-0.927142857,0.5,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,5.0,-0.927142857,1,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,5.0,-0.927142857,0,0.2,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,5.0,-0.927142857,0.5,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+rolling GEL CD,5.0,-0.927142857,1,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,-5.0,9.814210526,0,0.05,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,-5.0,9.814210526,0.5,0.05,4.907105263,0.257590827,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,-5.0,9.814210526,1,0.05,9.814210526,0.515181655,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,-5.0,9.814210526,0,0.1,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,-5.0,9.814210526,0.5,0.1,4.907105263,0.128795414,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,-5.0,9.814210526,1,0.1,9.814210526,0.257590827,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,-5.0,9.814210526,0,0.2,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,-5.0,9.814210526,0.5,0.2,4.907105263,0.064397707,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,-5.0,9.814210526,1,0.2,9.814210526,0.128795414,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,0.0,4.13,0,0.05,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,0.0,4.13,0.5,0.05,2.065,0.10839895,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,0.0,4.13,1,0.05,4.13,0.2167979,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,0.0,4.13,0,0.1,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,0.0,4.13,0.5,0.1,2.065,0.054199475,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,0.0,4.13,1,0.1,4.13,0.10839895,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,0.0,4.13,0,0.2,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,0.0,4.13,0.5,0.2,2.065,0.027099738,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,0.0,4.13,1,0.2,4.13,0.054199475,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,5.0,-1.012857143,0,0.05,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,5.0,-1.012857143,0.5,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,5.0,-1.012857143,1,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,5.0,-1.012857143,0,0.1,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,5.0,-1.012857143,0.5,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,5.0,-1.012857143,1,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,5.0,-1.012857143,0,0.2,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,5.0,-1.012857143,0.5,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing low,5.0,-1.012857143,1,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,-5.0,9.866842105,0,0.05,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,-5.0,9.866842105,0.5,0.05,4.933421053,0.258972234,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,-5.0,9.866842105,1,0.05,9.866842105,0.517944467,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,-5.0,9.866842105,0,0.1,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,-5.0,9.866842105,0.5,0.1,4.933421053,0.129486117,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,-5.0,9.866842105,1,0.1,9.866842105,0.258972234,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,-5.0,9.866842105,0,0.2,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,-5.0,9.866842105,0.5,0.2,4.933421053,0.064743058,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,-5.0,9.866842105,1,0.2,9.866842105,0.129486117,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,0.0,4.18,0,0.05,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,0.0,4.18,0.5,0.05,2.09,0.109711286,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,0.0,4.18,1,0.05,4.18,0.219422572,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,0.0,4.18,0,0.1,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,0.0,4.18,0.5,0.1,2.09,0.054855643,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,0.0,4.18,1,0.1,4.18,0.109711286,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,0.0,4.18,0,0.2,0.0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,0.0,4.18,0.5,0.2,2.09,0.027427822,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,0.0,4.18,1,0.2,4.18,0.054855643,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,5.0,-0.965238095,0,0.05,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,5.0,-0.965238095,0.5,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,5.0,-0.965238095,1,0.05,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,5.0,-0.965238095,0,0.1,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,5.0,-0.965238095,0.5,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,5.0,-0.965238095,1,0.1,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,5.0,-0.965238095,0,0.2,-0.0,-0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,5.0,-0.965238095,0.5,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction
+displaced GEL refinancing high,5.0,-0.965238095,1,0.2,0,0.0,True,cost-equivalent sensitivity; neither national cost allocation nor achieved hazard reduction

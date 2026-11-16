@@ -1,0 +1,70 @@
+{
+  "base_date": "2025-12-31",
+  "gdp_usdm": 38100,
+  "gdp_source": "R2 model_equation_checks; rounded 2025 GDP in IMF 2026 Article IV p4",
+  "additional_reserves_usdm": 100,
+  "annual_hazard_scenarios": [
+    0.05,
+    0.1,
+    0.2
+  ],
+  "crisis_loss_gdp_shares": [
+    0.05,
+    0.1,
+    0.2
+  ],
+  "resource_cost_share_scenarios": [
+    0,
+    0.5,
+    1
+  ],
+  "target_ara_ratios": [
+    1.45,
+    1.5
+  ],
+  "spread_slope": 0.0575,
+  "model_source": "Cangul-Abel SIP/2026/051 Annex pp14-15, same pinned paper and equations as R2",
+  "uncovered_drain_grid_usdm": [
+    0,
+    250,
+    500,
+    750,
+    1000,
+    1250,
+    1500,
+    1750,
+    2000,
+    2250,
+    2500,
+    2750,
+    3000,
+    3250,
+    3500,
+    3750,
+    4000,
+    4250,
+    4500,
+    4750,
+    5000,
+    5250,
+    5500,
+    5750,
+    6000,
+    6250,
+    6500,
+    6750,
+    7000,
+    7250,
+    7500,
+    7750,
+    8000
+  ],
+  "incremental_liquid_shares": [
+    0.5,
+    1.0
+  ],
+  "annual_hazard_status": "chosen one-year scenarios; not estimated Georgia hazards or a verified annualization of the IMF model",
+  "resource_cost_share_status": "chosen cost-equivalent sensitivity; not an allocation of actual national costs",
+  "drain_status": "chosen additional disjoint USD-equivalent calls; not probabilities, observed currency matching, or a forecast",
+  "target_status": "static translation of the reported target using independent M2/M3 denominators; not replication or an optimality claim"
+}

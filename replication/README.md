@@ -32,3 +32,7 @@ Old whole-project editorial validators and manuscript renderers were retired to 
 Episode sources, outputs and code already occupy `data/raw/` (ignored), `data/derived/` and `src/`, with each dataset mapped to an ID in [the requirements register](../research/data_requirements.json). Keep source URL, retrieved UTC timestamp, SHA-256, observation period, publication date, units, currency, frequency, status, definition vintage and transformations. Do not overwrite archived inputs to make a new result fit an old test.
 
 Use purchases-positive signs for active net FX acquisition and preserve both gross directions. Retain trade, settlement and disclosure times separately. Match accounting basis and period before reconciliation. Public monthly aggregates are not daily executions; future or forecast values are not realized observations. Every outcome must link to the single counterfactual in the protocol.
+
+## R6 reserve-benefit thresholds
+
+See [R6 reproduction](R6.md) for eight numerical tables, source checks, a deterministic figure and focused insurance/liquidity/bond-pricing tests. The [R6 checkpoint](../reports/r6_2026_11_15/README.md) separates financial hurdles from measured national costs and keeps achieved benefits unidentified. Historical test counts above describe their original checkpoints; the latest verification record reports the current suite.

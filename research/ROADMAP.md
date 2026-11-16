@@ -62,7 +62,7 @@ Stages are complete only when their acceptance evidence is committed and indepen
 | R3 | Identify or constrain the no-purchases exchange-rate and balance-sheet paths | R1; D01–D07, D09–D10; registered design | [Public design audit complete](../reports/r3_2026_11_12/README.md). G2 unsatisfied for both the estimated path and an empirical range |
 | R4 | Match marginal reserve income, financing and exposures across paths | R1; D08–D12; R3 for the realized counterfactual comparison | [R4 accounting and conditional carry complete](../reports/r4_2026_11_12/README.md). G3 remains unsatisfied for the episode-wide marginal cost |
 | R5 | Measure household and sector consequences of that same FX path | R0 exposure design; R3; D17 and the specific incidence inputs below | [R5 household exposures validated for 2024 and 2025](../reports/r5_2026_11_13/README.md). Partial conditional channels only. Episode incidence unresolved |
-| R6 | Value marginal reserve insurance/financing services and break-even benefits | R1–R2; D14–D16, D18; R3–R4 paths/costs | No measured marginal benefit; G4 |
+| R6 | Value marginal reserve insurance/financing services and break-even benefits | R1–R2; D14–D16, D18; R3–R4 paths/costs | [R6 conditional benefit checkpoint](../reports/r6_2026_11_15/README.md): joint liquidity, insurance thresholds and verified bond-pricing test complete. G4 partial; achieved episode benefit and optimum unidentified |
 | R7 | Integrate uncertainty, test competing explanations and obtain independent replication | R3–R6, with all claim limits retained | G5 open |
 | R8 | Prepare the academic paper and replication release | R7 acceptance and subsequent writing authorization | Not started; explicitly outside this task |
 
@@ -156,6 +156,8 @@ Translate category price changes into fixed-basket expenditure effects with weig
 **Acceptance:** report partial effects when coverage is incomplete. No arbitrary coverage percentage makes full welfare valid: evaluate the size and direction of omitted channels and whether defensible bounds change group rankings or the sign. Fixed-basket effects are not compensating variation; use that welfare label only after specifying preferences, substitution, income and the relevant price paths. Design-based uncertainty requires actual survey design; otherwise disclose approximations. Sampling, pass-through and FX identification uncertainty must all survive into results. Inadequate joint exposure data bars precise population welfare, not clearly labeled channel estimates.
 
 ### R6 — Value reserve benefits and test the IMF recommendation economically
+
+**Execution update, 16 November 2026:** [R6 findings](../reports/r6_2026_11_15/README.md) and [replication](../replication/R6.md) implement the conditional branch permitted below. They add two pinned MoF sources, original-issue terms, maturity-matched pricing, single-use liquidity service and cost-equivalent insurance requirements. The R3 paths remain unidentified; no actual marginal episode benefit or optimal target is claimed. R7 is the next incomplete stage, with the G1–G4 limitations retained.
 
 **Work.** On the R3 reserve paths, use R2 usable assets and D14–D18 to quantify stress liquidity by maturity/currency and feasible alternative access to FX. Distinguish reduced crisis probability, lower crisis severity, ordinary market-functioning services and financing costs. A single reserve dollar cannot meet independently summed simultaneous drains. Private-bank buffers count only to the extent they are accessible under the same stress.
 
