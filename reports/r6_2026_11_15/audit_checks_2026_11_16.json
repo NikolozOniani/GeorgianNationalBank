@@ -1,0 +1,40 @@
+{
+  "audited_commit": "cf9dee7c62f3b5eeed8acedd8ab09d8a238b23fd",
+  "checks_passed": 1257,
+  "headline_arithmetic": "passed for committed inputs",
+  "input_sha256": {
+    "data/derived/episode_2026_11_09/intervention_monthly.csv": "48bd24124cd6c2ba30c473f7a312e28cf24f2120b5758920adaee4fc8a94fbd8",
+    "data/r6_source_manifest.json": "c1292a3b8a68445b41f09750df7c898cec2da207e341c12ff10e1c9321be31d2",
+    "reports/r2_2026_11_11/ara_components.csv": "3038c15f6a83c67abf39cabd727f836b581a71961174718daff6d94bb6344c20",
+    "reports/r2_2026_11_11/liquidity_schedule.csv": "57f6c6100c7bd8c7b0cf4f4712a3b587d95039c2d31080f5490a8b72357cc75b",
+    "reports/r4_2026_11_12/conditional_carry.csv": "2fb1d5f68c28db88fbd28e26a5b67b4c29228caed233b656f59ba703b201fc93",
+    "reports/r6_2026_11_15/financing_and_model_channels.csv": "46be75737849fdad5bd9cb70e9a2133509fd74de74f453bbe2340604e8a005ea",
+    "reports/r6_2026_11_15/hazard_thresholds.csv": "2ad799e90ab06a1cd48b2558bd2898f14c6140e666f5c12feb48306209c3686a",
+    "reports/r6_2026_11_15/historical_sales_scale.csv": "72e55c571d200ab9045e936fb94cccafa63be13756c8112a8a479f6d3063fe8f",
+    "reports/r6_2026_11_15/joint_liquidity.csv": "4735e10ff936091efa49c7f699e31e0a74c2b372370b7d626e91f220ff6b55b5",
+    "reports/r6_2026_11_15/liquidity_service_curves.csv": "c9e88679441100096cf6ae6232b8b717928317a9a5ffbf3f7eda74600f379689",
+    "reports/r6_2026_11_15/severity_thresholds.csv": "01a18edf58a490f8e1fa1c80b5ddcb4608f732dbf1b90d7104f9923ae62b6c37",
+    "reports/r6_2026_11_15/target_sensitivity.csv": "5f5454f270c17f91b417574b2d5b281fddebcb5ad8c2efedce308f6b6946a918",
+    "research/r6_assumptions.json": "c0480a0117e83e7400323c8162a92a5e36a60f448bc834da3707db0c4b51eff4",
+    "research/r6_bond_terms.json": "ea257f14cb45aa9cdf7e64e5a7d3968e794773df2837f1bd9325b622584cad90"
+  },
+  "method": "Decimal precision 45; independent closed-form bond and annuity equations; actual PDF-to-JSON reconciliation",
+  "production_inputs_changed": false,
+  "production_outputs_changed": false,
+  "source_binding_failure_demonstrations": {
+    "face_usdm": {
+      "changed_csvs": [
+        "financing_and_model_channels.csv"
+      ],
+      "generation_rejected": false,
+      "in_memory_value": 5000,
+      "source_verifier_rejected": false
+    },
+    "payments_per_year": {
+      "changed_csvs": [],
+      "generation_rejected": false,
+      "in_memory_value": 1,
+      "source_verifier_rejected": false
+    }
+  }
+}

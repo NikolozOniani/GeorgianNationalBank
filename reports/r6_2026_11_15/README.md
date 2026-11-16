@@ -2,6 +2,8 @@
 
 **R6 checkpoint, completed 16 November 2026.** Public evidence supports liquidity accounting and conditional financial/insurance thresholds. It does not identify the benefit achieved by the registered purchases, the no-purchases reserve path, or an optimal reserve stock. G4 is **partially satisfied**. The calculations below supply falsifiable requirements for a justification; they do not settle the episode's net welfare effect. The dated folder identifies the start of this work.
 
+**Subsequent audit:** [16 November audit report](AUDIT_2026_11_16.md) independently verifies the current arithmetic and source inputs, and documents two source/configuration verification defects that require repair before revised-input reuse.
+
 ## Results that change the assessment
 
 - Under R4's constant-rate, unchanged-FX, CD-funded scenario, USD 100 million of additional reserves has a **USD 4.22 million one-year financial cost**. If an avoided crisis loss were 10% of the rounded 2025 GDP, an annual probability reduction of **0.111 percentage point** would equal that amount. This is a cost-equivalent requirement, not an achieved reduction or a measured national cost.
