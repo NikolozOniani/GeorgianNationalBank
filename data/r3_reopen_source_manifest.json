@@ -24,5 +24,30 @@
     "status": "acquired",
     "sha256": "b2cd240f1a439dc6771beadc6dfcc03423753b53fb11cef7b885a2daa76af921",
     "bytes": 993465
+  },
+  {
+    "id": "nbg_qipf2025",
+    "url": "https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%99%E1%83%95%E1%83%9A%E1%83%94%E1%83%95%E1%83%98%E1%83%97%E1%83%98_%E1%83%9C%E1%83%90%E1%83%A8%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%94%E1%83%A2%E1%83%90%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%94%E1%83%99%E1%83%9D%E1%83%9C%E1%83%9D%E1%83%9B%E1%83%98%E1%83%99%E1%83%90/2025/n2/monetaryeconomics-eng-n2.pdf",
+    "local_path": "data/raw/r3_reopen_2026_11_16/nbg_qipf2025.pdf",
+    "retrieved_date_utc": "2026-11-16",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "chen2023",
+    "url": "https://www.imf.org/-/media/files/publications/wp/2023/english/wpiea2023135-print-pdf.pdf",
+    "local_path": "data/raw/r3_reopen_2026_11_16/chen2023.pdf",
+    "retrieved_date_utc": "2026-11-16",
+    "status": "acquired",
+    "sha256": "8f31db9f4013a2ed3fdfb232195520f3d60ddc517c6a0eb1b0b5a71e143a34e8",
+    "bytes": 2301954
+  },
+  {
+    "id": "nbg_qipf2025_query",
+    "url": "https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%99%E1%83%95%E1%83%9A%E1%83%94%E1%83%95%E1%83%98%E1%83%97%E1%83%98_%E1%83%9C%E1%83%90%E1%83%A8%E1%83%A0%E1%83%9D%E1%83%9B%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%94%E1%83%A2%E1%83%90%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%94%E1%83%99%E1%83%9D%E1%83%9C%E1%83%9D%E1%83%9B%E1%83%98%E1%83%99%E1%83%90/2025/n2/monetaryeconomics-eng-n2.pdf?v=4pjii",
+    "local_path": "data/raw/r3_reopen_2026_11_16/nbg_qipf2025.pdf",
+    "retrieved_date_utc": "2026-11-17",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
   }
 ]

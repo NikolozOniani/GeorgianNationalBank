@@ -26,6 +26,8 @@ This is one academic economics project. The [research protocol](research/PROTOCO
 
 ## Evidence status
 
+**Latest result, 17 November 2026:** [R3 has been reopened and a registered conditional exchange-rate model executed](reports/r3_reopen_2026_11_16/README.md). It fails its precommitted robustness gate: 149 of 199 coefficient resamples are stable and reserve-feasible, below the required 90%. Monthly candidate paths, holdout predictions, source checks and independent arithmetic verification are preserved. **No preferred no-purchases path or empirical range is released.** R7 and manuscript drafting remain paused. See [replication instructions](replication/R3_REOPEN.md).
+
 The [9 November acquisition results](reports/acquisition_2026_11_09/README.md) now provide actual 2025–2026 monthly intervention observations, daily exchange rates, reserve and liquidity records, external flows, audited 2025 interest accounts and IMF ARA benchmarks. See the [current requirement status](research/ACQUISITION_STATUS.md) and [replication/manual-file instructions](replication/ACQUISITION.md). The remaining text below describes the preserved historical foundation; it is not the current acquisition inventory.
 
 The verified supporting data include a 60-month 2020–2024 policy/reserve panel, two annual intervention benchmarks, five years of audited interest accounts, and an arithmetic reconstruction of the IMF's published 2022–2023 ARA components. They establish useful accounting foundations. They do not supply a verified 2025–2026 intervention event series or identify the exchange rate without purchases.
@@ -46,6 +48,7 @@ Superseded manuscripts, speeches and their publishing scripts have been removed 
 Run the offline integrity and numerical tests with:
 
 ```sh
+python -m pip install -r replication/requirements-r3-reopen.txt
 python replication/check_repository.py
 ```
 
@@ -54,6 +57,8 @@ See [the reorganization record](docs/REORGANIZATION.md) for preservation and ver
 [R2 reserve adequacy, liquidity and IMF benchmark results](reports/r2_2026_11_11/README.md)
 
 [R3 no-purchases exchange-rate design decision](reports/r3_2026_11_12/README.md)
+
+[R3 reopened: quantitative model, validation failure and rejected paths](reports/r3_reopen_2026_11_16/README.md)
 
 [R4 reserve income, funding accounts and conditional carry](reports/r4_2026_11_12/README.md)
 

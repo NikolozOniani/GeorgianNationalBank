@@ -1,0 +1,15 @@
+{
+  "clearing_method": "independent 2x2 simultaneous matrix solve",
+  "fit_method": "SciPy pivoted QR; no production imports",
+  "independent_paths_checked": 147,
+  "inputs": {
+    "bootstrap.csv": "d670bffe44f0c7f681ccae4af955816eec6462ba69ba1f129c3ec8087eff3f25",
+    "candidate_paths.csv": "6052351052365ef096a24f8f79c30dd524adab48d4706febdfe6a41a7e0c9b4a",
+    "model_panel.csv": "f596f11ccf7a74d759c2dfdf1523053ffc6ea1c2092f740709a5b4ff6872b51d",
+    "validation.json": "5eeff20ccd772de5c46b9740874e7fe2b4cecfdf66bf7999edd65d069a0e9e93"
+  },
+  "maximum_quote_difference": 4.96784835490871e-10,
+  "maximum_reserve_difference_usdm": 2.5879671738948673e-09,
+  "release_rejection_confirmed": true,
+  "source_of_small_differences": "audit starts from CSV-rounded external regressors"
+}
