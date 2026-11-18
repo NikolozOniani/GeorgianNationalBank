@@ -1,0 +1,7 @@
+month,leg,dated_usdm,workbook_usdm,dated_less_workbook_usdm
+2018-09,purchases_usd,25.0,15.0,10.0
+2018-10,purchases_usd,0,10.0,-10.0
+2021-09,sales_usd,60.0,0.0,60.0
+2021-10,sales_usd,0,60.0,-60.0
+2022-08,sales_usd,40.61,8.305,32.305
+2022-09,sales_usd,13.6,45.905,-32.305

@@ -1,0 +1,25 @@
+{
+  "design": "c9bf0850390ca0a02e8afa7526a43581aad36b8e",
+  "auctions": 346,
+  "purchase_auctions": 159,
+  "sale_auctions": 187,
+  "purchase_size_median_usdm": 15.0,
+  "purchase_size_max_usdm": 40.0,
+  "preperiod_months": 110,
+  "historical_max_net_usdm": 322.4,
+  "episode_months": 21,
+  "episode_pos": 18,
+  "episode_max_net_usdm": 632.85,
+  "episode_months_above_history": 8,
+  "episode_gross_available": false,
+  "identified_impact": false,
+  "identified_half_life": false,
+  "input_sha256": {
+    "data/derived/r3_fx_response/auctions.csv": "c150de7eb4856f67700a3cdc04649a67e84e209e0b18987196322a2a31ed9e06",
+    "data/derived/r3_fx_response/daily.csv": "4fe7b96acff2af48e70493b53dc91378a39557de284a79c83fd0cafe93a0deab",
+    "data/derived/r3_fx_response/monthly.csv": "3965b4fb10b0e6ba6bdfcf5fef1fd77b7b3120214af63aa41a0178ad0dbffde7",
+    "data/derived/r3_fx_response/options.csv": "ca6df72f2998f618693478d2d92942d99c039242a46c4a698afd152699dbd6fc",
+    "reports/r3_reopen_2026_11_16/model_panel.csv": "f596f11ccf7a74d759c2dfdf1523053ffc6ea1c2092f740709a5b4ff6872b51d",
+    "research/r3_reopen_calibration.json": "8dffd72c0029441bc5c5e5d8e2d76a56150b85690ed2c856998886abeabbc13e"
+  }
+}

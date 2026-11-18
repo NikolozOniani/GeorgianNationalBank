@@ -67,3 +67,5 @@ See [the reorganization record](docs/REORGANIZATION.md) for preservation and ver
 [R6 reserve liquidity, financing and insurance thresholds](reports/r6_2026_11_15/README.md)
 
 [R3 standalone Georgian monetary-policy response and held-out decision tests](reports/r3_rate_rule/README.md)
+
+[R3 Georgian purchase impact, persistence and selection tests](reports/r3_fx_response/README.md)

@@ -238,3 +238,5 @@ There is no credible fixed calendar deadline for access-dependent records. Track
 The completion standard is a coherent chain from transactions to a defensible counterfactual to matched economic consequences—not a predetermined indictment, a predetermined defense, or a precise-looking welfare number built from incompatible assumptions.
 
 **R3 interest-rate update, 17 November 2026.** A [standalone forward-looking MPC rule](../reports/r3_rate_rule/README.md) was tested on 16 held-out decisions. Its inflation response changes sign across samples. The revised equation does not qualify for use in the episode counterfactual.
+
+**R3 purchase impact and persistence, 18 November 2026.** The [Georgian evidence test](../reports/r3_fx_response/README.md) extends the cash-auction record to 2009, matches official FX movements, measures monthly associations and quantifies the selection assumption required for the imported elasticity. Neither a causal impact nor an episode half-life passes G2.
