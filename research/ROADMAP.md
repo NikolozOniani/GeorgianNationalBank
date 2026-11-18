@@ -236,3 +236,5 @@ There is no credible fixed calendar deadline for access-dependent records. Track
 - **G1–G5 supported:** answer both clauses at their demonstrated precision, including a finding of benefits, costs, economically negligible effects or an unresolved ranking. Evidence determines the conclusion.
 
 The completion standard is a coherent chain from transactions to a defensible counterfactual to matched economic consequences—not a predetermined indictment, a predetermined defense, or a precise-looking welfare number built from incompatible assumptions.
+
+**R3 interest-rate update, 17 November 2026.** A [standalone forward-looking MPC rule](../reports/r3_rate_rule/README.md) was tested on 16 held-out decisions. Its inflation response changes sign across samples. The revised equation does not qualify for use in the episode counterfactual.

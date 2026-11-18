@@ -1,0 +1,16 @@
+{
+  "design_commit": "52a0532764d8f9f1ead49d28a646b1a8b18da504",
+  "reports": 28,
+  "decisions": 56,
+  "training": 40,
+  "holdout": 16,
+  "excluded_no_prior_vintage": [
+    "2018-01-31"
+  ],
+  "criteria": {
+    "beats_hold": true,
+    "stable_fits": false,
+    "positive_forecast_loading": false
+  },
+  "standalone_candidate_accepted": false
+}
