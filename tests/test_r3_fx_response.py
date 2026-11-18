@@ -3,6 +3,9 @@ import csv
 from datetime import date, timedelta
 import math
 from pathlib import Path
+import subprocess
+import sys
+import tempfile
 import unittest
 
 import numpy as np
@@ -81,6 +84,19 @@ class FXResponses(unittest.TestCase):
                 var += 2*(1-j/(bw+1))*(influence[j:]@influence[:-j])
             var *= len(t)/(len(t)-len(controls)-1)
             self.assertAlmostEqual(math.sqrt(var),float(row['buy_hac_se']),places=9)
+
+    def test_optimized_python_rejects_altered_output(self):
+        # Point the actual check at an isolated, intentionally corrupt first table.
+        with tempfile.TemporaryDirectory() as folder:
+            table = Path(folder) / 'auction_pairs.csv'
+            table.write_text('damaged')
+            code = ("import sys; from pathlib import Path; sys.path.insert(0, 'src'); "
+                    "import r3_fx_response as fx; fx.OUT = Path(sys.argv[1]); fx.run(True)")
+            run = subprocess.run([sys.executable, '-O', '-c', code, folder], cwd=ROOT,
+                                 capture_output=True, text=True)
+            self.assertNotEqual(run.returncode, 0)
+            self.assertIn('ValueError: Response output differs: auction_pairs.csv', run.stderr)
+            self.assertEqual(table.read_text(), 'damaged')
 
     def test_conditional_response_inverse(self):
         for r in read(OUT/'selection_sensitivity.csv'):

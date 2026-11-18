@@ -41,17 +41,20 @@ def extract(acquire=False):
     rows = iter(fx.values)
     header = [next(rows) for _ in range(6)]
     usd = header[-1].index('USD')
-    assert header[-2][usd] == 1
+    if header[-2][usd] != 1:
+        raise ValueError('Expected quotes for one USD')
     daily = []
     for i,row in enumerate(rows,7):
         if isinstance(row[0],dt.datetime) and 2008 <= row[0].year <= 2024:
-            assert isinstance(row[usd],(int,float)) and row[usd]>0
+            if not isinstance(row[usd], (int, float)) or row[usd] <= 0:
+                raise ValueError(f'Invalid USD quote at row {i}')
             daily.append(dict(date=row[0].date(),gel_usd=row[usd],source_row=i))
     w = workbook('fx_auctions')
     auctions = []
     for i,(number,date,sale,buy,*_) in enumerate(w['NBG FX auction-eng'].values,1):
         if isinstance(date,dt.datetime) and date.year<=2024:
-            assert min(buy,sale)>=0 and buy*sale==0
+            if min(buy, sale) < 0 or buy * sale != 0:
+                raise ValueError(f'Invalid auction legs at row {i}')
             auctions.append(dict(date=date.date(),auction_number=number,purchases_usd=buy,
                                  sales_usd=sale,source_row=i))
     options = []
@@ -65,18 +68,21 @@ def extract(acquire=False):
         for i,row in enumerate(w[sheet].values,1):
             if isinstance(row[0],dt.datetime):
                 key = row[0].strftime('%Y-%m')
-                assert key not in result
+                if key in result:
+                    raise ValueError(f'Duplicate month {key} in {sheet}')
                 result[key] = i,row
         return result
     buy,sell = months('USD_Buy-eng '),months('USD_Sell-eng ')
-    assert buy.keys()==sell.keys()
+    if buy.keys() != sell.keys():
+        raise ValueError('Monthly workbook legs have different dates')
     monthly = []
     for key in sorted(buy):
         if key[:4]>'2024':
             continue
         bi,b = buy[key]
         si,s = sell[key]
-        assert all(isinstance(z,(int,float)) for z in [s[2],s[3],s[4],b[2],b[3]])
+        if not all(isinstance(z, (int, float)) for z in [s[2], s[3], s[4], b[2], b[3]]):
+            raise ValueError(f'Missing or nonnumeric transaction leg in {key}')
         monthly.append(dict(month=key,net_usdm=s[3]-b[2]-b[3],auction_buy_usdm=s[3],
                             auction_sell_usdm=b[2],nonauction_net_usdm=-b[3],options_usdm=s[2],
                             swaps_usdm=s[4],buy_row=bi,sell_row=si))
@@ -91,6 +97,7 @@ if __name__=='__main__':
     for key,rows in extract(args.acquire).items():
         path = DATA/(key+'.csv')
         if args.check:
-            assert path.read_bytes()==csv_bytes(rows), key
+            if path.read_bytes() != csv_bytes(rows):
+                raise ValueError(f'Extract differs from pinned workbook: {key}')
         else:
             path.write_bytes(csv_bytes(rows))

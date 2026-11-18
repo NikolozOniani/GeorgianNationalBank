@@ -131,13 +131,15 @@ def monthly_inputs(prices,auctions):
                          workbook_usdm=float(m[usdm]),dated_less_workbook_usdm=diffs[usd]))
         net = float(m['net_usdm'])
         if key in old:
-            assert abs(float(old[key]['net_purchases_usdm'])-net)<1e-6
-            assert abs(float(old[key]['gel_per_usd'])-prices[end])<1e-8
+            if not (abs(float(old[key]['net_purchases_usdm']) - net) < 1e-6
+                    and abs(float(old[key]['gel_per_usd']) - prices[end]) < 1e-8):
+                raise ValueError(f'Market ledger or quote disagrees with R3 panel in {key}')
         rows.append(dict(month=key,logpct=100*math.log(prices[end]),net100=net/100,
                  dated_net100=(net+diffs['purchases_usd']-diffs['sales_usd'])/100,
                  dollar=old.get(key,{}).get('dollar_change_log_pct'),vix=old.get(key,{}).get('vix_mean')))
     numbers = [12*int(r['month'][:4])+int(r['month'][5:]) for r in rows]
-    assert np.all(np.diff(numbers)==1)
+    if not np.all(np.diff(numbers) == 1):
+        raise ValueError('Monthly market history has duplicate, missing or unordered months')
     return rows,discrepancies
 
 
@@ -207,8 +209,10 @@ def kernels():
 
 def run(check):
     auctions = read(DATA/'auctions.csv')
-    prices = {date.fromisoformat(r['date']):float(r['gel_usd']) for r in read(DATA/'daily.csv')}
-    assert len(prices)==(max(prices)-min(prices)).days+1
+    quotes = read(DATA/'daily.csv')
+    prices = {date.fromisoformat(r['date']):float(r['gel_usd']) for r in quotes}
+    if len(prices) != len(quotes) or len(prices) != (max(prices) - min(prices)).days + 1:
+        raise ValueError('Daily quotes contain duplicate or missing dates')
     pairs,summary = events(prices,auctions)
     rows,discrepancies = monthly_inputs(prices,auctions)
     buy = [float(r['purchases_usd'])/1e6 for r in auctions if float(r['purchases_usd'])>0]
@@ -230,7 +234,8 @@ def run(check):
     files['validation.json']=(json.dumps(info,indent=2)+'\n').encode()
     for name,body in files.items():
         if check:
-            assert (OUT/name).read_bytes()==body, name
+            if (OUT/name).read_bytes() != body:
+                raise ValueError(f'Response output differs: {name}')
         else:
             (OUT/name).write_bytes(body)
 

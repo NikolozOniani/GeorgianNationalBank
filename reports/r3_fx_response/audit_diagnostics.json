@@ -1,0 +1,155 @@
+{
+  "audited_commit": "fb62e1e0050ec76f6ec0fac5d2dcb53aeabdf5c2",
+  "quotes_matching_annual_tabs": 6210,
+  "auction_horizons": [
+    {
+      "days": 1,
+      "all": {
+        "pairs": 155,
+        "mean_log_pp": -0.01039
+      },
+      "exclude_through_endpoint": {
+        "pairs": 131,
+        "mean_log_pp": 0.00181
+      },
+      "exclude_before_endpoint": {
+        "pairs": 155,
+        "mean_log_pp": -0.01039
+      },
+      "original_match_overlaps_pretrend": {
+        "pairs": 68,
+        "mean_log_pp": 0.017836
+      },
+      "rematch_disjoint": {
+        "pairs": 150,
+        "mean_log_pp": -0.005574
+      }
+    },
+    {
+      "days": 7,
+      "all": {
+        "pairs": 155,
+        "mean_log_pp": 0.159538
+      },
+      "exclude_through_endpoint": {
+        "pairs": 26,
+        "mean_log_pp": -0.128456
+      },
+      "exclude_before_endpoint": {
+        "pairs": 39,
+        "mean_log_pp": -0.023756
+      },
+      "original_match_overlaps_pretrend": {
+        "pairs": 68,
+        "mean_log_pp": 0.23088
+      },
+      "rematch_disjoint": {
+        "pairs": 150,
+        "mean_log_pp": 0.077772
+      }
+    },
+    {
+      "days": 28,
+      "all": {
+        "pairs": 150,
+        "mean_log_pp": 0.754271
+      },
+      "exclude_through_endpoint": {
+        "pairs": 8,
+        "mean_log_pp": 2.936795
+      },
+      "exclude_before_endpoint": {
+        "pairs": 8,
+        "mean_log_pp": 2.936795
+      },
+      "original_match_overlaps_pretrend": {
+        "pairs": 73,
+        "mean_log_pp": 0.895367
+      },
+      "rematch_disjoint": {
+        "pairs": 138,
+        "mean_log_pp": 0.545282
+      }
+    },
+    {
+      "days": 84,
+      "all": {
+        "pairs": 121,
+        "mean_log_pp": 3.432127
+      },
+      "exclude_through_endpoint": {
+        "pairs": 0,
+        "mean_log_pp": null
+      },
+      "exclude_before_endpoint": {
+        "pairs": 0,
+        "mean_log_pp": null
+      },
+      "original_match_overlaps_pretrend": {
+        "pairs": 121,
+        "mean_log_pp": 3.432127
+      },
+      "rematch_disjoint": {
+        "pairs": 0,
+        "mean_log_pp": null
+      }
+    }
+  ],
+  "auction_summary_cells": 24,
+  "monthly": {
+    "specifications_times_horizons": 28,
+    "history_months": 110,
+    "episode_months": 21,
+    "historical_max_net_usdm": 322.4,
+    "episode_above_historical_max": 8,
+    "auction_settlement_sensitivity": {
+      "directional_months_checked": 220,
+      "cross_month_trades": [
+        {
+          "trade": "2018-09-28",
+          "next_weekday": "2018-10-01",
+          "leg": "purchases_usd",
+          "amount_usdm": 10.0
+        },
+        {
+          "trade": "2021-09-30",
+          "next_weekday": "2021-10-01",
+          "leg": "sales_usd",
+          "amount_usdm": 60.0
+        },
+        {
+          "trade": "2022-08-31",
+          "next_weekday": "2022-09-01",
+          "leg": "sales_usd",
+          "amount_usdm": 32.305
+        }
+      ]
+    },
+    "recent_global_h18_delete_origin_year": [
+      {
+        "omitted_origin_year": 2020,
+        "origins": 30,
+        "buy_log_pp_per_usd100m": 4.807915
+      },
+      {
+        "omitted_origin_year": 2021,
+        "origins": 29,
+        "buy_log_pp_per_usd100m": 2.240616
+      },
+      {
+        "omitted_origin_year": 2022,
+        "origins": 29,
+        "buy_log_pp_per_usd100m": 2.957972
+      },
+      {
+        "omitted_origin_year": 2023,
+        "origins": 35,
+        "buy_log_pp_per_usd100m": 4.780288
+      }
+    ]
+  },
+  "kernel": {
+    "preperiod_months_used": 57,
+    "correlation_at_zero_current_impact_fixed_published_lags": -0.243292
+  }
+}
