@@ -288,3 +288,5 @@ For each tranche, compare the extra shortfall it covers with financial carry und
 **Completion order:** steps 1–3 produce an auditable historical requirement. Step 4 sets the strength of the claims step 5 can make for the registered episode. Step 6 delivers the reserve-adequacy judgment even if the economic optimum remains unidentified. Preserve the public-source restriction, machine-readable inputs and assumptions, checksums, tests and independently reproducible outputs throughout.
 
 **Step 1 checkpoint, 19 November 2026.** The [historical screen and 2008 reconstruction](../reports/historical_fx_shocks/README.md) cover three funding-pressure indicators over 68 quarters and distinguish policy sales, emergency financing and reserve-stock changes. Detailed public cash obligations and subsequent episode ledgers remain open.
+
+**Step 1 case extension.** [2009H1 and 2020 ledgers](../reports/historical_fx_shocks/cases/README.md) now distinguish actual IMF principal payments, bank repayments, imports offsetting export losses and policy sales across venues. Public due-date coverage remains partial.

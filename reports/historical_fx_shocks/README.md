@@ -34,3 +34,5 @@ python -m unittest discover -s tests -p test_historical_fx_shocks.py
 ```
 
 The screening and 2008 stock/flow bridge are reproducible. Still open in step 1 are borrower-level gross principal due versus renewed, dated public cash obligations, accessible bank-owned liquidity, exact public support and comparable monthly cash ledgers for other selected episodes. The simultaneous deposit, export and bank-funding pressure in 2009Q2 makes it the first extension of the 2008 case. The separate 2020 export interruption provides a contrasting case. Until those cash accounts reconcile, no score or historical maximum here is an adequate-reserve target.
+
+**Case extension:** [The 2009 funding squeeze and the 2020 export shock](cases/README.md) adds 18 monthly observations, six sector and reserve bridges, dated IMF principal transactions and a documented private debt repayment.

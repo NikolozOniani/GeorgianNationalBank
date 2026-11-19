@@ -1,0 +1,16 @@
+[
+  {
+    "year": 2009,
+    "path": "data/raw/historical_shocks/imf_2009.html",
+    "sha256": "7d90c0e8d3bb364d37ac97c78e7a268cac2a82460232a86cb930ee0167f4cb3f",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2009&yearType=C",
+    "description": "IMF Finance. Transactions with the Fund, Georgia; actual dated principal only, in SDR."
+  },
+  {
+    "year": 2020,
+    "path": "data/raw/historical_shocks/imf_2020.html",
+    "sha256": "b3f41f5193e4e8ab852d02edfc5c94a2c413b9d43ac8b3b2716d26f66de746f3",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2020&yearType=C",
+    "description": "IMF Finance. Transactions with the Fund, Georgia; actual dated principal only, in SDR."
+  }
+]

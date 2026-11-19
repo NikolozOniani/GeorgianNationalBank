@@ -1,0 +1,17 @@
+[
+  {
+    "path": "data/raw/historical_shocks/nbg_2009q2.pdf",
+    "url": "https://nbg.gov.ge/fm/%E1%83%9E%E1%83%A3%E1%83%91%E1%83%9A%E1%83%98%E1%83%99%E1%83%90%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98/%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%94%E1%83%91%E1%83%98/%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%94%E1%83%A2%E1%83%90%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%9E%E1%83%9D%E1%83%9A%E1%83%98%E1%83%A2%E1%83%98%E1%83%99%E1%83%98%E1%83%A1_%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%98%E1%83%A8%E1%83%98/2009/inflation-report-eng-2q-f3d6d1a8.pdf?v=wdpuy",
+    "sha256": "ec79dade2c6e50403c444c09445f569098f675ab52e9ac1b1bf1d7e79f73cb30"
+  },
+  {
+    "path": "data/raw/historical_shocks/review.pdf",
+    "url": "https://www.imf.org/-/media/websites/imf/imported-full-text-pdf/external/pubs/ft/scr/2009/_cr09267.pdf",
+    "sha256": "093a72212351a1bbdf5b2709682c6fa36c86d675111c73cb80b6a31138171f59"
+  },
+  {
+    "path": "data/raw/historical_shocks/prospectus.pdf",
+    "url": "https://ramad.bog.ge/s3/BogGroup/2024/03/bank-of-georgia-block-listing-of-up-to-43308125-gdrs-prospectus-august-2009-99.pdf",
+    "sha256": "e1a79900cc14562a52d5bbfee02b30d82cd44f53940ebd44bf833cad52a60d77"
+  }
+]

@@ -1,0 +1,8 @@
+period,party,measure,usd_million,basis,source_file,pdf_page,interpretation
+2009Q1,NBG,net FX sales,142,reported rounded quarter,review.pdf,52,across venues
+2009Q2,NBG,net FX sales,0.4,reported rounded quarter,nbg_2009q2.pdf,11,both exchange and auctions; corroborated by review.pdf p52
+2009Q2,government,intragovernmental FX conversions,32.2,reported net currency withdrawal,nbg_2009q2.pdf,11,amount only; underlying creditor and payable dates unknown
+2009H1,Bank of Georgia,note repurchases,91,face value,prospectus.pdf,113,repurchase cash price and monthly dates unknown
+2009-06,Bank of Georgia,remaining put notes repaid,49,repaid in full,prospectus.pdf,113,private obligation; subset of USD140m issuance
+2009-01-01/2009-08-19,Bank of Georgia,EBRD and IFC drawdown,200,cumulative draw by prospectus date,prospectus.pdf,10,facility agreed December 2008; receipt months unspecified
+2009-01-01/2009-08-19,Bank of Georgia,wholesale debt redeemed,260.1,cumulative by prospectus date,prospectus.pdf,10,overlaps note retirements; outside H1 cutoff
