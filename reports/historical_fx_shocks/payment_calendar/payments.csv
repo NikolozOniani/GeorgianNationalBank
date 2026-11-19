@@ -1,0 +1,12 @@
+quarter,nominal_due,transaction_date,payer_or_recipient,instrument,evidence,currency,gross_out,gross_in,sdr_quote_date,usd_out,usd_in
+2009Q1,2009-01-22,2009-01-22,IMF member account,PRGT Repayment (ECF),IMF transaction,SDR,900000,0,2009-01-22,1346697.00,0.00
+2009Q1,2009-01-23,2009-01-23,IMF member account,PRGT Repayment (ECF),IMF transaction,SDR,2250000,0,2009-01-23,3347662.50,0.00
+2009Q1,2009-02-01,,IMF member account,GRA Charges,IMF projection,SDR,860550,0,2009-01-30,1283871.76,0.00
+2009Q1,2009-02-05,2009-02-05,IMF member account,PRGT Repayment (ECF),IMF transaction,SDR,3330000,0,2009-02-05,4978882.80,0.00
+2009Q1,2009-03-20,2009-03-20,IMF member account,PRGT Repayment (ECF),IMF transaction,SDR,900000,0,2009-03-20,1359990.00,0.00
+2009Q1,,2009-03-25,IMF member account,GRA Purchase (SBA),IMF transaction,SDR,0,126200000,2009-03-25,0.00,189992838.00
+2020Q2,2020-04-12,,Georgia Ministry of Finance,2021 Eurobond interest,contract date; quarter paid,USD,17187500.00000,0,,17187500.00,0.00
+2020Q2,2020-04-30,,IMF member account,SDR Assessments,IMF projection,SDR,2248,0,2020-04-30,3071.67,0.00
+2020Q2,2020-05-01,,IMF member account,GRA Charges,IMF projection,SDR,590220,0,2020-05-01,808176.44,0.00
+2020Q2,2020-05-01,,IMF member account,Net SDR Charges,IMF projection,SDR,402,0,2020-05-01,550.45,0.00
+2020Q2,,2020-05-05,government budget,GRA Purchase (EFF),IMF transaction,SDR,0,147000000,2020-05-05,0.00,200343360.00

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2009",
+    "path": "data/raw/funding_calendar/2009.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2008-12-31&extend=y&memberkey1=335&overforth=f&schedule=obl&trxtype=repchg&year=2008",
+    "sha256": "796c26f4401d538e173b8c7014c0ca19c7ef56ecb112d6a330272a704e0e69fe"
+  },
+  {
+    "id": "2020_exp",
+    "path": "data/raw/funding_calendar/2020_exp.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2020-03-31&extend=y&memberkey1=335&overforth=f&schedule=exp&trxtype=repchg&year=2020",
+    "sha256": "3009d7d4e627f3392582f74dd01a9173043062c5652d4c1d8d0b2fc1eaf0f2eb"
+  },
+  {
+    "id": "rate_2009-01",
+    "path": "data/raw/funding_calendar/rate_2009-01.html",
+    "url": "https://www.imf.org/external/np/fin/data/rms_mth.aspx?SelectDate=2009-01&reportType=CVSDR",
+    "sha256": "356531bf0f9fda2e4e08f616eda0ce4c32bc5181713c7cdf1d11211f151ee839"
+  },
+  {
+    "id": "rate_2009-02",
+    "path": "data/raw/funding_calendar/rate_2009-02.html",
+    "url": "https://www.imf.org/external/np/fin/data/rms_mth.aspx?SelectDate=2009-02&reportType=CVSDR",
+    "sha256": "e9e2cdbb5037968a6b889791803ac403c3137f04462e7293c5319cbb834fb829"
+  },
+  {
+    "id": "rate_2009-03",
+    "path": "data/raw/funding_calendar/rate_2009-03.html",
+    "url": "https://www.imf.org/external/np/fin/data/rms_mth.aspx?SelectDate=2009-03&reportType=CVSDR",
+    "sha256": "4cb61647037d72800f8f159ee216a70050adad212777d04ecfa76fa679be6062"
+  },
+  {
+    "id": "rate_2020-04",
+    "path": "data/raw/funding_calendar/rate_2020-04.html",
+    "url": "https://www.imf.org/external/np/fin/data/rms_mth.aspx?SelectDate=2020-04&reportType=CVSDR",
+    "sha256": "07e6726036adf5119c40045da33f36dd031295beff508b369a70e80c14418871"
+  },
+  {
+    "id": "rate_2020-05",
+    "path": "data/raw/funding_calendar/rate_2020-05.html",
+    "url": "https://www.imf.org/external/np/fin/data/rms_mth.aspx?SelectDate=2020-05&reportType=CVSDR",
+    "sha256": "44e2ae6657fea4db0b2daaf5e6e5a10a10387cd93a37c413d646c2399f0cc97f"
+  },
+  {
+    "id": "geo2020",
+    "path": "data/raw/funding_calendar/geo2020.html",
+    "url": "https://www.mof.ge/en/ExternalPublicDebtStatistics/GetData?year=2020",
+    "sha256": "6aa5d1e40b426996deeca2b9009dae020e5e81a9eb53bf8519703cd82c685a30"
+  },
+  {
+    "id": "mof15",
+    "path": "data/raw/funding_calendar/mof15.pdf",
+    "url": "https://www.mof.ge/files/download/N15ENG.pdf/d27df535-e289-4441-92e1-508e1c52c1f3",
+    "sha256": "63dd60eba1977c0dbc50d761046e2b6e37b735d02928e6525eec3c757a463fdd"
+  },
+  {
+    "id": "template",
+    "path": "data/raw/episode_2026_11_09/reserve_liquidity.xlsx",
+    "url": "https://nbg.gov.ge/fm/%E1%83%A1%E1%83%A2%E1%83%90%E1%83%A2%E1%83%98%E1%83%A1%E1%83%A2%E1%83%98%E1%83%99%E1%83%90/external_sector/eng/reporting-form-r1.xlsx",
+    "sha256": "a3607520b1fe80755c8677d749e073d63f6a80252b5c2d4cfb2fad7a26e54254"
+  },
+  {
+    "id": "review",
+    "path": "data/raw/historical_shocks/review.pdf",
+    "url": "https://www.imf.org/-/media/websites/imf/imported-full-text-pdf/external/pubs/ft/scr/2009/_cr09267.pdf",
+    "sha256": "093a72212351a1bbdf5b2709682c6fa36c86d675111c73cb80b6a31138171f59"
+  },
+  {
+    "id": "prospectus",
+    "path": "data/raw/historical_shocks/prospectus.pdf",
+    "url": "https://ramad.bog.ge/s3/BogGroup/2024/03/bank-of-georgia-block-listing-of-up-to-43308125-gdrs-prospectus-august-2009-99.pdf",
+    "sha256": "e1a79900cc14562a52d5bbfee02b30d82cd44f53940ebd44bf833cad52a60d77"
+  }
+]

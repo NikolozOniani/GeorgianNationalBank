@@ -1,0 +1,19 @@
+quarter,account,item,unit,amount,source_locator
+2009Q1,general government,external borrowing,GEL million,37,review Table 3 p35 actual
+2009Q1,general government,external amortization outflow,GEL million,13,review Table 3 p35 actual
+2009Q1,general government,interest to nonresidents,GEL million,13,review Table 3 p35 actual
+2009Q1,general government,use of sovereign wealth funds,GEL million,40,review Table 3 p35 actual
+2009Q1,general government,use of deposits at NBG and banks,GEL million,72,review Table 3 p35 actual domestic financing
+2009Q1,NBG,opening program net international reserves,USD million,879.8,review technical memorandum para 7 program exchange rates
+2009Q1,NBG,alternative opening program NIR memorandum series,USD million,909,review central bank accounts Table 5 memorandum line December 2008
+2009Q1,NBG,closing program net international reserves,USD million,777,review LOI Table 1 actual program exchange rates
+2009Q1,NBG,adjusted closing program floor,USD million,677,review LOI Table 1 adjusted PC
+2009Q1,private Bank of Georgia,Merrill Lynch senior loan face repaid in full in January,USD million,65,prospectus physical PDF p111 private debt facilities
+2020Q2,government,gross external drawings,USD million,468.1,mof15 Table 4 government drawings
+2020Q2,government,external service including guaranteed,USD million,103.6,mof15 Table 4 government debt service
+2020Q2,NBG,external service,USD million,0.8,mof15 Table 4 NBG debt service
+2020Q2,public,external principal paid,USD million,68.8,mof15 Table 6 principal
+2020Q2,public,external interest paid,USD million,35.5,mof15 Table 6 interest
+2020Q2,government,bond interest paid,USD million,17.2,mof15 Table 6 bonds interest
+2020Q2,government,guaranteed debt service component,USD million,0.07,mof15 Table 4 guaranteed service
+2020Q2,government,IMF gross drawing,USD million,201.3,mof15 Table 5 IMF_MOF transaction-day FX

@@ -1,0 +1,6 @@
+facility,beneficiary,approval_or_availability,signature,effective,draw_date,ccy,face_amount,source,interpretation
+SBA first review,central bank,2008-12-15,,,2009-03-25,SDR,63100000,review Table 9 schedule and footnote 2,Undrawn before quarter. Part of combined March cash entry
+SBA second review,central bank,2009-03-23,,,2009-03-25,SDR,63100000,review Table 9 schedule and footnote 2,Part of same March drawing
+EFF sixth review,government budget,2020-05-01,,,2020-05-05,SDR,147000000,IMF sixth review and IMF Finance transactions,Approval precedes full drawing
+World Bank EMC original DPO,government budget,2020-03-26,2020-03-30,2020-04-30,2020-05-06,EUR,45000000,World Bank supplemental loan para 46 and original financing terms,Original facility face only. Cash net of charges unverified
+ADB CARES 3929,government budget,2020-05-28,2020-06-02,2020-07-02,2020-07-08,EUR,92302000,ADB completion report basic data B and C,Approval in Q2. Full drawing in Q3

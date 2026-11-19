@@ -1,0 +1,10 @@
+as_of,item,horizon,source_row,source_column,usd_million
+2020-03-31,gross reserves,stock,21,D,3400.504054812
+2020-03-31,FX securities,stock,23,D,2552.441207873
+2020-03-31,FX currency and deposits,stock,25,D,650.610469779
+2020-03-31,SDR holdings,stock,32,D,195.823573617
+2020-03-31,principal,0-1m,55,E,-13.697576738
+2020-03-31,interest,0-1m,56,E,-22.739684061
+2020-03-31,principal,1-3m,55,F,-63.246491500
+2020-03-31,interest,1-3m,56,F,-15.086781156
+2020-03-31,other contingent liabilities,0-1m,79,D,-1536.576149977
