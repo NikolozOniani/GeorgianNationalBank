@@ -1,0 +1,12 @@
+period,holder_or_payer,observation,value,unit,classification,source,locator,cash_treatment
+2008-01/2008-07,NBG,net FX purchases,360,USD million,prior policy transactions,https://www.imf.org/external/pubs/ft/scr/2008/cr08328.pdf,recent developments gross international reserves,context only
+2008-08-06/2008-08-31,NBG,reserve decline,330,USD million,within-month stock movement rounded,https://www.imf.org/external/pubs/ft/scr/2008/cr08328.pdf,recent developments gross international reserves,contains FX intervention and other changes
+2008-08,NBG,FX sales,187,USD million,exchange market intervention,https://www.imf.org/external/pubs/ft/scr/2008/cr08328.pdf,recent developments gross international reserves,policy response
+2008-08,NBG,FX sales in subsequent review,190,USD million,rounded alternative disclosure,https://www.imf.org/external/pubs/ft/scr/2009/cr0901.pdf,recent developments temporary peg,overlaps reported 187
+2008-08,NBG,waiver of FX deposit reserve requirement,,,liquidity relief,https://www.imf.org/external/pubs/ft/scr/2008/cr08328.pdf,actions to address temporary liquidity needs,amount unresolved
+2008-08,government,government imports,,,public use of FX,https://www.imf.org/external/pubs/ft/scr/2008/cr08328.pdf,recent developments gross international reserves,amount and due dates unresolved
+2008-08-12,banking system,bank holiday amid dollar banknote shortage,,,operational stress,https://www.imf.org/external/pubs/ft/scr/2008/cr08328.pdf,actions to address temporary liquidity needs,physical cash availability distinct from aggregate reserves
+2008-09-15,IMF,stand-by arrangement approved,750,USD million,approximate multimonth access,https://www.imf.org/en/news/articles/2015/09/14/01/49/pr08208,board approval,commitment only
+2008-09,Georgia,first SBA drawing,250,USD million,official crisis financing rounded,https://www.imf.org/external/pubs/ft/scr/2009/cr0901.pdf,recent developments gross international reserves,realized financing
+2008-09,government,first repatriation from sovereign wealth funds,50,USD million,government asset transfer rounded,https://www.imf.org/external/pubs/ft/scr/2009/cr0901.pdf,recent developments gross international reserves,existing national assets moved into government accounts
+2008-08-07/2008-11-07,NBG,intervention defending temporary peg,1/3,share of gross reserves,rounded cumulative policy response,https://www.imf.org/external/pubs/ft/scr/2009/cr0901.pdf,recent developments temporary peg,overlaps August sales and denominator not assigned to a particular date

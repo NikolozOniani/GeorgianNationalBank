@@ -1,0 +1,14 @@
+start,finish,kind,reason
+2008Q3,2008Q3,flagged,2008Q3 fx_deposits
+2009Q1,2009Q2,flagged,2009Q1 exports|fx_deposits; 2009Q2 exports|bank_loans|fx_deposits
+2010Q1,2010Q1,flagged,2010Q1 fx_deposits
+2012Q1,2012Q1,flagged,2012Q1 bank_loans
+2013Q1,2013Q1,flagged,2013Q1 bank_loans
+2014Q1,2014Q1,flagged,2014Q1 bank_loans
+2020Q2,2020Q4,flagged,2020Q2 exports; 2020Q3 exports; 2020Q4 exports
+2021Q2,2021Q2,flagged,2021Q2 bank_loans|fx_deposits
+2008Q1,2008Q4,named_review,pre-specified
+2014Q1,2015Q4,named_review,pre-specified
+2020Q1,2020Q4,named_review,pre-specified
+2022Q1,2022Q4,named_review,pre-specified
+2018Q3,2018Q3,comparison,closest to median ranks
