@@ -1,0 +1,34 @@
+id,date_or_interval,payer,description,unit,amount,public_float,bank_increment,sales_increment,source,account
+2009-01-22 PRGT Repayment (ECF),2009-01-22,IMF member account,PRGT Repayment (ECF),SDR,900000,dated paid,off,off,payment_calendar/payments.csv,documented_public_payment
+2009-01-23 PRGT Repayment (ECF),2009-01-23,IMF member account,PRGT Repayment (ECF),SDR,2250000,dated paid,off,off,payment_calendar/payments.csv,documented_public_payment
+2009-02-01 GRA Charges,2009-02-01,IMF member account,GRA Charges,SDR,860550,schedule scenario only,off,off,payment_calendar/payments.csv,projected_public_payment
+2009-02-05 PRGT Repayment (ECF),2009-02-05,IMF member account,PRGT Repayment (ECF),SDR,3330000,dated paid,off,off,payment_calendar/payments.csv,documented_public_payment
+2009-03-20 PRGT Repayment (ECF),2009-03-20,IMF member account,PRGT Repayment (ECF),SDR,900000,dated paid,off,off,payment_calendar/payments.csv,documented_public_payment
+2020-04-12 2021 Eurobond interest,2020-04-12,Georgia Ministry of Finance,2021 Eurobond interest,USD,17187500.00000,nominal due; settlement day unknown,off,off,payment_calendar/payments.csv,documented_public_payment
+2020-04-30 SDR Assessments,2020-04-30,IMF member account,SDR Assessments,SDR,2248,schedule scenario only,off,off,payment_calendar/payments.csv,projected_public_payment
+2020-05-01 GRA Charges,2020-05-01,IMF member account,GRA Charges,SDR,590220,schedule scenario only,off,off,payment_calendar/payments.csv,projected_public_payment
+2020-05-01 Net SDR Charges,2020-05-01,IMF member account,Net SDR Charges,SDR,402,schedule scenario only,off,off,payment_calendar/payments.csv,projected_public_payment
+2009-05-01 PRGT Repayment (ECF),2009-05-01,IMF member account,PRGT Repayment (ECF),SDR,900000,dated paid,off,off,cases/imf_cash.csv,documented_public_payment
+2009Q1external amortization outflow,2009Q1,general government,external amortization outflow,GEL million,13,fiscal envelope only,off,off,payment_calendar/quarter_inputs.csv,public_aggregate_alternative
+2009Q1interest to nonresidents,2009Q1,general government,interest to nonresidents,GEL million,13,fiscal envelope only,off,off,payment_calendar/quarter_inputs.csv,public_aggregate_alternative
+2020Q2external service including guaranteed,2020Q2,government,external service including guaranteed,USD million,103.6,quarter envelope replaces dated government service,off,off,payment_calendar/quarter_inputs.csv,public_aggregate_alternative
+2020Q2external service,2020Q2,NBG,external service,USD million,0.8,quarter envelope replaces dated NBG service,off,off,payment_calendar/quarter_inputs.csv,public_aggregate_alternative
+2009-01Merrill Lynch senior loan face repaid in full in January,2009-01,private Bank of Georgia,Merrill Lynch senior loan face repaid in full in January,USD million,65,off,eligible only on verified residual,off,payment_calendar/quarter_inputs.csv,bank_support_candidate
+2009-06 private put,2009-06,Bank of Georgia,put notes repaid,USD million,49,off,eligible only on verified residual,off,cases/document_ledger.csv,bank_support_candidate
+August government imports,2008-08,government,government imports,,,public use; amount and timing unresolved,off,off,war_chronology.csv,unquantified_public
+August waiver of FX deposit reserve requirement,2008-08,NBG,waiver of FX deposit reserve requirement,,,off,release only once if claim and cash documented,off,war_chronology.csv,bank_support_candidate
+August FX sales,2008-08,NBG,FX sales,USD million,187,off,off,replay budget,war_chronology.csv,sales_replay
+2009Q1 sales,2009Q1,NBG,all-market net sales,USD million,142,off,off,quarter net replay only,cases/document_ledger.csv,sales_replay
+2009Q2 sales,2009Q2,NBG,all-market net sales,USD million,0.4,off,off,quarter net replay only,cases/document_ledger.csv,sales_replay
+2020-01 sales,2020-01,NBG,all-market net sales,USD million,-0.000000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-02 sales,2020-02,NBG,all-market net sales,USD million,-0.000000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-03 sales,2020-03,NBG,all-market net sales,USD million,100.000000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-04 sales,2020-04,NBG,all-market net sales,USD million,24.800000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-05 sales,2020-05,NBG,all-market net sales,USD million,40.500000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-06 sales,2020-06,NBG,all-market net sales,USD million,55.650000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-07 sales,2020-07,NBG,all-market net sales,USD million,60.000000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-08 sales,2020-08,NBG,all-market net sales,USD million,60.000000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-09 sales,2020-09,NBG,all-market net sales,USD million,144.950000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-10 sales,2020-10,NBG,all-market net sales,USD million,204.600000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-11 sales,2020-11,NBG,all-market net sales,USD million,175.750000,off,off,monthly net replay only,cases/monthly.csv,sales_replay
+2020-12 sales,2020-12,NBG,all-market net sales,USD million,49.822000,off,off,monthly net replay only,cases/monthly.csv,sales_replay

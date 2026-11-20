@@ -1,0 +1,4 @@
+scenario,bill_usd,assumed_external_usd,assumed_deposit_at_nbg_usd,external_treasury_used,treasury_at_nbg_used,assumed_public_backstop,gross_nbg_delivery
+externally funded,17187500.00000,17187500.00000,0,17187500.00000,0.00000,0.00000,0.00000
+deposit at NBG,17187500.00000,0,17187500.00000,0,17187500.00000,0.00000,17187500.00000
+no Treasury funds,17187500.00000,0,0,0,0,17187500.00000,17187500.00000
