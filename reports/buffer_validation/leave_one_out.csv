@@ -1,0 +1,25 @@
+account,grade,exclude,rule,episodes,uncovered_low,uncovered_high,excess_low,excess_high
+IMF principal SDRm,as-of reconstruction,none,cash path,7,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,none,gross debt service,7,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2010Q1,cash path,6,0,0,0,0
+IMF principal SDRm,as-of reconstruction,2010Q1,gross debt service,6,0,0,0,0
+IMF principal SDRm,as-of reconstruction,2012Q1,cash path,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2012Q1,gross debt service,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2013Q1,cash path,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2013Q1,gross debt service,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2014Q1,cash path,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2014Q1,gross debt service,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2018Q3,cash path,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2018Q3,gross debt service,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2021Q2,cash path,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2021Q2,gross debt service,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2022Q1,cash path,6,0,0,0.90,0.90
+IMF principal SDRm,as-of reconstruction,2022Q1,gross debt service,6,0,0,0.90,0.90
+bond gross USDm,as-of stock; publication day unverified,none,cash path,1,0,0.015,0,0
+bond gross USDm,as-of stock; publication day unverified,none,gross debt service,1,0,0.015,0,0
+bond gross USDm,public instrument terms and earlier official stock,none,cash path,2,0,0.11250,0,0.03750
+bond gross USDm,public instrument terms and earlier official stock,none,gross debt service,2,0,0.11250,0,0.03750
+bond gross USDm,public instrument terms and earlier official stock,2018Q3,cash path,1,0,0.06250,0,0.03750
+bond gross USDm,public instrument terms and earlier official stock,2018Q3,gross debt service,1,0,0.06250,0,0.03750
+bond gross USDm,public instrument terms and earlier official stock,2021Q2,cash path,1,0,0.05,0,0
+bond gross USDm,public instrument terms and earlier official stock,2021Q2,gross debt service,1,0,0.05,0,0

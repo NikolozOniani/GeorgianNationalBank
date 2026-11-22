@@ -1,0 +1,236 @@
+[
+  {
+    "id": "2009-12-31_obl",
+    "path": "data/raw/buffer_validation/2009-12-31_obl.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2009-12-31&extend=y&memberkey1=335&overforth=f&schedule=obl&trxtype=repchg&year=2009",
+    "sha256": "11cebf71fbbcd5c7b24f2bc5e4a365340889c57ebbdd3a91464baf99861500f9"
+  },
+  {
+    "id": "2009-12-31_exp",
+    "path": "data/raw/buffer_validation/2009-12-31_exp.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2009-12-31&extend=y&memberkey1=335&overforth=f&schedule=exp&trxtype=repchg&year=2009",
+    "sha256": "2410b53af0950098971cc1b17d4be0917a7226835d9b6c2173e4363ea230423e"
+  },
+  {
+    "id": "2011-12-31_obl",
+    "path": "data/raw/buffer_validation/2011-12-31_obl.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2011-12-31&extend=y&memberkey1=335&overforth=f&schedule=obl&trxtype=repchg&year=2011",
+    "sha256": "22061d547e05bf699ab5ab9e0c6fa1a0c898f8cf5f5a69ab102d291323408f96"
+  },
+  {
+    "id": "2011-12-31_exp",
+    "path": "data/raw/buffer_validation/2011-12-31_exp.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2011-12-31&extend=y&memberkey1=335&overforth=f&schedule=exp&trxtype=repchg&year=2011",
+    "sha256": "3b66cad50727e9e07042230d5b40b79ffecfb981fa72ee6d06a90e1372f77dcb"
+  },
+  {
+    "id": "2012-12-31_obl",
+    "path": "data/raw/buffer_validation/2012-12-31_obl.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2012-12-31&extend=y&memberkey1=335&overforth=f&schedule=obl&trxtype=repchg&year=2012",
+    "sha256": "89e52f5bf098beb4c0b320a3a17400b8a9deda4ad1fbeaefc611dfc69c8a232e"
+  },
+  {
+    "id": "2012-12-31_exp",
+    "path": "data/raw/buffer_validation/2012-12-31_exp.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2012-12-31&extend=y&memberkey1=335&overforth=f&schedule=exp&trxtype=repchg&year=2012",
+    "sha256": "4a5573b79dba0b3f9fbb8339cd5b57b2345753895dc940e51f62f88ac7db5794"
+  },
+  {
+    "id": "2013-12-31_obl",
+    "path": "data/raw/buffer_validation/2013-12-31_obl.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2013-12-31&extend=y&memberkey1=335&overforth=f&schedule=obl&trxtype=repchg&year=2013",
+    "sha256": "07f586e63e1bad66c5b7a679295ffa6677431893bece07f6271460e874adf4ad"
+  },
+  {
+    "id": "2013-12-31_exp",
+    "path": "data/raw/buffer_validation/2013-12-31_exp.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2013-12-31&extend=y&memberkey1=335&overforth=f&schedule=exp&trxtype=repchg&year=2013",
+    "sha256": "9e4e682f0fa4cea591241a4235363c1156bef9b319aef6aba3e0bd15fb49c937"
+  },
+  {
+    "id": "2018-06-30_obl",
+    "path": "data/raw/buffer_validation/2018-06-30_obl.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2018-06-30&extend=y&memberkey1=335&overforth=f&schedule=obl&trxtype=repchg&year=2018",
+    "sha256": "65552652e09a645712ee0c38d22b7ca05144dd5330c2b22598e8c27cb1574306"
+  },
+  {
+    "id": "2018-06-30_exp",
+    "path": "data/raw/buffer_validation/2018-06-30_exp.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2018-06-30&extend=y&memberkey1=335&overforth=f&schedule=exp&trxtype=repchg&year=2018",
+    "sha256": "16ec1d96d1c6a87b7ffd336fefb1f55696dfc597297b80642f448d50edbd61fc"
+  },
+  {
+    "id": "2021-03-31_obl",
+    "path": "data/raw/buffer_validation/2021-03-31_obl.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2021-03-31&extend=y&memberkey1=335&overforth=f&schedule=obl&trxtype=repchg&year=2021",
+    "sha256": "010ddd471c058e3e9dfc7a34ff97b5cf4084c87fc8e4273b4d3c01c827afce1c"
+  },
+  {
+    "id": "2021-03-31_exp",
+    "path": "data/raw/buffer_validation/2021-03-31_exp.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2021-03-31&extend=y&memberkey1=335&overforth=f&schedule=exp&trxtype=repchg&year=2021",
+    "sha256": "65d4003b57769d5392b7dae7c157fb829c5abceeab1270d01c5b712cb2a2c780"
+  },
+  {
+    "id": "2021-12-31_obl",
+    "path": "data/raw/buffer_validation/2021-12-31_obl.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2021-12-31&extend=y&memberkey1=335&overforth=f&schedule=obl&trxtype=repchg&year=2021",
+    "sha256": "4c5953e386b84019991ba59c656963926a24fdcaf9069c37835b0b7f9fae5efe"
+  },
+  {
+    "id": "2021-12-31_exp",
+    "path": "data/raw/buffer_validation/2021-12-31_exp.html",
+    "url": "https://www.imf.org/external/np/fin/tad/extforth.aspx?category=forth&date1key=2021-12-31&extend=y&memberkey1=335&overforth=f&schedule=exp&trxtype=repchg&year=2021",
+    "sha256": "c82f27342c757c3464ccb3f5fc835329fbaf246d2a4341043745fa739fcf7d77"
+  },
+  {
+    "id": "tx2010",
+    "path": "data/raw/buffer_validation/tx2010.html",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2010&yearType=C",
+    "sha256": "448bba5cd6125aab69e220336a3b77a7bc0c507745789bfee0e9182c907654d2"
+  },
+  {
+    "id": "tx2012",
+    "path": "data/raw/buffer_validation/tx2012.html",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2012&yearType=C",
+    "sha256": "690acde212dd3697d90bb24c78d4e38b2026a6f2aeaab289112b12f44e44b8d3"
+  },
+  {
+    "id": "tx2013",
+    "path": "data/raw/buffer_validation/tx2013.html",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2013&yearType=C",
+    "sha256": "b2ab10c84a81faa7f0dc086afbe345e350f5df208b375af913374c639b422451"
+  },
+  {
+    "id": "tx2014",
+    "path": "data/raw/buffer_validation/tx2014.html",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2014&yearType=C",
+    "sha256": "fe35563c04263617500e83e8fac1e8db64f5cb430e327d53c40db85a67fabba3"
+  },
+  {
+    "id": "tx2018",
+    "path": "data/raw/buffer_validation/tx2018.html",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2018&yearType=C",
+    "sha256": "e3feddd293bbaeaaedf99b8f7279e9d7c578b0b00d48a13ee103e5d41f4f9be8"
+  },
+  {
+    "id": "tx2019",
+    "path": "data/raw/buffer_validation/tx2019.html",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2019&yearType=C",
+    "sha256": "253e8babcea393e904c10d2a686522332b73fc0791d0aa7a6e4db7461fe97659"
+  },
+  {
+    "id": "tx2021",
+    "path": "data/raw/buffer_validation/tx2021.html",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2021&yearType=C",
+    "sha256": "0e99285e19a4b29d383296dffc31ef2761209c2fafb38503ce087bbdc772c455"
+  },
+  {
+    "id": "tx2022",
+    "path": "data/raw/buffer_validation/tx2022.html",
+    "url": "https://www.imf.org/external/np/fin/Tad/extrans2.aspx?acctType1=GRASDA&extrans_flag=Y&memberKey1=335&valueDate=2022&yearType=C",
+    "sha256": "23d4bebcb6112eeb3b8a70e69f2fa253621a135858c6dd60b0bec990375cc3e0"
+  },
+  {
+    "id": "N16ENG",
+    "path": "data/raw/buffer_validation/N16ENG.pdf",
+    "url": "https://www.mof.ge/files/download/N16ENG.pdf/3da0b167-26e2-4921-8e98-a3e2b8a6a383",
+    "sha256": "fb97cba6b10ae8e9946d806671e0c193cb46320bdcf25d1ab6f05451df82d6e5"
+  },
+  {
+    "id": "N15ENG",
+    "path": "data/raw/buffer_validation/N15ENG.pdf",
+    "url": "https://www.mof.ge/files/download/N15ENG.pdf/d27df535-e289-4441-92e1-508e1c52c1f3",
+    "sha256": "63dd60eba1977c0dbc50d761046e2b6e37b735d02928e6525eec3c757a463fdd"
+  },
+  {
+    "id": "N12ENG",
+    "path": "data/raw/buffer_validation/N12ENG.pdf",
+    "url": "https://www.mof.ge/files/download/N12ENG.pdf/359b42a4-9255-4cde-ad2b-de5d43c35219",
+    "sha256": "eddc68d539ca97a4538601293beb8fd1429c9c6b00d77f8a1f00fe89b31b1c62"
+  },
+  {
+    "id": "PublicSectorDebtStatisticalBulletinN3ENG31.03.2015",
+    "path": "data/raw/buffer_validation/PublicSectorDebtStatisticalBulletinN3ENG31.03.2015.pdf",
+    "url": "https://www.mof.ge/files/download/PublicSectorDebtStatisticalBulletinN3ENG31.03.2015.pdf/a8cc289a-32e9-42e5-9ae4-ae1de72b4bbc",
+    "sha256": "71dbeaab76124818ad7da68f8a24352cb9dfdd4c2f1bf17d66f95cabaa1a5616"
+  },
+  {
+    "id": "prefin",
+    "path": "data/raw/buffer_validation/prefin.pdf",
+    "url": "https://www.imf.org/-/media/files/publications/cr/2020/english/1geoea2020006.pdf",
+    "sha256": "12d931d97beef4782f02b6fed1550dc081437723d282a89a08d9355a575afc56"
+  },
+  {
+    "id": "tbc",
+    "path": "data/raw/buffer_validation/tbc.pdf",
+    "url": "https://static.tbccapital.ge/uploads/files/TBCCapital_FixedIncomeRegionalMarketWatch_06.05.2021_ENG.pdf",
+    "sha256": "69d3e14bc5a8d62ff18335b219e89e20e826868f698d1825e8c772dbe13b9c39"
+  },
+  {
+    "id": "stock2011",
+    "path": "data/raw/buffer_validation/stock2011.html",
+    "url": "https://www.mof.ge/en/ExternalPublicDebtStatistics/GetData?year=2011",
+    "sha256": "bbbe26f112633cc0221075432d900cb6e31ce42d641ecc907b5c836750153b3b"
+  },
+  {
+    "id": "stock2012",
+    "path": "data/raw/buffer_validation/stock2012.html",
+    "url": "https://www.mof.ge/en/ExternalPublicDebtStatistics/GetData?year=2012",
+    "sha256": "559758b35a0d85a10b8202045c9a9ea7c3f5d21f18d83355d11fd00bdf46ea8c"
+  },
+  {
+    "id": "stock2013",
+    "path": "data/raw/buffer_validation/stock2013.html",
+    "url": "https://www.mof.ge/en/ExternalPublicDebtStatistics/GetData?year=2013",
+    "sha256": "5be37823b0e0c98fb58d18f6ac8be8df1aa76a92633dc777e502d9ee7c0245ab"
+  },
+  {
+    "id": "stock2018",
+    "path": "data/raw/buffer_validation/stock2018.html",
+    "url": "https://www.mof.ge/en/ExternalPublicDebtStatistics/GetData?year=2018",
+    "sha256": "d032a2c9dc725d5f6888a4c81b808423a10c0c8fa6789e8e5b468f685fe30822"
+  },
+  {
+    "id": "stock2021",
+    "path": "data/raw/buffer_validation/stock2021.html",
+    "url": "https://www.mof.ge/en/ExternalPublicDebtStatistics/GetData?year=2021",
+    "sha256": "25f134062f23353198a93c2251548c35766daa86c12081539c8bbd67d56aaf02"
+  },
+  {
+    "id": "N8ENG",
+    "path": "data/raw/buffer_validation/N8ENG.pdf",
+    "url": "https://www.mof.ge/files/download/PublicSectorDebtStatisticalBulletinN8ENG.pdf/9b2af885-6a97-47e7-b251-2e9fdea8dd85",
+    "sha256": "78b7da01ef2ab72685170319d4e527bd0b783510857f702f8009222b073f7b15"
+  },
+  {
+    "id": "PublicSectorDebtStatisticalBulletinN5ENG",
+    "path": "data/raw/buffer_validation/PublicSectorDebtStatisticalBulletinN5ENG.pdf",
+    "url": "https://www.mof.ge/files/download/PublicSectorDebtStatisticalBulletinN5ENG.pdf/90167c4b-ff0f-407f-a194-a40fe137d703",
+    "sha256": "8d4b5cebbe84b6c2425d4c345a383310cb61665b6846e7bf0669ac4186879ce5"
+  },
+  {
+    "id": "nbg_template",
+    "path": "data/raw/episode_2026_11_09/reserve_liquidity.xlsx",
+    "url": "https://nbg.gov.ge/fm/%E1%83%A1%E1%83%A2%E1%83%90%E1%83%A2%E1%83%98%E1%83%A1%E1%83%A2%E1%83%98%E1%83%99%E1%83%90/external_sector/eng/reporting-form-r1.xlsx",
+    "sha256": "a3607520b1fe80755c8677d749e073d63f6a80252b5c2d4cfb2fad7a26e54254"
+  },
+  {
+    "id": "N18ENG",
+    "path": "data/raw/buffer_validation/N18ENG.pdf",
+    "url": "https://www.mof.ge/files/download/N18ENG.pdf/a888fad7-be55-4ebe-9247-a74e067e2f03",
+    "sha256": "b899a49f0321f81575fe438b3ce5228d0711e0ad562ecbc8a65ec260acd3c2b6"
+  },
+  {
+    "id": "N1ENG18",
+    "path": "data/raw/buffer_validation/N1ENG18.pdf",
+    "url": "https://www.mof.ge/files/download/PublicSectorDebtStatisticalBulletinN1ENG18.09.2014Final.pdf/3ef93ba3-9024-4423-b496-0b6fa9ccec56",
+    "sha256": "46c00f4fdf054ed6fb82125bd269efa503c1f952272c946a7b5679fc6e2956dd"
+  },
+  {
+    "id": "N19ENG",
+    "path": "data/raw/buffer_validation/N19ENG.pdf",
+    "url": "https://www.mof.ge/files/download/N19ENG.pdf/87b685f6-5e38-41ec-b777-b9e499ab6eca",
+    "sha256": "07bf09c8b3cfec8febd9fde89cc8bd40e7f2876b836a2b8459692cabc4a9d8bf"
+  }
+]

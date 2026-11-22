@@ -1,0 +1,10 @@
+episode,months,low_usdm,high_usdm,status,source_and_calculation
+2014Q1,1,0,0.015,interval from annual and paid quarters,MoF 5 table 6 annual 34.38 +/- .005 less two MoF 3 table 6 quarters each at least 17.185; nonnegative payments
+2014Q1,3,0,0.015,interval from annual and paid quarters,Same bound; Q1 and Q3 show dashes rather than numeric zeros
+2014Q1,12,34.375,34.385,annual reported amount rounded to .01,MoF 5 table 6 annual USD 34.38; 2014 sole external sovereign bond
+2018Q3,1,0,0.05,within quarter bounded by reported Q3 total,MoF 12 table 6 2018Q3 USD 0.0 to one decimal
+2018Q3,3,0,0.05,quarter reported amount rounded to .1,MoF 12 table 6 2018Q3 USD 0.0 to one decimal
+2018Q3,12,34.30,34.60,four rounded quarterly totals,MoF 12 table 6 from 2018Q3 through 2019Q2: 0.0 plus 17.2 plus 0.0 plus 17.2
+2021Q2,1,500,517.25,April principal confirmed; coupon timing bounded,Finance minister April 15 confirms redemption and TBC May 6; MoF 16 table 6 Q2 total USD 517.2 rounded to .1
+2021Q2,3,517.15,517.25,quarter reported amount rounded to .1,MoF 16 table 6 principal 500 and interest 17.2; first coupon of replacement bond not due until October
+2021Q2,12,517.15,517.25,retired instrument only,Same terminal payment; closed issue redeemed in April 2021

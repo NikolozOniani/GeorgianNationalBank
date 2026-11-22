@@ -1,0 +1,22 @@
+episode,origin,months,input_grade,signed_month_error,absolute_month_error,model_usdm,simple_usdm,predicted_peak_month,status,actual_low,actual_high,uncovered_low,uncovered_high,excess_low,excess_high,carry_100bp_low,carry_100bp_high
+2010Q1,2009-12-31,1,not applicable,,,,,,not issued,,,,,,,,
+2010Q1,2009-12-31,3,not applicable,,,,,,not issued,,,,,,,,
+2010Q1,2009-12-31,12,not applicable,,,,,,not issued,,,,,,,,
+2012Q1,2011-12-31,1,as-of stock; two issues outstanding,,,0,0,,other outstanding issue; isolated outturn unavailable,,,,,,,,
+2012Q1,2011-12-31,3,as-of stock; two issues outstanding,,,0,0,,other outstanding issue; isolated outturn unavailable,,,,,,,,
+2012Q1,2011-12-31,12,as-of stock; two issues outstanding,,,34.37500,34.37500,2012-10,other outstanding issue; isolated outturn unavailable,,,,,,,,
+2013Q1,2012-12-31,1,as-of stock; two issues outstanding,,,0,0,,other outstanding issue; isolated outturn unavailable,,,,,,,,
+2013Q1,2012-12-31,3,as-of stock; two issues outstanding,,,0,0,,other outstanding issue; isolated outturn unavailable,,,,,,,,
+2013Q1,2012-12-31,12,as-of stock; two issues outstanding,,,34.37500,34.37500,2013-10,other outstanding issue; isolated outturn unavailable,,,,,,,,
+2014Q1,2013-12-31,1,as-of stock; publication day unverified,,,0,0,,interval from annual and paid quarters,0,0.015,0,0.015,0,0,0.00,0.00
+2014Q1,2013-12-31,3,as-of stock; publication day unverified,,,0,0,,interval from annual and paid quarters,0,0.015,0,0.015,0,0,0.00,0.00
+2014Q1,2013-12-31,12,as-of stock; publication day unverified,,,34.37500,34.37500,2014-10,annual reported amount rounded to .01,34.375,34.385,0,0.01000,0,0,0.00,0.00
+2018Q3,2018-06-30,1,public instrument terms and earlier official stock,,,0,0,,within quarter bounded by reported Q3 total,0,0.05,0,0.05,0,0,0.00,0.00
+2018Q3,2018-06-30,3,public instrument terms and earlier official stock,,,0,0,,quarter reported amount rounded to .1,0,0.05,0,0.05,0,0,0.00,0.00
+2018Q3,2018-06-30,12,public instrument terms and earlier official stock,,,34.37500,34.37500,2019-04,four rounded quarterly totals,34.30,34.60,0,0.22500,0,0.07500,0.00,0.0007500
+2021Q2,2021-03-31,1,public instrument terms and earlier official stock,0,0,517.18750,517.18750,2021-04,April principal confirmed; coupon timing bounded,500,517.25,0,0.06250,0,17.18750,0.00,0.01432291666666666666666666667
+2021Q2,2021-03-31,3,public instrument terms and earlier official stock,,,517.18750,517.18750,2021-04,quarter reported amount rounded to .1,517.15,517.25,0,0.06250,0,0.03750,0.00,0.00009375
+2021Q2,2021-03-31,12,public instrument terms and earlier official stock,,,517.18750,517.18750,2021-04,retired instrument only,517.15,517.25,0,0.06250,0,0.03750,0.00,0.0003750
+2022Q1,2021-12-31,1,not applicable,,,,,,matured,,,,,,,,
+2022Q1,2021-12-31,3,not applicable,,,,,,matured,,,,,,,,
+2022Q1,2021-12-31,12,not applicable,,,,,,matured,,,,,,,,

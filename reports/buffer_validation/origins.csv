@@ -1,0 +1,8 @@
+origin,episode,selection,financing_at_cutoff,credit_receipt_date,forecast_credit_sdr,financing_evidence,bond_status,bond_grade,ara_observation,ara_source
+2009-12-31,2010Q1,flagged,SDR 47.3m available from fourth review; January cash date not established before cutoff,,0,IMF 09/331 fourth review and 10/83 retrospective confirmation,not issued,not applicable,no comparable origin vintage verified,
+2011-12-31,2012Q1,flagged,Previous SBA expired June 2011; next precautionary arrangement approved April 2012,,0,IMF release 12/131,active,as-of stock; two issues outstanding,no comparable origin vintage verified,
+2012-12-31,2013Q1,flagged,Precautionary arrangements; no verified dated drawing,,0,IMF release 12/131,active,as-of stock; two issues outstanding,no comparable origin vintage verified,
+2013-12-31,2014Q1,flagged,Precautionary facility; new SBA approved July 2014,,0,IMF Georgia Program Note and release 12/131,active,as-of stock; publication day unverified,no comparable origin vintage verified,
+2018-06-30,2018Q3,comparison,June review drawing already posted June 29; future tranches conditional,,0,IMF June 27 decision and tx2018,active,public contract and pre-origin MoF no.8 stock,87% at end-2016 observed; published 2017,IMF 17/361
+2021-03-31,2021Q2,flagged,Eighth EFF review and drawing still conditional; Eurobond refinancing subject to market conditions,,0,IMF 20/322 paragraphs 15-16 and 21/79,active,public contract and pre-origin MoF stock plus IMF 20/322,105% projected for end-2020 in December 2020,IMF 20/322
+2021-12-31,2022Q1,named,Previous EFF expired; no confirmed eligible dated drawing at origin,,0,IMF 21/79 eighth and final review,matured,not applicable,108% observed end-2020 in 2021 Article IV,IMF 21/215

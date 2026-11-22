@@ -1,0 +1,22 @@
+episode,origin,months,template,II1_net_drain_usdm,mof_gross_service_usdm,template_minus_mof_usdm,mof_source,national_predicted_gap,national_realized_gap,primary_score
+2010Q1,2009-12-31,1,template 12 09,11.700000,,,,,,unidentified
+2010Q1,2009-12-31,3,template 12 09,34.900000,,,,,,unidentified
+2010Q1,2009-12-31,12,template 12 09,209.600000,,,,,,unidentified
+2012Q1,2011-12-31,1,template 12 11,24.360381,,,,,,unidentified
+2012Q1,2011-12-31,3,template 12 11,73.081142,,,,,,unidentified
+2012Q1,2011-12-31,12,template 12 11,445.553424,377,68.553424,N1ENG18 Table 6 p13,,,unidentified
+2013Q1,2012-12-31,1,template 12.12,12.558629,,,,,,unidentified
+2013Q1,2012-12-31,3,template 12.12,45.026037,102,-56.973963,N1ENG18 Table 6 p13,,,unidentified
+2013Q1,2012-12-31,12,template 12.12,391.185634,583,-191.814366,N1ENG18 Table 6 p13,,,unidentified
+2014Q1,2013-12-31,1,template 12.13,28.250625,,,,,,unidentified
+2014Q1,2013-12-31,3,template 12.13,111.513250,119.13,-7.616750,PublicSectorDebtStatisticalBulletinN3ENG31.03.2015 Table 6 p13,,,unidentified
+2014Q1,2013-12-31,12,template 12.13,386.127500,430.78,-44.652500,PublicSectorDebtStatisticalBulletinN3ENG31.03.2015 Table 6 p13,,,unidentified
+2018Q3,2018-06-30,1,template 06.18,45.829311,,,,,,unidentified
+2018Q3,2018-06-30,3,template 06.18,105.937634,93.8,12.137634,N12ENG Table 6 p13,,,unidentified
+2018Q3,2018-06-30,12,template 06.18,428.426779,419.2,9.226779,N12ENG Table 6 p13,,,unidentified
+2021Q2,2021-03-31,1,template 03.21,537.922448,,,,,,unidentified
+2021Q2,2021-03-31,3,template 03.21,601.121624,600.4,0.721624,N16ENG Table 6 p13,,,unidentified
+2021Q2,2021-03-31,12,template 03.21,916.829674,893.5,23.329674,N18ENG Table 6 p13,,,unidentified
+2022Q1,2021-12-31,1,template 12.21,39.951951,,,,,,unidentified
+2022Q1,2021-12-31,3,template 12.21,99.759829,100.6,-0.840171,N18ENG Table 6 p13,,,unidentified
+2022Q1,2021-12-31,12,template 12.21,432.356878,440.1,-7.743122,N19ENG Table 6 physical p14,,,unidentified
