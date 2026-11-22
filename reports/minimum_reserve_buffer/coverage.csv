@@ -1,0 +1,13 @@
+origin,account,one_month,three_months,twelve_months,remaining_limitation
+2008-07-31,public payments,withheld,withheld,withheld,Government imports and Treasury freely available cash have no matched amounts or settlement dates
+2008-07-31,bank support,withheld,withheld,withheld,Reserve-requirement waiver and cash delivery are documented without an amount for eligible residual bank needs
+2008-07-31,net market sales,August budget,withheld,withheld,Other months lack a complete all-venue cash tape; the 187 and 190 August disclosures overlap
+2008-12-31,IMF principal,dated SDR account,dated SDR account,dated SDR account,Annual member cash principal coverage established; charges and other public payers outside the account
+2008-12-31,fiscal payments,GEL timing cases,GEL timing cases,withheld,Quarterly GEL reporting values do not establish settlement currency or Treasury cash access
+2008-12-31,IMF plus sales,conditional Q1 timing,conditional Q1 timing,withheld,Net quarterly sales outside observed auction dates have unknown gross sequencing; annual all-venue tape unavailable
+2008-12-31,bank support,two named obligations only,two named obligations only,two named obligations only,Actual eligible bank need and bank-specific assets and collateral unknown; USD is separate from IMF SDR account
+2020-03-31,IMF charges and sovereign coupon,native-currency subset,native-currency subset,withheld,Nominal dates for charges and coupon; no full year dated service ledger
+2020-03-31,reported debtor service,conditional Q2 timing,conditional Q2 timing,withheld,Quarterly debtor-specific service and selected receipts only; other inflows and Treasury opening account unresolved
+2020-03-31,section II.1 schedule,opening schedule,opening schedule,opening schedule,USD-equivalent bucket totals; monthly and intraday schedules within later buckets unavailable
+2020-03-31,market sales,net monthly budget,net monthly budget,net monthly budget,Market sales optional; no incremental financing credited
+2020-03-31,bank support,withheld,withheld,withheld,Sector assets and contingent liabilities cannot establish binding eligible bank-specific uses

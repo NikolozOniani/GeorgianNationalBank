@@ -1,0 +1,19 @@
+case,date,description,opening,receipt,gross_bill,externally_paid,nbg_backstop,closing
+2020_fiscal_actual_early,2020-04-01,other government service,0,0,86.41250,0,86.41250,0
+2020_fiscal_actual_early,2020-04-12,bond coupon,0,0,17.18750,0,17.18750,0
+2020_fiscal_actual_early,2020-05-05,funding arrives,0,200.34336,0,0,0,200.34336
+2020_fiscal_actual_early,2020-05-06,funding arrives,200.34336,48.802738,0,0,0,249.146098
+2020_fiscal_actual_late,2020-04-12,bond coupon,0,0,17.18750,0,17.18750,0
+2020_fiscal_actual_late,2020-05-05,funding arrives,0,200.34336,0,0,0,200.34336
+2020_fiscal_actual_late,2020-05-06,funding arrives,200.34336,48.802738,0,0,0,249.146098
+2020_fiscal_actual_late,2020-06-30,other government service,249.146098,0,86.41250,86.41250,0.00000,162.733598
+2020_fiscal_no_new_rescue_early,2020-04-01,other government service,0,0,86.41250,0,86.41250,0
+2020_fiscal_no_new_rescue_early,2020-04-12,bond coupon,0,0,17.18750,0,17.18750,0
+2020_fiscal_no_new_rescue_early,2020-05-06,funding arrives,0,48.802738,0,0,0,48.802738
+2020_fiscal_no_new_rescue_late,2020-04-12,bond coupon,0,0,17.18750,0,17.18750,0
+2020_fiscal_no_new_rescue_late,2020-05-06,funding arrives,0,48.802738,0,0,0,48.802738
+2020_fiscal_no_new_rescue_late,2020-06-30,other government service,48.802738,0,86.41250,48.802738,37.609762,0.000000
+2020_fiscal_inaccessible_early,2020-04-01,other government service,0,0,86.41250,0,86.41250,0
+2020_fiscal_inaccessible_early,2020-04-12,bond coupon,0,0,17.18750,0,17.18750,0
+2020_fiscal_inaccessible_late,2020-04-12,bond coupon,0,0,17.18750,0,17.18750,0
+2020_fiscal_inaccessible_late,2020-06-30,other government service,0,0,86.41250,0,86.41250,0

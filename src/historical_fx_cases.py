@@ -35,7 +35,7 @@ def source_bytes(lock, acquire):
     return raw
 
 
-def imf_transactions(acquire):
+def imf_transactions(acquire, periods=PERIODS):
     records = []
     for lock in json.loads((CASES/'imf_sources.json').read_text()):
         raw = source_bytes(lock, acquire)
@@ -59,7 +59,7 @@ def imf_transactions(acquire):
             totals = [a+b for a,b in zip(totals, amounts)]
             if value_date.year != lock['year']:
                 raise ValueError('Wrong IMF table year')
-            if (value_date.year,value_date.month) in PERIODS:
+            if (value_date.year,value_date.month) in periods:
                 records.append(dict(date=value_date.isoformat(), operation=cells[-1],
                                  disbursed_sdr=sum(amounts[::2]), principal_paid_sdr=sum(amounts[1::2])))
         if stated != totals:

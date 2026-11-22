@@ -1,0 +1,207 @@
+case,date,flow,net_use,unit
+2008_August_sales,2008-08-31,August sales budget,187,USDm
+2009_principal_actual,2009-01-22,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_actual,2009-01-23,PRGT Repayment (ECF),2.25,SDRm
+2009_principal_actual,2009-02-05,PRGT Repayment (ECF),3.33,SDRm
+2009_principal_actual,2009-03-20,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_actual,2009-03-25,GRA Purchase (SBA),-126.2,SDRm
+2009_principal_actual,2009-05-01,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_actual,2009-07-22,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_actual,2009-07-24,PRGT Repayment (ECF),2.25,SDRm
+2009_principal_actual,2009-08-05,PRGT Repayment (ECF),3.33,SDRm
+2009_principal_actual,2009-09-22,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_actual,2009-09-30,GRA Purchase (SBA),-94.6,SDRm
+2009_principal_actual,2009-10-30,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_actual,2009-12-21,PRGT Repayment (ECF),1.4,SDRm
+2009_principal_no_new_rescue,2009-01-22,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_new_rescue,2009-01-23,PRGT Repayment (ECF),2.25,SDRm
+2009_principal_no_new_rescue,2009-02-05,PRGT Repayment (ECF),3.33,SDRm
+2009_principal_no_new_rescue,2009-03-20,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_new_rescue,2009-03-25,GRA Purchase (SBA),-63.1,SDRm
+2009_principal_no_new_rescue,2009-05-01,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_new_rescue,2009-07-22,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_new_rescue,2009-07-24,PRGT Repayment (ECF),2.25,SDRm
+2009_principal_no_new_rescue,2009-08-05,PRGT Repayment (ECF),3.33,SDRm
+2009_principal_no_new_rescue,2009-09-22,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_new_rescue,2009-10-30,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_new_rescue,2009-12-21,PRGT Repayment (ECF),1.4,SDRm
+2009_principal_no_receipts,2009-01-22,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_receipts,2009-01-23,PRGT Repayment (ECF),2.25,SDRm
+2009_principal_no_receipts,2009-02-05,PRGT Repayment (ECF),3.33,SDRm
+2009_principal_no_receipts,2009-03-20,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_receipts,2009-05-01,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_receipts,2009-07-22,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_receipts,2009-07-24,PRGT Repayment (ECF),2.25,SDRm
+2009_principal_no_receipts,2009-08-05,PRGT Repayment (ECF),3.33,SDRm
+2009_principal_no_receipts,2009-09-22,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_receipts,2009-10-30,PRGT Repayment (ECF),0.9,SDRm
+2009_principal_no_receipts,2009-12-21,PRGT Repayment (ECF),1.4,SDRm
+2009_IMF_sales_actual_gross_face_early,2009-01-01,Q1 sales outside auction ledger,128,USDm
+2009_IMF_sales_actual_gross_face_early,2009-01-22,PRGT Repayment (ECF),1.346697,USDm
+2009_IMF_sales_actual_gross_face_early,2009-01-23,PRGT Repayment (ECF),3.3476625,USDm
+2009_IMF_sales_actual_gross_face_early,2009-02-01,GRA Charges,1.28387176,USDm
+2009_IMF_sales_actual_gross_face_early,2009-02-05,PRGT Repayment (ECF),4.9788828,USDm
+2009_IMF_sales_actual_gross_face_early,2009-03-10,auction 1,5,USDm
+2009_IMF_sales_actual_gross_face_early,2009-03-12,auction 2,3,USDm
+2009_IMF_sales_actual_gross_face_early,2009-03-17,auction 3,1,USDm
+2009_IMF_sales_actual_gross_face_early,2009-03-19,auction 4,1,USDm
+2009_IMF_sales_actual_gross_face_early,2009-03-20,PRGT Repayment (ECF),1.35999,USDm
+2009_IMF_sales_actual_gross_face_early,2009-03-24,auction 5,-5,USDm
+2009_IMF_sales_actual_gross_face_early,2009-03-25,SBA at same-day valuation,-189.992838,USDm
+2009_IMF_sales_actual_gross_face_early,2009-03-26,auction 6,4,USDm
+2009_IMF_sales_actual_gross_face_early,2009-03-31,auction 7,5,USDm
+2009_IMF_sales_actual_gross_face_late,2009-01-22,PRGT Repayment (ECF),1.346697,USDm
+2009_IMF_sales_actual_gross_face_late,2009-01-23,PRGT Repayment (ECF),3.3476625,USDm
+2009_IMF_sales_actual_gross_face_late,2009-02-01,GRA Charges,1.28387176,USDm
+2009_IMF_sales_actual_gross_face_late,2009-02-05,PRGT Repayment (ECF),4.9788828,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-10,auction 1,5,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-12,auction 2,3,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-17,auction 3,1,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-19,auction 4,1,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-20,PRGT Repayment (ECF),1.35999,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-24,auction 5,-5,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-25,SBA at same-day valuation,-189.992838,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-26,auction 6,4,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-31,Q1 sales outside auction ledger,128,USDm
+2009_IMF_sales_actual_gross_face_late,2009-03-31,auction 7,5,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-01-01,Q1 sales outside auction ledger,128,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-01-22,PRGT Repayment (ECF),1.346697,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-01-23,PRGT Repayment (ECF),3.3476625,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-02-01,GRA Charges,1.28387176,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-02-05,PRGT Repayment (ECF),4.9788828,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-03-10,auction 1,5,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-03-12,auction 2,3,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-03-17,auction 3,1,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-03-19,auction 4,1,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-03-20,PRGT Repayment (ECF),1.35999,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-03-24,auction 5,-5,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-03-25,SBA at same-day valuation,-94.996419,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-03-26,auction 6,4,USDm
+2009_IMF_sales_no_new_rescue_gross_face_early,2009-03-31,auction 7,5,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-01-22,PRGT Repayment (ECF),1.346697,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-01-23,PRGT Repayment (ECF),3.3476625,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-02-01,GRA Charges,1.28387176,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-02-05,PRGT Repayment (ECF),4.9788828,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-10,auction 1,5,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-12,auction 2,3,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-17,auction 3,1,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-19,auction 4,1,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-20,PRGT Repayment (ECF),1.35999,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-24,auction 5,-5,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-25,SBA at same-day valuation,-94.996419,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-26,auction 6,4,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-31,Q1 sales outside auction ledger,128,USDm
+2009_IMF_sales_no_new_rescue_gross_face_late,2009-03-31,auction 7,5,USDm
+2009_fiscal_receipt_first,2009-01-01,external borrowing reported in GEL,-37,GELm
+2009_fiscal_receipt_first,2009-03-31,external amortization outflow,13,GELm
+2009_fiscal_receipt_first,2009-03-31,interest to nonresidents,13,GELm
+2009_fiscal_bills_first,2009-01-01,external amortization outflow,13,GELm
+2009_fiscal_bills_first,2009-01-01,interest to nonresidents,13,GELm
+2009_fiscal_bills_first,2009-03-31,external borrowing reported in GEL,-37,GELm
+2009_named_bank_self_funded,2009-01-31,Merrill Lynch senior loan face repaid in full in January,0,USDm
+2009_named_bank_self_funded,2009-06-30,put notes repaid,0,USDm
+2009_named_bank_full_backstop,2009-01-31,Merrill Lynch senior loan face repaid in full in January,65,USDm
+2009_named_bank_full_backstop,2009-06-30,put notes repaid,49,USDm
+2020_named_USD,2020-04-12,2021 Eurobond interest,17.18750,USDm
+2020_named_SDR,2020-04-30,SDR Assessments,0.002248,SDRm
+2020_named_SDR,2020-05-01,GRA Charges,0.59022,SDRm
+2020_named_SDR,2020-05-01,Net SDR Charges,0.000402,SDRm
+2020_sales,2020-04-30,monthly net sales,24.800000,USDm
+2020_sales,2020-05-31,monthly net sales,40.500000,USDm
+2020_sales,2020-06-30,monthly net sales,55.650000,USDm
+2020_sales,2020-07-31,monthly net sales,60.000000,USDm
+2020_sales,2020-08-31,monthly net sales,60.000000,USDm
+2020_sales,2020-09-30,monthly net sales,144.950000,USDm
+2020_sales,2020-10-31,monthly net sales,204.600000,USDm
+2020_sales,2020-11-30,monthly net sales,175.750000,USDm
+2020_sales,2020-12-31,monthly net sales,49.822000,USDm
+2020_sales,2021-01-31,monthly net sales,80,USDm
+2020_sales,2021-02-28,monthly net sales,40,USDm
+2020_sales,2021-03-31,monthly net sales,44.4,USDm
+2020_schedule,2020-04-30,section II.1 bucket,36.437260799,USDm
+2020_schedule,2020-06-30,section II.1 bucket,78.333272656,USDm
+2020_schedule,2021-03-31,section II.1 bucket,303.541009329,USDm
+2020_schedule_sales,2020-04-30,monthly net sales,24.800000,USDm
+2020_schedule_sales,2020-04-30,section II.1 bucket,36.437260799,USDm
+2020_schedule_sales,2020-05-31,monthly net sales,40.500000,USDm
+2020_schedule_sales,2020-06-30,monthly net sales,55.650000,USDm
+2020_schedule_sales,2020-06-30,section II.1 bucket,78.333272656,USDm
+2020_schedule_sales,2020-07-31,monthly net sales,60.000000,USDm
+2020_schedule_sales,2020-08-31,monthly net sales,60.000000,USDm
+2020_schedule_sales,2020-09-30,monthly net sales,144.950000,USDm
+2020_schedule_sales,2020-10-31,monthly net sales,204.600000,USDm
+2020_schedule_sales,2020-11-30,monthly net sales,175.750000,USDm
+2020_schedule_sales,2020-12-31,monthly net sales,49.822000,USDm
+2020_schedule_sales,2021-01-31,monthly net sales,80,USDm
+2020_schedule_sales,2021-02-28,monthly net sales,40,USDm
+2020_schedule_sales,2021-03-31,monthly net sales,44.4,USDm
+2020_schedule_sales,2021-03-31,section II.1 bucket,303.541009329,USDm
+2020_schedule_sales_early_dues,2020-04-01,section II.1 bucket,36.437260799,USDm
+2020_schedule_sales_early_dues,2020-04-30,monthly net sales,24.800000,USDm
+2020_schedule_sales_early_dues,2020-05-01,section II.1 bucket,78.333272656,USDm
+2020_schedule_sales_early_dues,2020-05-31,monthly net sales,40.500000,USDm
+2020_schedule_sales_early_dues,2020-06-30,monthly net sales,55.650000,USDm
+2020_schedule_sales_early_dues,2020-07-01,section II.1 bucket,303.541009329,USDm
+2020_schedule_sales_early_dues,2020-07-31,monthly net sales,60.000000,USDm
+2020_schedule_sales_early_dues,2020-08-31,monthly net sales,60.000000,USDm
+2020_schedule_sales_early_dues,2020-09-30,monthly net sales,144.950000,USDm
+2020_schedule_sales_early_dues,2020-10-31,monthly net sales,204.600000,USDm
+2020_schedule_sales_early_dues,2020-11-30,monthly net sales,175.750000,USDm
+2020_schedule_sales_early_dues,2020-12-31,monthly net sales,49.822000,USDm
+2020_schedule_sales_early_dues,2021-01-31,monthly net sales,80,USDm
+2020_schedule_sales_early_dues,2021-02-28,monthly net sales,40,USDm
+2020_schedule_sales_early_dues,2021-03-31,monthly net sales,44.4,USDm
+2020_fiscal_actual_early,2020-04-01,NBG debt service,0.8,USDm
+2020_fiscal_actual_early,2020-04-01,other government service,86.41250,USDm
+2020_fiscal_actual_early,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_actual_early_sales,2020-04-01,NBG debt service,0.8,USDm
+2020_fiscal_actual_early_sales,2020-04-01,other government service,86.41250,USDm
+2020_fiscal_actual_early_sales,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_actual_early_sales,2020-04-30,monthly net sales,24.800000,USDm
+2020_fiscal_actual_early_sales,2020-05-31,monthly net sales,40.500000,USDm
+2020_fiscal_actual_early_sales,2020-06-30,monthly net sales,55.650000,USDm
+2020_fiscal_actual_late,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_actual_late,2020-06-30,NBG debt service,0.8,USDm
+2020_fiscal_actual_late,2020-06-30,other government service,0.00000,USDm
+2020_fiscal_actual_late_sales,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_actual_late_sales,2020-04-30,monthly net sales,24.800000,USDm
+2020_fiscal_actual_late_sales,2020-05-31,monthly net sales,40.500000,USDm
+2020_fiscal_actual_late_sales,2020-06-30,NBG debt service,0.8,USDm
+2020_fiscal_actual_late_sales,2020-06-30,monthly net sales,55.650000,USDm
+2020_fiscal_actual_late_sales,2020-06-30,other government service,0.00000,USDm
+2020_fiscal_no_new_rescue_early,2020-04-01,NBG debt service,0.8,USDm
+2020_fiscal_no_new_rescue_early,2020-04-01,other government service,86.41250,USDm
+2020_fiscal_no_new_rescue_early,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_no_new_rescue_early_sales,2020-04-01,NBG debt service,0.8,USDm
+2020_fiscal_no_new_rescue_early_sales,2020-04-01,other government service,86.41250,USDm
+2020_fiscal_no_new_rescue_early_sales,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_no_new_rescue_early_sales,2020-04-30,monthly net sales,24.800000,USDm
+2020_fiscal_no_new_rescue_early_sales,2020-05-31,monthly net sales,40.500000,USDm
+2020_fiscal_no_new_rescue_early_sales,2020-06-30,monthly net sales,55.650000,USDm
+2020_fiscal_no_new_rescue_late,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_no_new_rescue_late,2020-06-30,NBG debt service,0.8,USDm
+2020_fiscal_no_new_rescue_late,2020-06-30,other government service,37.609762,USDm
+2020_fiscal_no_new_rescue_late_sales,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_no_new_rescue_late_sales,2020-04-30,monthly net sales,24.800000,USDm
+2020_fiscal_no_new_rescue_late_sales,2020-05-31,monthly net sales,40.500000,USDm
+2020_fiscal_no_new_rescue_late_sales,2020-06-30,NBG debt service,0.8,USDm
+2020_fiscal_no_new_rescue_late_sales,2020-06-30,monthly net sales,55.650000,USDm
+2020_fiscal_no_new_rescue_late_sales,2020-06-30,other government service,37.609762,USDm
+2020_fiscal_inaccessible_early,2020-04-01,NBG debt service,0.8,USDm
+2020_fiscal_inaccessible_early,2020-04-01,other government service,86.41250,USDm
+2020_fiscal_inaccessible_early,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_inaccessible_early_sales,2020-04-01,NBG debt service,0.8,USDm
+2020_fiscal_inaccessible_early_sales,2020-04-01,other government service,86.41250,USDm
+2020_fiscal_inaccessible_early_sales,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_inaccessible_early_sales,2020-04-30,monthly net sales,24.800000,USDm
+2020_fiscal_inaccessible_early_sales,2020-05-31,monthly net sales,40.500000,USDm
+2020_fiscal_inaccessible_early_sales,2020-06-30,monthly net sales,55.650000,USDm
+2020_fiscal_inaccessible_late,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_inaccessible_late,2020-06-30,NBG debt service,0.8,USDm
+2020_fiscal_inaccessible_late,2020-06-30,other government service,86.41250,USDm
+2020_fiscal_inaccessible_late_sales,2020-04-12,bond coupon,17.18750,USDm
+2020_fiscal_inaccessible_late_sales,2020-04-30,monthly net sales,24.800000,USDm
+2020_fiscal_inaccessible_late_sales,2020-05-31,monthly net sales,40.500000,USDm
+2020_fiscal_inaccessible_late_sales,2020-06-30,NBG debt service,0.8,USDm
+2020_fiscal_inaccessible_late_sales,2020-06-30,monthly net sales,55.650000,USDm
+2020_fiscal_inaccessible_late_sales,2020-06-30,other government service,86.41250,USDm
