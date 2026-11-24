@@ -6,7 +6,7 @@
 
 **Scope:** One intervention episode, one economic counterfactual, and its consequences.
 
-This is one academic economics project. The [research protocol](research/PROTOCOL.md) is authoritative. It studies the 2025–2026 reserve-accumulation purchase episode against a specified no-purchases counterfactual. Exact execution boundaries and the last jointly observed period must be established before estimation. The year 2026 is incomplete at the source-review cutoff of 8 November 2026.
+This study evaluates the NBG's January 2025–September 2026 purchases under three calibrated economic scenarios. Both the observed episode and the no-purchases alternative begin with the December 2024 balance sheet. The [protocol](research/PROTOCOL.md) specifies the assumptions and which conclusions each calculation supports. The [roadmap](research/ROADMAP.md) starts with the monthly lari and reserve paths.
 
 ## Read the project
 
@@ -26,7 +26,7 @@ This is one academic economics project. The [research protocol](research/PROTOCO
 
 ## Evidence status
 
-**Latest result, 17 November 2026:** [R3 has been reopened and a registered conditional exchange-rate model executed](reports/r3_reopen_2026_11_16/README.md). It fails its precommitted robustness gate: 149 of 199 coefficient resamples are stable and reserve-feasible, below the required 90%. Monthly candidate paths, holdout predictions, source checks and independent arithmetic verification are preserved. **No preferred no-purchases path or empirical range is released.** R7 and manuscript drafting remain paused. See [replication instructions](replication/R3_REOPEN.md).
+**Research direction, 24 November 2026.** The [scenario calibrations and acceptance criteria](research/PROTOCOL.md) cover FX impact and persistence, monetary policy, inflation and reserve services. The [earlier R3 experiment](reports/r3_reopen_2026_11_16/README.md) remains rejected under its original rule. The separate [historical reserve tests](reports/buffer_validation/README.md) support conditional stress comparisons. The new episode simulations are pending.
 
 The [9 November acquisition results](reports/acquisition_2026_11_09/README.md) now provide actual 2025–2026 monthly intervention observations, daily exchange rates, reserve and liquidity records, external flows, audited 2025 interest accounts and IMF ARA benchmarks. See the [current requirement status](research/ACQUISITION_STATUS.md) and [replication/manual-file instructions](replication/ACQUISITION.md). The remaining text below describes the preserved historical foundation; it is not the current acquisition inventory.
 

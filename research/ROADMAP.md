@@ -8,6 +8,27 @@
 
 **Scope:** One intervention episode, one economic counterfactual, and its consequences.
 
+## Current work order · 24 November 2026
+
+The primary output is a calibrated evaluation of the same episode and no-purchases counterfactual. The [protocol, sections 2 and 6](PROTOCOL.md) defines the conservative, central and aggressive cases and the acceptance criteria. The prior rejection of the R3 candidate stands. The earlier general pause on R7 is lifted for the conditional analysis. R7 depends on the relevant scenario outputs below. R8 follows the synthesis. Causal identification, access to private records and exact reproduction of the IMF optimum are separate claims with their own evidence requirements.
+
+| Order | Work and dependencies | Deliverable and completion criterion |
+|---|---|---|
+| 1. Compute the new R3 scenarios | Start from the [registered window](R0_REGISTRATION.md), [R1 flows](../reports/r1_2026_11_10/README.md), published impulses and the protocol's parameter grid. Reuse existing series and assumptions with their original qualifications. | One parameter table and one runnable calculation for the monthly observed and three conditional GEL/USD paths, policy rates, inflation and reserve flows. Record common shocks, timing, sales and funding rules before evaluating the episode. Verify the baseline, unit impulses, identical-policy case and resource constraint. Publish a reason for each infeasible case. |
+| 2. Apply the historical reserve stresses (R2/R6) | Start alongside R3 from the completed [historical tests](../reports/buffer_validation/README.md). Use [steps 5 and 6 below](#7-reserve-adequacy-from-georgian-funding-shocks) and existing month-end exposures. For episode-attributable differences, use the corresponding R3 balance sheet. | At each month-end identify the binding payment or discretionary sale, usable resources, first shortfall and replacement-cost or break-even threshold. Compare the IMF benchmark on a comparable date and denominator. Separate dollars of coverage from economic value. |
+| 3. Transmit the feasible paths into R4 and R5 | Use the [funding accounts](../reports/r4_2026_11_12/README.md) and [corrected household exposures](../reports/r5_2026_11_13/README.md). | Financial carry by funding alternative and partial basket/transfer effects by group for the same scenario and dates. Distinguish accounting transfers, distribution and national costs. Show uncovered spending and valuation gaps in their own units. |
+| 4. Integrate at R7 | Join the feasible results above by scenario and horizon. Complete supported channels even if a separate valuation is missing. | One comparison table for the two questions. Show monthly and terminal FX gaps, the cost of the marginal reserve tranche, protection purchased, and assumptions under which the judgment reverses. Cross low/high intervention effects with low/high reserve benefits. Show a break-even threshold where the sign cannot be determined. Reproduce the released numbers from the cited data and parameters. |
+| 5. Prepare R8 | Use the completed R7 exhibits and the existing academic outline. | Answer each clause at its supported strength. Include favorable, adverse and negligible effects where the evidence permits. |
+
+**Completion discipline.** A new series, identification design or replication exercise belongs on the critical path only if it would change a stated output or resolve an ambiguity that materially changes the conclusion. Use existing diagnostics once. Keep the rejected model and holdout results as comparisons. Resolve missing quantities with explicit assumptions, thresholds or a narrower conclusion. Do not choose coefficients to match an endpoint already seen.
+
+## Earlier stage decisions and evidence
+
+Sections 1–6 below preserve the original evidence inventories, designs and dated decisions. Their work orders and release restrictions applied to those experiments. The table above and the current protocol govern future work. Section 7 supplies the historical reserve-stress method used in current step 2.
+
+<details>
+<summary>November 9–18 roadmap and historical stage decisions</summary>
+
 **Review date:** 9 November 2026. **Reviewed main-branch commit:** `b8f6d0f97ce716336e318d592d80f4f39731c155`.
 
 **Execution update, 10 November 2026:** R0 is complete as a design/access and local-reproduction checkpoint. See the [registration](R0_REGISTRATION.md) and [verification record](../reports/r0_2026_11_10/README.md). Exact program/execution boundaries and G1–G5 remain open; the R0 checkpoint does not certify causal identification or permanent remote access to old raw vintages. The assessment below retains its original review context.
@@ -240,6 +261,8 @@ The completion standard is a coherent chain from transactions to a defensible co
 **R3 interest-rate update, 17 November 2026.** A [standalone forward-looking MPC rule](../reports/r3_rate_rule/README.md) was tested on 16 held-out decisions. Its inflation response changes sign across samples. The revised equation does not qualify for use in the episode counterfactual.
 
 **R3 purchase impact and persistence, 18 November 2026.** The [Georgian evidence test](../reports/r3_fx_response/README.md) extends the cash-auction record to 2009, matches official FX movements, measures monthly associations and quantifies the selection assumption required for the imported elasticity. Neither a causal impact nor an episode half-life passes G2. The [step 2 audit](../reports/r3_fx_response/AUDIT.md) reproduces the estimators, tests quote timing and matching overlap, and reconciles the auction month offsets under next-weekday settlement.
+
+</details>
 
 ## 7. Reserve adequacy from Georgian funding shocks
 
