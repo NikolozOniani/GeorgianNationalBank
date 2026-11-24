@@ -20,7 +20,7 @@
     "2026-12-31"
   ],
   "episode_status": "Administrative evaluation window registered in R0; exact first execution/program boundaries remain an R1 gate. September 2026 is the last acquired intervention month, not a proven program end. Different accounting series have earlier cutoffs.",
-  "stage": "24 November 2026. The three fixed-rate conditional R3 paths and sensitivities are complete. Endogenous monetary feedback and the episode reserve-stress steps 5–6 remain open. Prior empirical and historical decisions are preserved.",
+  "stage": "24 November 2026. The three fixed- and endogenous-rate R3 scenarios now include monthly exchange rates, annual headline inflation and policy rates. The separate monetary-shock diagnostic is weaker than its Georgian benchmark. Episode reserve-stress steps 5–6 remain open. Prior empirical and historical decisions are preserved.",
   "r1_status": "research/R1_STATUS.md",
   "r1_results": "reports/r1_2026_11_10/README.md",
   "r2_results": "reports/r2_2026_11_11/README.md",

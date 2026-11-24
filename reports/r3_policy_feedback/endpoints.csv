@@ -1,0 +1,7 @@
+specification,case,policy,month,no_purchases_gel_per_usd,higher_usd_per_lari_pct,no_purchases_yoy_inflation_pct,inflation_gap_pp,no_purchases_policy_rate_pct,policy_rate_gap_pp,parity_fx_gap_log_points,mean_monthly_higher_usd_per_lari_pct
+reference,conservative,fixed,2026-09,2.536742127,2.694711162,5.568248589,0.0,8.25,0.0,0.0,1.405062335
+reference,conservative,endogenous,2026-09,2.536742127,2.694711162,5.568248589,0.0,8.25,0.0,0.0,1.405062335
+reference,central,fixed,2026-09,2.348066847,10.94658586,5.37299634,-0.195252249,8.25,0.0,0.0,4.849652658
+reference,central,endogenous,2026-09,2.355775677,10.583534156,5.402104307,-0.166144282,7.975111539,-0.274888461,0.327767646,4.704412155
+reference,aggressive,fixed,2026-09,2.016856573,29.166349027,4.816961805,-0.751286785,8.25,0.0,0.0,11.929061038
+reference,aggressive,endogenous,2026-09,2.051744814,26.969980983,4.97760947,-0.590639119,6.876438771,-1.373561229,1.715041267,11.114101523

@@ -1,0 +1,4 @@
+case,fx_impact,half_life_months,cpi_24m_decline_target_pp,cpi_24m_achieved_pp,cpi_fx_loading,domestic_rate_loading,policy_slope,quarterly_smoothing,fx_price_stage_months,domestic_stage_months,parity_months,tightening_24m_pp,tightening_trough_pp,tightening_trough_month
+conservative,0.47825,3,0.0,-0.0,0.0,0.973961779,1.1,0.75,21,18,12,-0.293218773,-0.309862287,21
+central,0.9565,10,0.25,-0.25,0.155284034,0.973961779,1.5,0.75,21,18,12,-0.266905562,-0.293935802,21
+aggressive,1.913,20,0.5,-0.5,0.263709902,0.973961779,2.0,0.75,21,18,12,-0.234143107,-0.272898665,20
