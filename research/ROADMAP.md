@@ -12,6 +12,8 @@
 
 The [joint assessment](../reports/r7_synthesis/README.md) completes the conditional R7 comparison. It connects the monthly R3 results to acquisition-lot carry and R5 exposures, transfers historical stresses to the episode's 22 opening balance sheets, prices marginal USD 100m tranches and reports independent funding, FX and insurance reversals. The [claim ledger](../reports/r7_synthesis/CLAIMS.md) records why a realized welfare sign and an optimal national reserve stock remain open. The current evidence supports R8 writing at those stated strengths. Manuscript preparation is a separate stage.
 
+The [marginal R7 extension](../reports/r7_frontier/README.md) evaluates intermediate policies, including the USD 4–5bn September gross-reserve range. It gives exact stress thresholds, marginal financing and currency effects, rolling cash protection and the additional insurance needed beyond USD 5bn.
+
 ## Work order adopted 24 November 2026
 
 The primary output is a calibrated evaluation of the same episode and no-purchases counterfactual. The [protocol, sections 2 and 6](PROTOCOL.md) defines the conservative, central and aggressive cases and the acceptance criteria. The prior rejection of the R3 candidate stands. The earlier general pause on R7 is lifted for the conditional analysis. R7 depends on the relevant scenario outputs below. R8 follows the synthesis. Causal identification, access to private records and exact reproduction of the IMF optimum are separate claims with their own evidence requirements.
