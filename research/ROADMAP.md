@@ -8,7 +8,11 @@
 
 **Scope:** One intervention episode, one economic counterfactual, and its consequences.
 
-## Current work order · 24 November 2026
+## R7 result · 25 November 2026
+
+The [joint assessment](../reports/r7_synthesis/README.md) completes the conditional R7 comparison. It connects the monthly R3 results to acquisition-lot carry and R5 exposures, transfers historical stresses to the episode's 22 opening balance sheets, prices marginal USD 100m tranches and reports independent funding, FX and insurance reversals. The [claim ledger](../reports/r7_synthesis/CLAIMS.md) records why a realized welfare sign and an optimal national reserve stock remain open. The current evidence supports R8 writing at those stated strengths. Manuscript preparation is a separate stage.
+
+## Work order adopted 24 November 2026
 
 The primary output is a calibrated evaluation of the same episode and no-purchases counterfactual. The [protocol, sections 2 and 6](PROTOCOL.md) defines the conservative, central and aggressive cases and the acceptance criteria. The prior rejection of the R3 candidate stands. The earlier general pause on R7 is lifted for the conditional analysis. R7 depends on the relevant scenario outputs below. R8 follows the synthesis. Causal identification, access to private records and exact reproduction of the IMF optimum are separate claims with their own evidence requirements.
 
@@ -20,7 +24,7 @@ The primary output is a calibrated evaluation of the same episode and no-purchas
 | 4. Integrate at R7 | Join the feasible results above by scenario and horizon. Complete supported channels even if a separate valuation is missing. | One comparison table for the two questions. Show monthly and terminal FX gaps, the cost of the marginal reserve tranche, protection purchased, and assumptions under which the judgment reverses. Cross low/high intervention effects with low/high reserve benefits. Show a break-even threshold where the sign cannot be determined. Reproduce the released numbers from the cited data and parameters. |
 | 5. Prepare R8 | Use the completed R7 exhibits and the existing academic outline. | Answer each clause at its supported strength. Include favorable, adverse and negligible effects where the evidence permits. |
 
-**Fixed-rate R3 result, 24 November 2026.** The [monthly paths, chart and endpoint comparisons](../reports/r3_fixed_rate/README.md) complete the direct FX calculation in step 1 at common observed policy rates. Conditional September 2026 quotes are 2.5367, 2.3481 and 2.0169 GEL/USD. The zero-impact case returns 2.6051 observed. The subsequent [joint inflation and monetary-policy calculation](../reports/r3_policy_feedback/README.md) completes the monthly fixed- and endogenous-rate comparisons. Its central September outcome is 2.3558 GEL/USD with 5.40% annual inflation and a 7.98% policy rate. Monetary transmission is weaker than the IMF's full-system rate-shock benchmark. The reserve-stress work in order 2 remains open.
+**Fixed-rate R3 result, 24 November 2026.** The [monthly paths, chart and endpoint comparisons](../reports/r3_fixed_rate/README.md) complete the direct FX calculation in step 1 at common observed policy rates. Conditional September 2026 quotes are 2.5367, 2.3481 and 2.0169 GEL/USD. The zero-impact case returns 2.6051 observed. The subsequent [joint inflation and monetary-policy calculation](../reports/r3_policy_feedback/README.md) completes the monthly fixed- and endogenous-rate comparisons. Its central September outcome is 2.3558 GEL/USD with 5.40% annual inflation and a 7.98% policy rate. Monetary transmission is weaker than the IMF's full-system rate-shock benchmark. The subsequent R7 assessment above applies the reserve stresses to the episode.
 
 **Completion discipline.** A new series, identification design or replication exercise belongs on the critical path only if it would change a stated output or resolve an ambiguity that materially changes the conclusion. Use existing diagnostics once. Keep the rejected model and holdout results as comparisons. Resolve missing quantities with explicit assumptions, thresholds or a narrower conclusion. Do not choose coefficients to match an endpoint already seen.
 

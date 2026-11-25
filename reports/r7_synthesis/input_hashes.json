@@ -1,0 +1,23 @@
+{
+  "data/derived/episode_2026_11_09/trade_monthly.csv": "5195be93dffb6d222777d8e8ee71bc1ef5f773341209fd978d697b5558febe3d",
+  "data/derived/r3_policy_feedback/episode_headline_relatives.csv": "467508ae7e3988c3a0fc155d1c82bcd7ddcc2350d5f6715d4d5e8d378d50277c",
+  "data/derived/r3_reopen_2026_11_16/gdp_observations.csv": "149ad5e9bf407e73e63bfb2011128af95339d2111f993c88e3bccf6ce83cd29c",
+  "reports/minimum_reserve_buffer/scenario_events.csv": "4384069b0772f6a4bff5c2450a44f249e71e478010a1e634309bd2b3bf78dd9a",
+  "reports/r1_2026_11_10/gross_flow_accounting_bounds.csv": "1196eaa02eb7074eeaa23c778ac5f192b987e8ae8cc52ddb6ae51e07878a232c",
+  "reports/r2_2026_11_11/ara_components.csv": "3038c15f6a83c67abf39cabd727f836b581a71961174718daff6d94bb6344c20",
+  "reports/r3_policy_feedback/monthly.csv": "b14f099b09d94fb5087845ec605145cad85214dc660846a7a122a043fd1798b4",
+  "reports/r3_policy_feedback/sensitivities.csv": "2f3509636cca0be5ab23b949c50002bd7abdf8fdac262f74a35cd4c21e583008",
+  "reports/r3_reopen_2026_11_16/external_kernels.csv": "ad7a1aae9fb50dc8e47f1e5198a1ecf73ed533cf5cf7a2e944c84bcb4846c7d9",
+  "reports/r3_reopen_2026_11_16/model_panel.csv": "f596f11ccf7a74d759c2dfdf1523053ffc6ea1c2092f740709a5b4ff6872b51d",
+  "reports/r4_2026_11_12/conditional_carry.csv": "2fb1d5f68c28db88fbd28e26a5b67b4c29228caed233b656f59ba703b201fc93",
+  "reports/r4_2026_11_12/monthly_exposures.csv": "0b4ff092fe6054adad65d9851bddb9f97cd75a17163da719164e3b26a83ecebc",
+  "reports/r5_2026_11_13/category_exposures.csv": "1a01509bf4cad298fd9c1b5dde7d87c62c648338247ff4c772f82e91796a5c3b",
+  "reports/r5_2026_11_13/groups.csv": "04e5628f0bc364a59aea7990fd401583a6adb50d5ffc2a457633edc4e91c4674",
+  "reports/r6_2026_11_15/audit_checks_2026_11_16.json": "a8531c645261b31ff36a93f13db6edc69594a30f859698fa153a2165cafe2bde",
+  "reports/r6_2026_11_15/historical_sales_scale.csv": "72e55c571d200ab9045e936fb94cccafa63be13756c8112a8a479f6d3063fe8f",
+  "reports/reserve_buffer_policy/opening_assets.csv": "4dc5664a229c57eebd25d1c92c0d2f64a49422f767f3bf4452a1bdb21370529b",
+  "reports/reserve_buffer_policy/policy_matrix.csv": "9ab27e433220c70c08f2600a4b93a4de9d139672e6844fbbbd1de0881741f54a",
+  "reports/reserve_buffer_policy/scheduled_calls.csv": "ba116a11d637e0000f882df70a7acb99dc3e3ede2790a37320b019e51b7772ec",
+  "research/r6_assumptions.json": "c0480a0117e83e7400323c8162a92a5e36a60f448bc834da3707db0c4b51eff4",
+  "research/r6_bond_terms.json": "ea257f14cb45aa9cdf7e64e5a7d3968e794773df2837f1bd9325b622584cad90"
+}

@@ -24,6 +24,10 @@ This study evaluates the NBG's January 2025–September 2026 purchases under thr
 | [Manuscript structure](manuscript/STRUCTURE.md) | One eventual paper, with an economic argument and evidence requirements; no new draft |
 | [Replication instructions](replication/README.md) | Separate technical documentation and integrity checks |
 
+## R7 joint findings
+
+The [quantitative synthesis](reports/r7_synthesis/README.md) brings together the currency, household, financing and reserve-insurance accounts. Without purchases, the central September 2026 lari buys 10.58% more USD. The additional reserves close a conditional twelve-month public-payment gap of USD 188.60m, rising to USD 2,631.83m under the import-scaled pandemic sales policy. At an assumed 1% annual net external opportunity cost and a five-year first-crisis loss of USD 3.81bn, the central break-even annual risk reduction is 2.55 percentage points from a 10% baseline. Actual risk reduction and the national welfare sign remain open. [Joint table](reports/r7_synthesis/joint_results.csv) · [Assumptions and replication](reports/r7_synthesis/METHODS.md)
+
 ## Evidence status
 
 **Research direction, 24 November 2026.** The [scenario calibrations and acceptance criteria](research/PROTOCOL.md) cover FX impact and persistence, monetary policy, inflation and reserve services. The [earlier R3 experiment](reports/r3_reopen_2026_11_16/README.md) remains rejected under its original rule. The separate [historical reserve tests](reports/buffer_validation/README.md) support conditional stress comparisons. The [fixed-rate counterfactual results](reports/r3_fixed_rate/README.md) now cover all 21 months. The central calibration gives 2.3481 GEL/USD in September 2026 versus 2.6051 observed, or 2.3987 with diminishing impact. With [endogenous policy and inflation](reports/r3_policy_feedback/README.md), the central September path reaches 2.3558 GEL/USD, 5.40% annual headline inflation and a 7.98% policy rate. A separate 100 bp rate shock produces a smaller inflation response than the Georgian IMF benchmark.
