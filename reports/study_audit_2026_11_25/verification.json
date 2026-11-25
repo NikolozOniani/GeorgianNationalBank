@@ -1,0 +1,344 @@
+{
+  "audited_commit": "3033989257582a7a2a226a2e3e8569f964eb1017",
+  "tracked_files": 499,
+  "tracked_by_top_level": {
+    ".gitattributes": 1,
+    ".gitignore": 1,
+    "AGENTS.md": 1,
+    "CITATION.cff": 1,
+    "README.md": 1,
+    "archive": 124,
+    "data": 55,
+    "docs": 2,
+    "evidence": 1,
+    "manuscript": 1,
+    "replication": 17,
+    "reports": 214,
+    "research": 22,
+    "src": 35,
+    "study.json": 1,
+    "tests": 22
+  },
+  "report_families": [
+    "acquisition_2026_11_09",
+    "buffer_validation",
+    "historical_fx_shocks",
+    "minimum_reserve_buffer",
+    "r0_2026_11_10",
+    "r1_2026_11_10",
+    "r2_2026_11_11",
+    "r3_2026_11_12",
+    "r3_fixed_rate",
+    "r3_fx_response",
+    "r3_policy_feedback",
+    "r3_rate_rule",
+    "r3_reopen_2026_11_16",
+    "r4_2026_11_12",
+    "r5_2026_11_13",
+    "r6_2026_11_15",
+    "r7_frontier",
+    "r7_synthesis",
+    "reserve_buffer_policy"
+  ],
+  "rectangular_csvs": 224,
+  "csv_data_rows_including_generated_rows": 102989,
+  "json_files_parsed": 91,
+  "current_tests": {
+    "returncode": 0,
+    "passed": 119,
+    "skipped": 0
+  },
+  "archive_tests": {
+    "returncode": 0,
+    "passed": 32,
+    "skipped": 0
+  },
+  "archive_preservation": {
+    "root_configuration": 2,
+    "archived_unchanged": 120,
+    "git_history_only": 24
+  },
+  "legacy_replication": {
+    "generators": [
+      {
+        "script": "reserve_foundations.py",
+        "returncode": 0
+      },
+      {
+        "script": "paper_analysis.py",
+        "returncode": 0
+      },
+      {
+        "script": "credit_analysis.py",
+        "returncode": 0
+      },
+      {
+        "script": "accountability_scenarios.py",
+        "returncode": 0
+      }
+    ],
+    "numerical_files_checked": 41,
+    "exact_output_replication": false,
+    "numerical_content_identical": true,
+    "newline_only_differences": [
+      "reports/accountability/cpi_illustration.csv",
+      "reports/accountability/evidence_ledger.csv"
+    ],
+    "source_downloads": 0
+  },
+  "clean_checkout_checks": [
+    {
+      "cmd": "replication/check_repository.py --replicate --report <temporary-suite-record>.json",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r3_rate_rule.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r3_fx_response.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r3_reopen.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r2_reserves.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r4_carry.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r6_benefits.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/historical_payment_calendar.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/minimum_reserve_buffer.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/reserve_buffer_policy.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/validate_historical_buffer.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r3_fixed_rate.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r3_policy_feedback.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r7_synthesis.py --check",
+      "rc": 0
+    },
+    {
+      "cmd": "src/r7_frontier.py --check",
+      "rc": 0
+    }
+  ],
+  "cached_source_or_independent_checks": [
+    {
+      "cmd": [
+        "src/extract_episode.py",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/r1_accounts.py",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/r2_reserves.py",
+        "--from-raw",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/r4_carry.py",
+        "--verify-pdf",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/r3_reopen.py",
+        "--verify-sources",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/r3_fx_inputs.py",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/r3_rate_sources.py",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/r3_policy_feedback.py",
+        "--cpi-workbook",
+        "<pinned-cpi-workbook>",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/r5_exposure.py",
+        "--release-dir",
+        "<cached-household-release>",
+        "--group-cpi",
+        "<pinned-cpi-workbook>",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "replication/audit_r5.py",
+        "--release-dir",
+        "<cached-household-release>",
+        "--group-cpi",
+        "<pinned-cpi-workbook>"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/r6_benefits.py",
+        "--verify-sources",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "replication/audit_r6_2026_11_16.py"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/historical_fx_shocks.py",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/historical_fx_cases.py",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/historical_payment_calendar.py",
+        "--from-raw",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/minimum_reserve_buffer.py",
+        "--from-raw",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/reserve_buffer_policy.py",
+        "--from-raw",
+        "--check"
+      ],
+      "rc": 0
+    },
+    {
+      "cmd": [
+        "src/validate_historical_buffer.py",
+        "--from-raw",
+        "--check"
+      ],
+      "rc": 0
+    }
+  ],
+  "source_manifest_cache_checks": {
+    "source_manifest": {
+      "records": 57,
+      "matched_cached_hashes": 57,
+      "no_downloaded_hash": []
+    },
+    "r1_source_manifest": {
+      "records": 3,
+      "matched_cached_hashes": 3,
+      "no_downloaded_hash": []
+    },
+    "r2_source_manifest": {
+      "records": 11,
+      "matched_cached_hashes": 9,
+      "no_downloaded_hash": [
+        "ara_guidance",
+        "jr2006"
+      ]
+    },
+    "r3_reopen_source_manifest": {
+      "records": 6,
+      "matched_cached_hashes": 3,
+      "no_downloaded_hash": [
+        "adler2015",
+        "nbg_qipf2025",
+        "nbg_qipf2025_query"
+      ]
+    },
+    "r3_rate_sources": {
+      "records": 28,
+      "matched_cached_hashes": 28,
+      "no_downloaded_hash": []
+    },
+    "r6_source_manifest": {
+      "records": 2,
+      "matched_cached_hashes": 2,
+      "no_downloaded_hash": []
+    }
+  },
+  "dependency_isolation": {
+    "advertised_environment": "replication/requirements-r3-reopen.txt",
+    "test": "Hide lxml or openpyxl individually using a Python import hook in an otherwise working clean checkout.",
+    "failed_for_each_separately": [
+      "src/r7_synthesis.py --check",
+      "src/r7_frontier.py --check"
+    ],
+    "normal_environment": "Both commands passed without the import hook."
+  },
+  "scope": "Offline computations used the audited commit and, where specified, cached original bytes. Selected primary publications were separately checked. This record is not a new vintage of empirical data or external peer verification."
+}

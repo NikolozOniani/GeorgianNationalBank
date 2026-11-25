@@ -30,6 +30,8 @@ The [quantitative synthesis](reports/r7_synthesis/README.md) brings together the
 
 The [marginal reserve frontier](reports/r7_frontier/README.md) prices 35 proportional purchase policies. At September 2026, USD 4.841bn gross covers the twelve-month public schedule and import-scaled sales replay. The USD 5bn policy implies 2.4694 GEL/USD centrally. Higher accumulation provided additional coverage at earlier month-ends and under more restrictive asset access.
 
+The [research audit and publication-readiness grades](reports/study_audit_2026_11_25/README.md) assess the complete R0–R7 evidence and test how purchase timing and compound stress affect the USD 5bn result.
+
 ## Evidence status
 
 **Research direction, 24 November 2026.** The [scenario calibrations and acceptance criteria](research/PROTOCOL.md) cover FX impact and persistence, monetary policy, inflation and reserve services. The [earlier R3 experiment](reports/r3_reopen_2026_11_16/README.md) remains rejected under its original rule. The separate [historical reserve tests](reports/buffer_validation/README.md) support conditional stress comparisons. The [fixed-rate counterfactual results](reports/r3_fixed_rate/README.md) now cover all 21 months. The central calibration gives 2.3481 GEL/USD in September 2026 versus 2.6051 observed, or 2.3987 with diminishing impact. With [endogenous policy and inflation](reports/r3_policy_feedback/README.md), the central September path reaches 2.3558 GEL/USD, 5.40% annual headline inflation and a 7.98% policy rate. A separate 100 bp rate shock produces a smaller inflation response than the Georgian IMF benchmark.
