@@ -16,6 +16,8 @@ Preserve archived numerical files, source hashes and analytical code. New observ
 
 Use `research/ROADMAP.md` as the authoritative research-completion sequence and `research/data_requirements.json` for its supporting acquisition specifications. The roadmap records the household-incidence dependencies of the same episode counterfactual. An accessible catalogue is not proof that the required detail or period has been retrieved. Record access failures and unresolved definitions accurately.
 
+Use the [manuscript style and citation standard](manuscript/STYLE.md) for paper prose, references, exhibits and review-copy formatting.
+
 Do not infer causal effects from contemporaneous exchange-rate/intervention correlations. Preserve results that contradict the motivating hypothesis. Economic accounting, causal estimates, and conditional model calculations must remain distinguishable.
 
 The R4 funding and income accounts are in reports/r4_2026_11_12/README.md. G3 is incomplete for episode attribution. The R3 public-evidence design decision is in reports/r3_2026_11_12/README.md. G2 remains unsatisfied. Use public evidence only. Preserve the registered episode and R1 accounting checkpoint. See reports/r2_2026_11_11/README.md for reconstructed ratios, conditional liquidity and remaining replication gaps. `manuscript/STRUCTURE.md` specifies the eventual academic argument. Keep programming instructions, repository commentary and project-management language out of the eventual main paper; place those in `replication/` or `docs/`.

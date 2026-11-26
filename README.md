@@ -21,7 +21,8 @@ This study evaluates the NBG's January 2025–September 2026 purchases under thr
 | [Primary-source register](research/SOURCES.md) | Exact source locations and the level of access actually checked |
 | [NBG request specification](research/NBG_REQUEST_SPECIFICATION.md) | Precisely defined missing records and confidentiality-preserving alternatives; not sent |
 | [Existing evidence catalogue](evidence/README.md) | Reusable historical measurements and their limitations |
-| [Manuscript structure](manuscript/STRUCTURE.md) | One eventual paper, with an economic argument and evidence requirements; no new draft |
+| [Manuscript structure](manuscript/STRUCTURE.md) | Economic argument and evidence required for each section |
+| [Manuscript style and citation standard](manuscript/STYLE.md) | Editorial rules for the review copy, with primary-source examples and a pre-typesetting check |
 | [Replication instructions](replication/README.md) | Separate technical documentation and integrity checks |
 
 ## R7 joint findings
@@ -46,7 +47,7 @@ The [completion roadmap](research/ROADMAP.md) is the authoritative sequence from
 
 - `research/`: the single protocol, data-acquisition specifications and primary-source register.
 - `evidence/`: an index of reusable observations and calculations; original files remain in one preserved location.
-- `manuscript/`: the eventual paper's structure only. Economic methods belong in the paper; software and project administration belong in `replication/` and `docs/`.
+- `manuscript/` holds the paper’s structure and editorial standard. Economic methods belong in the paper. Software instructions and project administration belong in `replication/` and `docs/`.
 - `replication/` and `tests/`: current checks and instructions.
 - `archive/legacy/`: preserved historical data, provenance, analytical code and supporting reports. Earlier directions have no authority over this study.
 - `docs/`: the reorganization record.

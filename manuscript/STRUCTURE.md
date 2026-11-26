@@ -8,6 +8,8 @@
 
 This is a structure for the eventual paper, not a manuscript draft. Its argument follows the [single research protocol](../research/PROTOCOL.md).
 
+Apply the [manuscript style and citation standard](STYLE.md) when drafting, editing or checking exhibits.
+
 | Section | Economic purpose | Essential evidence |
 |---|---|---|
 | 1. Introduction | State the question, contribution and conclusions at their supported strength | The completed episode and counterfactual results |
