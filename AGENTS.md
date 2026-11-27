@@ -18,6 +18,8 @@ Use `research/ROADMAP.md` as the authoritative research-completion sequence and 
 
 Use the [manuscript style and citation standard](manuscript/STYLE.md) for paper prose, references, exhibits and review-copy formatting.
 
+**Manuscript length.** Prefer the shortest account that lets a reader assess each claim, its evidence and its limits. Treat word budgets as approximate upper bounds and cut text added solely to reach a count. Page counts are suggestions. A complete 15-page paper is sufficient, and a book-length treatment is appropriate when the argument requires it. Apply journal length rules only to a version prepared for submission.
+
 Do not infer causal effects from contemporaneous exchange-rate/intervention correlations. Preserve results that contradict the motivating hypothesis. Economic accounting, causal estimates, and conditional model calculations must remain distinguishable.
 
 The R4 funding and income accounts are in reports/r4_2026_11_12/README.md. G3 is incomplete for episode attribution. The R3 public-evidence design decision is in reports/r3_2026_11_12/README.md. G2 remains unsatisfied. Use public evidence only. Preserve the registered episode and R1 accounting checkpoint. See reports/r2_2026_11_11/README.md for reconstructed ratios, conditional liquidity and remaining replication gaps. `manuscript/STRUCTURE.md` specifies the eventual academic argument. Keep programming instructions, repository commentary and project-management language out of the eventual main paper; place those in `replication/` or `docs/`.
